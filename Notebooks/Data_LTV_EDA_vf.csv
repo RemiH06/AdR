@@ -1,0 +1,2016 @@
+id_cliente,canal_adquisicion,cac_mxn,cohorte_mes,ciudad,dispositivo_registro,edad,newsletter,descuento_primera,monto_primera_compra,categoria_primera,piezas_primera,pedidos_90d,dias_a_segunda_compra_90d,tasa_devolucion_90d,activo_app_90d,gasto_12m
+501500,Organico,93.0,4,CDMX,Tablet,30.0,1,0,1100.0,Deportivo,2,2,19.0,0.22,0,1215.0
+500974,Google Ads,364.0,10,CDMX,Movil,27.0,0,5,599.0,Accesorios,2,1,15.0,0.594,0,743.0
+500776,Referido,185.0,2,CDMX,Movil,37.0,1,0,462.0,Calzado,3,9,2.0,0.604,1,1343.0
+501406,Afiliados,209.0,6,Monterrey,Escritorio,35.0,0,0,337.0,Ropa,3,0,,0.0,0,337.0
+501904,Google Ads,323.0,8,Puebla,Escritorio,39.0,0,15,179.0,Ropa,1,1,14.0,0.011,0,515.0
+501870,Organico,100.0,7,CDMX,Tablet,35.0,0,0,430.0,Calzado,6,1,21.0,0.432,0,956.0
+501990,Instagram,297.0,9,Puebla,Movil,46.0,0,0,539.0,Calzado,1,2,4.0,0.008,0,728.0
+500052,Instagram,397.0,1,Merida,Movil,42.0,0,25,262.0,Calzado,2,0,,0.0,0,458.0
+501921,Organico,,5,CDMX,Movil,21.0,1,0,596.0,Accesorios,1,2,31.0,0.078,0,1183.0
+500007,Organico,133.0,6,Guadalajara,Movil,23.0,0,0,950.0,Ropa,3,0,,0.0,1,1124.0
+501620,Organico,,8,CDMX,Movil,34.0,0,0,345.0,Calzado,3,0,,0.0,0,1173.0
+501445,Instagram,,2,Guadalajara,Escritorio,39.0,0,20,219.0,Calzado,1,0,,0.0,0,636.0
+500118,Referido,,12,Guadalajara,Movil,32.0,1,25,1293.0,Calzado,2,2,20.0,0.17,0,1293.0
+500408,Instagram,451.0,4,CDMX,Movil,,1,15,216.0,Accesorios,1,0,,0.0,0,
+501362,Google Ads,427.0,6,Guadalajara,Movil,50.0,0,20,177.0,Ropa,1,1,55.0,0.146,0,588.0
+500938, Referido,298.0,4,Guadalajara,Movil,26.0,0,25,277.0,Accesorios,5,1,21.0,0.212,0,277.0
+501284,Instagram,354.0,6,Guadalajara,Movil,27.0,0,0,435.0,Ropa,1,0,,0.0,0,897.0
+500686,Instagram,330.0,2,Guadalajara,Movil,47.0,0,0,423.0,Calzado,1,0,,0.0,1,924.0
+501073,Organico,102.0,12,Puebla,Movil,35.0,1,0,782.0,Deportivo,2,1,59.0,0.354,1,1260.0
+501687,Organico,125.0,8,Merida,Escritorio,42.0,1,0,371.0,Calzado,2,1,33.0,0.146,0,468.0
+500170,Google Ads,671.0,12,Guadalajara,Escritorio,34.0,1,0,582.0,Ropa,1,1,24.0,0.199,1,1121.0
+501008,Referido,153.0,6,Puebla,Movil,32.0,0,25,630.0,Deportivo,3,1,4.0,0.12,1,1064.0
+500406,Referido,161.0,5,CDMX,Movil,35.0,1,10,513.0,Calzado,2,2,9.0,0.4,1,1243.0
+501371,Google Ads,395.0,10,CDMX,Escritorio,35.0,0,0,411.0,Accesorios,1,1,41.0,0.022,0,465.0
+500473,Google Ads,669.0,11,Monterrey,Movil,35.0,0,0,406.0,Calzado,4,0,,0.0,1,1145.0
+501397,Afiliados,176.0,1,CDMX,Movil,27.0,1,0,321.0,Calzado,1,0,,0.0,0,0.0
+500409,Afiliados,174.0,2,CDMX,Movil,,0,5,618.0,Accesorios,3,1,35.0,0.078,1,618.0
+500328,Afiliados,239.0,10,Puebla,Escritorio,,0,0,310.0,Ropa,2,0,,0.0,1,694.0
+501691,Instagram,357.0,8,CDMX,Escritorio,32.0,0,0,943.0,Deportivo,4,1,27.0,0.306,1,1102.0
+501045,Organico,174.0,2,Puebla,Movil,46.0,1,0,805.0,Calzado,1,4,13.0,0.279,0,
+500340,Organico,88.0,10,Guadalajara,Movil,43.0,1,20,758.0,Accesorios,1,1,5.0,0.327,0,1218.0
+500927,Referido,122.0,3,Merida,Escritorio,37.0,0,15,497.0,Calzado,6,1,29.0,0.181,1,966.0
+500602,Organico,128.0,7,Monterrey,Escritorio,34.0,1,20,579.0,Calzado,1,3,16.0,0.216,1,1327.0
+501247,Afiliados,257.0,4,CDMX,Movil,41.0,1,0,541.0,Calzado,2,2,23.0,0.154,0,979.0
+501441,Instagram,391.0,9,Guadalajara,Movil,36.0,1,0,313.0,Calzado,2,0,,0.0,1,991.0
+500363,Organico,200.0,6,Guadalajara,Movil,27.0,0,0,619.0,Calzado,2,1,24.0,0.515,0,1028.0
+500233,Instagram,539.0,5,Guadalajara,Escritorio,42.0,1,20,392.0,Accesorios,3,1,23.0,0.296,0,392.0
+501511,Organico,156.0,11,Puebla,Movil,43.0,1,10,287.0,Ropa,1,2,21.0,0.255,1,725.0
+500193,Afiliados,234.0,4,Monterrey,Movil,,0,20,217.0,Ropa,2,2,53.0,0.088,0,452.0
+500024,Afiliados,268.0,5,Sin dato,Movil,33.0,0,30,390.0,Ropa,3,0,,0.0,0,394.0
+500493,Afiliados,221.0,1,Puebla,Escritorio,,1,30,204.0,Ropa,1,0,,0.0,0,651.0
+500369,Google Ads,,1,Puebla,Movil,27.0,1,0,597.0,Calzado,1,2,16.0,0.209,0,1078.0
+500370,Organico,171.0,3,Monterrey,Movil,20.0,1,20,674.0,Calzado,4,2,17.0,0.075,0,898.0
+501638,Afiliados,150.0,12,CDMX,Movil,,0,20,305.0,Accesorios,1,0,,0.0,0,577.0
+500871,Referido,159.0,1,Merida,Movil,46.0,1,15,493.0,Ropa,1,5,22.0,0.045,0,860.0
+500625,Afiliados,175.0,6,CDMX,Movil,28.0,0,25,390.0,Ropa,1,0,,0.0,0,465.0
+501002,Organico,,6,CDMX,Movil,36.0,0,25,576.0,Ropa,1,2,30.0,0.046,1,633.0
+500048,Google Ads,358.0,9,Merida,Movil,18.0,1,15,242.0,Accesorios,1,0,,0.0,0,242.0
+501509,Google Ads,474.0,5,Sin dato,Escritorio,44.0,0,5,572.0,Ropa,2,4,22.0,0.506,1,1474.0
+501252,Afiliados,254.0,9,Puebla,Tablet,33.0,0,25,218.0,Ropa,3,0,,0.0,1,552.0
+501523,Referido,139.0,10,CDMX,Movil,39.0,0,0,581.0,Ropa,2,6,29.0,0.231,1,1263.0
+500414,Instagram,364.0,4,Puebla,Movil,51.0,1,30,574.0,Accesorios,3,0,,0.0,0,1105.0
+500114,Instagram,,11,Guadalajara,Escritorio,31.0,1,20,733.0,Calzado,4,0,,0.0,0,763.0
+500865,Instagram,310.0,7,Monterrey,Movil,45.0,1,25,338.0,Ropa,1,0,,0.0,1,529.0
+500740,Google Ads,486.0,7,Guadalajara,Movil,31.0,1,30,332.0,Ropa,4,3,4.0,0.139,0,1070.0
+501871,Referido,168.0,9,Guadalajara,Movil,57.0,1,0,509.0,Ropa,1,0,,0.0,0,651.0
+501392,Instagram,265.0,3,Merida,Movil,43.0,0,20,379.0,Calzado,1,0,,0.0,0,643.0
+500944,Instagram,349.0,12,Monterrey,Movil,43.0,0,25,334.0,Ropa,1,1,23.0,0.283,0,467.0
+501037,Google Ads,525.0,11,CDMX,Tablet,32.0,0,0,298.0,Ropa,1,1,62.0,0.031,1,892.0
+500820,Google Ads,351.0,10,CDMX,Movil,45.0,1,30,533.0,Ropa,1,2,12.0,0.523,0,786.0
+501373,Google Ads,509.0,12,Monterrey,Movil,39.0,0,25,477.0,Deportivo,1,5,56.0,0.172,1,1198.0
+501825,Organico,113.0,8,CDMX,Movil,40.0,1,0,399.0,Ropa,3,2,39.0,0.562,1,764.0
+500492,Organico,183.0,3,CDMX,Escritorio,28.0,1,30,1106.0,Accesorios,1,2,24.0,0.135,1,1645.0
+500943,Instagram,539.0,5,Puebla,Escritorio,22.0,0,0,344.0,Deportivo,2,2,13.0,0.001,0,921.0
+500784,Afiliados,250.0,10,Guadalajara,Movil,,0,0,390.0,Ropa,1,0,,0.0,0,390.0
+500567,Afiliados,231.0,11,Guadalajara,Tablet,18.0,1,15,577.0,Ropa,1,0,,0.0,0,577.0
+500643,Google Ads,549.0,12,CDMX,Movil,53.0,1,10,220.0,Accesorios,1,0,,0.0,0,663.0
+500765,Referido,213.0,9,Guadalajara,Escritorio,,0,0,291.0,Ropa,3,1,27.0,0.19,0,515.0
+501724,Referido,,2,Puebla,Movil,27.0,1,0,1046.0,Ropa,1,3,38.0,0.337,1,1354.0
+500302,Referido,98.0,1,Puebla,Movil,19.0,1,5,838.0,Ropa,1,3,16.0,0.303,1,1576.0
+501169,Organico,125.0,4,Guadalajara,Movil,27.0,1,30,566.0,Accesorios,3,1,36.0,0.115,0,1182.0
+501444,Google Ads,596.0,9,Monterrey,Movil,28.0,0,25,441.0,Ropa,1,0,,0.0,0,522.0
+501813,Referido,132.0,10,Merida,Movil,33.0,1,5,431.0,Deportivo,1,2,69.0,0.432,0,1013.0
+500629,Instagram,,10,CDMX,Movil,35.0,0,0,536.0,Ropa,2,0,,0.0,1,782.0
+500355,Google Ads,437.0,7,Puebla,Movil,33.0,0,0,770.0,Ropa,4,6,71.0,0.083,1,1338.0
+501058,Google Ads,753.0,5,Monterrey,Movil,37.0,1,5,1066.0,Ropa,1,1,61.0,0.055,0,1152.0
+500308,Instagram,391.0,8,CDMX,Escritorio,37.0,1,20,388.0,Calzado,2,3,37.0,0.057,1,822.0
+500694,Afiliados,241.0,1,Puebla,Tablet,32.0,1,25,369.0,Ropa,1,0,,0.0,0,
+500034,Instagram,537.0,1,Monterrey,Tablet,42.0,0,5,154.0,Accesorios,2,1,60.0,0.073,0,521.0
+500978,Google Ads,468.0,8,CDMX,Escritorio,51.0,0,15,336.0,Ropa,5,1,55.0,0.211,1,448.0
+500644,Instagram,256.0,12,CDMX,Movil,30.0,0,20,485.0,Accesorios,1,1,35.0,0.15,0,940.0
+501313,Instagram,317.0,4,CDMX,Movil,40.0,1,20,368.0,Deportivo,3,0,,0.0,0,879.0
+501044,Afiliados,167.0,6,Guadalajara,Movil,45.0,0,15,178.0,Accesorios,1,0,,0.0,0,178.0
+501369,Organico,158.0,2,Merida,Tablet,29.0,1,30,376.0,Ropa,1,0,,0.0,1,691.0
+500423,Organico,135.0,7,CDMX,Escritorio,40.0,0,0,222.0,Ropa,1,3,16.0,0.122,0,733.0
+500655,Google Ads,464.0,1,Merida,Escritorio,50.0,0,15,694.0,Accesorios,3,1,56.0,0.061,1,862.0
+501137,Google Ads,499.0,3,Guadalajara,Movil,38.0,0,15,594.0,Calzado,2,2,59.0,0.082,0,729.0
+500514, Referido,104.0,6,Monterrey,Movil,32.0,1,0,668.0,Deportivo,1,4,2.0,0.293,1,1096.0
+500108,Referido,168.0,10,Puebla,Movil,36.0,0,5,302.0,Calzado,1,2,13.0,0.152,1,850.0
+500991,Instagram,411.0,5,Monterrey,Escritorio,24.0,0,30,286.0,Ropa,4,0,,0.0,1,352.0
+500549,Afiliados,200.0,2,Puebla,Escritorio,,0,30,254.0,Calzado,1,0,,0.0,0,254.0
+500939,instagram,231.0,1,Puebla,Movil,18.0,0,25,384.0,Ropa,2,2,88.0,0.069,1,952.0
+501443,Afiliados,252.0,7,Puebla,Movil,23.0,1,15,159.0,Calzado,1,2,74.0,0.441,1,437.0
+500042,Organico,91.0,7,Monterrey,Movil,31.0,0,20,489.0,Ropa,2,1,8.0,0.306,0,719.0
+500713,Google Ads,334.0,4,Monterrey,Escritorio,40.0,1,0,369.0,Ropa,2,1,15.0,0.452,0,635.0
+501877,Referido,184.0,12,Monterrey,Movil,22.0,0,0,802.0,Deportivo,1,3,23.0,0.039,0,1217.0
+501391,Instagram,311.0,6,Merida,Movil,41.0,0,15,293.0,Calzado,3,1,70.0,0.448,1,772.0
+501867,Organico,116.0,6,Puebla,Movil,48.0,1,0,679.0,Deportivo,5,3,33.0,0.072,1,0.0
+500734,Google Ads,756.0,3,CDMX,Movil,50.0,1,5,593.0,Ropa,1,0,,0.0,0,601.0
+500903,Instagram,497.0,3,Guadalajara,Movil,37.0,1,25,207.0,Calzado,1,2,40.0,0.098,0,278.0
+501236,Afiliados,273.0,8,Guadalajara,Movil,,0,20,391.0,Accesorios,3,0,,0.0,0,391.0
+500189,Organico,192.0,12,Guadalajara,Escritorio,45.0,0,15,381.0,Ropa,1,4,23.0,0.165,0,867.0
+500063,Instagram,284.0,4,Monterrey,Escritorio,42.0,0,15,-142.0,Ropa,1,0,,0.0,1,398.0
+501642,Afiliados,168.0,12,CDMX,Movil,,1,25,178.0,Accesorios,1,1,43.0,0.163,0,251.0
+500952,Organico,142.0,10,Monterrey,Movil,39.0,0,0,444.0,Ropa,2,1,55.0,0.012,1,1042.0
+500809,Organico,157.0,9,Puebla,Movil,40.0,0,0,798.0,Calzado,3,1,24.0,0.066,1,1164.0
+501081,Organico,130.0,1,Monterrey,Movil,30.0,1,0,546.0,Calzado,2,1,13.0,0.142,1,976.0
+501783,Organico,85.0,8,Monterrey,Movil,21.0,0,0,476.0,Deportivo,1,1,14.0,0.041,0,1060.0
+500497,Referido,115.0,3,CDMX,Movil,24.0,1,20,697.0,Calzado,1,6,9.0,0.552,1,1144.0
+501477,Instagram,435.0,2,Guadalajara,Escritorio,32.0,0,0,471.0,Ropa,1,2,32.0,0.099,1,862.0
+501564,Organico,153.0,6,CDMX,Movil,21.0,0,15,230.0,Ropa,1,0,,0.0,0,310.0
+501143,Afiliados,221.0,3,Puebla,Movil,40.0,0,20,455.0,Ropa,1,2,90.0,0.11,0,1161.0
+500950,Google Ads,534.0,2,Monterrey,Movil,31.0,0,20,257.0,Deportivo,1,0,,0.0,1,428.0
+501473,Google Ads,409.0,2,Monterrey,Movil,43.0,0,15,487.0,Calzado,3,1,26.0,0.164,1,586.0
+501429,Instagram,,4,Guadalajara,Escritorio,26.0,0,0,370.0,Calzado,1,0,,0.0,1,370.0
+501175,Referido,139.0,11,Guadalajara,Movil,31.0,1,5,640.0,Ropa,2,4,20.0,0.206,0,1418.0
+501621,Afiliados,306.0,2,CDMX,Escritorio,44.0,0,15,416.0,Accesorios,1,0,,0.0,0,501.0
+500969,Organico,91.0,12,Monterrey,Movil,34.0,1,0,636.0,Ropa,1,1,19.0,0.21,0,800.0
+501349,Organico,153.0,12,Monterrey,Escritorio,33.0,1,25,610.0,Calzado,2,0,,0.0,0,610.0
+500599,Instagram,281.0,1,CDMX,Movil,32.0,0,25,129.0,Calzado,1,0,,0.0,1,757.0
+500986,Organico,,6,CDMX,Tablet,22.0,0,15,628.0,Deportivo,3,0,,0.0,1,984.0
+500172,Afiliados,185.0,6,Guadalajara,Movil,,0,15,308.0,Calzado,1,1,90.0,0.195,0,564.0
+500377,Afiliados,289.0,6,Merida,Escritorio,,0,15,150.0,Ropa,2,0,,0.0,0,150.0
+500236,Organico,143.0,6,CDMX,Escritorio,49.0,1,5,563.0,Ropa,1,0,,0.0,0,683.0
+500610,Google Ads,360.0,8,Merida,Movil,35.0,1,0,1062.0,Deportivo,2,2,44.0,0.049,1,1098.0
+500080,Organico,124.0,12,Merida,Escritorio,36.0,0,0,324.0,Ropa,4,2,16.0,0.098,1,1033.0
+500850,Google Ads,423.0,6,Monterrey,Movil,43.0,1,0,752.0,Calzado,2,2,2.0,0.377,0,1055.0
+501562,Organico,100.0,1,CDMX,Escritorio,,1,5,507.0,Calzado,1,2,25.0,0.366,0,949.0
+500965,Instagram,393.0,3,CDMX,Movil,43.0,0,20,293.0,Accesorios,4,1,15.0,0.069,0,1039.0
+501489,Google Ads,486.0,7,Merida,Escritorio,,0,15,402.0,Ropa,1,0,,0.0,0,466.0
+501232,Google Ads,348.0,4,Merida,Movil,32.0,1,5,1404.0,Deportivo,1,5,5.0,0.348,1,1412.0
+500737,Organico,139.0,7,Guadalajara,Tablet,37.0,0,20,293.0,Accesorios,2,1,18.0,0.033,1,604.0
+501800,Afiliados,201.0,5,Merida,Movil,49.0,0,25,343.0,Calzado,1,3,36.0,0.269,0,524.0
+501442,Referido,112.0,10,Guadalajara,Movil,33.0,1,0,866.0,Ropa,2,5,27.0,0.139,1,1687.0
+500109,Instagram,298.0,10,Guadalajara,Movil,20.0,0,25,423.0,Calzado,1,2,34.0,0.357,1,691.0
+500410,Organico,120.0,11,Puebla,Escritorio,40.0,0,5,572.0,Calzado,2,1,3.0,0.073,0,1292.0
+501900,Referido,153.0,6,CDMX,Movil,43.0,1,25,654.0,Calzado,3,1,17.0,0.505,0,654.0
+501599,Google Ads,337.0,12,Puebla,Movil,39.0,0,25,360.0,Calzado,1,3,20.0,0.558,0,820.0
+501713,Organico,133.0,9,Puebla,Movil,18.0,1,5,828.0,Calzado,4,3,37.0,0.107,0,1020.0
+500393,Instagram,393.0,6,CDMX,Movil,28.0,0,0,492.0,Calzado,1,3,32.0,0.151,1,831.0
+500994,Instagram,439.0,5,Merida,Movil,31.0,1,25,419.0,Ropa,3,0,,0.0,0,628.0
+500371,Referido,157.0,4,Puebla,Movil,31.0,1,20,424.0,Accesorios,2,7,7.0,0.347,0,1233.0
+500742,Organico,174.0,4,Monterrey,Escritorio,28.0,0,20,295.0,Ropa,2,3,20.0,0.203,1,1010.0
+500019,Google Ads,448.0,12,CDMX,Tablet,42.0,1,0,419.0,Deportivo,1,1,28.0,0.153,1,574.0
+501997,Referido,227.0,10,CDMX,Tablet,34.0,0,30,382.0,Calzado,6,3,19.0,0.175,0,795.0
+501487,Instagram,494.0,12,Monterrey,Tablet,36.0,0,5,450.0,Ropa,1,0,,0.0,1,526.0
+500351,Instagram,529.0,9,Merida,Movil,24.0,0,0,210.0,Ropa,2,1,32.0,0.066,0,373.0
+501681,Organico,155.0,1,Monterrey,Escritorio,19.0,1,0,1079.0,Accesorios,2,0,,0.0,0,1214.0
+500721,Organico,147.0,12,Guadalajara,Escritorio,42.0,1,0,401.0,Ropa,2,2,89.0,0.268,0,855.0
+501707,Instagram,526.0,5,Guadalajara,Movil,39.0,0,0,329.0,Ropa,1,3,10.0,0.369,0,714.0
+500319,Organico,110.0,4,Monterrey,Movil,36.0,1,0,1136.0,Ropa,3,2,11.0,0.347,0,1224.0
+500894,instagram,171.0,2,Merida,Movil,47.0,0,15,569.0,Ropa,2,4,4.0,0.203,1,1399.0
+500580,Instagram,322.0,4,CDMX,Escritorio,35.0,1,0,310.0,Accesorios,1,2,64.0,0.095,0,518.0
+500571,Google Ads,697.0,3,CDMX,Tablet,21.0,0,30,392.0,Ropa,4,1,53.0,0.193,0,571.0
+501132,Google Ads,357.0,3,Puebla,Escritorio,49.0,0,30,248.0,Calzado,4,3,23.0,0.115,1,1007.0
+500915,Referido,218.0,8,CDMX,Movil,27.0,0,5,503.0,Ropa,1,3,61.0,0.228,0,870.0
+501598,Organico,62.0,5,Guadalajara,Tablet,23.0,1,0,453.0,Deportivo,2,2,20.0,0.067,0,1110.0
+501658,Instagram,395.0,5,CDMX,Escritorio,36.0,0,20,348.0,Ropa,1,1,11.0,0.02,0,551.0
+500989,Google Ads,263.0,6,Guadalajara,Escritorio,24.0,1,5,728.0,Calzado,1,3,36.0,0.169,0,1185.0
+501161,Google Ads,604.0,6,Merida,Tablet,,1,0,280.0,Accesorios,4,3,32.0,0.17,0,630.0
+500059,Instagram,429.0,1,Puebla,Movil,38.0,0,20,312.0,Ropa,2,1,13.0,0.097,1,1002.0
+500332,Instagram,224.0,4,Guadalajara,Movil,26.0,0,30,217.0,Calzado,2,2,6.0,0.006,0,811.0
+501297,Afiliados,208.0,2,Puebla,Movil,36.0,0,30,172.0,Deportivo,1,2,31.0,0.033,0,602.0
+500596,Organico,124.0,8,Puebla,Movil,29.0,1,0,372.0,Calzado,1,1,27.0,0.028,1,387.0
+501723,Referido,150.0,8,Monterrey,Escritorio,24.0,0,30,407.0,Ropa,1,2,20.0,0.091,0,1201.0
+500112,Instagram,427.0,5,Monterrey,Movil,,0,20,369.0,Ropa,1,1,48.0,0.126,1,381.0
+501119,Referido,162.0,7,CDMX,Movil,30.0,1,5,885.0,Calzado,4,1,22.0,0.148,1,972.0
+500022,Instagram,378.0,9,CDMX,Escritorio,35.0,1,10,346.0,Calzado,3,1,12.0,0.156,1,1007.0
+500045,Instagram,459.0,10,CDMX,Escritorio,47.0,1,15,755.0,Ropa,2,0,,0.0,0,833.0
+500331,Organico,125.0,1,Merida,Movil,52.0,1,0,767.0,Ropa,2,0,,0.0,1,767.0
+500755,Afiliados,191.0,3,Monterrey,Escritorio,0.0,0,25,112.0,Ropa,1,0,,0.0,0,112.0
+500745,Afiliados,179.0,7,Merida,Escritorio,43.0,1,25,232.0,Calzado,2,1,17.0,0.147,0,232.0
+500653, Referido,111.0,6,Guadalajara,Movil,47.0,1,5,853.0,Calzado,2,2,16.0,0.146,1,1380.0
+500648,Referido,113.0,5,Merida,Movil,22.0,0,20,519.0,Deportivo,1,1,29.0,0.502,1,755.0
+500813,Instagram,262.0,4,CDMX,Movil,43.0,1,0,780.0,Deportivo,1,3,43.0,0.038,0,
+501914,Afiliados,170.0,8,Guadalajara,Escritorio,32.0,0,30,212.0,Ropa,1,0,,0.0,0,212.0
+501471,Instagram,343.0,1,Monterrey,Escritorio,20.0,0,20,691.0,Calzado,1,1,33.0,0.211,0,987.0
+501377,Afiliados,137.0,6,Puebla,Movil,,1,25,847.0,Deportivo,1,1,12.0,0.067,1,847.0
+500362,Organico,,2,Guadalajara,Movil,36.0,1,0,745.0,Deportivo,3,2,21.0,0.285,0,1097.0
+501566,Instagram,259.0,10,Puebla,Movil,,0,20,286.0,Accesorios,2,0,,0.0,1,286.0
+500276,Google Ads,453.0,11,Puebla,Movil,41.0,1,25,364.0,Ropa,2,1,13.0,0.059,0,929.0
+501915,Organico,133.0,11,CDMX,Escritorio,29.0,1,25,335.0,Ropa,4,1,14.0,0.122,1,948.0
+501111,Instagram,234.0,3,Monterrey,Movil,18.0,0,15,432.0,Ropa,4,1,30.0,0.06,1,
+501711,Instagram,377.0,5,Puebla,Movil,,0,30,334.0,Accesorios,3,1,51.0,0.06,0,403.0
+500316,Instagram,289.0,11,CDMX,Movil,37.0,0,0,397.0,Ropa,2,0,,0.0,0,423.0
+501229,Afiliados,233.0,4,Puebla,Escritorio,31.0,0,15,243.0,Calzado,3,2,42.0,0.07,1,826.0
+500854,Google Ads,395.0,9,Puebla,Movil,37.0,0,20,455.0,Accesorios,1,0,,0.0,0,580.0
+501605,Instagram,306.0,3,CDMX,Movil,46.0,1,25,368.0,Ropa,3,4,22.0,0.228,0,593.0
+501318,Google Ads,395.0,2,CDMX,Escritorio,42.0,1,0,311.0,Calzado,2,0,,0.0,0,708.0
+501673,instagram,172.0,6,Monterrey,Movil,52.0,1,0,960.0,Calzado,2,3,11.0,0.024,1,1241.0
+501939,Referido,132.0,7,CDMX,Movil,43.0,0,10,378.0,Ropa,1,1,30.0,0.246,0,378.0
+500585,Referido,150.0,10,CDMX,Movil,42.0,0,0,366.0,Deportivo,1,2,10.0,0.306,0,1044.0
+500728,Organico,85.0,5,CDMX,Movil,25.0,1,25,415.0,Ropa,1,1,47.0,0.095,1,1219.0
+501581,Organico,104.0,2,Monterrey,Escritorio,51.0,1,30,176.0,Ropa,1,3,84.0,0.401,0,494.0
+501869,Instagram,432.0,5,Puebla,Escritorio,30.0,1,30,429.0,Ropa,3,0,,0.0,0,1383.0
+500741,Google Ads,486.0,1,CDMX,Movil,26.0,0,5,726.0,Deportivo,1,2,39.0,0.375,0,726.0
+501335,Organico,134.0,2,Monterrey,Movil,41.0,1,0,149.0,Accesorios,1,0,,0.0,0,682.0
+501879,Google Ads,484.0,12,Monterrey,Escritorio,37.0,1,20,310.0,Calzado,1,1,14.0,0.192,0,879.0
+501510,Instagram,259.0,5,Monterrey,Movil,39.0,0,0,529.0,Calzado,4,2,33.0,0.377,0,683.0
+501050,Google Ads,480.0,9,Puebla,Movil,39.0,0,0,721.0,Ropa,4,2,8.0,0.117,1,1221.0
+500227,Google Ads,514.0,12,CDMX,Movil,37.0,1,0,372.0,Ropa,1,2,35.0,0.278,1,601.0
+501747,Organico,95.0,1,Merida,Escritorio,55.0,0,5,450.0,Calzado,2,2,12.0,0.349,1,1352.0
+500326,Instagram,669.0,9,Guadalajara,Escritorio,18.0,1,25,422.0,Deportivo,2,0,,0.0,0,567.0
+501928,Instagram,,5,CDMX,Movil,27.0,0,25,211.0,Accesorios,1,0,,0.0,0,621.0
+500343,Instagram,597.0,4,CDMX,Movil,44.0,0,0,498.0,Ropa,4,4,22.0,0.344,1,1138.0
+500538,Instagram,449.0,2,Guadalajara,Movil,37.0,0,30,222.0,Ropa,3,0,,0.0,0,
+501001,Referido,141.0,4,CDMX,Movil,43.0,0,10,330.0,Ropa,1,4,13.0,0.213,1,594.0
+500570,Afiliados,206.0,12,Guadalajara,Escritorio,39.0,1,25,288.0,Ropa,1,0,,0.0,0,728.0
+501233,Organico,149.0,2,Guadalajara,Movil,48.0,0,0,714.0,Calzado,2,1,24.0,0.422,0,1000.0
+500018,Afiliados,314.0,6,Monterrey,Escritorio,,0,30,331.0,Deportivo,1,0,,0.0,0,337.0
+500622, Referido,149.0,3,CDMX,Escritorio,,1,0,589.0,Accesorios,2,1,6.0,0.343,0,851.0
+500565,Referido,128.0,1,Monterrey,Movil,39.0,1,0,330.0,Ropa,3,2,15.0,0.281,0,1049.0
+501937,Instagram,400.0,11,Monterrey,Movil,39.0,1,20,245.0,Ropa,2,2,3.0,0.179,1,603.0
+501635,Referido,152.0,11,Monterrey,Escritorio,20.0,0,5,778.0,Accesorios,1,8,37.0,0.285,1,
+501591,Google Ads,564.0,5,Guadalajara,Escritorio,45.0,1,0,581.0,Ropa,2,1,13.0,0.133,0,947.0
+501846,Google Ads,715.0,6,Monterrey,Escritorio,26.0,1,25,351.0,Ropa,1,1,32.0,0.091,0,670.0
+501201,Afiliados,187.0,6,Guadalajara,Escritorio,46.0,1,25,191.0,Ropa,1,2,35.0,0.106,0,519.0
+501968,Referido,157.0,10,Merida,Movil,20.0,1,0,568.0,Ropa,2,1,13.0,0.342,0,1048.0
+501530,Organico,114.0,3,Guadalajara,Escritorio,25.0,0,0,533.0,Accesorios,3,0,,0.0,0,860.0
+500510,Afiliados,156.0,1,CDMX,Escritorio,,1,25,148.0,Ropa,1,1,58.0,0.026,0,546.0
+501228,Instagram,,4,CDMX,Movil,32.0,0,0,587.0,Deportivo,1,1,31.0,0.128,0,733.0
+501059,Afiliados,254.0,11,Puebla,Escritorio,,1,30,169.0,Ropa,1,2,37.0,0.019,0,243.0
+500200,Organico,112.0,3,CDMX,Movil,28.0,1,0,494.0,Ropa,2,3,18.0,0.201,0,971.0
+500782,Referido,153.0,6,Monterrey,Escritorio,40.0,1,0,451.0,Ropa,1,2,46.0,0.199,0,1236.0
+500204,Google Ads,371.0,3,Merida,Movil,36.0,0,25,360.0,Calzado,1,0,,0.0,0,745.0
+500799,Afiliados,202.0,3,CDMX,Tablet,,0,20,249.0,Ropa,3,1,68.0,0.025,1,459.0
+501905,Referido,165.0,1,CDMX,Tablet,43.0,0,10,469.0,Ropa,3,6,2.0,0.026,1,1068.0
+501336,Afiliados,199.0,10,Guadalajara,Movil,38.0,0,5,257.0,Ropa,2,2,21.0,0.421,0,580.0
+501522,Instagram,424.0,1,CDMX,Movil,33.0,1,15,519.0,Accesorios,1,0,,0.0,0,527.0
+500651,Organico,115.0,11,Puebla,Escritorio,33.0,1,0,532.0,Accesorios,1,1,43.0,0.286,0,1145.0
+500557,Afiliados,160.0,6,Monterrey,Movil,43.0,0,25,97.0,Ropa,3,0,,0.0,0,521.0
+500561,Instagram,272.0,10,Guadalajara,Movil,28.0,1,0,752.0,Ropa,1,3,50.0,0.262,0,1165.0
+500847,Google Ads,511.0,8,CDMX,Movil,28.0,1,5,530.0,Accesorios,1,1,45.0,0.125,1,1069.0
+500960,Organico,,12,Guadalajara,Movil,30.0,0,15,412.0,Accesorios,3,2,22.0,0.321,1,1006.0
+501052,Google Ads,338.0,2,Guadalajara,Movil,34.0,0,30,333.0,Accesorios,2,3,17.0,0.14,0,1081.0
+501616,Google Ads,408.0,11,Monterrey,Movil,60.0,0,30,634.0,Ropa,3,3,17.0,0.056,0,841.0
+500641,Instagram,389.0,4,Guadalajara,Movil,18.0,1,10,444.0,Ropa,3,1,14.0,0.347,0,461.0
+500564,Organico,80.0,5,CDMX,Escritorio,,1,0,376.0,Ropa,1,3,27.0,0.362,1,1467.0
+500673,Organico,133.0,6,Monterrey,Tablet,35.0,0,0,402.0,Ropa,3,2,18.0,0.254,0,917.0
+501670,Organico,207.0,5,CDMX,Movil,40.0,0,25,327.0,Calzado,2,3,20.0,0.195,0,898.0
+500756,Instagram,290.0,2,Guadalajara,Tablet,41.0,0,15,479.0,Deportivo,2,1,55.0,0.298,0,697.0
+500116,Google Ads,511.0,11,Puebla,Escritorio,31.0,0,0,348.0,Accesorios,4,5,48.0,0.297,0,1138.0
+501580,Instagram,285.0,3,Merida,Movil,25.0,0,0,421.0,Ropa,2,1,62.0,0.31,0,908.0
+501014,Google Ads,461.0,3,CDMX,Escritorio,37.0,1,15,579.0,Deportivo,1,1,39.0,0.099,0,1279.0
+500731,Instagram,692.0,6,Merida,Escritorio,34.0,1,25,486.0,Calzado,2,2,63.0,0.073,0,486.0
+501491,Afiliados,185.0,9,CDMX,Movil,39.0,0,20,368.0,Calzado,4,0,,0.0,0,577.0
+501639,Instagram,379.0,3,CDMX,Movil,41.0,1,5,668.0,Ropa,4,2,13.0,0.32,0,952.0
+501961,Google Ads,498.0,9,CDMX,Escritorio,47.0,0,0,553.0,Ropa,1,1,10.0,0.126,1,1095.0
+501719,Organico,114.0,12,CDMX,Movil,43.0,0,25,448.0,Ropa,1,1,4.0,0.215,0,506.0
+500792,Instagram,381.0,10,CDMX,Movil,37.0,0,0,559.0,Accesorios,1,3,23.0,0.679,0,
+500993,Referido,148.0,12,Guadalajara,Movil,29.0,0,0,784.0,Accesorios,3,2,9.0,0.109,0,862.0
+501634,Google Ads,452.0,9,Guadalajara,Movil,18.0,1,25,368.0,Accesorios,1,0,,0.0,1,887.0
+500038,Referido,129.0,4,Puebla,Movil,26.0,1,25,377.0,Calzado,3,1,4.0,0.154,0,705.0
+500953,Instagram,356.0,6,Guadalajara,Movil,39.0,1,0,194.0,Ropa,1,1,14.0,0.018,0,476.0
+500439,Google Ads,488.0,5,CDMX,Escritorio,34.0,0,30,335.0,Ropa,1,0,,0.0,0,422.0
+501988,Google Ads,,1,CDMX,Movil,37.0,0,0,280.0,Accesorios,1,0,,0.0,0,614.0
+501641,Google Ads,666.0,10,CDMX,Movil,49.0,0,5,700.0,Calzado,2,2,30.0,0.125,0,787.0
+500804,Afiliados,151.0,7,Guadalajara,Movil,32.0,0,25,419.0,Ropa,3,3,83.0,0.09,0,547.0
+501407,Organico,144.0,4,Puebla,Movil,45.0,1,20,294.0,Accesorios,2,0,,0.0,1,736.0
+500750,Instagram,308.0,10,Puebla,Escritorio,48.0,1,10,682.0,Ropa,2,0,,0.0,0,1126.0
+501714,Instagram,349.0,3,Monterrey,Movil,20.0,0,5,468.0,Calzado,1,1,20.0,0.13,1,867.0
+501550,Instagram,299.0,6,Monterrey,Escritorio,25.0,1,20,387.0,Ropa,1,3,10.0,0.188,0,943.0
+500575,Google Ads,449.0,11,CDMX,Escritorio,46.0,0,5,489.0,Accesorios,5,1,56.0,0.061,0,879.0
+500262,Afiliados,188.0,7,CDMX,Movil,,0,20,199.0,Calzado,3,4,82.0,0.006,0,885.0
+500860,Referido,124.0,2,Guadalajara,Movil,36.0,1,0,553.0,Ropa,1,7,62.0,0.231,0,1014.0
+500751,Afiliados,176.0,2,Monterrey,Movil,42.0,0,20,362.0,Accesorios,1,0,,0.0,0,529.0
+500225, Referido,333.0,7,Guadalajara,Movil,18.0,0,20,-329.0,Ropa,1,0,,0.0,0,610.0
+501975,Instagram,328.0,5,Puebla,Movil,38.0,1,0,423.0,Accesorios,2,1,10.0,0.086,1,1079.0
+501190,Organico,127.0,7,Monterrey,Movil,34.0,1,0,1206.0,Accesorios,1,5,17.0,0.1,1,1312.0
+500970,Google Ads,,10,Guadalajara,Movil,40.0,1,5,515.0,Calzado,2,3,17.0,0.492,0,990.0
+501528,Afiliados,274.0,1,CDMX,Escritorio,40.0,1,15,252.0,Calzado,1,1,73.0,0.083,0,343.0
+500352,Google Ads,430.0,8,Puebla,Movil,38.0,1,15,522.0,Ropa,1,4,35.0,0.269,1,878.0
+500547,Instagram,421.0,9,Guadalajara,Movil,26.0,0,25,309.0,Ropa,3,3,13.0,0.022,1,943.0
+501615,Afiliados,178.0,5,CDMX,Movil,,0,25,366.0,Ropa,1,1,77.0,0.014,0,535.0
+500864,Instagram,336.0,1,Monterrey,Movil,43.0,0,0,289.0,Calzado,3,1,21.0,0.321,1,461.0
+500237,Instagram,387.0,4,Puebla,Tablet,42.0,0,0,486.0,Deportivo,2,3,65.0,0.197,0,717.0
+500446,Referido,110.0,3,CDMX,Movil,36.0,0,10,-592.0,Deportivo,1,3,4.0,0.17,1,
+500379,Organico,112.0,11,CDMX,Escritorio,47.0,1,0,527.0,Calzado,3,3,14.0,0.142,0,980.0
+501438,Instagram,353.0,8,Puebla,Movil,35.0,1,15,406.0,Accesorios,1,1,40.0,0.044,0,631.0
+501047,Instagram,435.0,4,CDMX,Movil,51.0,1,0,366.0,Deportivo,1,2,60.0,0.107,0,1132.0
+500367,Afiliados,187.0,5,Merida,Movil,31.0,0,15,399.0,Deportivo,2,0,,0.0,0,399.0
+500930,Google Ads,464.0,5,Puebla,Escritorio,0.0,0,0,259.0,Calzado,1,1,14.0,0.186,0,769.0
+501302,Instagram,289.0,2,Guadalajara,Movil,43.0,1,15,278.0,Ropa,4,0,,0.0,0,417.0
+501063,Google Ads,,12,Guadalajara,Tablet,19.0,1,10,435.0,Accesorios,1,0,,0.0,0,644.0
+500760,Organico,101.0,8,Guadalajara,Movil,42.0,0,0,679.0,Calzado,2,1,18.0,0.079,0,684.0
+501289,Referido,148.0,11,Monterrey,Movil,46.0,1,0,429.0,Calzado,2,1,26.0,0.223,0,
+500881,Afiliados,,6,Guadalajara,Movil,,1,25,345.0,Accesorios,3,0,,0.0,0,367.0
+500598, Referido,624.0,11,CDMX,Movil,47.0,1,15,161.0,Ropa,2,0,,0.0,0,822.0
+501884,Google Ads,364.0,11,Puebla,Tablet,37.0,0,25,433.0,Ropa,3,3,16.0,0.113,0,529.0
+501421,Google Ads,492.0,1,Merida,Movil,44.0,1,0,424.0,Calzado,2,2,15.0,0.045,0,715.0
+501865,Referido,135.0,12,Puebla,Escritorio,35.0,1,15,494.0,Ropa,2,1,24.0,0.434,1,1169.0
+501780,Organico,140.0,3,Merida,Escritorio,40.0,1,5,608.0,Calzado,2,0,,0.0,0,1065.0
+500715,Afiliados,184.0,7,CDMX,Escritorio,33.0,1,20,176.0,Deportivo,3,0,,0.0,1,634.0
+500115,Afiliados,200.0,10,Merida,Movil,42.0,1,20,260.0,Calzado,3,0,,0.0,0,624.0
+501497,Instagram,527.0,11,CDMX,Movil,43.0,1,20,689.0,Deportivo,1,3,9.0,0.241,1,1071.0
+500542,Instagram,313.0,7,Guadalajara,Movil,38.0,1,20,410.0,Calzado,3,2,33.0,0.27,0,1006.0
+500155,Referido,136.0,3,CDMX,Escritorio,,1,0,584.0,Calzado,2,3,90.0,0.455,0,1215.0
+500935,Referido,127.0,3,CDMX,Movil,49.0,0,0,1151.0,Ropa,2,1,6.0,0.188,0,1313.0
+500905,Instagram,356.0,5,Puebla,Movil,21.0,1,0,382.0,Ropa,1,0,,0.0,1,923.0
+500668,Afiliados,163.0,2,Merida,Movil,44.0,1,25,284.0,Deportivo,3,0,,0.0,0,419.0
+501585,Afiliados,227.0,3,Monterrey,Movil,22.0,1,25,223.0,Accesorios,1,2,21.0,0.342,0,492.0
+500304,Instagram,469.0,4,Guadalajara,Tablet,30.0,1,25,326.0,Ropa,2,0,,0.0,1,667.0
+500768,Organico,112.0,6,Monterrey,Movil,,0,0,345.0,Calzado,3,2,24.0,0.488,0,758.0
+500955,Afiliados,224.0,6,Merida,Escritorio,,0,30,279.0,Ropa,1,1,9.0,0.024,1,279.0
+500082,Instagram,312.0,4,Merida,Escritorio,44.0,0,0,483.0,Ropa,1,0,,0.0,1,749.0
+500199,Organico,140.0,3,CDMX,Movil,39.0,1,15,524.0,Accesorios,2,5,4.0,0.187,0,1284.0
+501380,Referido,184.0,11,CDMX,Escritorio,44.0,1,0,1343.0,Calzado,1,2,9.0,0.435,0,1702.0
+500415,Afiliados,208.0,7,Guadalajara,Movil,55.0,1,0,262.0,Deportivo,1,3,2.0,0.48,0,551.0
+500004,Afiliados,247.0,2,CDMX,Movil,35.0,0,20,167.0,Ropa,1,0,,0.0,0,541.0
+501584,Organico,123.0,1,Guadalajara,Movil,37.0,0,25,319.0,Calzado,2,0,,0.0,0,724.0
+501078,Organico,,10,CDMX,Escritorio,18.0,1,20,439.0,Calzado,2,3,5.0,0.374,0,1080.0
+500142,Organico,153.0,3,CDMX,Movil,40.0,0,25,435.0,Accesorios,2,6,21.0,0.021,0,479.0
+501573,Instagram,385.0,9,Guadalajara,Movil,18.0,1,0,516.0,Deportivo,4,0,,0.0,0,670.0
+501839,Instagram,263.0,12,Puebla,Movil,46.0,1,30,217.0,Deportivo,1,1,23.0,0.125,0,687.0
+500693,Afiliados,187.0,3,CDMX,Movil,26.0,0,30,348.0,Calzado,1,0,,0.0,1,725.0
+500448,Afiliados,216.0,8,Guadalajara,Movil,34.0,1,5,211.0,Ropa,2,0,,0.0,0,321.0
+501627,Instagram,419.0,7,CDMX,Movil,28.0,1,0,514.0,Deportivo,2,2,24.0,0.343,1,874.0
+500797,Referido,191.0,1,Guadalajara,Movil,42.0,0,0,313.0,Calzado,1,1,62.0,0.192,0,617.0
+500443,Referido,125.0,7,Monterrey,Movil,27.0,0,25,186.0,Calzado,4,2,82.0,0.242,1,1149.0
+500105,Google Ads,368.0,4,CDMX,Movil,48.0,0,30,340.0,Accesorios,1,1,42.0,0.042,0,778.0
+500720,Referido,231.0,7,CDMX,Escritorio,35.0,1,5,474.0,Ropa,1,2,45.0,0.631,0,1054.0
+500422,Referido,,3,Puebla,Movil,27.0,0,5,590.0,Accesorios,1,1,23.0,0.387,0,810.0
+501819,Google Ads,425.0,12,Puebla,Movil,23.0,1,0,550.0,Ropa,1,3,28.0,0.398,1,1071.0
+501778,Organico,121.0,2,CDMX,Movil,46.0,1,0,425.0,Calzado,1,2,43.0,0.278,0,1191.0
+500426,Instagram,407.0,10,Guadalajara,Movil,49.0,1,0,373.0,Ropa,2,2,18.0,0.32,0,548.0
+501518,Organico,154.0,10,Puebla,Movil,42.0,1,0,579.0,Ropa,4,1,38.0,0.316,1,
+500001,Google Ads,337.0,3,Guadalajara,Movil,,0,0,641.0,Accesorios,1,1,14.0,0.304,0,990.0
+501543,Organico,136.0,11,Monterrey,Movil,32.0,1,15,783.0,Deportivo,1,1,24.0,0.281,0,877.0
+501938,Afiliados,216.0,11,CDMX,Movil,38.0,0,15,232.0,Accesorios,6,1,70.0,0.287,0,368.0
+501131,Referido,178.0,2,CDMX,Movil,18.0,0,0,421.0,Accesorios,1,3,7.0,0.272,1,1066.0
+500867,Afiliados,286.0,9,Puebla,Movil,51.0,0,10,341.0,Accesorios,1,1,90.0,0.016,0,823.0
+500188,Organico,127.0,12,CDMX,Escritorio,37.0,1,5,1237.0,Ropa,1,2,24.0,0.003,1,1237.0
+500717,Organico,121.0,7,Monterrey,Movil,18.0,1,15,661.0,Ropa,4,1,38.0,0.269,1,887.0
+500548,Google Ads,489.0,1,CDMX,Movil,38.0,0,30,293.0,Ropa,2,1,18.0,0.173,0,
+501065,Organico,,9,CDMX,Movil,30.0,0,5,571.0,Deportivo,1,0,,0.0,1,745.0
+500092,Organico,137.0,7,CDMX,Escritorio,44.0,1,0,398.0,Calzado,2,2,32.0,0.034,0,878.0
+501384,Google Ads,290.0,10,Guadalajara,Escritorio,39.0,1,5,456.0,Calzado,1,1,53.0,0.258,1,489.0
+501083,Instagram,253.0,9,Puebla,Escritorio,53.0,0,20,420.0,Ropa,3,1,51.0,0.13,1,713.0
+501386,Afiliados,244.0,8,Merida,Movil,,0,25,334.0,Ropa,1,0,,0.0,0,344.0
+500735,Referido,123.0,10,Puebla,Movil,44.0,1,0,655.0,Accesorios,1,4,8.0,0.325,0,1095.0
+500987,Instagram,,4,CDMX,Movil,29.0,1,5,454.0,Ropa,2,1,76.0,0.336,0,607.0
+500691,Afiliados,162.0,7,CDMX,Tablet,,1,25,300.0,Calzado,1,2,44.0,0.005,0,823.0
+501741,Organico,137.0,12,CDMX,Movil,28.0,1,30,416.0,Accesorios,1,0,,0.0,1,848.0
+500062,Instagram,479.0,7,Merida,Escritorio,35.0,0,0,558.0,Accesorios,1,0,,0.0,0,687.0
+501563,Google Ads,472.0,1,Guadalajara,Movil,42.0,0,0,328.0,Ropa,1,3,14.0,0.419,0,328.0
+500671,Instagram,312.0,8,Guadalajara,Escritorio,59.0,0,25,234.0,Calzado,1,2,35.0,0.057,0,571.0
+500442,Instagram,301.0,7,CDMX,Escritorio,32.0,0,0,240.0,Ropa,1,0,,0.0,0,303.0
+500772,Organico,171.0,3,Guadalajara,Tablet,46.0,0,0,592.0,Calzado,1,1,29.0,0.102,0,1048.0
+500855,Referido,145.0,9,Monterrey,Movil,42.0,0,15,415.0,Accesorios,2,2,27.0,0.043,0,887.0
+501118,Instagram,325.0,9,Monterrey,Movil,33.0,1,15,254.0,Ropa,1,0,,0.0,0,
+501729,Instagram,430.0,10,Merida,Movil,40.0,0,25,364.0,Accesorios,1,1,5.0,0.075,0,612.0
+500513,Afiliados,216.0,10,CDMX,Movil,23.0,1,0,397.0,Ropa,2,5,23.0,0.408,0,742.0
+500712,Google Ads,482.0,4,Merida,Movil,31.0,1,0,535.0,Calzado,1,0,,0.0,0,730.0
+500759,Afiliados,188.0,1,Sin dato,Movil,32.0,1,15,233.0,Accesorios,1,1,11.0,0.246,1,606.0
+500127,Google Ads,321.0,2,Monterrey,Movil,39.0,1,0,347.0,Accesorios,1,2,2.0,0.173,0,453.0
+501872,Google Ads,360.0,2,Puebla,Movil,27.0,0,0,517.0,Calzado,5,1,10.0,0.105,0,752.0
+500137,Google Ads,406.0,11,Sin dato,Movil,54.0,0,10,782.0,Calzado,3,4,9.0,0.199,1,1188.0
+501125,Organico,124.0,12,Monterrey,Escritorio,51.0,1,25,463.0,Ropa,3,0,,0.0,0,776.0
+500519,Afiliados,166.0,11,CDMX,Movil,,0,30,340.0,Accesorios,1,0,,0.0,1,996.0
+500163,Organico,99.0,5,CDMX,Escritorio,37.0,0,20,724.0,Ropa,4,1,34.0,0.294,0,912.0
+500459,Instagram,343.0,6,Monterrey,Movil,42.0,1,5,696.0,Calzado,1,2,30.0,0.825,0,
+501234,Referido,160.0,12,Monterrey,Escritorio,32.0,1,0,1469.0,Ropa,1,7,3.0,0.719,0,1772.0
+501936,Referido,196.0,9,Merida,Escritorio,41.0,1,0,854.0,Calzado,1,1,24.0,0.278,0,1592.0
+501763,Organico,131.0,3,Sin dato,Escritorio,34.0,1,25,333.0,Accesorios,1,1,45.0,0.347,0,989.0
+501123,Google Ads,440.0,7,Puebla,Movil,37.0,0,0,600.0,Accesorios,1,4,24.0,0.106,0,
+500327,Instagram,633.0,10,CDMX,Movil,44.0,0,5,387.0,Ropa,1,3,29.0,0.502,0,774.0
+500839, Referido,159.0,10,Guadalajara,Movil,29.0,0,0,758.0,Calzado,1,0,,0.0,0,933.0
+501560,Organico,106.0,10,Monterrey,Movil,28.0,1,0,510.0,Ropa,1,1,3.0,0.315,0,1118.0
+501601,Afiliados,233.0,1,CDMX,Movil,,0,20,228.0,Ropa,1,0,,0.0,0,742.0
+501299,Instagram,499.0,12,CDMX,Movil,40.0,0,0,339.0,Accesorios,2,0,,0.0,1,633.0
+501361,Organico,169.0,3,Merida,Escritorio,18.0,1,0,532.0,Deportivo,2,4,57.0,0.212,0,929.0
+500384,Google Ads,386.0,8,Monterrey,Escritorio,41.0,0,25,229.0,Ropa,2,0,,0.0,0,790.0
+501833,Afiliados,326.0,8,Guadalajara,Movil,,0,20,186.0,Ropa,5,0,,0.0,0,186.0
+500763,Organico,85.0,8,Merida,Movil,25.0,0,20,346.0,Ropa,1,3,67.0,0.14,0,855.0
+501070,Referido,156.0,8,CDMX,Movil,38.0,0,25,777.0,Accesorios,3,2,40.0,0.146,0,888.0
+500297,Organico,99.0,4,CDMX,Escritorio,35.0,0,0,833.0,Accesorios,4,1,3.0,0.585,1,932.0
+500073,Instagram,369.0,6,Monterrey,Movil,18.0,0,25,491.0,Ropa,2,0,,0.0,0,628.0
+501772,Afiliados,298.0,12,Merida,Movil,27.0,1,30,299.0,Ropa,2,0,,0.0,0,299.0
+501567,Referido,145.0,12,Guadalajara,Movil,36.0,0,10,461.0,Ropa,1,1,4.0,0.12,1,889.0
+501303,Referido,193.0,9,Merida,Escritorio,20.0,1,25,878.0,Accesorios,2,3,19.0,0.083,1,1146.0
+500637,Afiliados,158.0,10,Guadalajara,Movil,,0,20,241.0,Accesorios,1,0,,0.0,0,0.0
+501260,Instagram,422.0,6,Puebla,Movil,45.0,0,10,198.0,Calzado,2,0,,0.0,0,294.0
+501394,Afiliados,210.0,2,Monterrey,Movil,,1,25,221.0,Ropa,2,0,,0.0,0,221.0
+501843,Google Ads,574.0,2,CDMX,Movil,34.0,1,0,510.0,Calzado,4,2,57.0,0.041,0,643.0
+500053,Instagram,416.0,9,CDMX,Movil,40.0,1,25,322.0,Ropa,3,4,15.0,0.216,1,801.0
+501830,Instagram,348.0,11,CDMX,Tablet,30.0,0,25,576.0,Ropa,1,1,14.0,0.213,0,726.0
+501464,Instagram,229.0,4,CDMX,Movil,41.0,1,25,288.0,Accesorios,1,0,,0.0,0,601.0
+501094,Google Ads,456.0,3,Merida,Movil,32.0,0,0,359.0,Ropa,1,0,,0.0,0,717.0
+501350,Instagram,205.0,2,CDMX,Movil,33.0,1,25,562.0,Ropa,2,0,,0.0,0,920.0
+501172,Organico,186.0,10,Puebla,Movil,49.0,1,20,685.0,Accesorios,2,0,,0.0,0,1041.0
+501427,Afiliados,188.0,5,Merida,Movil,36.0,0,5,516.0,Ropa,3,2,44.0,0.034,1,677.0
+500937,Google Ads,405.0,7,CDMX,Movil,30.0,0,15,271.0,Accesorios,3,0,,0.0,0,381.0
+501411,Organico,94.0,10,Guadalajara,Movil,36.0,0,0,759.0,Ropa,2,2,5.0,0.511,0,1080.0
+500133,Organico,169.0,7,CDMX,Movil,22.0,0,15,589.0,Ropa,3,1,22.0,0.24,0,
+501531,Instagram,406.0,7,CDMX,Movil,18.0,1,0,519.0,Accesorios,1,1,3.0,0.08,0,673.0
+500769,Organico,129.0,11,Sin dato,Movil,39.0,1,20,368.0,Calzado,3,0,,0.0,1,1148.0
+501685,Referido,168.0,11,Puebla,Escritorio,54.0,1,5,746.0,Deportivo,4,1,37.0,0.249,0,1302.0
+500757,Google Ads,500.0,3,CDMX,Movil,21.0,0,0,677.0,Calzado,2,0,,0.0,1,677.0
+500358,Instagram,410.0,8,CDMX,Movil,47.0,0,0,296.0,Deportivo,1,3,21.0,0.119,1,1178.0
+500085,Instagram,457.0,8,Merida,Movil,40.0,0,10,333.0,Ropa,2,1,36.0,0.324,0,443.0
+501901,Instagram,375.0,4,Guadalajara,Movil,25.0,1,0,328.0,Accesorios,2,3,17.0,0.163,1,848.0
+501379,Instagram,252.0,3,CDMX,Escritorio,37.0,0,0,782.0,Calzado,1,0,,0.0,0,822.0
+501424,Afiliados,282.0,11,Puebla,Escritorio,47.0,1,20,407.0,Calzado,1,1,77.0,0.051,0,801.0
+500904,Referido,,9,Guadalajara,Movil,18.0,1,15,605.0,Deportivo,3,5,18.0,0.124,1,1120.0
+501251,Instagram,432.0,9,CDMX,Tablet,45.0,1,5,501.0,Calzado,2,0,,0.0,0,794.0
+500154,Google Ads,483.0,2,Guadalajara,Escritorio,42.0,1,5,377.0,Ropa,5,1,19.0,0.241,1,831.0
+500277,Google Ads,330.0,3,Monterrey,Tablet,31.0,1,0,848.0,Accesorios,4,1,29.0,0.115,0,948.0
+501795,Instagram,277.0,7,Puebla,Movil,41.0,1,20,588.0,Ropa,1,3,8.0,0.143,0,907.0
+500627,Google Ads,469.0,10,Guadalajara,Movil,24.0,0,5,651.0,Ropa,3,0,,0.0,0,669.0
+501177,Organico,190.0,12,Merida,Escritorio,29.0,1,5,362.0,Ropa,3,1,4.0,0.218,0,852.0
+500030,Organico,120.0,7,Monterrey,Movil,35.0,1,5,653.0,Deportivo,3,0,,0.0,0,1195.0
+500450,Instagram,445.0,12,CDMX,Escritorio,39.0,1,25,187.0,Calzado,3,1,59.0,0.448,0,936.0
+500866,Instagram,441.0,6,Puebla,Movil,42.0,0,20,756.0,Ropa,1,1,60.0,0.129,1,938.0
+501578,Organico,,9,CDMX,Escritorio,55.0,1,0,559.0,Calzado,2,0,,0.0,1,1470.0
+501959,Google Ads,299.0,10,Guadalajara,Movil,33.0,0,10,219.0,Accesorios,1,0,,0.0,1,298.0
+501680,Instagram,449.0,2,Monterrey,Movil,36.0,0,0,244.0,Calzado,1,0,,0.0,0,244.0
+501098,Afiliados,222.0,10,Puebla,Movil,36.0,0,20,315.0,Ropa,3,0,,0.0,0,315.0
+501020,Afiliados,203.0,4,Puebla,Movil,,0,25,273.0,Ropa,1,0,,0.0,1,782.0
+500460,Referido,136.0,1,Puebla,Escritorio,,1,5,302.0,Accesorios,1,1,14.0,0.07,0,672.0
+500945,Instagram,441.0,8,CDMX,Movil,35.0,0,15,264.0,Deportivo,1,1,32.0,0.025,0,917.0
+500471,Organico,121.0,6,Guadalajara,Tablet,36.0,0,30,301.0,Ropa,2,1,46.0,0.236,0,703.0
+501740,Instagram,223.0,4,Monterrey,Movil,42.0,0,0,352.0,Accesorios,2,2,13.0,0.044,1,990.0
+500452,Referido,131.0,5,Monterrey,Movil,33.0,1,15,382.0,Accesorios,1,1,36.0,0.246,0,762.0
+500226,Instagram,304.0,4,Guadalajara,Escritorio,23.0,0,25,284.0,Accesorios,1,1,16.0,0.279,1,482.0
+500685,Organico,136.0,2,CDMX,Movil,25.0,1,0,508.0,Accesorios,1,0,,0.0,0,823.0
+501659,Organico,89.0,4,CDMX,Escritorio,31.0,0,0,513.0,Calzado,2,0,,0.0,0,659.0
+500829,Afiliados,198.0,12,Puebla,Movil,33.0,0,5,189.0,Calzado,3,1,90.0,0.109,0,364.0
+500385,Organico,91.0,8,CDMX,Escritorio,31.0,1,0,400.0,Accesorios,1,4,15.0,0.332,1,945.0
+501705,Organico,73.0,4,Monterrey,Movil,29.0,0,0,828.0,Ropa,3,0,,0.0,1,828.0
+500956,Organico,73.0,5,Puebla,Movil,44.0,0,0,248.0,Accesorios,4,1,23.0,0.159,0,585.0
+501636,Referido,135.0,4,Guadalajara,Movil,42.0,1,0,664.0,Ropa,1,3,16.0,0.102,1,1373.0
+500787,Google Ads,449.0,8,Puebla,Movil,18.0,1,10,318.0,Accesorios,3,1,23.0,0.014,1,1022.0
+501124,Google Ads,,2,CDMX,Movil,30.0,0,0,631.0,Ropa,4,1,31.0,0.243,1,952.0
+500147,Organico,127.0,2,CDMX,Escritorio,29.0,1,5,412.0,Ropa,1,1,8.0,0.1,0,895.0
+500281,Google Ads,395.0,3,Puebla,Escritorio,34.0,0,15,400.0,Accesorios,1,2,11.0,0.162,1,784.0
+501178,Organico,76.0,10,Guadalajara,Movil,31.0,1,5,480.0,Ropa,1,2,19.0,0.011,0,1017.0
+500342,Referido,139.0,5,Guadalajara,Movil,22.0,1,30,466.0,Ropa,1,1,47.0,0.08,0,898.0
+500968,Afiliados,161.0,7,Puebla,Movil,46.0,0,25,206.0,Ropa,2,2,30.0,0.032,0,611.0
+500859,Organico,125.0,4,CDMX,Escritorio,38.0,0,0,671.0,Ropa,3,2,8.0,0.342,0,1103.0
+501218,Google Ads,476.0,8,Merida,Escritorio,30.0,0,0,457.0,Calzado,2,2,57.0,0.628,1,922.0
+501902,Afiliados,279.0,6,Guadalajara,Escritorio,,0,20,547.0,Accesorios,3,2,34.0,0.13,1,990.0
+501970,Google Ads,455.0,7,Merida,Movil,43.0,1,20,214.0,Accesorios,1,1,17.0,0.064,1,782.0
+501016,Google Ads,420.0,1,Puebla,Movil,27.0,1,20,696.0,Ropa,2,1,54.0,0.104,1,971.0
+500211,Google Ads,554.0,1,CDMX,Tablet,25.0,0,5,154.0,Ropa,3,1,21.0,0.518,0,562.0
+501140,Google Ads,428.0,2,CDMX,Movil,22.0,0,20,1019.0,Calzado,1,0,,0.0,1,1019.0
+501655,Instagram,362.0,11,Puebla,Movil,26.0,1,5,543.0,Calzado,2,3,16.0,0.427,1,1211.0
+501558,Organico,98.0,5,Guadalajara,Movil,36.0,1,30,531.0,Ropa,2,2,17.0,0.062,0,531.0
+500923,Google Ads,354.0,12,Puebla,Escritorio,36.0,0,0,671.0,Deportivo,1,0,,0.0,0,671.0
+502000,Instagram,391.0,5,CDMX,Movil,48.0,1,0,288.0,Accesorios,1,0,,0.0,0,591.0
+500070,Instagram,448.0,8,Merida,Escritorio,49.0,0,0,681.0,Ropa,1,1,29.0,0.179,0,681.0
+501749,Afiliados,203.0,3,CDMX,Escritorio,39.0,0,10,336.0,Ropa,1,0,,0.0,0,629.0
+501321,Afiliados,191.0,5,CDMX,Movil,50.0,0,20,316.0,Deportivo,2,0,,0.0,0,563.0
+500702,Google Ads,,11,CDMX,Movil,45.0,0,0,379.0,Ropa,1,2,5.0,0.072,0,1019.0
+500151,Instagram,340.0,12,Guadalajara,Movil,,1,10,599.0,Ropa,2,3,9.0,0.13,1,984.0
+501792,Organico,93.0,4,CDMX,Movil,42.0,0,0,727.0,Calzado,2,0,,0.0,1,852.0
+500496,Referido,142.0,8,Sin dato,Movil,30.0,0,30,559.0,Calzado,1,1,31.0,0.381,1,962.0
+501534,Organico,156.0,3,CDMX,Movil,35.0,1,15,431.0,Accesorios,2,2,9.0,0.696,1,1278.0
+501784,Organico,79.0,5,CDMX,Movil,22.0,0,0,1320.0,Deportivo,6,1,15.0,0.334,0,1388.0
+501446,Referido,145.0,10,Puebla,Movil,32.0,1,25,826.0,Accesorios,2,1,13.0,0.314,1,826.0
+500285,Google Ads,447.0,3,CDMX,Movil,29.0,1,5,485.0,Ropa,2,3,27.0,0.183,0,804.0
+501344,Referido,93.0,4,Merida,Movil,34.0,0,5,341.0,Calzado,1,1,31.0,0.276,1,874.0
+500287,Organico,137.0,3,Merida,Tablet,44.0,0,0,651.0,Ropa,1,1,50.0,0.071,0,862.0
+500191,Afiliados,220.0,6,CDMX,Escritorio,,1,20,413.0,Ropa,1,1,34.0,0.221,0,
+500757,Google Ads,500.0,3,CDMX,Movil,21.0,0,0,677.0,Calzado,2,0,,0.0,1,677.0
+501896,Organico,175.0,8,CDMX,Movil,47.0,0,0,552.0,Ropa,2,4,60.0,0.243,0,969.0
+500387,Instagram,498.0,9,Guadalajara,Movil,,0,5,414.0,Accesorios,2,0,,0.0,0,414.0
+500446,Referido,110.0,3,CDMX,Movil,36.0,0,10,-592.0,Deportivo,1,3,4.0,0.17,1,
+500177,Afiliados,209.0,7,CDMX,Movil,38.0,0,15,235.0,Ropa,3,2,55.0,0.425,0,236.0
+501482,Google Ads,470.0,4,Guadalajara,Movil,45.0,0,15,485.0,Deportivo,1,4,6.0,0.382,0,748.0
+500764,Afiliados,188.0,4,Guadalajara,Tablet,,1,15,452.0,Deportivo,1,0,,0.0,0,615.0
+500553,Afiliados,161.0,1,CDMX,Movil,,0,20,256.0,Ropa,1,3,62.0,0.004,1,659.0
+501450,Instagram,442.0,5,Guadalajara,Escritorio,45.0,1,0,391.0,Accesorios,1,0,,0.0,0,777.0
+501435,Afiliados,242.0,11,Monterrey,Movil,,0,15,464.0,Calzado,3,2,39.0,0.004,0,464.0
+500583,Referido,198.0,8,Guadalajara,Tablet,27.0,0,15,605.0,Ropa,2,3,82.0,0.291,1,1234.0
+501887,Referido,131.0,1,Puebla,Escritorio,39.0,1,10,382.0,Ropa,3,1,25.0,0.391,1,804.0
+501043,Google Ads,374.0,5,Merida,Movil,40.0,0,0,242.0,Accesorios,1,1,53.0,0.037,1,537.0
+500122,Google Ads,322.0,1,Puebla,Movil,28.0,1,25,321.0,Ropa,4,0,,0.0,1,984.0
+500248,Afiliados,224.0,8,CDMX,Tablet,,0,0,245.0,Ropa,1,2,6.0,0.045,0,406.0
+501315,Instagram,446.0,11,Monterrey,Movil,20.0,0,25,443.0,Calzado,1,2,36.0,0.31,0,617.0
+501767,Google Ads,554.0,5,Monterrey,Movil,32.0,0,10,490.0,Ropa,2,1,19.0,0.07,0,1020.0
+501985,Google Ads,487.0,10,Merida,Movil,38.0,1,25,634.0,Ropa,3,2,14.0,0.569,0,1113.0
+500582,Google Ads,364.0,7,CDMX,Movil,45.0,0,0,591.0,Ropa,1,1,29.0,0.384,1,1126.0
+500620,Organico,107.0,10,Puebla,Movil,,0,25,866.0,Ropa,5,4,11.0,0.289,0,1424.0
+501526,Google Ads,433.0,7,Puebla,Escritorio,25.0,1,15,499.0,Ropa,5,1,47.0,0.174,1,1209.0
+500911,Instagram,346.0,6,Monterrey,Movil,41.0,1,30,348.0,Ropa,1,3,12.0,0.302,0,786.0
+500323,Organico,117.0,5,Monterrey,Movil,44.0,1,0,327.0,Ropa,3,1,4.0,0.241,1,858.0
+500891,Instagram,401.0,4,CDMX,Tablet,40.0,1,15,232.0,Deportivo,2,2,33.0,0.246,0,443.0
+501334,Google Ads,364.0,4,Guadalajara,Movil,30.0,0,15,416.0,Accesorios,2,0,,0.0,0,689.0
+500079,Google Ads,486.0,8,Guadalajara,Movil,27.0,0,15,252.0,Ropa,1,1,17.0,0.137,0,368.0
+501771,Google Ads,588.0,10,Puebla,Escritorio,30.0,1,0,440.0,Calzado,1,1,16.0,0.223,0,793.0
+500485,Instagram,543.0,1,Monterrey,Movil,18.0,0,25,449.0,Calzado,2,1,20.0,0.247,0,513.0
+500633,Afiliados,168.0,12,Guadalajara,Escritorio,33.0,0,25,394.0,Ropa,2,2,89.0,0.249,0,887.0
+500301,Google Ads,505.0,12,Puebla,Tablet,18.0,1,25,600.0,Accesorios,2,2,25.0,0.189,0,1025.0
+501730,Afiliados,217.0,7,Puebla,Movil,34.0,0,15,333.0,Accesorios,1,2,17.0,0.044,0,493.0
+500780,Google Ads,600.0,10,CDMX,Movil,48.0,1,20,519.0,Accesorios,1,2,19.0,0.199,0,1049.0
+500134,Organico,148.0,11,Merida,Movil,30.0,1,20,447.0,Calzado,2,2,33.0,0.179,0,1071.0
+500036,Google Ads,438.0,2,Puebla,Movil,41.0,0,15,568.0,Deportivo,3,1,67.0,0.101,0,915.0
+501476,Google Ads,463.0,8,Guadalajara,Escritorio,32.0,0,20,701.0,Ropa,5,1,34.0,0.214,0,701.0
+500217,Organico,105.0,5,Monterrey,Movil,25.0,0,0,349.0,Deportivo,1,1,13.0,0.262,0,993.0
+500339,Afiliados,270.0,5,Merida,Escritorio,,0,20,298.0,Accesorios,4,0,,0.0,0,298.0
+501708,Referido,186.0,8,Merida,Movil,26.0,0,0,799.0,Calzado,2,0,,0.0,0,1090.0
+501898,Organico,148.0,12,CDMX,Movil,39.0,0,20,608.0,Accesorios,3,1,37.0,0.476,1,792.0
+501114,Instagram,696.0,9,CDMX,Movil,31.0,0,0,630.0,Ropa,1,0,,0.0,0,
+501866,Instagram,327.0,12,CDMX,Escritorio,49.0,1,10,664.0,Ropa,1,2,31.0,0.127,0,1072.0
+501764,Google Ads,,1,Guadalajara,Movil,38.0,1,25,426.0,Calzado,2,1,33.0,0.312,0,1109.0
+500149,Organico,88.0,5,Puebla,Movil,34.0,1,25,1040.0,Accesorios,3,0,,0.0,1,1345.0
+501929,Afiliados,211.0,11,Monterrey,Movil,37.0,0,10,220.0,Ropa,3,3,41.0,0.097,0,582.0
+501351,Instagram,532.0,7,CDMX,Escritorio,38.0,1,20,307.0,Ropa,1,2,90.0,0.133,0,438.0
+501214,Afiliados,211.0,7,Monterrey,Movil,57.0,0,30,186.0,Ropa,2,0,,0.0,0,439.0
+500106,Google Ads,558.0,7,CDMX,Escritorio,42.0,1,30,470.0,Ropa,5,2,30.0,0.006,1,951.0
+501168,Organico,168.0,8,Sin dato,Escritorio,25.0,1,0,656.0,Calzado,2,1,11.0,0.06,0,861.0
+501958,Google Ads,304.0,7,CDMX,Movil,42.0,0,0,168.0,Ropa,2,0,,0.0,1,397.0
+501196,Instagram,492.0,5,Puebla,Escritorio,37.0,1,20,237.0,Calzado,2,0,,0.0,0,292.0
+500359,Instagram,345.0,2,CDMX,Escritorio,48.0,0,5,291.0,Accesorios,1,3,45.0,0.006,1,902.0
+500786, Referido,393.0,2,CDMX,Movil,52.0,1,0,853.0,Deportivo,1,0,,0.0,0,1034.0
+501953, Referido,78.0,5,Merida,Movil,26.0,0,30,323.0,Ropa,1,4,12.0,0.129,0,690.0
+501557,Referido,130.0,12,CDMX,Movil,29.0,0,5,508.0,Accesorios,1,3,14.0,0.171,0,1237.0
+501554,Instagram,422.0,10,Guadalajara,Movil,31.0,1,25,478.0,Ropa,1,2,26.0,0.081,0,761.0
+500159,Referido,179.0,9,CDMX,Movil,22.0,0,30,538.0,Accesorios,2,3,11.0,0.138,1,1199.0
+500568,Google Ads,404.0,4,Puebla,Movil,28.0,1,0,631.0,Calzado,3,1,15.0,0.26,0,
+501311,Instagram,546.0,9,CDMX,Escritorio,45.0,1,15,556.0,Deportivo,1,1,58.0,0.013,1,913.0
+500607,Afiliados,303.0,8,Monterrey,Movil,39.0,0,20,355.0,Ropa,1,2,82.0,0.07,1,610.0
+501701,Afiliados,240.0,10,Merida,Movil,,0,15,359.0,Ropa,3,1,35.0,0.019,0,875.0
+501254,Instagram,360.0,1,Monterrey,Movil,43.0,0,15,318.0,Calzado,2,2,9.0,0.393,0,701.0
+500697,Referido,144.0,11,CDMX,Movil,23.0,0,30,735.0,Ropa,3,1,36.0,0.264,1,1216.0
+501151,Google Ads,340.0,9,Monterrey,Movil,35.0,1,0,427.0,Accesorios,2,0,,0.0,0,884.0
+500239,Instagram,432.0,11,CDMX,Movil,33.0,0,5,445.0,Ropa,1,1,24.0,0.265,0,445.0
+500500,Google Ads,470.0,5,CDMX,Tablet,31.0,0,0,370.0,Calzado,1,2,25.0,0.142,0,1091.0
+500402,Afiliados,233.0,8,CDMX,Movil,,0,20,428.0,Calzado,1,3,24.0,0.091,0,453.0
+501832,Referido,111.0,12,CDMX,Escritorio,43.0,1,0,497.0,Ropa,3,2,16.0,0.513,1,1300.0
+501863,Instagram,515.0,5,CDMX,Movil,23.0,1,30,477.0,Ropa,2,1,70.0,0.134,0,895.0
+500507,Referido,152.0,4,Monterrey,Movil,33.0,0,5,666.0,Ropa,1,2,52.0,0.22,0,1409.0
+501527,Afiliados,213.0,7,CDMX,Movil,,0,15,391.0,Accesorios,2,0,,0.0,0,627.0
+501120,instagram,466.0,4,CDMX,Movil,32.0,1,0,578.0,Ropa,4,3,23.0,0.123,1,1698.0
+501777,Instagram,262.0,2,Puebla,Movil,22.0,0,5,535.0,Calzado,1,4,23.0,0.033,1,1010.0
+501306,Instagram,,11,Merida,Movil,27.0,0,10,310.0,Ropa,3,3,26.0,0.372,0,720.0
+501808,Instagram,510.0,9,Puebla,Escritorio,18.0,0,25,265.0,Ropa,1,0,,0.0,0,305.0
+501665,Google Ads,442.0,7,Guadalajara,Escritorio,37.0,0,5,464.0,Accesorios,6,0,,0.0,0,524.0
+500229,Google Ads,499.0,9,Monterrey,Movil,21.0,0,15,163.0,Deportivo,2,1,6.0,0.147,0,226.0
+500833,Instagram,533.0,7,CDMX,Movil,31.0,0,10,252.0,Ropa,1,1,35.0,0.119,0,303.0
+500168,Instagram,347.0,5,Puebla,Movil,25.0,0,20,415.0,Accesorios,1,0,,0.0,1,599.0
+501529,Google Ads,,2,CDMX,Movil,34.0,1,0,279.0,Ropa,2,2,50.0,0.222,1,1152.0
+501483,Google Ads,430.0,12,CDMX,Movil,38.0,0,30,259.0,Accesorios,1,0,,0.0,1,831.0
+501213,Afiliados,352.0,6,CDMX,Movil,18.0,0,25,201.0,Accesorios,3,0,,0.0,0,201.0
+500208,Organico,103.0,5,CDMX,Movil,31.0,0,0,464.0,Calzado,1,4,36.0,0.555,0,1055.0
+501895, Referido,402.0,7,CDMX,Movil,36.0,1,15,274.0,Ropa,1,3,59.0,0.123,0,960.0
+500817,Referido,189.0,12,Puebla,Escritorio,26.0,0,30,515.0,Accesorios,2,1,9.0,0.192,0,906.0
+500403,Afiliados,174.0,8,CDMX,Movil,44.0,1,15,381.0,Ropa,3,1,21.0,0.494,0,431.0
+500311,Instagram,,1,Merida,Movil,18.0,1,20,400.0,Ropa,3,1,9.0,0.176,0,845.0
+501403,Afiliados,174.0,2,Guadalajara,Movil,38.0,0,20,544.0,Ropa,1,1,56.0,0.201,0,1191.0
+500464,Google Ads,,11,CDMX,Movil,30.0,1,0,227.0,Deportivo,1,2,42.0,0.589,1,1021.0
+501418,Instagram,364.0,1,Monterrey,Tablet,46.0,1,10,522.0,Ropa,1,2,17.0,0.155,0,966.0
+501176,Google Ads,699.0,10,Guadalajara,Movil,34.0,0,5,350.0,Ropa,1,1,35.0,0.158,1,
+500971,Instagram,483.0,9,Merida,Movil,31.0,1,0,500.0,Ropa,2,1,12.0,0.109,0,531.0
+500846,Referido,150.0,2,Merida,Movil,53.0,0,20,837.0,Accesorios,1,4,8.0,0.38,0,1249.0
+501989,Organico,215.0,10,CDMX,Movil,47.0,0,25,666.0,Ropa,1,1,26.0,0.167,1,805.0
+501226,Referido,176.0,6,Monterrey,Movil,31.0,1,0,581.0,Calzado,4,6,14.0,0.274,0,1109.0
+500774,Organico,172.0,6,CDMX,Escritorio,33.0,1,0,691.0,Calzado,1,2,9.0,0.251,1,1091.0
+500687,Organico,104.0,11,Monterrey,Movil,44.0,1,10,541.0,Ropa,1,1,17.0,0.352,0,704.0
+500822,Organico,88.0,1,Merida,Movil,18.0,1,10,364.0,Ropa,2,1,33.0,0.144,1,913.0
+501475,Organico,118.0,6,Guadalajara,Movil,47.0,1,20,725.0,Calzado,3,2,7.0,0.297,1,1019.0
+500428,Instagram,354.0,4,Guadalajara,Movil,44.0,0,20,645.0,Ropa,1,2,21.0,0.139,1,830.0
+500744,Instagram,384.0,3,CDMX,Movil,31.0,0,20,389.0,Ropa,3,1,19.0,0.252,0,535.0
+500125,Instagram,359.0,4,Guadalajara,Movil,49.0,1,0,272.0,Ropa,2,0,,0.0,0,555.0
+501945,Organico,108.0,8,Guadalajara,Movil,44.0,1,30,291.0,Ropa,3,1,20.0,0.25,1,848.0
+500800,Referido,105.0,11,Monterrey,Movil,18.0,0,0,403.0,Calzado,1,1,18.0,0.366,1,1142.0
+501219,Instagram,276.0,11,Guadalajara,Movil,28.0,0,20,262.0,Calzado,3,1,11.0,0.003,0,262.0
+501147,Referido,144.0,5,CDMX,Movil,29.0,0,25,439.0,Calzado,2,2,18.0,0.023,0,546.0
+501032,Instagram,404.0,12,Guadalajara,Tablet,21.0,1,15,402.0,Deportivo,1,1,34.0,0.15,0,402.0
+501745,Google Ads,,4,Monterrey,Escritorio,44.0,0,0,195.0,Accesorios,1,2,67.0,0.131,1,379.0
+500907,Google Ads,431.0,3,Monterrey,Escritorio,45.0,0,30,387.0,Ropa,4,0,,0.0,1,924.0
+500100,Google Ads,405.0,6,Merida,Tablet,40.0,1,15,626.0,Ropa,3,1,15.0,0.19,1,1287.0
+501271,Instagram,273.0,11,CDMX,Escritorio,36.0,1,0,424.0,Accesorios,1,1,27.0,0.033,0,896.0
+500581,Afiliados,174.0,7,CDMX,Escritorio,38.0,0,30,271.0,Calzado,1,0,,0.0,1,271.0
+500113,Afiliados,208.0,8,Sin dato,Escritorio,30.0,0,15,296.0,Ropa,2,0,,0.0,0,296.0
+500049,Instagram,464.0,1,Guadalajara,Escritorio,28.0,0,5,714.0,Ropa,3,2,34.0,0.326,1,1125.0
+500482,Instagram,290.0,10,Puebla,Movil,28.0,0,15,122.0,Calzado,2,1,62.0,0.017,0,215.0
+500228,Google Ads,540.0,4,Merida,Escritorio,30.0,0,25,191.0,Accesorios,1,0,,0.0,0,191.0
+500268,Instagram,410.0,10,Puebla,Escritorio,28.0,1,10,547.0,Accesorios,1,3,40.0,0.711,0,1187.0
+500524,Organico,179.0,6,Monterrey,Tablet,,0,5,1110.0,Ropa,1,2,40.0,0.434,0,1140.0
+501983,Google Ads,487.0,3,Guadalajara,Escritorio,46.0,0,0,322.0,Ropa,1,3,19.0,0.063,0,1263.0
+501618,Instagram,349.0,11,CDMX,Movil,21.0,0,20,291.0,Ropa,1,0,,0.0,0,602.0
+500121,Google Ads,337.0,1,Merida,Movil,31.0,1,20,546.0,Ropa,4,0,,0.0,0,845.0
+500126,Referido,132.0,8,Puebla,Movil,,1,0,468.0,Accesorios,2,0,,0.0,1,546.0
+501053,Organico,127.0,7,Puebla,Movil,36.0,0,30,489.0,Accesorios,1,0,,0.0,0,977.0
+501648,Organico,,2,CDMX,Movil,30.0,0,0,253.0,Accesorios,2,4,20.0,0.15,0,790.0
+500353,Organico,138.0,3,Puebla,Escritorio,29.0,0,0,1271.0,Ropa,1,0,,0.0,0,1271.0
+500481,Referido,160.0,7,CDMX,Movil,40.0,1,0,625.0,Accesorios,2,6,14.0,0.027,1,1162.0
+501128,Referido,135.0,5,Merida,Escritorio,34.0,1,0,693.0,Calzado,1,4,20.0,0.754,1,1382.0
+500430,Organico,79.0,10,CDMX,Escritorio,36.0,1,25,359.0,Calzado,1,0,,0.0,0,
+501093,Organico,142.0,3,Puebla,Movil,,1,5,709.0,Ropa,2,0,,0.0,0,1238.0
+501750,Google Ads,424.0,1,Puebla,Escritorio,38.0,1,0,218.0,Ropa,4,2,39.0,0.48,1,929.0
+500372,Organico,104.0,1,Monterrey,Escritorio,42.0,1,0,598.0,Calzado,1,3,26.0,0.35,1,1207.0
+500078,Instagram,564.0,6,Monterrey,Movil,32.0,0,5,605.0,Calzado,1,0,,0.0,1,693.0
+500429,Google Ads,409.0,2,CDMX,Escritorio,38.0,0,0,527.0,Ropa,1,2,24.0,0.161,1,989.0
+500435,Instagram,366.0,8,Merida,Movil,35.0,0,20,337.0,Calzado,3,3,5.0,0.1,1,577.0
+501881,Google Ads,380.0,8,CDMX,Movil,51.0,0,25,356.0,Accesorios,1,2,26.0,0.117,0,453.0
+501974,Google Ads,301.0,12,Guadalajara,Movil,34.0,1,0,335.0,Ropa,2,0,,0.0,0,565.0
+500591,Google Ads,592.0,11,Puebla,Escritorio,45.0,1,5,434.0,Ropa,1,1,4.0,0.242,0,804.0
+500958,Referido,209.0,8,Guadalajara,Movil,48.0,1,0,665.0,Ropa,3,3,15.0,0.095,1,1028.0
+501849,Google Ads,634.0,11,CDMX,Movil,,1,5,330.0,Ropa,1,2,37.0,0.093,1,1142.0
+500337,Instagram,438.0,1,Guadalajara,Movil,31.0,1,20,417.0,Ropa,3,1,47.0,0.05,0,621.0
+500006,Organico,95.0,10,CDMX,Movil,48.0,1,5,687.0,Ropa,2,2,14.0,0.035,1,1418.0
+500274,Organico,74.0,5,CDMX,Movil,46.0,0,25,209.0,Ropa,3,1,22.0,0.345,1,799.0
+501874,Google Ads,617.0,6,CDMX,Escritorio,26.0,1,15,408.0,Deportivo,1,1,45.0,0.416,0,
+501693,Instagram,424.0,2,CDMX,Movil,27.0,0,0,687.0,Accesorios,3,3,34.0,0.113,1,920.0
+501404,Instagram,538.0,8,CDMX,Movil,44.0,0,20,304.0,Calzado,3,1,43.0,0.081,0,1029.0
+500652,Afiliados,212.0,5,Puebla,Movil,,1,15,662.0,Calzado,2,0,,0.0,0,705.0
+500630,Organico,160.0,11,Monterrey,Movil,36.0,1,0,848.0,Ropa,3,1,59.0,0.165,0,1406.0
+500664,Google Ads,500.0,8,Puebla,Escritorio,43.0,1,0,266.0,Deportivo,2,0,,0.0,0,806.0
+500642,Afiliados,157.0,8,Guadalajara,Movil,41.0,1,25,258.0,Ropa,2,0,,0.0,0,258.0
+501405,Organico,80.0,7,Merida,Movil,54.0,1,0,1257.0,Ropa,5,6,14.0,0.516,1,1440.0
+501417,Google Ads,512.0,2,Guadalajara,Movil,18.0,1,0,246.0,Accesorios,4,2,16.0,0.023,0,868.0
+501809,Instagram,250.0,6,CDMX,Movil,46.0,0,0,409.0,Deportivo,1,4,49.0,0.155,1,1127.0
+501235,Instagram,471.0,3,Monterrey,Escritorio,44.0,0,25,293.0,Calzado,1,0,,0.0,0,430.0
+500292,Instagram,419.0,6,CDMX,Escritorio,31.0,0,20,449.0,Accesorios,2,4,20.0,0.272,0,731.0
+501285,Afiliados,,1,Guadalajara,Movil,45.0,0,10,333.0,Ropa,1,1,42.0,0.076,0,333.0
+500140,Organico,145.0,3,CDMX,Escritorio,32.0,1,10,714.0,Calzado,1,3,5.0,0.089,1,1065.0
+501022,Instagram,230.0,12,Monterrey,Escritorio,32.0,1,15,478.0,Deportivo,1,2,54.0,0.196,0,779.0
+501375,Referido,140.0,2,Puebla,Movil,42.0,0,0,786.0,Ropa,1,0,,0.0,0,786.0
+500215,Google Ads,408.0,4,Guadalajara,Movil,28.0,0,0,292.0,Calzado,1,1,28.0,0.065,0,1009.0
+501329,Google Ads,579.0,7,Monterrey,Movil,30.0,1,25,235.0,Ropa,1,1,48.0,0.015,0,448.0
+500499,Organico,81.0,2,Monterrey,Movil,33.0,1,0,621.0,Ropa,1,3,8.0,0.12,0,899.0
+500344,Organico,99.0,10,Puebla,Movil,35.0,1,5,492.0,Calzado,1,1,27.0,0.074,1,1328.0
+501821,Referido,132.0,10,Monterrey,Movil,37.0,1,5,797.0,Calzado,3,4,20.0,0.1,1,1632.0
+500818,Instagram,501.0,1,Sin dato,Movil,18.0,0,25,495.0,Accesorios,3,1,71.0,0.071,0,764.0
+501150,Instagram,513.0,6,Puebla,Escritorio,23.0,1,10,1085.0,Calzado,2,4,12.0,0.334,1,1310.0
+500678,Google Ads,365.0,10,Monterrey,Movil,45.0,0,30,376.0,Ropa,1,2,9.0,0.117,1,575.0
+501943,Instagram,,3,CDMX,Tablet,32.0,0,0,365.0,Ropa,3,1,65.0,0.008,0,621.0
+501757,Afiliados,249.0,6,Monterrey,Movil,37.0,1,15,254.0,Ropa,3,0,,0.0,1,625.0
+501575,Referido,135.0,4,Monterrey,Tablet,38.0,1,5,399.0,Ropa,1,3,11.0,0.496,0,1244.0
+500808,Google Ads,447.0,1,Guadalajara,Movil,37.0,1,0,543.0,Ropa,6,2,38.0,0.139,1,1215.0
+500902,Afiliados,247.0,10,Monterrey,Movil,31.0,1,0,407.0,Calzado,2,0,,0.0,0,503.0
+501245,Referido,150.0,3,CDMX,Escritorio,40.0,0,25,198.0,Deportivo,1,2,90.0,0.277,0,419.0
+501793,Instagram,357.0,1,Puebla,Movil,30.0,1,0,963.0,Accesorios,4,1,25.0,0.221,0,963.0
+501533,Google Ads,745.0,7,CDMX,Movil,31.0,0,5,494.0,Calzado,1,3,58.0,0.3,0,1124.0
+501490,Instagram,402.0,12,Monterrey,Movil,34.0,1,0,350.0,Ropa,4,1,6.0,0.21,0,708.0
+500919,Google Ads,,11,CDMX,Escritorio,18.0,0,15,400.0,Ropa,1,4,48.0,0.112,0,848.0
+500317,Afiliados,292.0,1,Guadalajara,Escritorio,39.0,1,5,356.0,Ropa,1,1,18.0,0.04,0,799.0
+501702,Instagram,520.0,4,Monterrey,Tablet,27.0,0,25,207.0,Calzado,2,0,,0.0,0,551.0
+501200,Google Ads,434.0,11,Merida,Escritorio,55.0,1,30,242.0,Ropa,3,0,,0.0,1,399.0
+500512,Instagram,390.0,8,Monterrey,Movil,41.0,1,15,439.0,Ropa,1,0,,0.0,1,858.0
+500886,Google Ads,331.0,7,Guadalajara,Escritorio,41.0,0,5,533.0,Ropa,2,1,16.0,0.091,1,979.0
+500528,Afiliados,204.0,4,Merida,Movil,21.0,0,20,454.0,Ropa,1,1,36.0,0.014,0,454.0
+501794,Instagram,409.0,11,CDMX,Movil,,0,25,254.0,Ropa,5,0,,0.0,1,765.0
+500771,Referido,147.0,10,Puebla,Escritorio,37.0,1,0,300.0,Ropa,5,3,22.0,0.129,0,886.0
+501810,Instagram,416.0,1,Monterrey,Movil,50.0,1,15,342.0,Ropa,2,1,17.0,0.067,0,951.0
+500612,Organico,138.0,11,Guadalajara,Movil,45.0,1,15,453.0,Ropa,2,1,28.0,0.271,0,882.0
+500688,Referido,170.0,10,Guadalajara,Escritorio,48.0,1,25,791.0,Deportivo,2,4,11.0,0.301,0,1190.0
+500463,Instagram,,6,CDMX,Movil,38.0,0,15,280.0,Accesorios,1,1,9.0,0.071,0,462.0
+500095,Afiliados,249.0,4,CDMX,Escritorio,,0,25,420.0,Ropa,1,1,41.0,0.043,0,477.0
+501796,Google Ads,432.0,11,Monterrey,Escritorio,20.0,1,20,726.0,Calzado,1,0,,0.0,0,726.0
+500523,Google Ads,461.0,7,CDMX,Escritorio,37.0,1,0,479.0,Calzado,1,1,29.0,0.071,0,699.0
+500504,Afiliados,227.0,12,Guadalajara,Movil,23.0,0,25,259.0,Ropa,3,2,73.0,0.409,0,485.0
+501467,Referido,163.0,10,CDMX,Escritorio,,0,15,870.0,Calzado,2,0,,0.0,0,929.0
+500447,Instagram,404.0,12,Monterrey,Tablet,27.0,1,15,206.0,Accesorios,1,1,9.0,0.053,1,347.0
+500942,Afiliados,240.0,10,CDMX,Movil,32.0,0,20,319.0,Ropa,2,0,,0.0,0,319.0
+501507,Google Ads,701.0,5,Monterrey,Movil,20.0,0,20,389.0,Ropa,5,0,,0.0,1,723.0
+500603,Afiliados,200.0,6,Guadalajara,Movil,27.0,0,15,318.0,Calzado,2,0,,0.0,1,987.0
+500586,Instagram,338.0,7,Puebla,Escritorio,42.0,0,30,469.0,Calzado,1,2,8.0,0.155,0,547.0
+501981,Organico,148.0,9,CDMX,Movil,39.0,1,0,311.0,Calzado,3,0,,0.0,0,701.0
+501470,Afiliados,260.0,1,Merida,Escritorio,36.0,0,15,272.0,Ropa,1,1,39.0,0.023,0,373.0
+501102,Instagram,315.0,5,CDMX,Tablet,38.0,0,30,649.0,Deportivo,1,1,31.0,0.181,0,684.0
+501972,Instagram,276.0,8,Monterrey,Movil,21.0,0,0,418.0,Accesorios,1,0,,0.0,0,1038.0
+501885,Afiliados,244.0,11,CDMX,Escritorio,19.0,1,0,284.0,Deportivo,2,0,,0.0,0,413.0
+500823,Instagram,346.0,8,Guadalajara,Movil,54.0,0,5,166.0,Accesorios,1,1,10.0,0.303,0,766.0
+501798,Google Ads,400.0,8,CDMX,Movil,39.0,1,0,673.0,Ropa,3,4,28.0,0.186,1,1506.0
+500478,Afiliados,188.0,3,CDMX,Movil,35.0,0,20,492.0,Calzado,3,0,,0.0,0,634.0
+501273,Afiliados,192.0,5,Guadalajara,Movil,20.0,1,25,378.0,Ropa,1,0,,0.0,1,581.0
+500948,Instagram,267.0,11,Monterrey,Movil,31.0,1,25,718.0,Ropa,1,1,54.0,0.148,0,1152.0
+500821,Referido,136.0,5,Guadalajara,Escritorio,35.0,1,0,1236.0,Ropa,4,7,17.0,0.187,1,2090.0
+501753,Google Ads,333.0,6,Monterrey,Escritorio,23.0,0,0,656.0,Ropa,2,3,5.0,0.419,1,1034.0
+500046,Afiliados,,1,CDMX,Escritorio,22.0,0,20,182.0,Calzado,2,1,50.0,0.002,0,569.0
+500491,Afiliados,146.0,10,Monterrey,Movil,40.0,0,25,300.0,Ropa,1,1,73.0,0.303,0,300.0
+500964,Google Ads,498.0,12,Merida,Movil,21.0,0,10,609.0,Calzado,3,2,37.0,0.187,0,1352.0
+501436,Afiliados,175.0,1,Guadalajara,Movil,21.0,0,0,395.0,Ropa,1,2,37.0,0.235,0,406.0
+500250,Instagram,573.0,6,Puebla,Movil,22.0,1,0,389.0,Ropa,2,2,9.0,0.034,1,635.0
+500729,Referido,168.0,5,CDMX,Tablet,23.0,1,0,617.0,Ropa,2,4,22.0,0.119,1,1425.0
+501286,Google Ads,385.0,1,Puebla,Movil,52.0,0,25,188.0,Calzado,3,1,42.0,0.06,0,491.0
+500738,Instagram,418.0,6,Puebla,Movil,35.0,1,20,288.0,Ropa,1,1,17.0,0.274,0,339.0
+500206,Instagram,324.0,4,CDMX,Movil,41.0,1,20,464.0,Ropa,1,2,18.0,0.116,0,651.0
+500150,Google Ads,531.0,3,CDMX,Movil,18.0,1,0,299.0,Deportivo,2,0,,0.0,0,347.0
+500682,Afiliados,270.0,8,Puebla,Movil,44.0,0,30,353.0,Deportivo,1,0,,0.0,0,724.0
+501103,Referido,175.0,3,CDMX,Tablet,26.0,0,0,544.0,Ropa,1,1,90.0,0.153,0,762.0
+500929,Afiliados,225.0,8,Merida,Movil,39.0,0,15,376.0,Ropa,1,0,,0.0,0,376.0
+501818,Organico,96.0,11,Puebla,Escritorio,32.0,0,20,249.0,Deportivo,2,1,55.0,0.421,0,636.0
+501101,Referido,232.0,3,CDMX,Escritorio,33.0,0,0,852.0,Calzado,2,1,14.0,0.181,1,1354.0
+501612,Instagram,404.0,2,Puebla,Movil,43.0,1,0,309.0,Calzado,1,2,63.0,0.141,0,963.0
+500190,Instagram,256.0,10,CDMX,Movil,23.0,0,30,379.0,Calzado,4,1,6.0,0.323,1,843.0
+500527,Google Ads,414.0,9,Merida,Escritorio,42.0,0,20,375.0,Accesorios,1,2,9.0,0.026,1,760.0
+500465,Referido,195.0,3,Puebla,Movil,40.0,0,0,710.0,Deportivo,2,1,26.0,0.221,0,1037.0
+501582,Referido,176.0,7,Puebla,Movil,21.0,1,10,1013.0,Ropa,1,2,4.0,0.051,0,1336.0
+501135,Google Ads,667.0,11,CDMX,Escritorio,46.0,1,15,308.0,Accesorios,2,2,35.0,0.221,0,478.0
+500253,Organico,94.0,2,Puebla,Movil,20.0,0,25,574.0,Calzado,1,4,48.0,0.257,0,752.0
+500396,Organico,175.0,1,Merida,Movil,44.0,1,30,680.0,Accesorios,2,1,9.0,0.328,1,1077.0
+501788,Google Ads,608.0,6,Monterrey,Movil,31.0,1,15,625.0,Ropa,1,1,24.0,0.077,0,1024.0
+501382,Google Ads,403.0,3,CDMX,Escritorio,41.0,0,15,1096.0,Accesorios,1,0,,0.0,1,1154.0
+500242,Referido,179.0,3,Monterrey,Movil,41.0,0,10,712.0,Deportivo,3,5,26.0,0.243,1,
+500065,Organico,109.0,7,CDMX,Tablet,28.0,1,25,464.0,Ropa,1,2,20.0,0.272,1,1259.0
+500051,Google Ads,408.0,1,Merida,Escritorio,21.0,0,10,687.0,Accesorios,3,1,14.0,0.185,0,969.0
+500169,Afiliados,274.0,5,Merida,Movil,36.0,1,20,375.0,Accesorios,1,1,61.0,0.055,0,525.0
+501366,Referido,150.0,8,Guadalajara,Movil,27.0,0,0,435.0,Ropa,3,0,,0.0,1,923.0
+501395,Google Ads,450.0,4,Monterrey,Escritorio,24.0,0,15,229.0,Calzado,1,0,,0.0,0,
+501686,Instagram,,2,Merida,Movil,33.0,0,0,280.0,Ropa,1,0,,0.0,1,554.0
+500303,Afiliados,322.0,11,Puebla,Escritorio,44.0,1,30,240.0,Ropa,1,0,,0.0,0,512.0
+501979,Afiliados,178.0,11,Guadalajara,Escritorio,,0,25,485.0,Calzado,2,0,,0.0,0,661.0
+501785,Google Ads,423.0,10,CDMX,Movil,48.0,0,20,366.0,Ropa,3,0,,0.0,0,366.0
+501628,Instagram,378.0,8,Merida,Movil,27.0,1,25,817.0,Ropa,2,1,34.0,0.169,1,1323.0
+501948,Organico,113.0,11,Puebla,Movil,31.0,1,0,410.0,Calzado,1,2,32.0,0.564,1,1090.0
+500201,Google Ads,274.0,3,Guadalajara,Tablet,38.0,1,0,656.0,Ropa,3,2,33.0,0.176,0,
+500294,Instagram,402.0,11,Guadalajara,Movil,36.0,0,25,375.0,Calzado,1,0,,0.0,0,485.0
+500157,Afiliados,,8,Monterrey,Escritorio,45.0,0,20,348.0,Deportivo,1,1,3.0,0.039,1,647.0
+500219,Afiliados,228.0,5,CDMX,Movil,39.0,0,0,431.0,Calzado,3,1,27.0,0.074,0,431.0
+501310,Referido,184.0,2,Merida,Tablet,29.0,1,0,522.0,Ropa,1,2,11.0,0.11,0,1194.0
+500495,Instagram,490.0,10,Monterrey,Movil,34.0,0,0,389.0,Ropa,1,2,28.0,0.012,0,792.0
+500399,Organico,158.0,3,Merida,Escritorio,43.0,1,20,1001.0,Calzado,4,0,,0.0,1,1170.0
+501868,Organico,204.0,1,CDMX,Movil,37.0,0,0,279.0,Accesorios,1,0,,0.0,1,880.0
+501595,Google Ads,479.0,7,Merida,Escritorio,22.0,0,10,372.0,Calzado,1,0,,0.0,1,508.0
+500546,instagram,387.0,7,CDMX,Movil,26.0,1,0,375.0,Calzado,1,4,14.0,0.146,0,1198.0
+500449,Referido,159.0,11,CDMX,Movil,44.0,0,15,282.0,Ropa,4,1,23.0,0.145,0,619.0
+501364,Afiliados,,8,Puebla,Movil,30.0,0,20,256.0,Accesorios,1,1,15.0,0.244,0,857.0
+501998,Google Ads,625.0,9,Merida,Escritorio,31.0,0,0,546.0,Calzado,2,1,37.0,0.104,0,575.0
+500640,Afiliados,,5,CDMX,Escritorio,20.0,0,0,205.0,Ropa,2,3,72.0,0.079,1,584.0
+500003,Instagram,363.0,12,CDMX,Escritorio,18.0,1,0,704.0,Calzado,2,1,18.0,0.578,0,1191.0
+500427,Organico,101.0,2,Merida,Escritorio,26.0,0,0,841.0,Ropa,2,2,19.0,0.428,1,897.0
+500814,Organico,108.0,8,CDMX,Escritorio,25.0,1,0,415.0,Deportivo,1,2,33.0,0.422,1,1204.0
+500920,Organico,155.0,3,Sin dato,Movil,23.0,1,5,770.0,Calzado,3,0,,0.0,1,805.0
+500077,Afiliados,234.0,6,CDMX,Tablet,19.0,1,20,220.0,Calzado,1,1,18.0,0.03,1,220.0
+501157,Instagram,513.0,9,Guadalajara,Escritorio,18.0,1,0,794.0,Accesorios,5,1,51.0,0.401,1,1370.0
+500334,Organico,102.0,9,Merida,Escritorio,45.0,1,0,738.0,Calzado,3,0,,0.0,1,840.0
+501488,Organico,115.0,5,Guadalajara,Movil,18.0,0,30,446.0,Ropa,6,1,11.0,0.432,1,1394.0
+500338,Organico,97.0,7,CDMX,Escritorio,34.0,1,0,961.0,Ropa,1,3,55.0,0.058,0,1193.0
+501787,Instagram,452.0,1,Guadalajara,Movil,36.0,0,0,447.0,Deportivo,1,0,,0.0,0,
+500899,Google Ads,488.0,11,CDMX,Escritorio,35.0,0,5,354.0,Ropa,1,1,51.0,0.297,0,722.0
+501280,Afiliados,204.0,6,CDMX,Movil,,1,0,344.0,Deportivo,1,1,13.0,0.182,0,785.0
+501304,Referido,107.0,6,Monterrey,Movil,36.0,1,0,380.0,Calzado,1,3,37.0,0.166,0,1113.0
+500139,Instagram,524.0,12,CDMX,Movil,28.0,0,20,434.0,Calzado,1,1,31.0,0.264,0,434.0
+501888,Google Ads,362.0,2,Guadalajara,Escritorio,42.0,1,0,511.0,Ropa,1,2,31.0,0.071,0,927.0
+501838,Instagram,323.0,11,Puebla,Escritorio,38.0,1,0,456.0,Accesorios,2,5,23.0,0.252,1,1200.0
+500394,Google Ads,384.0,8,Guadalajara,Tablet,41.0,1,5,317.0,Ropa,1,2,63.0,0.103,0,576.0
+501071,Instagram,398.0,2,CDMX,Escritorio,43.0,1,5,566.0,Ropa,4,1,36.0,0.116,0,648.0
+500590,Instagram,280.0,7,Monterrey,Movil,38.0,1,5,404.0,Calzado,1,2,25.0,0.185,1,772.0
+501694,Instagram,366.0,3,Monterrey,Movil,23.0,1,15,774.0,Ropa,1,1,18.0,0.183,0,834.0
+501167,Google Ads,486.0,9,Merida,Movil,21.0,0,0,184.0,Ropa,3,1,12.0,0.107,1,507.0
+501458,Organico,,5,CDMX,Escritorio,20.0,1,0,1445.0,Accesorios,3,4,8.0,0.21,0,1849.0
+500650,Google Ads,241.0,4,CDMX,Movil,44.0,0,0,402.0,Ropa,4,2,19.0,0.09,0,996.0
+500254,Instagram,355.0,2,CDMX,Movil,39.0,1,25,671.0,Calzado,4,0,,0.0,0,755.0
+501049,Instagram,362.0,10,CDMX,Movil,38.0,0,15,624.0,Accesorios,1,3,33.0,0.126,1,885.0
+501611,Instagram,403.0,2,Puebla,Escritorio,31.0,0,15,508.0,Calzado,1,3,25.0,0.09,1,1405.0
+501079,Instagram,567.0,2,Merida,Movil,40.0,1,5,447.0,Ropa,2,1,15.0,0.225,1,737.0
+501696,Instagram,330.0,3,CDMX,Movil,30.0,0,20,413.0,Accesorios,1,1,79.0,0.407,0,595.0
+500249,Instagram,431.0,1,Puebla,Escritorio,42.0,1,15,256.0,Calzado,1,1,30.0,0.191,0,715.0
+500165,Referido,199.0,4,Merida,Escritorio,29.0,0,5,431.0,Ropa,1,2,10.0,0.314,0,1173.0
+500173,Afiliados,179.0,5,CDMX,Tablet,52.0,0,25,232.0,Ropa,1,0,,0.0,0,232.0
+500192,Instagram,410.0,1,Guadalajara,Movil,35.0,1,30,513.0,Deportivo,3,0,,0.0,1,1086.0
+500458,Organico,115.0,2,CDMX,Movil,51.0,0,15,265.0,Accesorios,1,1,6.0,0.098,0,682.0
+501317,Afiliados,169.0,10,Guadalajara,Tablet,,1,15,355.0,Ropa,1,0,,0.0,0,633.0
+501683,Organico,136.0,12,Puebla,Movil,40.0,0,15,369.0,Calzado,2,1,10.0,0.194,1,698.0
+500445, Referido,162.0,1,Merida,Escritorio,49.0,1,20,850.0,Calzado,2,2,11.0,0.037,1,926.0
+500824,Organico,166.0,9,Monterrey,Escritorio,47.0,1,15,702.0,Ropa,4,2,15.0,0.415,0,1096.0
+501999,Afiliados,259.0,3,Guadalajara,Movil,47.0,1,30,241.0,Calzado,3,1,33.0,0.055,1,515.0
+500806,Afiliados,220.0,1,Guadalajara,Movil,42.0,1,15,206.0,Ropa,2,0,,0.0,0,874.0
+501538,Google Ads,483.0,5,Puebla,Movil,29.0,1,0,546.0,Ropa,2,2,14.0,0.212,0,1243.0
+500354,Afiliados,246.0,8,Monterrey,Escritorio,26.0,0,15,124.0,Ropa,1,0,,0.0,0,249.0
+501192,Organico,110.0,8,CDMX,Movil,26.0,1,0,391.0,Ropa,1,2,9.0,0.116,1,1417.0
+500009,Instagram,356.0,11,Monterrey,Movil,,0,15,165.0,Accesorios,2,1,22.0,0.458,0,340.0
+500563,Afiliados,212.0,4,Guadalajara,Movil,0.0,0,0,320.0,Accesorios,1,1,61.0,0.074,0,405.0
+501893,Organico,172.0,8,CDMX,Escritorio,38.0,1,0,397.0,Calzado,1,1,59.0,0.092,1,966.0
+501322,Organico,132.0,7,Guadalajara,Escritorio,28.0,1,0,908.0,Ropa,4,3,23.0,0.328,0,1017.0
+501761,Instagram,413.0,4,CDMX,Escritorio,34.0,1,0,340.0,Calzado,3,1,40.0,0.173,1,910.0
+501952,Organico,146.0,7,CDMX,Movil,43.0,0,5,530.0,Deportivo,3,0,,0.0,0,799.0
+500026, Referido,464.0,2,Guadalajara,Escritorio,33.0,1,0,566.0,Calzado,1,2,26.0,0.055,0,804.0
+501091,Instagram,379.0,12,Guadalajara,Movil,46.0,0,0,592.0,Accesorios,3,1,10.0,0.109,1,1127.0
+501947,Referido,130.0,5,CDMX,Movil,30.0,1,25,578.0,Deportivo,1,0,,0.0,0,858.0
+501695,Afiliados,155.0,10,Monterrey,Movil,34.0,0,25,216.0,Ropa,1,1,51.0,0.062,0,232.0
+500131,Organico,110.0,5,Guadalajara,Escritorio,40.0,0,5,442.0,Calzado,1,1,21.0,0.36,1,805.0
+500576,Google Ads,450.0,2,Puebla,Escritorio,18.0,0,20,466.0,Calzado,3,2,39.0,0.296,0,757.0
+501257,Google Ads,436.0,3,Puebla,Tablet,36.0,0,30,338.0,Deportivo,1,5,14.0,0.212,0,865.0
+500683,Referido,104.0,6,Guadalajara,Movil,35.0,1,0,398.0,Ropa,4,3,26.0,0.078,0,925.0
+500636,Referido,120.0,8,CDMX,Movil,39.0,1,0,887.0,Calzado,4,1,22.0,0.269,0,887.0
+500205,Afiliados,223.0,5,Guadalajara,Escritorio,39.0,0,25,404.0,Ropa,1,1,19.0,0.123,1,502.0
+500754,Afiliados,,12,Monterrey,Movil,53.0,0,20,410.0,Accesorios,1,3,14.0,0.045,0,640.0
+501197,Organico,107.0,3,Merida,Movil,35.0,1,5,746.0,Accesorios,1,3,7.0,0.107,1,
+500743,Organico,123.0,4,Monterrey,Escritorio,34.0,1,5,288.0,Ropa,2,1,58.0,0.177,0,805.0
+500932,Instagram,350.0,7,CDMX,Escritorio,43.0,0,15,448.0,Ropa,3,1,43.0,0.124,0,448.0
+500608,Organico,143.0,4,CDMX,Movil,18.0,1,5,271.0,Ropa,2,1,29.0,0.488,0,671.0
+501756,Google Ads,400.0,7,Monterrey,Movil,25.0,1,25,332.0,Accesorios,1,2,6.0,0.263,0,807.0
+500057,Instagram,345.0,9,Sin dato,Escritorio,18.0,1,25,140.0,Accesorios,1,1,57.0,0.247,0,942.0
+500141,Organico,141.0,3,Guadalajara,Movil,45.0,1,15,346.0,Calzado,1,0,,0.0,0,396.0
+501460,Instagram,269.0,2,CDMX,Movil,44.0,0,20,821.0,Calzado,3,2,40.0,0.114,0,821.0
+501462,Referido,205.0,1,Puebla,Escritorio,24.0,0,15,459.0,Calzado,2,1,55.0,0.318,0,599.0
+500704,Instagram,541.0,11,Monterrey,Tablet,27.0,0,0,370.0,Accesorios,2,0,,0.0,0,382.0
+501498,Instagram,364.0,2,CDMX,Escritorio,27.0,1,25,581.0,Calzado,2,4,14.0,0.1,1,1031.0
+500533,Instagram,337.0,7,Puebla,Tablet,18.0,0,25,734.0,Ropa,1,1,90.0,0.399,0,734.0
+501920,Organico,108.0,10,Puebla,Escritorio,34.0,0,5,740.0,Calzado,4,4,13.0,0.495,0,927.0
+500040,Organico,102.0,9,CDMX,Movil,26.0,0,10,726.0,Calzado,4,2,39.0,0.153,0,1078.0
+501535,Google Ads,313.0,2,CDMX,Escritorio,36.0,1,5,1059.0,Ropa,2,3,90.0,0.03,0,1304.0
+500061,Google Ads,496.0,7,Guadalajara,Movil,32.0,0,20,320.0,Ropa,3,1,10.0,0.018,0,828.0
+501630,Google Ads,374.0,12,Merida,Escritorio,25.0,0,25,715.0,Ropa,3,0,,0.0,0,715.0
+501852,Referido,208.0,4,Merida,Tablet,25.0,1,0,618.0,Calzado,3,1,29.0,0.336,1,1349.0
+500245,Organico,110.0,7,Guadalajara,Tablet,58.0,1,5,921.0,Ropa,1,3,29.0,0.107,1,1002.0
+501976,Afiliados,240.0,5,Monterrey,Escritorio,54.0,1,20,240.0,Deportivo,1,0,,0.0,0,758.0
+500047,Instagram,377.0,3,Monterrey,Movil,35.0,1,0,433.0,Ropa,1,1,44.0,0.362,0,663.0
+500130,Instagram,360.0,8,Guadalajara,Movil,37.0,0,0,550.0,Accesorios,3,0,,0.0,0,550.0
+501935,Afiliados,237.0,7,Merida,Escritorio,34.0,1,20,456.0,Ropa,1,2,38.0,0.37,0,787.0
+501993,Afiliados,185.0,3,CDMX,Movil,,0,0,718.0,Calzado,2,2,72.0,0.064,0,718.0
+500091,Instagram,434.0,4,Monterrey,Escritorio,41.0,0,0,502.0,Ropa,1,3,2.0,0.02,0,744.0
+501513,Organico,114.0,6,CDMX,Movil,29.0,1,0,441.0,Ropa,6,2,45.0,0.351,1,1033.0
+501619,Afiliados,,8,Merida,Escritorio,38.0,0,15,442.0,Calzado,1,0,,0.0,0,817.0
+501365,Instagram,318.0,4,Monterrey,Escritorio,18.0,0,25,1057.0,Deportivo,2,3,29.0,0.274,0,1134.0
+500924,Organico,137.0,7,Puebla,Movil,32.0,0,5,300.0,Calzado,1,2,34.0,0.206,0,
+501664,Organico,115.0,9,Monterrey,Movil,38.0,1,10,1384.0,Accesorios,2,6,15.0,0.17,1,1995.0
+500283,Instagram,441.0,7,CDMX,Movil,28.0,1,25,274.0,Ropa,1,0,,0.0,0,549.0
+500306,Referido,174.0,4,CDMX,Movil,32.0,0,15,382.0,Ropa,5,3,27.0,0.061,1,724.0
+500333,Referido,167.0,4,Monterrey,Movil,27.0,1,10,496.0,Ropa,1,1,24.0,0.094,0,1170.0
+500795,Google Ads,546.0,5,Guadalajara,Movil,,1,0,360.0,Accesorios,1,2,12.0,0.285,1,831.0
+500174,Organico,103.0,9,Monterrey,Escritorio,36.0,0,10,569.0,Ropa,1,2,41.0,0.071,1,1257.0
+500068,Google Ads,499.0,8,CDMX,Movil,43.0,0,30,223.0,Calzado,3,1,27.0,0.08,1,697.0
+500736,Google Ads,410.0,11,Monterrey,Escritorio,23.0,1,30,678.0,Ropa,1,2,35.0,0.4,0,1044.0
+500107,Organico,88.0,10,Guadalajara,Movil,51.0,0,0,729.0,Calzado,2,1,47.0,0.16,0,813.0
+501845,Organico,151.0,2,Guadalajara,Movil,,1,0,1096.0,Ropa,5,3,8.0,0.072,1,1470.0
+501241,Referido,268.0,5,Merida,Movil,18.0,1,5,533.0,Ropa,3,2,12.0,0.034,1,1129.0
+500536,Google Ads,512.0,7,CDMX,Movil,36.0,1,25,212.0,Ropa,4,1,22.0,0.048,0,485.0
+501931,Instagram,520.0,9,CDMX,Escritorio,32.0,1,20,398.0,Ropa,3,3,39.0,0.213,0,1035.0
+500733,Google Ads,722.0,10,Merida,Movil,31.0,0,25,419.0,Accesorios,2,2,6.0,0.1,0,
+500266,Afiliados,329.0,11,Guadalajara,Movil,,0,25,308.0,Ropa,1,1,57.0,0.123,0,627.0
+500961,Google Ads,464.0,6,Guadalajara,Escritorio,18.0,1,5,788.0,Accesorios,3,1,2.0,0.156,0,1057.0
+501205,Referido,117.0,8,Merida,Movil,34.0,0,0,193.0,Ropa,1,1,38.0,0.423,0,969.0
+501242,Instagram,302.0,12,Puebla,Movil,39.0,0,0,370.0,Ropa,4,2,24.0,0.251,0,591.0
+500980,Referido,145.0,7,CDMX,Movil,35.0,1,0,922.0,Accesorios,1,2,4.0,0.345,0,1453.0
+501652,Afiliados,212.0,5,CDMX,Movil,25.0,1,15,139.0,Calzado,1,1,81.0,0.021,0,765.0
+501270, Referido,135.0,6,CDMX,Movil,28.0,0,0,428.0,Calzado,1,4,13.0,0.377,1,1368.0
+501861,Google Ads,610.0,9,Monterrey,Movil,58.0,1,0,827.0,Ropa,2,3,18.0,0.206,0,932.0
+501096,Referido,124.0,12,Guadalajara,Movil,34.0,0,5,541.0,Ropa,1,5,8.0,0.185,1,1124.0
+500708,Referido,129.0,12,CDMX,Movil,34.0,1,0,388.0,Ropa,1,1,7.0,0.013,0,552.0
+501130,Instagram,464.0,11,Guadalajara,Movil,32.0,0,5,338.0,Ropa,1,3,49.0,0.227,0,1080.0
+500543,Instagram,252.0,5,Monterrey,Movil,42.0,0,25,488.0,Accesorios,1,0,,0.0,1,986.0
+500984,Instagram,255.0,4,Puebla,Movil,59.0,0,20,470.0,Deportivo,1,0,,0.0,0,569.0
+500289,Instagram,286.0,8,CDMX,Movil,42.0,0,20,182.0,Deportivo,1,2,5.0,0.058,0,519.0
+501210,Instagram,516.0,12,Guadalajara,Escritorio,32.0,0,0,757.0,Deportivo,3,0,,0.0,1,1013.0
+500069,Organico,137.0,12,CDMX,Movil,20.0,0,20,-776.0,Calzado,1,0,,0.0,1,988.0
+501324,Instagram,434.0,2,CDMX,Tablet,45.0,0,0,693.0,Calzado,5,2,4.0,0.085,1,1262.0
+500858,Organico,117.0,6,CDMX,Escritorio,41.0,0,5,441.0,Ropa,2,3,24.0,0.027,0,956.0
+501864,instagram,195.0,1,Guadalajara,Escritorio,,0,15,396.0,Deportivo,1,0,,0.0,0,396.0
+500910,Referido,132.0,3,Guadalajara,Tablet,20.0,1,0,397.0,Ropa,2,6,43.0,0.247,1,1591.0
+501220,Organico,111.0,5,Guadalajara,Movil,,1,5,349.0,Ropa,5,1,10.0,0.011,1,801.0
+500796,Afiliados,173.0,10,Puebla,Movil,35.0,1,30,379.0,Accesorios,1,1,16.0,0.239,0,519.0
+500347,Google Ads,274.0,4,CDMX,Tablet,45.0,1,15,495.0,Ropa,6,0,,0.0,1,919.0
+501038,Google Ads,596.0,9,CDMX,Movil,29.0,1,5,310.0,Deportivo,4,1,12.0,0.142,0,1006.0
+500828,Instagram,455.0,3,Monterrey,Movil,48.0,0,25,853.0,Ropa,3,3,2.0,0.187,1,1709.0
+501941,Instagram,317.0,11,CDMX,Movil,36.0,0,25,454.0,Deportivo,1,1,28.0,0.091,0,819.0
+500213,Instagram,356.0,2,CDMX,Movil,30.0,1,25,502.0,Ropa,3,1,20.0,0.332,0,502.0
+501679,Afiliados,200.0,3,Guadalajara,Movil,37.0,0,20,269.0,Deportivo,1,0,,0.0,0,564.0
+501698,Instagram,406.0,1,Puebla,Tablet,21.0,0,10,511.0,Ropa,1,2,18.0,0.129,0,798.0
+501706,Google Ads,583.0,5,Guadalajara,Movil,40.0,1,0,419.0,Ropa,6,2,11.0,0.436,0,978.0
+501308,Afiliados,231.0,2,Monterrey,Movil,,1,25,261.0,Accesorios,2,0,,0.0,0,568.0
+500722,Instagram,340.0,12,CDMX,Movil,37.0,0,20,286.0,Ropa,1,3,27.0,0.016,0,624.0
+501949,Google Ads,574.0,12,CDMX,Escritorio,31.0,0,15,542.0,Accesorios,2,0,,0.0,1,862.0
+501342,Instagram,337.0,11,Monterrey,Movil,35.0,0,20,474.0,Calzado,3,0,,0.0,0,474.0
+501239,Google Ads,388.0,6,CDMX,Movil,18.0,1,0,722.0,Accesorios,2,2,26.0,0.149,0,893.0
+500862,Referido,130.0,10,Puebla,Tablet,18.0,0,0,354.0,Ropa,1,2,28.0,0.131,0,660.0
+500275,Afiliados,207.0,9,CDMX,Escritorio,,1,25,353.0,Accesorios,2,1,46.0,0.013,0,819.0
+501267,Instagram,372.0,2,CDMX,Movil,21.0,1,0,538.0,Ropa,4,1,14.0,0.092,0,790.0
+501827,Instagram,240.0,7,Guadalajara,Tablet,29.0,0,15,996.0,Ropa,2,1,20.0,0.007,1,1089.0
+500695,Google Ads,607.0,1,CDMX,Escritorio,37.0,0,30,344.0,Ropa,2,1,41.0,0.079,1,1072.0
+501710,Organico,150.0,2,Guadalajara,Movil,53.0,1,5,296.0,Calzado,2,1,22.0,0.082,1,712.0
+500010,Organico,129.0,9,CDMX,Escritorio,18.0,1,0,770.0,Ropa,3,2,31.0,0.08,1,1030.0
+500506,Google Ads,420.0,2,Puebla,Escritorio,35.0,1,5,519.0,Accesorios,1,2,9.0,0.302,0,1058.0
+500244,Instagram,416.0,7,CDMX,Movil,34.0,0,20,666.0,Calzado,1,2,10.0,0.393,0,916.0
+501492,Afiliados,239.0,12,CDMX,Movil,22.0,1,30,502.0,Accesorios,1,0,,0.0,0,502.0
+500825,Afiliados,184.0,10,Guadalajara,Tablet,,0,0,308.0,Ropa,1,0,,0.0,1,823.0
+500827,Instagram,376.0,8,Guadalajara,Movil,35.0,1,30,317.0,Calzado,1,2,7.0,0.007,0,752.0
+501669,Instagram,277.0,5,CDMX,Escritorio,29.0,0,15,637.0,Ropa,1,0,,0.0,0,637.0
+501590,Google Ads,607.0,12,Monterrey,Movil,44.0,1,15,332.0,Calzado,4,0,,0.0,0,828.0
+501410,Instagram,342.0,6,Monterrey,Movil,,1,5,473.0,Accesorios,2,1,25.0,0.18,1,912.0
+501291,Afiliados,192.0,5,CDMX,Movil,40.0,0,20,410.0,Calzado,1,0,,0.0,0,601.0
+501499,Instagram,489.0,3,CDMX,Movil,29.0,1,30,312.0,Deportivo,4,2,56.0,0.033,0,561.0
+501290,Afiliados,251.0,12,CDMX,Movil,,0,30,294.0,Calzado,1,0,,0.0,1,1046.0
+501387,Referido,168.0,12,CDMX,Escritorio,36.0,1,20,450.0,Calzado,2,1,9.0,0.236,0,742.0
+501314,Referido,153.0,3,Monterrey,Movil,51.0,1,0,850.0,Ropa,1,5,10.0,0.302,0,1387.0
+501352,Organico,173.0,2,Monterrey,Movil,40.0,1,30,211.0,Calzado,5,4,10.0,0.023,0,1030.0
+500346,Afiliados,513.0,3,Puebla,Tablet,29.0,0,0,558.0,Ropa,2,2,28.0,0.059,0,681.0
+500868,Instagram,241.0,12,Monterrey,Movil,32.0,0,20,436.0,Accesorios,1,0,,0.0,1,957.0
+500669,instagram,360.0,6,Guadalajara,Movil,18.0,1,0,150.0,Calzado,2,2,42.0,0.04,1,913.0
+501651,Google Ads,441.0,7,Merida,Escritorio,33.0,1,25,186.0,Ropa,1,1,26.0,0.421,0,445.0
+501221,Afiliados,207.0,9,Puebla,Movil,32.0,0,20,324.0,Accesorios,1,0,,0.0,0,324.0
+500425,Afiliados,235.0,11,Monterrey,Movil,18.0,0,20,387.0,Ropa,1,2,74.0,0.41,0,883.0
+500877,Organico,153.0,9,Guadalajara,Movil,33.0,0,0,392.0,Ropa,1,3,33.0,0.417,0,1032.0
+500072,Organico,90.0,7,Guadalajara,Movil,35.0,0,0,656.0,Calzado,2,0,,0.0,1,
+500261,Organico,130.0,7,Guadalajara,Escritorio,39.0,1,0,246.0,Calzado,2,4,15.0,0.244,1,751.0
+501319,Organico,72.0,6,Puebla,Movil,24.0,0,0,610.0,Accesorios,4,3,29.0,0.06,1,1451.0
+500972,Instagram,309.0,6,Guadalajara,Escritorio,,1,20,583.0,Calzado,2,0,,0.0,0,677.0
+500027,Afiliados,162.0,10,Guadalajara,Movil,37.0,0,15,422.0,Ropa,1,0,,0.0,0,422.0
+500152,Instagram,392.0,3,CDMX,Movil,51.0,0,15,593.0,Calzado,1,0,,0.0,0,620.0
+500766,Instagram,273.0,9,Puebla,Escritorio,31.0,1,5,522.0,Ropa,1,1,36.0,0.253,1,811.0
+501282,Organico,111.0,8,Guadalajara,Tablet,49.0,1,20,307.0,Calzado,1,2,23.0,0.431,0,720.0
+501259,Google Ads,616.0,6,Merida,Tablet,37.0,0,20,462.0,Ropa,1,1,16.0,0.38,0,749.0
+501720,Instagram,314.0,6,CDMX,Movil,44.0,1,25,716.0,Calzado,1,4,3.0,0.085,0,979.0
+500016,Instagram,394.0,3,Guadalajara,Movil,27.0,0,15,322.0,Accesorios,1,1,63.0,0.053,0,735.0
+501954,Referido,116.0,9,CDMX,Escritorio,46.0,1,0,519.0,Deportivo,2,3,39.0,0.149,1,1177.0
+501718,Organico,115.0,12,CDMX,Movil,38.0,0,30,698.0,Accesorios,1,1,52.0,0.097,0,787.0
+500089,Organico,130.0,6,CDMX,Escritorio,,0,25,362.0,Ropa,3,3,60.0,0.173,0,362.0
+501258,Organico,111.0,10,Monterrey,Movil,,1,15,576.0,Calzado,1,5,16.0,0.213,1,1283.0
+500589,Afiliados,245.0,10,Puebla,Movil,37.0,1,20,461.0,Accesorios,2,0,,0.0,0,614.0
+500029,Instagram,570.0,1,Merida,Movil,37.0,1,25,274.0,Ropa,2,2,27.0,0.117,1,864.0
+500998,Referido,174.0,3,Monterrey,Tablet,31.0,1,0,646.0,Ropa,1,2,12.0,0.334,1,1218.0
+501296,Afiliados,194.0,11,Puebla,Escritorio,32.0,0,20,403.0,Calzado,2,1,13.0,0.349,0,581.0
+501667,Organico,119.0,10,CDMX,Movil,36.0,1,0,253.0,Accesorios,1,2,38.0,0.044,0,1006.0
+500104,instagram,334.0,11,CDMX,Movil,32.0,1,20,526.0,Calzado,2,1,5.0,0.034,0,550.0
+500879,Organico,132.0,9,CDMX,Movil,27.0,1,5,486.0,Ropa,1,2,29.0,0.141,1,1020.0
+501666,Instagram,353.0,4,Puebla,Movil,18.0,0,0,1133.0,Deportivo,1,3,21.0,0.102,0,1133.0
+501751,Instagram,446.0,12,Puebla,Movil,32.0,0,30,370.0,Ropa,1,1,43.0,0.134,0,683.0
+500143,Organico,158.0,5,CDMX,Tablet,31.0,0,0,203.0,Calzado,2,0,,0.0,1,591.0
+500391,Instagram,573.0,9,CDMX,Movil,40.0,0,0,443.0,Ropa,2,3,17.0,0.086,0,1134.0
+501908,Afiliados,176.0,6,CDMX,Movil,45.0,1,0,387.0,Ropa,2,0,,0.0,0,666.0
+500887,Google Ads,604.0,3,Monterrey,Movil,25.0,0,15,558.0,Accesorios,4,2,58.0,0.317,1,1143.0
+501461,Instagram,502.0,11,Monterrey,Movil,36.0,1,0,320.0,Deportivo,1,2,19.0,0.014,0,606.0
+500488,Google Ads,645.0,10,Guadalajara,Movil,29.0,0,20,338.0,Ropa,1,1,4.0,0.017,0,805.0
+500901,Google Ads,381.0,4,Merida,Movil,29.0,1,20,536.0,Calzado,4,1,36.0,0.111,1,814.0
+501383,Referido,223.0,10,CDMX,Movil,,0,30,984.0,Ropa,2,3,23.0,0.265,0,1184.0
+501225,Afiliados,234.0,12,CDMX,Escritorio,,0,5,387.0,Ropa,3,1,26.0,0.36,0,489.0
+501880,Afiliados,248.0,12,CDMX,Movil,,1,5,371.0,Calzado,1,1,35.0,0.077,0,734.0
+501632,Google Ads,415.0,8,Puebla,Movil,,1,25,344.0,Accesorios,3,1,33.0,0.451,0,834.0
+500470,Google Ads,327.0,7,Monterrey,Movil,,1,25,291.0,Calzado,1,4,33.0,0.06,0,738.0
+501121,Instagram,,2,Monterrey,Escritorio,32.0,0,0,552.0,Deportivo,3,3,25.0,0.355,1,1047.0
+500922,Instagram,355.0,2,CDMX,Escritorio,26.0,0,30,294.0,Accesorios,1,5,48.0,0.125,0,629.0
+500400,Google Ads,485.0,12,Puebla,Escritorio,40.0,0,25,420.0,Calzado,1,1,41.0,0.119,0,928.0
+501425,Instagram,524.0,9,CDMX,Movil,43.0,0,25,434.0,Accesorios,1,0,,0.0,0,
+501909,Instagram,376.0,7,Puebla,Movil,25.0,0,0,431.0,Accesorios,2,0,,0.0,1,923.0
+501105,Organico,101.0,1,Guadalajara,Movil,20.0,0,5,505.0,Deportivo,1,3,10.0,0.098,1,1000.0
+501647,Afiliados,184.0,8,Guadalajara,Movil,,1,15,320.0,Calzado,1,0,,0.0,0,320.0
+501980,Referido,195.0,5,CDMX,Movil,38.0,1,25,679.0,Calzado,4,2,3.0,0.425,1,
+501546,Organico,90.0,9,Monterrey,Tablet,,0,0,428.0,Ropa,1,0,,0.0,0,619.0
+501553,Google Ads,390.0,8,CDMX,Movil,41.0,1,25,446.0,Ropa,1,1,50.0,0.035,0,455.0
+501565,Instagram,462.0,11,Monterrey,Movil,35.0,0,30,160.0,Ropa,1,2,9.0,0.074,1,
+500180,Organico,105.0,12,CDMX,Movil,41.0,1,0,424.0,Ropa,3,3,26.0,0.23,0,962.0
+500658,Organico,166.0,6,CDMX,Tablet,40.0,1,5,361.0,Ropa,2,3,21.0,0.168,1,1037.0
+500365,Organico,132.0,11,Puebla,Movil,31.0,0,25,471.0,Ropa,2,2,16.0,0.192,0,836.0
+501766,Organico,134.0,6,CDMX,Movil,18.0,1,15,332.0,Ropa,2,4,44.0,0.204,0,1131.0
+501661,Organico,167.0,11,Merida,Movil,40.0,1,0,736.0,Calzado,1,0,,0.0,0,846.0
+500550,Instagram,366.0,1,Puebla,Escritorio,45.0,0,30,379.0,Ropa,3,1,45.0,0.238,0,789.0
+500198,Referido,216.0,9,Guadalajara,Escritorio,35.0,1,0,382.0,Ropa,2,0,,0.0,1,939.0
+501597,Afiliados,316.0,5,Guadalajara,Tablet,21.0,1,0,268.0,Ropa,2,0,,0.0,0,521.0
+500432,Referido,175.0,2,Merida,Escritorio,51.0,1,10,253.0,Ropa,1,0,,0.0,1,330.0
+501428,Instagram,534.0,1,CDMX,Movil,36.0,1,0,387.0,Deportivo,1,1,28.0,0.087,0,592.0
+501486,Instagram,477.0,9,Merida,Escritorio,44.0,0,5,480.0,Ropa,4,1,67.0,0.191,0,
+501569,Instagram,472.0,11,CDMX,Escritorio,18.0,0,20,621.0,Deportivo,2,1,34.0,0.109,1,985.0
+501221,Afiliados,207.0,9,Puebla,Movil,32.0,0,20,324.0,Accesorios,1,0,,0.0,0,324.0
+500811,Afiliados,207.0,5,Monterrey,Escritorio,38.0,1,5,591.0,Accesorios,1,1,48.0,0.331,0,801.0
+501587,instagram,123.0,7,CDMX,Escritorio,46.0,0,0,470.0,Ropa,4,0,,0.0,0,1198.0
+501136,Referido,146.0,11,Guadalajara,Movil,35.0,1,20,394.0,Calzado,2,1,21.0,0.213,0,1149.0
+501275,Instagram,347.0,1,CDMX,Movil,52.0,0,0,337.0,Ropa,3,2,34.0,0.304,1,455.0
+500724,Google Ads,549.0,8,Guadalajara,Movil,41.0,0,30,778.0,Ropa,3,2,25.0,0.278,0,1149.0
+500880,Organico,87.0,6,Sin dato,Movil,,0,20,279.0,Calzado,1,0,,0.0,1,711.0
+501194,Google Ads,465.0,6,Guadalajara,Tablet,26.0,1,25,353.0,Ropa,3,2,12.0,0.118,0,
+501917,Afiliados,195.0,1,Puebla,Movil,44.0,0,25,172.0,Accesorios,1,0,,0.0,0,234.0
+500015,Organico,105.0,1,CDMX,Movil,51.0,1,0,648.0,Ropa,2,2,24.0,0.092,1,1358.0
+500404,Afiliados,253.0,5,Monterrey,Movil,36.0,1,15,482.0,Ropa,1,1,44.0,0.257,1,482.0
+500601,Afiliados,258.0,5,Monterrey,Escritorio,,1,25,112.0,Ropa,1,1,19.0,0.046,0,444.0
+500716,Referido,165.0,11,CDMX,Tablet,,1,0,463.0,Accesorios,1,3,11.0,0.127,1,1024.0
+501433,Instagram,404.0,2,Merida,Movil,32.0,0,0,235.0,Calzado,1,1,16.0,0.103,0,573.0
+500977,Google Ads,349.0,11,Guadalajara,Escritorio,45.0,0,0,526.0,Ropa,1,1,8.0,0.12,0,605.0
+501452,Afiliados,208.0,6,Monterrey,Movil,22.0,0,25,295.0,Ropa,1,0,,0.0,0,295.0
+500838,Organico,,8,Monterrey,Movil,32.0,1,30,552.0,Accesorios,1,1,36.0,0.396,0,1293.0
+500816,Afiliados,230.0,9,Monterrey,Movil,21.0,1,5,469.0,Ropa,1,0,,0.0,0,669.0
+501925,Organico,176.0,5,Monterrey,Movil,36.0,1,10,821.0,Deportivo,1,1,18.0,0.459,0,1208.0
+500263,Referido,,9,Merida,Escritorio,24.0,1,0,697.0,Ropa,2,2,15.0,0.256,1,986.0
+501164,Organico,96.0,7,CDMX,Escritorio,49.0,0,0,494.0,Deportivo,1,4,20.0,0.535,1,1354.0
+501217,Google Ads,385.0,4,Merida,Escritorio,26.0,1,25,801.0,Ropa,2,1,7.0,0.185,0,1325.0
+500255,Afiliados,210.0,7,Monterrey,Escritorio,37.0,0,25,303.0,Ropa,3,0,,0.0,0,303.0
+500349,Instagram,395.0,11,CDMX,Tablet,40.0,0,25,214.0,Deportivo,2,1,25.0,0.046,1,512.0
+500175,Referido,179.0,12,Guadalajara,Movil,44.0,1,0,697.0,Ropa,1,4,10.0,0.233,1,1424.0
+501738,Google Ads,369.0,5,Puebla,Tablet,22.0,1,15,605.0,Accesorios,3,1,26.0,0.07,0,999.0
+501003,Instagram,396.0,9,Puebla,Movil,24.0,0,15,156.0,Accesorios,1,1,20.0,0.03,0,173.0
+500631,Google Ads,780.0,6,CDMX,Movil,18.0,0,30,230.0,Calzado,1,0,,0.0,0,619.0
+500011,Google Ads,455.0,7,CDMX,Movil,39.0,0,0,433.0,Accesorios,3,2,35.0,0.292,1,849.0
+501193,Google Ads,282.0,3,Guadalajara,Tablet,34.0,0,30,370.0,Accesorios,2,0,,0.0,1,625.0
+501039,Instagram,356.0,5,Merida,Movil,35.0,0,10,276.0,Calzado,1,3,8.0,0.21,1,960.0
+501261,Referido,178.0,7,CDMX,Escritorio,34.0,0,15,832.0,Accesorios,4,4,29.0,0.161,0,1106.0
+500240,Afiliados,204.0,3,Puebla,Movil,41.0,1,20,214.0,Ropa,1,1,72.0,0.096,0,267.0
+500941,Instagram,392.0,1,Puebla,Escritorio,31.0,0,20,475.0,Ropa,3,0,,0.0,0,475.0
+501463,Afiliados,158.0,8,Monterrey,Escritorio,37.0,0,25,358.0,Deportivo,1,0,,0.0,0,517.0
+501922,Google Ads,322.0,2,Guadalajara,Tablet,26.0,0,0,257.0,Accesorios,1,1,3.0,0.27,1,742.0
+501040,Google Ads,444.0,1,CDMX,Movil,29.0,1,20,338.0,Calzado,2,1,37.0,0.067,1,891.0
+501727,Google Ads,455.0,1,Guadalajara,Movil,23.0,1,5,494.0,Ropa,1,1,42.0,0.143,1,1047.0
+501106,Google Ads,381.0,10,Guadalajara,Tablet,27.0,0,0,500.0,Deportivo,1,2,9.0,0.06,0,518.0
+500264,Google Ads,558.0,12,CDMX,Movil,24.0,0,15,288.0,Accesorios,3,1,8.0,0.178,0,586.0
+501811,Organico,113.0,12,CDMX,Movil,40.0,0,20,555.0,Calzado,2,4,32.0,0.042,1,1485.0
+501816,Organico,127.0,10,Guadalajara,Movil,37.0,1,0,527.0,Ropa,1,2,12.0,0.375,1,1276.0
+500959,Afiliados,234.0,12,CDMX,Movil,24.0,1,30,194.0,Ropa,1,1,27.0,0.203,0,976.0
+500099,Organico,107.0,10,Puebla,Movil,31.0,1,20,674.0,Ropa,2,3,10.0,0.323,0,1210.0
+500770,Google Ads,610.0,11,Puebla,Movil,29.0,0,25,462.0,Ropa,1,2,23.0,0.124,1,1091.0
+501842,Organico,88.0,1,CDMX,Movil,31.0,0,0,605.0,Ropa,2,3,11.0,0.128,0,1105.0
+501890,Instagram,444.0,9,CDMX,Movil,30.0,1,15,260.0,Ropa,3,3,10.0,0.062,0,904.0
+500667,Organico,187.0,8,CDMX,Escritorio,27.0,1,0,638.0,Ropa,3,1,25.0,0.067,1,1053.0
+501722,Organico,131.0,5,Monterrey,Escritorio,19.0,1,15,405.0,Ropa,2,2,24.0,0.309,1,862.0
+500212,Afiliados,185.0,1,CDMX,Movil,36.0,1,15,248.0,Deportivo,1,0,,0.0,0,361.0
+501159,Organico,137.0,9,CDMX,Movil,,0,0,1037.0,Calzado,2,2,7.0,0.093,0,1037.0
+501859,Google Ads,736.0,9,CDMX,Movil,26.0,0,5,708.0,Ropa,2,0,,0.0,1,1271.0
+501622,Instagram,374.0,8,CDMX,Movil,46.0,0,0,488.0,Deportivo,1,3,15.0,0.075,0,603.0
+500635,Organico,147.0,11,Merida,Movil,24.0,1,10,551.0,Deportivo,1,2,14.0,0.37,0,846.0
+500397,Organico,68.0,8,Guadalajara,Escritorio,36.0,0,0,629.0,Accesorios,4,2,26.0,0.193,0,897.0
+501690,Referido,211.0,1,Monterrey,Movil,28.0,0,0,303.0,Ropa,2,1,8.0,0.111,0,609.0
+501084,Instagram,340.0,11,Puebla,Escritorio,47.0,0,0,638.0,Calzado,2,2,35.0,0.001,1,696.0
+501367,Google Ads,485.0,5,Merida,Movil,33.0,1,0,599.0,Ropa,3,2,15.0,0.228,0,877.0
+500875,Google Ads,453.0,5,Guadalajara,Movil,36.0,1,0,483.0,Ropa,1,2,23.0,0.269,1,1319.0
+501692,instagram,710.0,5,Puebla,Escritorio,28.0,0,30,335.0,Ropa,1,1,23.0,0.429,1,552.0
+500417,Google Ads,340.0,6,Guadalajara,Movil,36.0,1,0,372.0,Accesorios,3,1,31.0,0.063,0,758.0
+501216,Afiliados,143.0,1,CDMX,Movil,28.0,0,0,427.0,Ropa,2,0,,0.0,0,576.0
+501309,Organico,78.0,2,Puebla,Movil,36.0,1,0,743.0,Ropa,5,2,19.0,0.163,1,1259.0
+501631,Instagram,466.0,5,Merida,Escritorio,18.0,1,15,459.0,Ropa,2,1,30.0,0.113,1,1282.0
+500382,Google Ads,411.0,12,CDMX,Movil,27.0,1,5,817.0,Accesorios,2,3,12.0,0.444,1,1162.0
+500058,Instagram,286.0,7,Guadalajara,Movil,36.0,0,20,461.0,Deportivo,2,1,90.0,0.064,0,739.0
+501657,Referido,184.0,10,Puebla,Movil,25.0,1,0,672.0,Ropa,1,1,5.0,0.052,0,1237.0
+501735,Organico,93.0,3,Sin dato,Movil,35.0,1,30,261.0,Accesorios,1,2,39.0,0.348,1,970.0
+501248,Instagram,427.0,3,CDMX,Movil,21.0,0,0,629.0,Ropa,2,3,15.0,0.173,1,1170.0
+501224,Afiliados,149.0,9,CDMX,Escritorio,,1,15,294.0,Accesorios,1,2,48.0,0.026,0,681.0
+501600,Google Ads,394.0,5,Merida,Escritorio,39.0,1,0,509.0,Ropa,2,1,24.0,0.053,0,1001.0
+501209,Google Ads,360.0,6,CDMX,Escritorio,28.0,1,15,432.0,Calzado,3,1,24.0,0.002,0,642.0
+501345,Afiliados,157.0,10,Merida,Escritorio,45.0,0,15,504.0,Accesorios,1,0,,0.0,0,504.0
+501854,Instagram,392.0,7,Monterrey,Movil,25.0,1,5,456.0,Deportivo,1,1,11.0,0.022,1,1053.0
+500689,Afiliados,213.0,12,Monterrey,Escritorio,25.0,0,30,364.0,Calzado,2,0,,0.0,0,550.0
+500474,Instagram,,7,CDMX,Movil,22.0,0,30,301.0,Calzado,3,0,,0.0,0,301.0
+500700,instagram,424.0,12,CDMX,Escritorio,25.0,0,0,577.0,Ropa,3,1,38.0,0.251,0,577.0
+500162,Referido,140.0,11,Merida,Movil,28.0,0,5,334.0,Ropa,1,0,,0.0,0,
+501184,Afiliados,244.0,7,Guadalajara,Movil,,0,20,280.0,Ropa,2,0,,0.0,0,536.0
+500341,Afiliados,168.0,7,Puebla,Movil,39.0,1,15,245.0,Ropa,1,0,,0.0,0,383.0
+500529,Organico,91.0,11,Monterrey,Movil,42.0,1,30,310.0,Calzado,2,4,10.0,0.348,1,1129.0
+500840,Organico,84.0,6,CDMX,Movil,33.0,0,15,236.0,Calzado,5,2,11.0,0.395,0,838.0
+500291,Afiliados,138.0,9,CDMX,Movil,45.0,0,15,169.0,Ropa,1,2,90.0,0.025,0,239.0
+500222,Google Ads,729.0,11,Monterrey,Escritorio,31.0,1,25,306.0,Ropa,3,2,8.0,0.104,1,
+500375,Referido,136.0,6,Guadalajara,Escritorio,20.0,0,25,314.0,Deportivo,2,3,16.0,0.213,1,1061.0
+500313,Organico,106.0,6,Monterrey,Movil,19.0,0,0,284.0,Calzado,1,4,30.0,0.043,0,803.0
+500380,Google Ads,340.0,1,Monterrey,Escritorio,44.0,0,10,463.0,Calzado,1,0,,0.0,1,1040.0
+500299,instagram,290.0,6,Monterrey,Movil,23.0,1,0,462.0,Ropa,1,1,28.0,0.065,0,645.0
+501940,Instagram,427.0,12,CDMX,Movil,36.0,0,0,423.0,Ropa,1,0,,0.0,0,539.0
+500182,Organico,115.0,2,Puebla,Escritorio,58.0,0,5,300.0,Accesorios,1,6,24.0,0.312,0,916.0
+500416,Referido,102.0,8,Merida,Movil,38.0,1,0,263.0,Deportivo,2,2,14.0,0.362,1,647.0
+500837,Instagram,329.0,5,CDMX,Escritorio,18.0,0,30,240.0,Accesorios,2,2,34.0,0.447,0,568.0
+500618,Instagram,452.0,5,Merida,Movil,32.0,1,5,832.0,Calzado,4,0,,0.0,0,927.0
+501370,Google Ads,539.0,10,Guadalajara,Movil,30.0,1,0,263.0,Accesorios,3,2,14.0,0.35,0,702.0
+500466,Google Ads,493.0,11,Guadalajara,Escritorio,26.0,1,20,607.0,Ropa,2,1,33.0,0.468,0,976.0
+500124,Organico,127.0,4,Monterrey,Tablet,38.0,0,15,340.0,Calzado,1,3,6.0,0.111,0,494.0
+501994,Referido,126.0,12,Guadalajara,Movil,32.0,1,25,507.0,Calzado,2,8,23.0,0.278,1,1245.0
+500366,Afiliados,247.0,10,CDMX,Movil,45.0,0,30,861.0,Accesorios,2,2,10.0,0.029,0,861.0
+501451,Afiliados,221.0,12,Guadalajara,Escritorio,52.0,0,20,479.0,Ropa,1,1,60.0,0.051,0,488.0
+500719,Referido,199.0,12,Merida,Movil,23.0,1,25,576.0,Ropa,2,4,13.0,0.346,1,952.0
+500981,Referido,167.0,8,CDMX,Escritorio,41.0,1,20,252.0,Calzado,2,0,,0.0,1,535.0
+500537,Google Ads,387.0,5,CDMX,Movil,24.0,0,15,390.0,Ropa,1,1,24.0,0.093,1,710.0
+501360,Afiliados,152.0,6,CDMX,Movil,,0,0,291.0,Calzado,2,2,22.0,0.112,0,951.0
+501087,Instagram,373.0,6,Guadalajara,Movil,29.0,0,0,754.0,Accesorios,1,1,37.0,0.066,0,754.0
+501736,Afiliados,327.0,6,Puebla,Movil,25.0,0,25,136.0,Accesorios,2,2,36.0,0.107,0,788.0
+501139,Instagram,503.0,4,Puebla,Movil,39.0,1,20,344.0,Calzado,4,0,,0.0,1,950.0
+501408,Instagram,275.0,10,Guadalajara,Escritorio,31.0,1,0,765.0,Ropa,5,5,26.0,0.171,1,1328.0
+501878,Instagram,289.0,1,Monterrey,Escritorio,18.0,1,20,250.0,Ropa,3,2,11.0,0.314,0,813.0
+500723,Instagram,409.0,8,Merida,Movil,28.0,0,20,603.0,Calzado,1,1,14.0,0.202,0,839.0
+501077,Google Ads,511.0,9,Guadalajara,Movil,38.0,0,0,542.0,Ropa,2,2,27.0,0.115,0,
+500166,Organico,132.0,1,Merida,Movil,32.0,1,15,422.0,Accesorios,3,0,,0.0,0,982.0
+501089,Referido,139.0,11,Merida,Movil,35.0,1,0,920.0,Ropa,1,3,13.0,0.615,0,1191.0
+501733,Referido,149.0,2,Monterrey,Movil,39.0,0,30,522.0,Ropa,1,2,16.0,0.372,1,1042.0
+501265,Referido,183.0,8,Guadalajara,Tablet,24.0,1,10,234.0,Ropa,2,7,12.0,0.17,1,1169.0
+500014,Google Ads,468.0,12,CDMX,Movil,,0,0,644.0,Ropa,1,0,,0.0,0,803.0
+501138,Afiliados,253.0,8,Monterrey,Movil,38.0,0,15,456.0,Calzado,2,0,,0.0,0,456.0
+500220,Referido,178.0,5,CDMX,Movil,34.0,1,5,385.0,Ropa,1,1,33.0,0.124,0,917.0
+500900,Google Ads,366.0,4,Puebla,Movil,27.0,0,0,731.0,Calzado,1,2,2.0,0.184,0,1071.0
+500711,Instagram,459.0,4,Merida,Movil,36.0,0,0,588.0,Calzado,2,0,,0.0,0,684.0
+501148,Instagram,273.0,7,Sin dato,Tablet,18.0,0,25,575.0,Calzado,2,3,21.0,0.186,1,869.0
+500376,Instagram,525.0,8,CDMX,Movil,38.0,1,0,705.0,Deportivo,1,2,30.0,0.507,1,1146.0
+501508,instagram,225.0,2,Monterrey,Movil,32.0,0,30,409.0,Deportivo,1,2,22.0,0.011,0,552.0
+501646,Instagram,367.0,6,Monterrey,Movil,54.0,0,0,439.0,Accesorios,1,0,,0.0,0,746.0
+501873,Organico,153.0,4,Guadalajara,Escritorio,31.0,0,0,483.0,Calzado,2,1,32.0,0.018,0,796.0
+500055,Instagram,383.0,1,CDMX,Escritorio,38.0,0,15,330.0,Calzado,2,0,,0.0,0,659.0
+501320,Organico,98.0,9,Guadalajara,Movil,24.0,1,20,436.0,Ropa,3,2,18.0,0.136,0,1040.0
+500525,Afiliados,137.0,2,Monterrey,Escritorio,37.0,0,0,373.0,Calzado,1,2,23.0,0.279,0,626.0
+501227,Organico,166.0,9,Puebla,Escritorio,22.0,0,5,1157.0,Ropa,1,3,39.0,0.407,0,1167.0
+500584,Referido,136.0,1,CDMX,Tablet,40.0,0,0,516.0,Accesorios,5,1,9.0,0.021,0,638.0
+500278,Instagram,487.0,4,CDMX,Movil,35.0,0,0,365.0,Ropa,4,0,,0.0,0,628.0
+500433,Organico,133.0,5,CDMX,Escritorio,40.0,0,15,360.0,Ropa,4,1,23.0,0.45,0,699.0
+501844,Instagram,,5,Merida,Movil,18.0,0,15,238.0,Ropa,1,2,13.0,0.043,0,246.0
+501469,Google Ads,586.0,12,Monterrey,Movil,35.0,1,0,403.0,Calzado,1,3,10.0,0.354,0,1016.0
+501594,Instagram,308.0,6,Puebla,Movil,36.0,0,15,327.0,Calzado,3,2,30.0,0.078,0,807.0
+501752,instagram,149.0,9,CDMX,Movil,43.0,0,0,488.0,Calzado,1,4,12.0,0.046,0,754.0
+500748,Google Ads,312.0,7,Puebla,Escritorio,30.0,0,0,315.0,Accesorios,4,0,,0.0,0,925.0
+501447,Google Ads,,5,Puebla,Escritorio,32.0,0,15,383.0,Ropa,2,2,15.0,0.481,0,783.0
+500835,Google Ads,415.0,1,CDMX,Movil,44.0,0,15,267.0,Deportivo,2,0,,0.0,0,499.0
+501506,Instagram,396.0,5,CDMX,Movil,20.0,0,0,682.0,Accesorios,1,1,5.0,0.014,0,1075.0
+500374,Google Ads,426.0,3,Puebla,Movil,45.0,0,20,243.0,Calzado,1,0,,0.0,0,569.0
+500135,Instagram,568.0,2,Puebla,Movil,,0,30,740.0,Calzado,1,0,,0.0,0,740.0
+501206,Google Ads,306.0,3,Guadalajara,Movil,32.0,1,10,324.0,Calzado,2,2,48.0,0.192,0,698.0
+501880,Afiliados,248.0,12,CDMX,Movil,,1,5,371.0,Calzado,1,1,35.0,0.077,0,734.0
+501556,Google Ads,475.0,4,Monterrey,Movil,26.0,0,0,455.0,Ropa,1,2,46.0,0.567,0,1015.0
+500982,Google Ads,446.0,10,Monterrey,Movil,29.0,1,5,228.0,Accesorios,2,0,,0.0,0,271.0
+501301,Referido,149.0,5,CDMX,Movil,27.0,1,0,1427.0,Ropa,3,4,17.0,0.152,0,1738.0
+500008,Organico,87.0,1,Monterrey,Movil,45.0,0,30,429.0,Accesorios,2,3,17.0,0.214,0,604.0
+500480,Google Ads,496.0,5,CDMX,Escritorio,46.0,0,0,194.0,Ropa,2,0,,0.0,0,531.0
+501551,Instagram,366.0,12,CDMX,Movil,28.0,1,20,608.0,Calzado,1,0,,0.0,0,853.0
+500156,Afiliados,117.0,8,CDMX,Movil,,0,25,299.0,Deportivo,2,0,,0.0,0,299.0
+500035,Afiliados,285.0,11,CDMX,Movil,48.0,0,15,254.0,Calzado,1,0,,0.0,0,260.0
+501672,Referido,142.0,8,Guadalajara,Movil,29.0,0,10,373.0,Deportivo,1,2,22.0,0.274,0,816.0
+500869,Google Ads,525.0,8,CDMX,Movil,30.0,0,0,370.0,Accesorios,2,3,5.0,0.241,1,1057.0
+501675,Instagram,393.0,3,Merida,Escritorio,37.0,0,10,397.0,Accesorios,3,2,22.0,0.116,1,1008.0
+500992,Google Ads,598.0,2,Sin dato,Movil,50.0,1,20,768.0,Ropa,4,1,29.0,0.123,0,913.0
+501454,Instagram,307.0,7,CDMX,Escritorio,35.0,0,0,470.0,Ropa,1,1,87.0,0.237,1,796.0
+500649,Organico,,10,CDMX,Movil,35.0,1,0,459.0,Ropa,2,2,22.0,0.189,1,931.0
+501060,Instagram,455.0,5,Monterrey,Movil,36.0,1,30,142.0,Calzado,4,0,,0.0,0,575.0
+500909,Google Ads,409.0,10,Puebla,Escritorio,31.0,1,0,817.0,Ropa,2,1,40.0,0.119,0,892.0
+501654,Instagram,529.0,2,Monterrey,Movil,27.0,0,15,393.0,Calzado,1,1,11.0,0.023,0,863.0
+501807,Google Ads,442.0,5,Monterrey,Movil,38.0,0,30,310.0,Ropa,1,2,43.0,0.174,0,448.0
+500218,Google Ads,331.0,5,CDMX,Movil,54.0,0,15,334.0,Ropa,1,0,,0.0,1,1146.0
+500043,Referido,95.0,9,CDMX,Escritorio,26.0,0,0,273.0,Accesorios,1,2,44.0,0.012,1,1071.0
+500037,Instagram,454.0,2,Guadalajara,Escritorio,42.0,1,0,1197.0,Ropa,4,3,15.0,0.188,1,1551.0
+501517,Instagram,402.0,1,Monterrey,Escritorio,37.0,1,0,288.0,Ropa,1,2,4.0,0.353,1,701.0
+500418,Afiliados,205.0,3,CDMX,Escritorio,30.0,1,5,190.0,Deportivo,1,1,46.0,0.051,0,190.0
+500588,Referido,165.0,1,Merida,Movil,24.0,1,0,1371.0,Ropa,1,3,8.0,0.257,1,1371.0
+500595,Afiliados,272.0,4,Guadalajara,Movil,,0,15,371.0,Ropa,1,1,26.0,0.085,0,451.0
+501204,Organico,125.0,11,CDMX,Escritorio,26.0,1,15,418.0,Accesorios,2,3,2.0,0.134,0,1004.0
+501521,Google Ads,330.0,9,Guadalajara,Movil,36.0,0,15,325.0,Ropa,1,1,36.0,0.176,0,1039.0
+501017,Instagram,461.0,1,Guadalajara,Movil,30.0,0,0,444.0,Ropa,2,0,,0.0,1,619.0
+500216,Google Ads,452.0,8,CDMX,Movil,27.0,1,20,553.0,Ropa,5,2,51.0,0.095,1,
+500288,Organico,137.0,6,CDMX,Movil,46.0,0,0,482.0,Ropa,3,5,7.0,0.337,1,1389.0
+501432,Google Ads,270.0,9,Puebla,Tablet,37.0,1,0,384.0,Accesorios,1,1,20.0,0.411,0,829.0
+500613,Instagram,368.0,11,Monterrey,Movil,36.0,1,20,397.0,Ropa,2,3,6.0,0.046,0,912.0
+500532,Referido,135.0,2,Monterrey,Movil,30.0,1,0,396.0,Accesorios,1,1,19.0,0.185,1,814.0
+501293,Afiliados,182.0,9,Guadalajara,Movil,,0,30,461.0,Calzado,2,0,,0.0,0,461.0
+500605,Afiliados,275.0,12,Guadalajara,Movil,19.0,0,25,320.0,Ropa,1,0,,0.0,0,320.0
+501055,Organico,115.0,5,Puebla,Movil,32.0,1,0,684.0,Calzado,3,5,11.0,0.162,1,1519.0
+500054,Instagram,324.0,3,Sin dato,Escritorio,38.0,0,15,308.0,Calzado,1,0,,0.0,0,308.0
+501453,Afiliados,209.0,6,Puebla,Movil,26.0,1,20,443.0,Calzado,1,1,29.0,0.428,0,1000.0
+500873,Google Ads,544.0,7,Guadalajara,Movil,29.0,1,0,459.0,Deportivo,1,0,,0.0,0,806.0
+501743,Instagram,380.0,7,CDMX,Escritorio,33.0,1,30,619.0,Ropa,5,5,57.0,0.395,1,1438.0
+501653,Referido,141.0,6,Guadalajara,Movil,18.0,1,0,324.0,Ropa,6,2,20.0,0.118,0,797.0
+500701,Organico,97.0,2,CDMX,Escritorio,61.0,0,0,764.0,Ropa,1,1,26.0,0.14,0,947.0
+500012,Google Ads,349.0,4,CDMX,Movil,39.0,1,15,663.0,Calzado,4,0,,0.0,0,708.0
+500286,Organico,110.0,11,Sin dato,Movil,43.0,1,0,546.0,Ropa,2,2,51.0,0.665,0,1271.0
+501495,Instagram,,1,CDMX,Tablet,28.0,0,20,326.0,Ropa,1,0,,0.0,0,326.0
+500834,Referido,210.0,9,CDMX,Escritorio,39.0,1,0,553.0,Ropa,2,1,31.0,0.43,0,783.0
+500594,Afiliados,182.0,1,CDMX,Movil,35.0,0,20,370.0,Ropa,3,1,63.0,0.531,1,901.0
+500148,Afiliados,207.0,1,CDMX,Movil,,0,25,252.0,Calzado,1,2,35.0,0.046,1,805.0
+500995,Organico,136.0,8,Merida,Tablet,40.0,1,0,834.0,Accesorios,1,1,27.0,0.308,0,879.0
+500494,Instagram,269.0,8,Monterrey,Movil,35.0,0,0,575.0,Ropa,3,0,,0.0,0,575.0
+501305,Instagram,,11,CDMX,Movil,42.0,0,30,521.0,Ropa,1,0,,0.0,0,712.0
+500348,Instagram,249.0,12,Puebla,Escritorio,38.0,1,0,328.0,Deportivo,3,1,22.0,0.018,0,711.0
+500462,Instagram,339.0,5,CDMX,Movil,24.0,0,25,466.0,Accesorios,2,0,,0.0,0,624.0
+500725,Instagram,234.0,2,Guadalajara,Escritorio,18.0,1,0,510.0,Ropa,1,2,13.0,0.172,0,661.0
+500914,Instagram,,6,CDMX,Movil,18.0,0,20,300.0,Deportivo,2,0,,0.0,0,300.0
+500781,Afiliados,197.0,7,Monterrey,Tablet,0.0,1,25,201.0,Ropa,3,0,,0.0,0,623.0
+500767,Afiliados,233.0,9,CDMX,Movil,28.0,0,30,146.0,Ropa,2,1,32.0,0.029,0,604.0
+500131,Organico,110.0,5,Guadalajara,Escritorio,40.0,0,5,442.0,Calzado,1,1,21.0,0.36,1,805.0
+500997,Afiliados,240.0,4,Puebla,Movil,34.0,0,20,572.0,Ropa,2,1,18.0,0.129,0,572.0
+500762,Referido,129.0,7,CDMX,Movil,31.0,1,15,345.0,Ropa,2,2,7.0,0.248,1,
+501781,Instagram,419.0,11,Merida,Movil,48.0,1,0,191.0,Ropa,1,0,,0.0,1,935.0
+500232,Instagram,359.0,11,CDMX,Movil,22.0,0,25,455.0,Ropa,3,1,9.0,0.221,0,455.0
+501127,Referido,140.0,8,Puebla,Escritorio,32.0,0,25,515.0,Ropa,2,0,,0.0,0,961.0
+501610,Referido,127.0,10,CDMX,Movil,26.0,0,20,711.0,Ropa,2,4,2.0,0.565,0,816.0
+501162,Instagram,397.0,2,CDMX,Escritorio,33.0,0,20,419.0,Ropa,1,0,,0.0,0,419.0
+501613,Instagram,463.0,10,Monterrey,Movil,29.0,0,0,367.0,Ropa,2,1,19.0,0.081,0,843.0
+501400,Instagram,299.0,12,CDMX,Tablet,,0,20,330.0,Calzado,3,1,32.0,0.398,1,794.0
+501325,Referido,137.0,5,Monterrey,Escritorio,22.0,1,20,586.0,Ropa,1,2,25.0,0.218,1,1173.0
+501758,Referido,178.0,10,CDMX,Escritorio,40.0,0,0,713.0,Accesorios,2,2,29.0,0.369,1,1190.0
+500621,Afiliados,281.0,5,Monterrey,Escritorio,,0,20,228.0,Ropa,1,1,90.0,0.003,0,471.0
+501532,Organico,112.0,11,Monterrey,Movil,46.0,0,0,538.0,Ropa,3,1,26.0,0.402,0,782.0
+501853,Organico,,11,CDMX,Movil,23.0,1,20,262.0,Ropa,3,2,36.0,0.32,0,713.0
+501709,Instagram,277.0,12,CDMX,Escritorio,44.0,0,0,589.0,Ropa,4,1,49.0,0.048,0,696.0
+500203,Google Ads,493.0,2,Monterrey,Movil,35.0,0,20,234.0,Ropa,1,2,7.0,0.028,1,1048.0
+500674,Instagram,265.0,2,CDMX,Movil,40.0,1,15,246.0,Accesorios,2,0,,0.0,0,774.0
+501456,Afiliados,249.0,12,Merida,Escritorio,41.0,0,15,302.0,Ropa,1,2,63.0,0.049,0,544.0
+500411,Instagram,434.0,11,Monterrey,Movil,42.0,1,10,389.0,Ropa,2,3,15.0,0.047,0,736.0
+501650,Instagram,337.0,5,CDMX,Movil,24.0,0,15,208.0,Calzado,3,4,2.0,0.576,1,933.0
+500844,Organico,,2,CDMX,Escritorio,18.0,1,0,467.0,Deportivo,3,4,47.0,0.029,1,918.0
+500587,Afiliados,227.0,10,Monterrey,Movil,24.0,0,30,488.0,Ropa,3,1,26.0,0.094,1,488.0
+501541,Google Ads,464.0,11,Guadalajara,Movil,30.0,1,0,499.0,Calzado,3,6,30.0,0.168,1,1041.0
+500884,Afiliados,200.0,2,CDMX,Escritorio,,0,25,182.0,Accesorios,1,2,90.0,0.223,0,182.0
+501883,Afiliados,184.0,6,Puebla,Movil,,1,0,659.0,Calzado,2,1,16.0,0.035,0,1178.0
+500878,Referido,175.0,6,Guadalajara,Tablet,31.0,0,0,790.0,Ropa,1,2,6.0,0.364,1,1628.0
+501782,Instagram,,4,CDMX,Escritorio,50.0,0,20,563.0,Deportivo,1,1,9.0,0.073,1,1015.0
+501815,Google Ads,478.0,2,Merida,Movil,48.0,0,30,230.0,Accesorios,2,0,,0.0,0,538.0
+501343,Instagram,405.0,9,CDMX,Movil,27.0,1,0,284.0,Calzado,2,0,,0.0,0,889.0
+500005,Referido,212.0,4,Puebla,Escritorio,22.0,1,0,705.0,Ropa,4,7,25.0,0.175,1,1792.0
+500484,Google Ads,676.0,1,Monterrey,Movil,49.0,1,0,998.0,Calzado,1,3,14.0,0.274,1,1627.0
+501882,Instagram,366.0,3,Guadalajara,Escritorio,35.0,1,30,539.0,Ropa,1,3,3.0,0.265,1,948.0
+500647,Afiliados,233.0,6,Merida,Escritorio,,0,20,362.0,Ropa,2,1,51.0,0.03,0,564.0
+500749,Afiliados,,5,CDMX,Movil,50.0,1,5,308.0,Ropa,1,1,61.0,0.022,0,676.0
+501107,Afiliados,234.0,2,Puebla,Movil,47.0,0,25,231.0,Calzado,7,1,90.0,0.027,0,402.0
+500566,Organico,99.0,9,Puebla,Movil,37.0,1,0,357.0,Accesorios,3,2,8.0,0.062,1,716.0
+500315,Instagram,466.0,2,Guadalajara,Movil,38.0,0,20,638.0,Ropa,3,2,28.0,0.403,0,850.0
+500252,Organico,160.0,8,Merida,Movil,47.0,0,15,178.0,Calzado,2,3,35.0,0.162,0,591.0
+501409,Afiliados,182.0,9,CDMX,Movil,,0,20,492.0,Calzado,2,1,20.0,0.029,0,746.0
+500841,Organico,118.0,11,Puebla,Tablet,,0,20,420.0,Calzado,3,2,21.0,0.063,0,791.0
+501836,Afiliados,262.0,7,Monterrey,Escritorio,18.0,0,25,293.0,Calzado,1,0,,0.0,0,396.0
+501791,Google Ads,349.0,10,Monterrey,Escritorio,29.0,0,5,419.0,Ropa,2,1,17.0,0.238,0,561.0
+500158,Google Ads,447.0,3,Guadalajara,Escritorio,26.0,0,5,468.0,Calzado,3,5,13.0,0.038,0,948.0
+500389,Google Ads,440.0,4,Guadalajara,Movil,25.0,1,30,398.0,Calzado,2,1,10.0,0.057,0,520.0
+501028,Instagram,443.0,10,CDMX,Movil,29.0,0,0,397.0,Deportivo,1,3,23.0,0.064,0,686.0
+501977,Organico,134.0,6,Monterrey,Movil,35.0,1,0,554.0,Ropa,1,0,,0.0,1,1269.0
+500060,Google Ads,572.0,4,Guadalajara,Escritorio,53.0,1,10,862.0,Accesorios,1,6,8.0,0.316,1,1618.0
+501693,Instagram,424.0,2,CDMX,Movil,27.0,0,0,687.0,Accesorios,3,3,34.0,0.113,1,920.0
+500739,Google Ads,326.0,11,Merida,Movil,38.0,0,0,794.0,Ropa,1,1,23.0,0.082,0,1219.0
+501185,instagram,113.0,7,Guadalajara,Movil,,0,0,976.0,Calzado,3,0,,0.0,1,1134.0
+500714,Referido,135.0,7,Monterrey,Movil,36.0,1,0,444.0,Ropa,1,5,5.0,0.179,0,1051.0
+500265,Google Ads,460.0,8,CDMX,Escritorio,43.0,1,25,281.0,Deportivo,1,2,36.0,0.004,0,704.0
+500145,Referido,207.0,12,CDMX,Escritorio,47.0,1,0,766.0,Deportivo,3,2,28.0,0.082,0,1416.0
+500530,Google Ads,509.0,10,Puebla,Movil,53.0,1,10,336.0,Accesorios,1,3,53.0,0.268,0,758.0
+501165,Google Ads,,10,Puebla,Movil,44.0,0,0,488.0,Ropa,1,0,,0.0,0,766.0
+500503,Instagram,437.0,5,CDMX,Escritorio,42.0,0,15,604.0,Deportivo,1,0,,0.0,0,1120.0
+500364,Google Ads,718.0,8,CDMX,Movil,39.0,0,25,467.0,Calzado,1,2,77.0,0.021,0,571.0
+501525,Instagram,447.0,5,CDMX,Movil,32.0,1,15,440.0,Ropa,2,0,,0.0,0,606.0
+500243,Google Ads,273.0,10,Guadalajara,Escritorio,47.0,1,15,581.0,Calzado,2,1,14.0,0.057,0,1188.0
+501817,Instagram,304.0,7,Puebla,Movil,33.0,0,15,332.0,Ropa,1,0,,0.0,0,596.0
+501927,Referido,155.0,8,CDMX,Escritorio,19.0,1,10,738.0,Calzado,3,6,8.0,0.264,1,1505.0
+500028,Instagram,471.0,3,Guadalajara,Movil,49.0,0,15,353.0,Calzado,1,3,14.0,0.388,0,764.0
+501607,Google Ads,465.0,4,CDMX,Escritorio,,1,0,850.0,Ropa,1,4,33.0,0.319,0,899.0
+501374,Organico,133.0,12,Merida,Movil,31.0,1,5,924.0,Accesorios,2,3,8.0,0.087,1,1562.0
+501215,Instagram,,5,Guadalajara,Movil,,1,15,424.0,Ropa,4,2,35.0,0.416,1,824.0
+500973,Instagram,,11,Guadalajara,Movil,31.0,0,15,630.0,Calzado,1,1,13.0,0.216,0,799.0
+501717,Instagram,386.0,12,Monterrey,Movil,26.0,0,0,313.0,Calzado,2,0,,0.0,1,608.0
+501734,Afiliados,228.0,2,CDMX,Movil,18.0,0,20,429.0,Ropa,1,3,31.0,0.027,0,671.0
+501080,Instagram,339.0,12,Guadalajara,Movil,39.0,1,0,508.0,Calzado,1,1,12.0,0.047,0,723.0
+501024,Afiliados,213.0,12,CDMX,Tablet,,0,25,205.0,Ropa,1,0,,0.0,1,462.0
+500381,Referido,101.0,6,Puebla,Movil,27.0,1,30,428.0,Ropa,3,2,18.0,0.429,1,1093.0
+500290,Referido,154.0,12,CDMX,Escritorio,28.0,1,5,571.0,Calzado,4,2,9.0,0.221,1,895.0
+501545,instagram,400.0,3,Monterrey,Escritorio,19.0,1,20,348.0,Ropa,4,1,15.0,0.061,0,541.0
+501748,Google Ads,670.0,2,CDMX,Movil,23.0,1,10,521.0,Ropa,1,1,27.0,0.389,1,1077.0
+501466,Afiliados,187.0,10,CDMX,Escritorio,30.0,1,0,674.0,Calzado,2,0,,0.0,1,674.0
+501982,Instagram,378.0,12,Monterrey,Movil,38.0,1,0,322.0,Deportivo,1,1,3.0,0.049,0,495.0
+501368,Google Ads,353.0,9,Puebla,Movil,43.0,0,15,506.0,Ropa,1,1,6.0,0.122,0,1072.0
+500335,Afiliados,237.0,12,Monterrey,Movil,,0,25,294.0,Ropa,1,1,59.0,0.371,0,594.0
+500184,Organico,,5,Puebla,Movil,37.0,0,0,240.0,Calzado,3,3,25.0,0.294,1,751.0
+500870,Instagram,333.0,1,CDMX,Escritorio,30.0,0,0,303.0,Ropa,2,0,,0.0,0,549.0
+501414,Referido,125.0,8,Monterrey,Movil,30.0,1,0,950.0,Deportivo,1,4,29.0,0.128,0,1258.0
+500851,Instagram,388.0,6,CDMX,Movil,43.0,0,0,454.0,Deportivo,2,1,31.0,0.396,0,748.0
+500645,Organico,142.0,3,Merida,Movil,25.0,1,0,568.0,Accesorios,4,2,24.0,0.211,0,1048.0
+500925,Referido,174.0,2,Merida,Movil,18.0,0,0,406.0,Calzado,1,5,5.0,0.376,1,1141.0
+501593,Google Ads,355.0,7,Guadalajara,Movil,18.0,0,10,524.0,Ropa,2,2,48.0,0.193,0,966.0
+501963,Referido,174.0,5,CDMX,Movil,26.0,0,0,622.0,Accesorios,1,7,20.0,0.443,0,1316.0
+501891,Afiliados,225.0,10,CDMX,Movil,30.0,0,10,275.0,Deportivo,1,0,,0.0,0,603.0
+500976,Google Ads,429.0,4,Merida,Movil,29.0,1,25,420.0,Accesorios,2,3,14.0,0.232,0,811.0
+501262,Referido,153.0,2,CDMX,Movil,39.0,0,25,309.0,Ropa,1,0,,0.0,0,662.0
+501537,Instagram,347.0,3,CDMX,Escritorio,,1,20,340.0,Ropa,1,0,,0.0,0,711.0
+500020,Instagram,407.0,4,CDMX,Escritorio,29.0,1,0,459.0,Calzado,1,1,66.0,0.11,1,891.0
+500181,Afiliados,250.0,12,Merida,Movil,24.0,0,0,377.0,Accesorios,1,0,,0.0,0,753.0
+500479,Instagram,301.0,6,Guadalajara,Movil,31.0,1,0,473.0,Calzado,3,3,45.0,0.373,0,1199.0
+500790,Organico,107.0,7,Monterrey,Movil,,0,15,360.0,Ropa,1,1,5.0,0.133,0,1061.0
+501577,Google Ads,,3,CDMX,Escritorio,41.0,0,0,608.0,Ropa,2,1,22.0,0.093,1,1258.0
+500295,Afiliados,145.0,9,Guadalajara,Movil,48.0,1,0,521.0,Accesorios,1,1,10.0,0.179,1,804.0
+500892,Organico,116.0,8,CDMX,Escritorio,41.0,1,5,400.0,Ropa,2,1,14.0,0.335,1,844.0
+500656,Organico,101.0,10,Monterrey,Movil,36.0,0,0,931.0,Ropa,4,0,,0.0,0,987.0
+500451,Instagram,365.0,5,Guadalajara,Movil,26.0,0,25,607.0,Accesorios,3,0,,0.0,0,713.0
+500692,Instagram,548.0,9,CDMX,Escritorio,51.0,1,0,270.0,Ropa,1,0,,0.0,0,336.0
+501682,Organico,104.0,12,Guadalajara,Movil,40.0,1,0,531.0,Calzado,5,1,40.0,0.112,0,1329.0
+501459,Instagram,384.0,5,Guadalajara,Movil,24.0,1,20,415.0,Deportivo,2,1,24.0,0.285,0,777.0
+501911,Organico,132.0,4,CDMX,Movil,31.0,1,30,437.0,Calzado,2,2,29.0,0.262,1,647.0
+500202,Referido,151.0,8,Monterrey,Movil,45.0,1,0,314.0,Accesorios,1,3,7.0,0.275,0,870.0
+501962,Instagram,334.0,12,Puebla,Movil,30.0,1,0,379.0,Deportivo,3,1,15.0,0.2,0,0.0
+500791,Instagram,,8,Puebla,Escritorio,47.0,1,5,812.0,Accesorios,1,0,,0.0,0,1125.0
+501951,Organico,118.0,8,Guadalajara,Movil,38.0,1,0,355.0,Calzado,1,4,46.0,0.129,0,887.0
+501579,Organico,139.0,3,CDMX,Tablet,18.0,0,0,516.0,Calzado,1,0,,0.0,1,1060.0
+501516,Google Ads,612.0,6,Guadalajara,Movil,36.0,0,0,645.0,Calzado,1,0,,0.0,1,653.0
+500908,Google Ads,512.0,7,CDMX,Movil,28.0,1,30,313.0,Calzado,3,5,10.0,0.079,1,1139.0
+501633,Instagram,396.0,6,CDMX,Movil,36.0,1,20,1167.0,Accesorios,2,0,,0.0,1,1188.0
+501086,Afiliados,329.0,1,Merida,Movil,44.0,0,25,256.0,Calzado,2,2,71.0,0.363,0,256.0
+500071,Organico,160.0,5,Merida,Escritorio,43.0,0,5,788.0,Ropa,3,1,37.0,0.065,0,1285.0
+500853,Organico,141.0,10,Monterrey,Movil,32.0,1,0,640.0,Calzado,2,2,64.0,0.259,0,1063.0
+501643,Google Ads,552.0,8,Puebla,Tablet,34.0,0,30,352.0,Calzado,1,0,,0.0,0,371.0
+500136,Instagram,,10,CDMX,Movil,24.0,0,10,545.0,Ropa,2,3,20.0,0.092,1,1053.0
+501504,Afiliados,148.0,12,CDMX,Tablet,,0,0,332.0,Accesorios,3,0,,0.0,0,958.0
+500801,Afiliados,221.0,2,Merida,Movil,27.0,1,25,200.0,Calzado,2,0,,0.0,0,251.0
+501568,Google Ads,469.0,5,Merida,Escritorio,37.0,0,20,280.0,Ropa,1,3,19.0,0.339,0,676.0
+501995,Afiliados,225.0,10,CDMX,Movil,24.0,1,20,293.0,Ropa,1,2,37.0,0.165,0,793.0
+501604,Organico,112.0,9,Guadalajara,Movil,,0,0,543.0,Ropa,2,1,22.0,0.074,0,646.0
+500615,Organico,122.0,12,Monterrey,Escritorio,37.0,0,0,622.0,Accesorios,2,1,59.0,0.065,1,1209.0
+500679,Organico,96.0,7,CDMX,Movil,18.0,1,15,646.0,Deportivo,2,5,19.0,0.212,1,1413.0
+501160,Afiliados,363.0,9,CDMX,Tablet,,1,15,323.0,Ropa,4,0,,0.0,1,807.0
+500251,Afiliados,262.0,9,Puebla,Escritorio,45.0,0,15,371.0,Calzado,1,0,,0.0,0,371.0
+501589,Instagram,295.0,5,Merida,Movil,29.0,1,15,680.0,Calzado,4,1,84.0,0.083,0,681.0
+500917,Organico,138.0,6,Monterrey,Movil,29.0,0,5,232.0,Calzado,1,1,41.0,0.029,1,640.0
+501336,Afiliados,199.0,10,Guadalajara,Movil,38.0,0,5,257.0,Ropa,2,2,21.0,0.421,0,580.0
+500815,Organico,76.0,5,Guadalajara,Escritorio,34.0,0,0,227.0,Ropa,3,1,40.0,0.169,0,317.0
+501894,Google Ads,,12,Merida,Escritorio,45.0,1,25,1063.0,Ropa,1,1,16.0,0.061,1,1063.0
+501372,Referido,140.0,5,Puebla,Movil,18.0,1,0,603.0,Accesorios,3,1,6.0,0.214,0,986.0
+501230,Afiliados,289.0,5,CDMX,Movil,38.0,1,30,295.0,Ropa,1,1,50.0,0.135,0,491.0
+500424,Afiliados,250.0,3,CDMX,Movil,,0,30,359.0,Accesorios,1,0,,0.0,0,380.0
+501263,Instagram,440.0,9,CDMX,Movil,50.0,1,0,572.0,Deportivo,1,1,74.0,0.065,0,572.0
+500398,Organico,113.0,7,Monterrey,Movil,40.0,1,0,1009.0,Ropa,2,3,19.0,0.27,0,1058.0
+500210,Afiliados,213.0,5,Puebla,Movil,,1,25,-261.0,Calzado,4,0,,0.0,0,740.0
+501812,Google Ads,460.0,7,CDMX,Escritorio,24.0,1,15,470.0,Calzado,1,0,,0.0,0,1041.0
+501804,Organico,97.0,10,Guadalajara,Movil,31.0,1,0,869.0,Ropa,2,3,7.0,0.263,1,1356.0
+500197,Google Ads,524.0,12,CDMX,Movil,43.0,1,0,550.0,Accesorios,3,2,6.0,0.025,0,550.0
+501926,Referido,169.0,8,Guadalajara,Movil,36.0,1,0,410.0,Calzado,2,4,66.0,0.375,1,848.0
+501805,Organico,119.0,2,CDMX,Movil,33.0,1,0,432.0,Ropa,2,0,,0.0,0,
+501034,Google Ads,416.0,1,Merida,Escritorio,28.0,0,20,256.0,Calzado,1,0,,0.0,1,705.0
+500017,Referido,176.0,9,Guadalajara,Movil,29.0,1,5,884.0,Calzado,3,3,14.0,0.178,1,1274.0
+500420,Instagram,419.0,4,CDMX,Escritorio,24.0,0,25,256.0,Deportivo,3,1,23.0,0.121,0,569.0
+500663,Afiliados,223.0,6,CDMX,Escritorio,30.0,1,20,293.0,Calzado,4,3,12.0,0.154,0,1259.0
+501339,Instagram,463.0,12,CDMX,Escritorio,44.0,0,25,276.0,Ropa,3,2,43.0,0.206,0,462.0
+500520,Organico,108.0,6,CDMX,Movil,40.0,1,30,423.0,Ropa,1,4,11.0,0.356,0,1204.0
+500231,Organico,76.0,7,CDMX,Movil,42.0,0,25,479.0,Calzado,4,1,56.0,0.503,0,742.0
+500067,Google Ads,469.0,5,Merida,Movil,47.0,0,15,236.0,Calzado,1,0,,0.0,0,398.0
+501913,Organico,199.0,4,Merida,Escritorio,37.0,0,0,459.0,Calzado,4,3,14.0,0.163,1,1504.0
+500224,Instagram,382.0,11,CDMX,Movil,35.0,1,5,538.0,Accesorios,3,2,59.0,0.351,1,1263.0
+500726,Instagram,382.0,9,CDMX,Escritorio,35.0,1,15,371.0,Ropa,3,0,,0.0,1,1074.0
+500803,Instagram,574.0,4,Puebla,Movil,29.0,1,0,387.0,Ropa,2,1,20.0,0.477,0,869.0
+500975,Referido,164.0,11,Guadalajara,Movil,27.0,1,5,765.0,Accesorios,3,0,,0.0,1,1130.0
+501536,Instagram,358.0,11,CDMX,Movil,41.0,0,25,440.0,Accesorios,1,2,90.0,0.297,0,657.0
+500634,Referido,120.0,7,Merida,Escritorio,39.0,1,5,1272.0,Ropa,3,0,,0.0,1,1435.0
+500798,Organico,138.0,11,CDMX,Movil,31.0,1,0,450.0,Ropa,2,1,10.0,0.087,0,
+500490,Afiliados,191.0,3,Guadalajara,Movil,35.0,0,20,327.0,Deportivo,2,1,19.0,0.094,0,685.0
+500270,Google Ads,619.0,9,Monterrey,Escritorio,37.0,0,20,279.0,Ropa,2,2,16.0,0.086,0,789.0
+501426,Afiliados,210.0,3,Guadalajara,Escritorio,,1,15,297.0,Calzado,1,0,,0.0,1,672.0
+501629,Organico,93.0,5,Puebla,Escritorio,24.0,0,20,645.0,Ropa,2,3,21.0,0.147,1,897.0
+501481,Google Ads,680.0,10,CDMX,Movil,34.0,0,15,626.0,Ropa,1,1,65.0,0.026,0,746.0
+500593,Google Ads,347.0,5,Puebla,Movil,40.0,0,0,315.0,Deportivo,1,1,22.0,0.041,0,691.0
+501820,Instagram,415.0,11,CDMX,Movil,25.0,0,0,458.0,Accesorios,2,0,,0.0,0,581.0
+501181,Google Ads,501.0,1,CDMX,Movil,23.0,1,15,327.0,Calzado,2,0,,0.0,0,488.0
+500383,Google Ads,427.0,10,CDMX,Movil,31.0,0,0,436.0,Ropa,1,4,18.0,0.427,0,1020.0
+501586,Instagram,322.0,9,CDMX,Escritorio,20.0,1,10,461.0,Ropa,2,1,9.0,0.303,1,993.0
+500123,Afiliados,144.0,1,CDMX,Movil,32.0,1,20,296.0,Calzado,1,0,,0.0,0,652.0
+501134,Afiliados,188.0,11,Guadalajara,Escritorio,21.0,0,30,743.0,Accesorios,1,1,9.0,0.228,0,968.0
+501031,Afiliados,204.0,7,CDMX,Movil,30.0,0,15,152.0,Deportivo,1,0,,0.0,0,273.0
+501095,Instagram,,7,Puebla,Escritorio,50.0,0,0,677.0,Calzado,4,2,3.0,0.023,0,866.0
+501588,Instagram,314.0,8,CDMX,Escritorio,18.0,0,20,340.0,Deportivo,1,2,57.0,0.212,0,636.0
+501146,Instagram,403.0,4,CDMX,Tablet,35.0,1,0,304.0,Accesorios,2,0,,0.0,0,415.0
+500670,Google Ads,518.0,4,Guadalajara,Escritorio,36.0,1,25,705.0,Deportivo,4,2,8.0,0.157,1,1052.0
+500675,Organico,133.0,4,CDMX,Movil,33.0,1,20,1158.0,Ropa,2,3,12.0,0.163,1,1219.0
+501238,Instagram,437.0,4,Puebla,Movil,43.0,1,10,477.0,Deportivo,1,1,71.0,0.246,0,549.0
+500194,Referido,153.0,6,Merida,Movil,34.0,0,30,524.0,Ropa,1,2,39.0,0.513,1,726.0
+500214,Organico,142.0,7,Guadalajara,Escritorio,51.0,0,0,990.0,Calzado,1,2,9.0,0.333,1,1787.0
+500437,Google Ads,507.0,6,Puebla,Tablet,30.0,0,0,742.0,Deportivo,2,1,28.0,0.071,1,1366.0
+500094,Organico,135.0,3,CDMX,Escritorio,45.0,1,0,564.0,Ropa,4,1,17.0,0.106,0,973.0
+501570,Organico,121.0,8,Monterrey,Movil,31.0,1,15,759.0,Ropa,1,2,35.0,0.132,1,1217.0
+501188,Afiliados,185.0,6,Puebla,Movil,58.0,0,0,227.0,Accesorios,1,2,41.0,0.043,0,303.0
+500441,Afiliados,237.0,2,Merida,Escritorio,,0,20,370.0,Ropa,2,1,15.0,0.067,0,625.0
+500293,Google Ads,506.0,4,CDMX,Movil,18.0,0,25,218.0,Accesorios,2,0,,0.0,1,218.0
+501171,Organico,101.0,6,Puebla,Escritorio,33.0,1,25,558.0,Calzado,2,1,17.0,0.113,0,712.0
+500710,Referido,179.0,9,CDMX,Escritorio,,1,5,400.0,Calzado,1,1,5.0,0.181,1,931.0
+500534,Google Ads,666.0,10,CDMX,Movil,34.0,1,0,252.0,Deportivo,1,1,45.0,0.243,0,466.0
+501942,Afiliados,222.0,8,CDMX,Movil,40.0,1,25,337.0,Calzado,2,0,,0.0,0,466.0
+500161,Google Ads,529.0,2,CDMX,Movil,24.0,0,0,337.0,Accesorios,2,4,28.0,0.32,0,967.0
+500273,Instagram,260.0,7,Guadalajara,Movil,21.0,1,25,257.0,Calzado,1,0,,0.0,0,830.0
+500522,Instagram,374.0,12,Monterrey,Escritorio,38.0,0,0,365.0,Calzado,1,1,13.0,0.309,1,775.0
+500696,Referido,140.0,3,Guadalajara,Escritorio,41.0,1,0,726.0,Calzado,1,1,30.0,0.017,0,1039.0
+501396,Instagram,524.0,5,Guadalajara,Movil,30.0,0,0,231.0,Ropa,3,3,49.0,0.214,1,642.0
+500638,Google Ads,411.0,9,Merida,Escritorio,47.0,0,25,428.0,Accesorios,1,1,70.0,0.208,1,900.0
+500081,Afiliados,199.0,3,Puebla,Movil,,1,20,261.0,Calzado,3,0,,0.0,0,561.0
+501067,Organico,109.0,11,Puebla,Movil,38.0,0,25,608.0,Calzado,3,0,,0.0,1,1270.0
+501924,Google Ads,,10,Guadalajara,Movil,33.0,1,15,340.0,Accesorios,1,3,17.0,0.412,1,1076.0
+500812,Instagram,584.0,12,Merida,Escritorio,31.0,1,5,508.0,Ropa,1,0,,0.0,0,622.0
+501358,Instagram,326.0,4,Puebla,Movil,34.0,0,15,473.0,Calzado,3,4,45.0,0.208,0,931.0
+501572,Instagram,455.0,9,Puebla,Movil,34.0,0,10,182.0,Ropa,3,4,9.0,0.166,0,649.0
+500936,Google Ads,486.0,10,Guadalajara,Movil,51.0,0,5,310.0,Deportivo,1,2,11.0,0.016,1,638.0
+501272,Referido,170.0,7,Guadalajara,Movil,23.0,1,5,719.0,Accesorios,3,2,45.0,0.328,1,1312.0
+501295,Afiliados,245.0,8,Monterrey,Movil,27.0,1,25,260.0,Calzado,1,0,,0.0,0,441.0
+500472,Instagram,476.0,2,Puebla,Movil,39.0,0,0,799.0,Ropa,3,1,7.0,0.221,0,912.0
+501100,Instagram,349.0,11,Merida,Movil,,0,30,140.0,Accesorios,1,3,7.0,0.491,0,179.0
+501540,Organico,98.0,11,Puebla,Escritorio,,0,0,649.0,Ropa,2,3,24.0,0.139,0,959.0
+501851,Google Ads,811.0,10,Puebla,Movil,20.0,0,0,596.0,Ropa,2,1,59.0,0.397,0,821.0
+501674,Google Ads,548.0,9,Guadalajara,Movil,22.0,0,0,403.0,Calzado,4,1,23.0,0.012,1,1180.0
+501656,Referido,142.0,2,Guadalajara,Movil,29.0,0,0,423.0,Ropa,2,1,2.0,0.283,0,792.0
+500933,Referido,151.0,4,Puebla,Escritorio,40.0,0,0,546.0,Ropa,6,2,18.0,0.226,1,1089.0
+500852,Afiliados,149.0,4,CDMX,Movil,,0,25,328.0,Calzado,1,1,23.0,0.464,0,328.0
+501746,Instagram,359.0,5,Puebla,Escritorio,52.0,1,0,482.0,Accesorios,1,1,8.0,0.051,0,767.0
+501623,Instagram,390.0,11,Puebla,Movil,42.0,1,25,390.0,Accesorios,1,0,,0.0,0,818.0
+500098,Google Ads,326.0,2,Puebla,Movil,31.0,0,30,277.0,Ropa,2,1,30.0,0.061,1,510.0
+500832,Instagram,384.0,11,Monterrey,Movil,44.0,0,20,453.0,Ropa,1,3,13.0,0.081,1,843.0
+501363,Google Ads,297.0,5,CDMX,Escritorio,27.0,0,10,678.0,Ropa,1,0,,0.0,0,678.0
+501737,Instagram,340.0,3,Guadalajara,Movil,,1,20,387.0,Calzado,1,0,,0.0,0,545.0
+500983,Organico,121.0,6,CDMX,Movil,38.0,1,0,257.0,Ropa,1,2,31.0,0.281,0,588.0
+501662,Organico,132.0,11,CDMX,Movil,26.0,1,25,1051.0,Calzado,1,1,52.0,0.366,1,1160.0
+500345,Google Ads,382.0,3,CDMX,Movil,33.0,1,10,204.0,Deportivo,3,3,61.0,0.264,0,752.0
+500257,Instagram,361.0,12,CDMX,Movil,41.0,1,25,596.0,Ropa,1,3,3.0,0.133,0,1613.0
+501264,Google Ads,529.0,4,Guadalajara,Movil,18.0,1,30,181.0,Ropa,4,0,,0.0,1,688.0
+501163,Google Ads,513.0,2,Puebla,Escritorio,30.0,0,15,631.0,Accesorios,1,2,42.0,0.126,0,899.0
+501353,instagram,173.0,1,Merida,Escritorio,32.0,1,25,613.0,Accesorios,1,3,46.0,0.095,1,
+501357,Instagram,436.0,5,Guadalajara,Movil,27.0,1,25,312.0,Ropa,1,0,,0.0,0,366.0
+500160,Afiliados,233.0,8,Monterrey,Movil,31.0,0,30,241.0,Calzado,2,0,,0.0,0,404.0
+501412,Organico,98.0,8,Merida,Movil,23.0,0,0,627.0,Accesorios,1,4,16.0,0.163,0,989.0
+501279,Organico,142.0,10,Guadalajara,Escritorio,30.0,0,0,509.0,Accesorios,1,6,17.0,0.393,1,1192.0
+501158,Afiliados,235.0,6,Puebla,Movil,26.0,1,10,270.0,Deportivo,2,1,10.0,0.202,0,886.0
+501689,Referido,177.0,3,CDMX,Escritorio,18.0,1,25,642.0,Ropa,2,0,,0.0,0,673.0
+501822,Google Ads,419.0,3,CDMX,Movil,34.0,1,25,225.0,Calzado,2,0,,0.0,0,225.0
+501624,Organico,179.0,11,Puebla,Escritorio,31.0,1,5,881.0,Ropa,3,1,10.0,0.193,1,1612.0
+500486,Google Ads,338.0,9,Merida,Movil,51.0,1,15,402.0,Accesorios,1,1,46.0,0.29,1,809.0
+500843,Google Ads,430.0,7,CDMX,Movil,32.0,1,25,485.0,Deportivo,1,0,,0.0,0,576.0
+501768,Afiliados,172.0,4,CDMX,Movil,36.0,0,15,175.0,Ropa,2,1,30.0,0.203,0,
+500013,Organico,128.0,6,Monterrey,Movil,36.0,0,20,392.0,Calzado,1,2,17.0,0.086,1,1145.0
+500312,Google Ads,475.0,10,Puebla,Escritorio,32.0,1,5,502.0,Ropa,4,3,53.0,0.052,1,1238.0
+500501,Instagram,462.0,2,CDMX,Movil,18.0,1,20,392.0,Calzado,1,2,22.0,0.014,0,672.0
+501857,Organico,104.0,6,CDMX,Movil,38.0,1,0,820.0,Calzado,2,4,4.0,0.449,0,1412.0
+501170,Organico,174.0,4,Puebla,Movil,30.0,0,0,444.0,Deportivo,3,2,10.0,0.011,0,1123.0
+501676,Referido,135.0,3,Puebla,Movil,36.0,1,0,685.0,Ropa,1,2,55.0,0.017,0,855.0
+501496,Google Ads,506.0,12,CDMX,Escritorio,31.0,1,0,395.0,Ropa,1,1,26.0,0.148,0,709.0
+500544,Organico,84.0,7,Monterrey,Movil,36.0,1,25,398.0,Ropa,2,1,42.0,0.213,1,1155.0
+500916,Referido,128.0,6,CDMX,Movil,21.0,1,30,364.0,Ropa,3,1,18.0,0.398,0,1291.0
+500508,Google Ads,498.0,6,Puebla,Escritorio,21.0,1,0,385.0,Deportivo,2,1,90.0,0.199,0,705.0
+500773,Organico,118.0,1,Guadalajara,Movil,34.0,1,5,440.0,Ropa,4,3,14.0,0.059,1,1029.0
+500357,Instagram,497.0,4,CDMX,Escritorio,41.0,1,30,425.0,Ropa,1,0,,0.0,1,
+500468,Afiliados,,10,CDMX,Movil,,0,30,120.0,Calzado,1,0,,0.0,0,331.0
+501906,Referido,160.0,3,CDMX,Escritorio,31.0,1,10,512.0,Calzado,1,3,40.0,0.082,0,757.0
+500578,Instagram,303.0,4,Merida,Tablet,,1,20,244.0,Ropa,1,2,46.0,0.049,0,445.0
+500518,Organico,124.0,4,Merida,Movil,34.0,0,5,353.0,Ropa,1,1,21.0,0.176,0,441.0
+500690,Afiliados,259.0,2,CDMX,Movil,,0,20,240.0,Ropa,4,2,26.0,0.025,0,637.0
+500314,Google Ads,516.0,2,Puebla,Movil,38.0,1,0,410.0,Accesorios,2,0,,0.0,0,803.0
+500431,Google Ads,368.0,7,Merida,Escritorio,32.0,0,20,1033.0,Accesorios,7,1,25.0,0.295,0,1168.0
+501897,Organico,133.0,4,CDMX,Movil,40.0,1,0,578.0,Calzado,3,0,,0.0,1,896.0
+501520,Afiliados,358.0,6,Guadalajara,Movil,39.0,0,30,214.0,Calzado,1,1,4.0,0.043,1,460.0
+500777,Referido,166.0,9,Monterrey,Movil,27.0,1,30,606.0,Calzado,2,2,29.0,0.113,0,832.0
+500890,Afiliados,197.0,7,CDMX,Escritorio,49.0,1,20,413.0,Calzado,2,0,,0.0,0,701.0
+501899,Afiliados,,2,Guadalajara,Escritorio,29.0,0,25,631.0,Calzado,1,1,51.0,0.031,1,631.0
+501712,Instagram,398.0,2,CDMX,Movil,40.0,0,30,710.0,Accesorios,1,2,24.0,0.118,0,882.0
+501198,Google Ads,542.0,8,Merida,Escritorio,37.0,1,0,661.0,Accesorios,2,1,29.0,0.244,0,951.0
+500666,Google Ads,305.0,2,Merida,Movil,32.0,0,0,252.0,Ropa,3,1,20.0,0.054,1,706.0
+501760,Instagram,375.0,10,CDMX,Escritorio,23.0,0,20,228.0,Ropa,3,0,,0.0,0,638.0
+500677,Instagram,451.0,4,CDMX,Movil,27.0,0,20,269.0,Calzado,2,0,,0.0,0,302.0
+501932,Afiliados,199.0,7,CDMX,Escritorio,,0,0,256.0,Calzado,3,0,,0.0,0,
+501390,Instagram,441.0,1,Puebla,Escritorio,39.0,1,25,273.0,Deportivo,1,2,48.0,0.271,0,757.0
+501075,Instagram,401.0,3,Guadalajara,Escritorio,41.0,1,0,741.0,Ropa,2,1,5.0,0.378,0,1101.0
+501300,Google Ads,435.0,5,Monterrey,Movil,28.0,0,0,510.0,Ropa,2,3,38.0,0.256,0,739.0
+501728,Afiliados,210.0,8,Puebla,Movil,19.0,0,15,265.0,Deportivo,2,1,6.0,0.736,1,483.0
+501090,Organico,92.0,12,Guadalajara,Movil,39.0,0,0,603.0,Ropa,1,0,,0.0,0,923.0
+501422,Instagram,271.0,3,Guadalajara,Escritorio,30.0,1,30,364.0,Calzado,2,1,56.0,0.11,1,827.0
+501559,Referido,110.0,6,Merida,Movil,39.0,1,0,891.0,Accesorios,5,2,44.0,0.145,1,
+501875,Google Ads,438.0,9,CDMX,Movil,40.0,0,15,735.0,Calzado,2,2,53.0,0.142,0,935.0
+500050,Organico,118.0,8,CDMX,Movil,44.0,1,0,477.0,Ropa,2,4,14.0,0.095,1,873.0
+500554,Instagram,402.0,9,CDMX,Movil,43.0,1,15,313.0,Ropa,1,1,67.0,0.033,1,1165.0
+500577,Google Ads,317.0,2,Merida,Movil,53.0,1,5,398.0,Calzado,5,3,23.0,0.064,1,1030.0
+500895,Instagram,299.0,2,Guadalajara,Movil,33.0,0,0,387.0,Ropa,2,2,18.0,0.262,0,741.0
+501608,Instagram,420.0,3,Guadalajara,Movil,20.0,1,15,366.0,Calzado,3,1,28.0,0.044,0,404.0
+500097,Referido,138.0,6,Merida,Movil,39.0,0,20,794.0,Ropa,1,3,42.0,0.174,1,888.0
+501326,Instagram,310.0,9,Merida,Tablet,27.0,0,20,243.0,Accesorios,3,2,34.0,0.19,0,536.0
+500300,Referido,112.0,4,CDMX,Escritorio,30.0,1,0,856.0,Deportivo,3,7,19.0,0.101,1,1453.0
+500805,Organico,121.0,11,CDMX,Movil,42.0,1,0,663.0,Accesorios,1,3,30.0,0.145,1,1119.0
+501950,Instagram,439.0,5,Merida,Escritorio,33.0,0,0,594.0,Calzado,3,2,39.0,0.078,0,1005.0
+501112,Referido,205.0,7,Guadalajara,Escritorio,29.0,0,30,351.0,Calzado,2,1,12.0,0.26,0,732.0
+500703,Instagram,539.0,8,CDMX,Movil,38.0,0,15,502.0,Accesorios,4,1,49.0,0.004,0,502.0
+500241,instagram,91.0,7,Puebla,Movil,44.0,1,10,757.0,Deportivo,1,4,12.0,0.329,1,1391.0
+500025,Instagram,380.0,1,Puebla,Movil,28.0,0,0,251.0,Ropa,3,1,36.0,0.158,1,907.0
+501174,Organico,145.0,12,Merida,Movil,33.0,1,20,233.0,Ropa,2,2,25.0,0.23,0,949.0
+501356,Organico,99.0,11,CDMX,Escritorio,31.0,0,20,810.0,Calzado,3,3,16.0,0.094,0,1386.0
+501524,Google Ads,579.0,3,Guadalajara,Movil,40.0,0,15,472.0,Ropa,2,4,8.0,0.2,0,682.0
+500074,Instagram,282.0,2,CDMX,Movil,32.0,1,0,250.0,Ropa,1,0,,0.0,0,250.0
+501439,Referido,98.0,10,Guadalajara,Movil,22.0,0,0,806.0,Calzado,5,3,38.0,0.51,0,1361.0
+500572,Afiliados,203.0,11,Monterrey,Movil,28.0,0,5,345.0,Deportivo,1,2,42.0,0.036,0,345.0
+501108,Afiliados,203.0,6,Guadalajara,Movil,25.0,1,20,173.0,Calzado,2,0,,0.0,0,265.0
+500178,Google Ads,371.0,11,Guadalajara,Movil,31.0,1,0,699.0,Ropa,1,1,34.0,0.121,0,722.0
+500361,Afiliados,289.0,3,CDMX,Movil,,0,15,206.0,Calzado,1,0,,0.0,0,670.0
+500676,Instagram,327.0,6,Monterrey,Movil,18.0,0,0,432.0,Accesorios,2,0,,0.0,0,849.0
+501806,Instagram,335.0,4,Puebla,Movil,27.0,1,15,485.0,Calzado,2,0,,0.0,1,792.0
+500946,Referido,147.0,12,Puebla,Movil,28.0,1,20,649.0,Accesorios,2,2,12.0,0.657,1,1023.0
+500988,Google Ads,451.0,2,CDMX,Escritorio,,0,15,581.0,Calzado,2,2,31.0,0.016,0,838.0
+501019,Organico,,7,Monterrey,Movil,39.0,1,0,525.0,Calzado,4,1,15.0,0.061,0,829.0
+501419,Instagram,262.0,5,Guadalajara,Escritorio,27.0,1,15,742.0,Ropa,3,2,17.0,0.061,1,913.0
+501173,Afiliados,231.0,7,CDMX,Movil,35.0,0,25,138.0,Accesorios,2,0,,0.0,0,138.0
+501208,Organico,102.0,11,CDMX,Escritorio,44.0,0,0,551.0,Calzado,2,0,,0.0,0,984.0
+501474,Google Ads,397.0,11,Merida,Movil,31.0,1,5,588.0,Accesorios,1,0,,0.0,0,1277.0
+501126,Google Ads,417.0,4,Puebla,Movil,36.0,0,0,368.0,Calzado,1,0,,0.0,0,1163.0
+501331,Afiliados,298.0,12,CDMX,Tablet,46.0,1,0,243.0,Ropa,3,0,,0.0,0,493.0
+501244,instagram,435.0,7,Guadalajara,Escritorio,35.0,0,0,925.0,Deportivo,1,1,90.0,0.171,1,1162.0
+500526,Referido,130.0,2,Guadalajara,Escritorio,44.0,1,0,500.0,Ropa,3,2,49.0,0.089,1,1140.0
+501472,Afiliados,273.0,11,Puebla,Escritorio,22.0,1,20,363.0,Ropa,1,2,7.0,0.169,0,768.0
+501617,Instagram,330.0,9,Monterrey,Movil,30.0,0,25,240.0,Ropa,1,2,15.0,0.047,0,500.0
+501009,Instagram,418.0,2,Guadalajara,Escritorio,30.0,1,20,281.0,Accesorios,3,1,90.0,0.509,0,1007.0
+501064,Instagram,372.0,9,Puebla,Movil,25.0,0,0,432.0,Accesorios,1,2,20.0,0.384,0,948.0
+501903,Organico,95.0,9,CDMX,Movil,24.0,1,0,618.0,Ropa,2,0,,0.0,0,788.0
+500660,Organico,85.0,2,Monterrey,Escritorio,25.0,1,0,786.0,Accesorios,2,4,45.0,0.47,1,1222.0
+500110,Google Ads,526.0,9,Guadalajara,Movil,22.0,0,0,636.0,Ropa,1,4,63.0,0.106,0,1176.0
+501179,Instagram,451.0,10,Merida,Movil,39.0,0,20,304.0,Calzado,1,0,,0.0,0,553.0
+501122,Organico,154.0,3,Guadalajara,Movil,39.0,1,25,264.0,Ropa,1,0,,0.0,0,407.0
+500718,Instagram,375.0,10,Monterrey,Escritorio,24.0,1,0,552.0,Deportivo,4,0,,0.0,1,1112.0
+500298,Google Ads,441.0,9,CDMX,Movil,42.0,0,0,589.0,Ropa,3,0,,0.0,0,695.0
+500505,Instagram,413.0,3,Monterrey,Movil,43.0,1,0,351.0,Accesorios,5,1,5.0,0.157,1,598.0
+501967,Instagram,267.0,8,Monterrey,Movil,27.0,1,10,208.0,Accesorios,1,1,20.0,0.082,0,257.0
+501054,Instagram,345.0,8,Guadalajara,Movil,38.0,0,0,485.0,Ropa,4,0,,0.0,0,1221.0
+501886,Instagram,264.0,3,CDMX,Escritorio,33.0,1,0,781.0,Ropa,4,1,4.0,0.012,1,1337.0
+501431,Organico,125.0,3,Guadalajara,Movil,26.0,1,10,612.0,Ropa,2,2,19.0,0.225,0,743.0
+501828,Referido,190.0,9,CDMX,Movil,23.0,1,10,571.0,Deportivo,2,4,21.0,0.217,1,1498.0
+501956,Referido,180.0,9,Guadalajara,Movil,54.0,1,0,791.0,Accesorios,2,1,26.0,0.412,1,866.0
+500863,Instagram,346.0,4,Monterrey,Movil,27.0,0,30,309.0,Ropa,2,3,49.0,0.038,1,704.0
+501036,Afiliados,185.0,9,CDMX,Movil,25.0,0,0,609.0,Ropa,4,0,,0.0,0,790.0
+500324,Organico,124.0,7,CDMX,Movil,30.0,0,0,451.0,Accesorios,4,2,49.0,0.204,0,852.0
+501283,Organico,111.0,12,CDMX,Movil,48.0,1,0,617.0,Calzado,2,3,11.0,0.347,1,1488.0
+500657,Afiliados,239.0,7,Puebla,Movil,32.0,0,15,382.0,Calzado,1,1,28.0,0.028,0,828.0
+501715,Afiliados,252.0,2,CDMX,Movil,,1,25,388.0,Accesorios,3,1,22.0,0.348,0,846.0
+501625,Referido,,12,Monterrey,Escritorio,36.0,1,15,873.0,Ropa,1,2,35.0,0.197,0,873.0
+501085,Organico,189.0,9,CDMX,Movil,43.0,1,15,277.0,Deportivo,3,1,38.0,0.107,0,868.0
+500990,Instagram,473.0,5,Merida,Movil,35.0,0,20,380.0,Deportivo,4,2,25.0,0.647,1,1436.0
+501381,Instagram,352.0,5,CDMX,Movil,41.0,1,15,220.0,Deportivo,2,0,,0.0,0,449.0
+501068,Afiliados,255.0,3,CDMX,Escritorio,29.0,0,10,236.0,Accesorios,3,2,55.0,0.005,0,835.0
+500128,Instagram,411.0,12,Guadalajara,Movil,51.0,1,0,541.0,Ropa,2,1,6.0,0.153,1,1018.0
+501644,Organico,88.0,11,CDMX,Movil,31.0,0,0,1100.0,Deportivo,1,3,5.0,0.027,1,1525.0
+501276,Google Ads,448.0,5,CDMX,Movil,35.0,0,0,524.0,Deportivo,3,4,29.0,0.029,0,906.0
+501987,Afiliados,149.0,8,Monterrey,Movil,,0,25,314.0,Calzado,1,1,43.0,0.016,0,648.0
+501841,Google Ads,631.0,2,CDMX,Movil,22.0,0,0,579.0,Deportivo,4,3,32.0,0.079,1,992.0
+500614,Afiliados,181.0,1,CDMX,Movil,,0,25,155.0,Ropa,1,0,,0.0,0,281.0
+500954,Afiliados,142.0,4,Guadalajara,Movil,,0,30,201.0,Calzado,5,0,,0.0,0,807.0
+501323,Google Ads,546.0,6,Monterrey,Movil,35.0,1,15,281.0,Calzado,3,1,18.0,0.267,1,642.0
+500290,Referido,154.0,12,CDMX,Escritorio,28.0,1,5,571.0,Calzado,4,2,9.0,0.221,1,895.0
+500356,Organico,102.0,11,CDMX,Movil,33.0,1,0,321.0,Ropa,5,2,10.0,0.077,1,1040.0
+501860,Afiliados,179.0,1,Guadalajara,Movil,,1,20,247.0,Calzado,1,1,15.0,0.448,1,1136.0
+500021,Instagram,243.0,11,CDMX,Movil,43.0,1,10,360.0,Accesorios,1,2,7.0,0.183,0,828.0
+501946,Afiliados,175.0,9,Merida,Movil,25.0,0,20,436.0,Ropa,1,2,27.0,0.095,0,987.0
+501029,Google Ads,707.0,4,Puebla,Movil,31.0,1,20,435.0,Ropa,2,2,9.0,0.258,1,981.0
+501348,Google Ads,300.0,5,CDMX,Movil,52.0,0,0,363.0,Deportivo,1,1,19.0,0.292,1,1191.0
+500793,Instagram,383.0,9,CDMX,Movil,23.0,1,15,788.0,Calzado,2,0,,0.0,1,1516.0
+500103,Instagram,251.0,3,CDMX,Movil,29.0,1,0,465.0,Ropa,2,6,15.0,0.42,1,1119.0
+500885,Google Ads,435.0,6,Guadalajara,Escritorio,35.0,0,20,300.0,Ropa,3,0,,0.0,0,532.0
+501250,Referido,166.0,5,Monterrey,Escritorio,45.0,1,0,1245.0,Ropa,1,5,12.0,0.296,1,1707.0
+500559,Organico,98.0,9,Guadalajara,Movil,20.0,1,25,530.0,Calzado,3,1,8.0,0.138,1,1132.0
+501294,Instagram,352.0,6,Merida,Escritorio,23.0,0,30,285.0,Calzado,4,0,,0.0,0,506.0
+501468,Instagram,271.0,3,Merida,Movil,47.0,0,0,388.0,Accesorios,1,2,20.0,0.277,0,1034.0
+501133,Google Ads,466.0,9,Monterrey,Movil,49.0,0,0,455.0,Ropa,3,3,3.0,0.462,0,1037.0
+500551,Google Ads,429.0,8,Guadalajara,Tablet,23.0,0,0,562.0,Ropa,2,2,11.0,0.065,1,660.0
+500555,Referido,143.0,7,CDMX,Escritorio,34.0,1,0,216.0,Ropa,1,2,10.0,0.568,1,1022.0
+501376,Instagram,358.0,3,CDMX,Movil,29.0,1,20,403.0,Calzado,2,2,9.0,0.264,0,1015.0
+501984,Google Ads,477.0,11,Puebla,Escritorio,25.0,0,25,608.0,Accesorios,3,3,15.0,0.171,0,842.0
+500966,Organico,132.0,11,CDMX,Escritorio,41.0,0,25,617.0,Ropa,4,0,,0.0,0,757.0
+501548,Referido,135.0,12,Monterrey,Escritorio,48.0,1,5,929.0,Accesorios,3,5,15.0,0.343,1,1307.0
+500195,Afiliados,178.0,9,Guadalajara,Escritorio,,0,20,542.0,Ropa,1,0,,0.0,0,563.0
+500093,Google Ads,439.0,11,CDMX,Escritorio,26.0,0,25,264.0,Ropa,3,0,,0.0,0,704.0
+501155,Organico,143.0,2,CDMX,Escritorio,45.0,0,0,465.0,Ropa,1,2,11.0,0.156,1,831.0
+500727,Referido,126.0,1,Guadalajara,Movil,37.0,1,5,575.0,Calzado,6,3,13.0,0.476,1,1285.0
+501776,Google Ads,376.0,3,CDMX,Movil,33.0,1,15,278.0,Ropa,1,1,14.0,0.445,1,470.0
+501333,Afiliados,174.0,11,Merida,Movil,35.0,0,25,303.0,Calzado,1,0,,0.0,0,497.0
+500096,Instagram,428.0,5,CDMX,Movil,34.0,0,20,505.0,Ropa,3,3,67.0,0.185,0,916.0
+500604,Instagram,416.0,1,CDMX,Movil,55.0,0,5,560.0,Ropa,2,0,,0.0,1,646.0
+500913,Afiliados,229.0,4,Merida,Escritorio,,0,30,140.0,Deportivo,3,0,,0.0,0,226.0
+500186,Google Ads,688.0,11,CDMX,Escritorio,36.0,1,15,216.0,Accesorios,1,1,44.0,0.042,0,669.0
+500785,Instagram,420.0,11,Merida,Movil,18.0,1,0,249.0,Ropa,2,3,22.0,0.158,0,631.0
+501010,Instagram,465.0,7,Guadalajara,Tablet,22.0,0,15,526.0,Calzado,4,2,17.0,0.075,0,526.0
+500419,Instagram,346.0,10,Guadalajara,Movil,31.0,0,25,374.0,Accesorios,4,0,,0.0,0,695.0
+501088,Instagram,481.0,3,Guadalajara,Movil,32.0,1,0,494.0,Accesorios,2,2,28.0,0.256,0,654.0
+500039,Referido,86.0,12,CDMX,Movil,24.0,1,20,736.0,Calzado,2,2,22.0,0.129,1,1091.0
+501773,Organico,120.0,3,Puebla,Escritorio,51.0,1,0,327.0,Accesorios,1,2,28.0,0.22,0,792.0
+500421,Referido,164.0,8,Puebla,Movil,39.0,0,0,420.0,Accesorios,6,1,27.0,0.455,1,898.0
+501829,Organico,128.0,9,Merida,Movil,27.0,0,0,510.0,Accesorios,2,1,7.0,0.538,0,948.0
+501663,Afiliados,137.0,10,Guadalajara,Movil,36.0,1,20,164.0,Calzado,1,0,,0.0,0,348.0
+500511,Afiliados,236.0,1,CDMX,Movil,27.0,0,30,219.0,Deportivo,1,0,,0.0,0,219.0
+501992,Referido,143.0,1,Puebla,Escritorio,46.0,1,0,1141.0,Ropa,1,1,29.0,0.403,1,1555.0
+501076,Afiliados,287.0,12,Guadalajara,Escritorio,23.0,0,15,372.0,Accesorios,1,0,,0.0,0,372.0
+500360,Instagram,424.0,12,Monterrey,Movil,34.0,0,15,348.0,Accesorios,1,0,,0.0,1,951.0
+500453,Google Ads,458.0,11,Merida,Movil,37.0,1,10,799.0,Ropa,2,1,20.0,0.255,1,1119.0
+500897,Afiliados,202.0,10,CDMX,Escritorio,36.0,0,30,186.0,Accesorios,1,1,90.0,0.001,0,296.0
+500849,Organico,151.0,9,Merida,Movil,18.0,1,0,918.0,Ropa,1,2,23.0,0.466,0,918.0
+501704,Instagram,,2,Guadalajara,Escritorio,47.0,0,5,273.0,Ropa,3,0,,0.0,0,409.0
+500401,Organico,,1,Guadalajara,Movil,46.0,0,5,764.0,Calzado,2,1,16.0,0.345,1,1311.0
+500646,Google Ads,368.0,5,CDMX,Tablet,31.0,0,20,521.0,Accesorios,1,0,,0.0,1,819.0
+501542,Referido,216.0,8,CDMX,Movil,35.0,1,0,750.0,Ropa,1,3,30.0,0.086,1,1193.0
+500083,Instagram,,5,Puebla,Movil,28.0,0,0,231.0,Ropa,1,0,,0.0,0,244.0
+500088,Afiliados,220.0,12,Merida,Movil,49.0,0,25,323.0,Accesorios,2,1,70.0,0.205,1,711.0
+500928,Organico,104.0,5,Monterrey,Movil,45.0,1,15,785.0,Calzado,3,1,10.0,0.205,0,1119.0
+501862,Instagram,268.0,1,CDMX,Movil,,0,30,312.0,Accesorios,2,0,,0.0,1,968.0
+500626,Organico,142.0,4,Puebla,Movil,46.0,1,0,553.0,Accesorios,2,4,18.0,0.693,1,1461.0
+501041,Instagram,423.0,5,CDMX,Movil,26.0,0,0,662.0,Calzado,2,1,58.0,0.147,1,1163.0
+500940,Google Ads,308.0,9,Merida,Movil,50.0,1,25,767.0,Accesorios,2,2,23.0,0.255,0,767.0
+501671,Google Ads,666.0,5,Puebla,Movil,37.0,1,30,373.0,Ropa,5,1,25.0,0.195,0,556.0
+501013,Referido,148.0,12,Puebla,Movil,29.0,1,0,673.0,Calzado,2,2,26.0,0.167,1,1280.0
+500521,Organico,84.0,5,Puebla,Movil,29.0,1,10,658.0,Calzado,5,4,38.0,0.279,1,1493.0
+501779,Referido,212.0,2,CDMX,Movil,25.0,1,0,806.0,Accesorios,2,6,27.0,0.417,0,1496.0
+500842,Google Ads,455.0,4,CDMX,Tablet,29.0,1,5,484.0,Accesorios,1,1,20.0,0.258,0,628.0
+501514,Organico,157.0,8,CDMX,Escritorio,35.0,1,15,667.0,Calzado,3,1,27.0,0.427,1,983.0
+501744,Afiliados,179.0,11,Monterrey,Movil,,0,20,259.0,Ropa,3,0,,0.0,0,607.0
+501797,Instagram,416.0,11,CDMX,Movil,40.0,0,25,267.0,Deportivo,2,0,,0.0,0,422.0
+501649,Instagram,,9,CDMX,Tablet,34.0,0,0,210.0,Accesorios,1,0,,0.0,0,922.0
+501097,Instagram,330.0,9,Monterrey,Movil,39.0,1,25,486.0,Ropa,4,2,9.0,0.288,0,549.0
+500208,Organico,103.0,5,CDMX,Movil,31.0,0,0,464.0,Calzado,1,4,36.0,0.555,0,1055.0
+500476,Instagram,348.0,7,Puebla,Movil,29.0,0,0,474.0,Ropa,2,3,20.0,0.296,1,978.0
+501222,Afiliados,215.0,3,Monterrey,Escritorio,,1,30,380.0,Ropa,4,1,16.0,0.009,0,438.0
+500810,Referido,139.0,1,CDMX,Movil,34.0,1,0,613.0,Accesorios,2,5,49.0,0.209,0,1417.0
+501346,Afiliados,288.0,2,Puebla,Movil,,1,30,331.0,Deportivo,1,1,45.0,0.079,0,416.0
+501149,Instagram,376.0,10,CDMX,Movil,35.0,1,5,650.0,Deportivo,3,2,6.0,0.146,1,1204.0
+501645,Google Ads,331.0,2,Merida,Movil,63.0,0,15,300.0,Accesorios,1,0,,0.0,0,695.0
+501457,Afiliados,129.0,2,Monterrey,Escritorio,,0,0,299.0,Ropa,1,1,15.0,0.25,0,518.0
+500592,Instagram,664.0,5,Puebla,Tablet,35.0,0,0,739.0,Calzado,1,1,32.0,0.418,0,739.0
+501484,Google Ads,335.0,6,CDMX,Escritorio,22.0,0,10,319.0,Accesorios,2,2,27.0,0.051,1,890.0
+500963,Google Ads,486.0,6,Puebla,Movil,18.0,1,30,448.0,Ropa,1,2,15.0,0.026,0,959.0
+500541,Instagram,281.0,5,Guadalajara,Movil,38.0,0,30,416.0,Calzado,1,0,,0.0,0,751.0
+500680,Referido,160.0,10,Merida,Tablet,35.0,1,15,916.0,Calzado,3,1,7.0,0.53,0,1237.0
+500440,Organico,125.0,1,Puebla,Movil,51.0,1,5,506.0,Calzado,1,1,6.0,0.239,0,659.0
+501018,Google Ads,347.0,8,CDMX,Movil,26.0,0,20,344.0,Ropa,1,2,18.0,0.018,0,674.0
+501437,Afiliados,323.0,8,Guadalajara,Escritorio,46.0,1,25,240.0,Ropa,1,1,30.0,0.036,0,438.0
+500562,Google Ads,579.0,10,Puebla,Tablet,35.0,0,15,433.0,Ropa,1,2,50.0,0.044,0,1003.0
+500672,Google Ads,448.0,2,CDMX,Movil,37.0,0,20,462.0,Ropa,4,1,8.0,0.122,0,462.0
+500256,Organico,110.0,8,Puebla,Escritorio,31.0,0,10,481.0,Ropa,1,4,26.0,0.32,0,924.0
+501246,Instagram,456.0,6,CDMX,Movil,42.0,1,0,294.0,Ropa,2,1,13.0,0.31,0,850.0
+501104,Afiliados,201.0,9,Puebla,Movil,35.0,1,25,688.0,Calzado,5,2,13.0,0.183,1,881.0
+501292,Instagram,524.0,3,CDMX,Movil,28.0,0,0,701.0,Ropa,3,0,,0.0,1,846.0
+501212,Instagram,419.0,1,Monterrey,Tablet,37.0,0,0,548.0,Ropa,1,2,35.0,0.068,0,798.0
+500321,Referido,165.0,9,Guadalajara,Escritorio,25.0,1,0,671.0,Ropa,1,2,12.0,0.195,0,1154.0
+500665,Google Ads,383.0,4,CDMX,Movil,37.0,1,20,332.0,Accesorios,1,2,81.0,0.312,0,658.0
+500516,Referido,181.0,8,CDMX,Movil,,1,5,755.0,Ropa,1,2,9.0,0.184,1,1495.0
+501503,Organico,162.0,10,Puebla,Movil,50.0,1,0,495.0,Accesorios,6,3,7.0,0.121,0,633.0
+501918,Google Ads,525.0,10,CDMX,Movil,33.0,1,0,503.0,Deportivo,1,2,9.0,0.204,0,737.0
+500373,Organico,132.0,11,Merida,Movil,31.0,1,0,860.0,Ropa,1,0,,0.0,1,1185.0
+501835,Afiliados,187.0,5,Guadalajara,Movil,32.0,0,20,353.0,Ropa,5,0,,0.0,0,353.0
+501393,Afiliados,,4,CDMX,Escritorio,31.0,1,20,293.0,Ropa,2,0,,0.0,0,373.0
+500368,Afiliados,221.0,7,CDMX,Movil,,0,15,437.0,Ropa,2,0,,0.0,0,437.0
+501602,Google Ads,785.0,4,Merida,Movil,28.0,1,30,241.0,Calzado,2,3,41.0,0.285,0,790.0
+500260,instagram,613.0,10,Guadalajara,Movil,40.0,0,10,327.0,Ropa,1,1,78.0,0.283,0,658.0
+501281,Organico,64.0,6,Guadalajara,Movil,,0,0,720.0,Ropa,2,1,23.0,0.088,0,1251.0
+500087,Organico,150.0,6,Monterrey,Movil,18.0,1,20,642.0,Ropa,1,3,12.0,0.136,1,1083.0
+500654,Google Ads,752.0,10,CDMX,Movil,18.0,1,5,546.0,Ropa,1,3,13.0,0.082,1,942.0
+500223,Google Ads,497.0,12,Guadalajara,Movil,31.0,1,0,366.0,Calzado,3,1,6.0,0.309,0,737.0
+500845,Referido,,10,CDMX,Escritorio,34.0,0,10,464.0,Calzado,1,2,18.0,0.193,0,1094.0
+500517,Organico,70.0,12,Guadalajara,Movil,56.0,0,20,412.0,Calzado,1,1,28.0,0.231,0,646.0
+501341,Google Ads,,5,Puebla,Escritorio,31.0,1,10,401.0,Deportivo,4,2,37.0,0.137,0,723.0
+500412,Organico,117.0,6,CDMX,Escritorio,36.0,0,25,650.0,Ropa,1,1,21.0,0.034,0,1086.0
+501637,Afiliados,258.0,1,Merida,Tablet,,0,25,348.0,Calzado,1,0,,0.0,1,362.0
+501240,Instagram,351.0,11,Monterrey,Movil,31.0,0,15,331.0,Deportivo,2,0,,0.0,0,612.0
+500831,Afiliados,216.0,10,CDMX,Movil,,0,20,387.0,Deportivo,2,2,8.0,0.069,0,623.0
+501801,Afiliados,296.0,11,Guadalajara,Movil,27.0,1,0,503.0,Calzado,1,0,,0.0,0,694.0
+500183,Afiliados,216.0,12,CDMX,Movil,41.0,0,20,523.0,Accesorios,1,1,42.0,0.116,1,592.0
+500413,Referido,191.0,9,CDMX,Tablet,46.0,1,25,366.0,Ropa,2,5,38.0,0.105,1,1026.0
+501960,Afiliados,309.0,10,Merida,Escritorio,18.0,0,30,234.0,Ropa,3,0,,0.0,0,234.0
+501389,Organico,133.0,3,CDMX,Escritorio,45.0,1,10,505.0,Calzado,1,3,4.0,0.392,1,1248.0
+501501, Referido,450.0,7,Puebla,Movil,30.0,1,20,719.0,Ropa,1,4,48.0,0.307,0,1041.0
+500438,Instagram,394.0,5,CDMX,Movil,26.0,1,25,265.0,Calzado,2,3,19.0,0.032,0,
+500786, Referido,393.0,2,CDMX,Movil,52.0,1,0,853.0,Deportivo,1,0,,0.0,0,1034.0
+500616,Afiliados,177.0,10,Monterrey,Movil,28.0,0,30,446.0,Calzado,1,0,,0.0,0,446.0
+500826,Instagram,359.0,1,Guadalajara,Escritorio,50.0,0,0,438.0,Calzado,1,4,72.0,0.148,1,1424.0
+500322,Instagram,532.0,4,CDMX,Escritorio,31.0,0,15,405.0,Accesorios,1,1,16.0,0.257,1,446.0
+501144,Instagram,438.0,8,CDMX,Movil,34.0,0,25,184.0,Ropa,2,2,64.0,0.367,1,518.0
+501986,Instagram,304.0,7,CDMX,Movil,36.0,1,30,449.0,Ropa,1,2,16.0,0.249,0,748.0
+500102,Instagram,293.0,5,CDMX,Movil,18.0,0,0,770.0,Accesorios,1,0,,0.0,0,770.0
+501770,Referido,132.0,9,CDMX,Tablet,27.0,1,0,516.0,Deportivo,5,7,26.0,0.257,0,1421.0
+500632,Google Ads,609.0,9,Monterrey,Tablet,27.0,1,0,367.0,Calzado,1,0,,0.0,0,572.0
+501688,Organico,153.0,11,Monterrey,Escritorio,18.0,0,0,638.0,Ropa,3,0,,0.0,1,645.0
+501057, Referido,187.0,10,CDMX,Movil,,1,25,190.0,Calzado,1,0,,0.0,0,239.0
+501207,Instagram,498.0,7,CDMX,Movil,48.0,0,0,781.0,Calzado,3,2,23.0,0.156,0,930.0
+501574,Instagram,462.0,5,Puebla,Movil,37.0,0,30,325.0,Ropa,1,0,,0.0,0,613.0
+501186,Instagram,410.0,5,CDMX,Movil,34.0,1,20,483.0,Accesorios,2,0,,0.0,0,864.0
+501754,Instagram,559.0,9,Monterrey,Escritorio,48.0,0,0,279.0,Ropa,2,0,,0.0,0,668.0
+501021,Referido,136.0,9,Guadalajara,Movil,33.0,1,5,427.0,Ropa,2,6,11.0,0.065,1,1179.0
+500788,Google Ads,431.0,3,Monterrey,Movil,34.0,1,0,638.0,Calzado,1,6,28.0,0.064,0,934.0
+501420,Afiliados,213.0,10,Monterrey,Movil,44.0,1,15,345.0,Ropa,3,0,,0.0,0,763.0
+500259,Afiliados,253.0,1,CDMX,Movil,36.0,1,30,424.0,Calzado,4,1,21.0,0.018,0,643.0
+501837,Google Ads,431.0,8,Guadalajara,Escritorio,34.0,1,0,360.0,Calzado,1,0,,0.0,0,690.0
+500489,Google Ads,411.0,8,Guadalajara,Escritorio,24.0,0,25,250.0,Accesorios,1,1,44.0,0.227,0,250.0
+500872,Afiliados,205.0,8,Monterrey,Escritorio,31.0,1,20,358.0,Ropa,2,1,61.0,0.377,0,794.0
+500086,Instagram,449.0,2,CDMX,Tablet,52.0,1,0,792.0,Ropa,4,1,2.0,0.023,1,1151.0
+501288,Organico,142.0,1,Guadalajara,Escritorio,32.0,0,5,346.0,Ropa,3,1,29.0,0.324,0,834.0
+500246,Organico,107.0,10,Monterrey,Movil,27.0,1,15,451.0,Ropa,3,2,15.0,0.094,0,1083.0
+501769,Google Ads,669.0,1,Puebla,Escritorio,32.0,0,5,1524.0,Ropa,1,1,31.0,0.195,1,1524.0
+501231,Instagram,413.0,5,Guadalajara,Movil,38.0,0,10,520.0,Ropa,2,4,15.0,0.113,0,818.0
+501762,Google Ads,451.0,4,Guadalajara,Movil,20.0,1,10,421.0,Calzado,2,1,31.0,0.116,0,1062.0
+500386,Instagram,382.0,5,Guadalajara,Escritorio,41.0,0,15,422.0,Calzado,1,1,57.0,0.088,1,1016.0
+500267,Referido,211.0,12,CDMX,Movil,31.0,1,25,876.0,Accesorios,6,1,52.0,0.201,1,1002.0
+500962,Instagram,394.0,1,Guadalajara,Movil,42.0,0,15,421.0,Calzado,1,2,78.0,0.015,0,607.0
+501000,Organico,80.0,12,Monterrey,Escritorio,41.0,1,10,729.0,Calzado,2,1,7.0,0.214,0,1310.0
+500119,Google Ads,662.0,6,Guadalajara,Movil,24.0,0,20,189.0,Ropa,1,0,,0.0,1,870.0
+500269,Afiliados,,6,CDMX,Tablet,18.0,1,0,333.0,Ropa,5,0,,0.0,0,840.0
+500574,Google Ads,605.0,8,CDMX,Movil,36.0,0,15,503.0,Ropa,1,4,5.0,0.117,0,918.0
+501824,Google Ads,583.0,10,CDMX,Movil,54.0,1,0,356.0,Accesorios,1,2,12.0,0.301,1,1199.0
+500235,Google Ads,496.0,6,Merida,Movil,27.0,0,0,1158.0,Calzado,1,1,26.0,0.35,0,1158.0
+500836,Organico,103.0,1,Puebla,Movil,18.0,0,0,278.0,Ropa,4,1,13.0,0.14,1,606.0
+501117,Referido,100.0,10,CDMX,Escritorio,32.0,0,20,413.0,Deportivo,2,1,37.0,0.016,1,890.0
+501312,Instagram,302.0,7,CDMX,Movil,42.0,0,0,388.0,Ropa,1,1,48.0,0.016,0,388.0
+500395,Instagram,398.0,3,Monterrey,Movil,43.0,0,20,365.0,Accesorios,5,1,8.0,0.173,0,569.0
+501109,Instagram,502.0,3,Guadalajara,Movil,32.0,0,30,658.0,Ropa,2,3,4.0,0.117,0,658.0
+501268,Google Ads,327.0,11,CDMX,Movil,52.0,1,15,427.0,Ropa,1,5,6.0,0.177,1,1055.0
+501912,Organico,103.0,1,Puebla,Movil,51.0,1,0,1074.0,Deportivo,4,0,,0.0,0,1285.0
+500535,Organico,97.0,2,Guadalajara,Escritorio,20.0,1,10,759.0,Deportivo,4,4,14.0,0.154,1,1397.0
+501493,Google Ads,522.0,6,CDMX,Movil,31.0,0,15,167.0,Ropa,1,0,,0.0,0,213.0
+501726,Afiliados,237.0,3,CDMX,Escritorio,44.0,1,30,241.0,Calzado,4,0,,0.0,0,241.0
+500775,Afiliados,163.0,12,Puebla,Movil,36.0,1,10,480.0,Accesorios,1,2,4.0,0.044,0,516.0
+501512,Afiliados,,8,CDMX,Escritorio,22.0,0,25,244.0,Ropa,1,1,90.0,0.269,0,628.0
+500684,Instagram,,10,Puebla,Escritorio,30.0,1,0,302.0,Calzado,1,1,68.0,0.363,0,468.0
+501005,Referido,99.0,2,Merida,Movil,40.0,0,5,315.0,Calzado,7,2,47.0,0.226,1,912.0
+500979,Afiliados,193.0,12,Merida,Movil,32.0,0,20,233.0,Calzado,1,0,,0.0,0,233.0
+501991,Google Ads,576.0,1,Monterrey,Movil,34.0,0,10,317.0,Ropa,1,1,73.0,0.133,0,467.0
+501243,Google Ads,553.0,9,CDMX,Movil,24.0,0,0,656.0,Ropa,3,2,8.0,0.27,0,991.0
+501211,Organico,106.0,4,Merida,Escritorio,57.0,1,0,627.0,Ropa,2,3,34.0,0.405,0,943.0
+500138,Referido,,8,Guadalajara,Movil,41.0,1,15,818.0,Accesorios,1,1,18.0,0.184,1,1555.0
+501725,Instagram,290.0,4,Monterrey,Movil,30.0,1,0,379.0,Calzado,1,3,7.0,0.015,1,635.0
+501023,Afiliados,216.0,3,Merida,Escritorio,,1,0,506.0,Calzado,1,1,6.0,0.072,0,740.0
+501774,Instagram,293.0,1,CDMX,Movil,38.0,0,0,390.0,Accesorios,2,2,6.0,0.377,0,632.0
+500066,Instagram,445.0,12,CDMX,Escritorio,33.0,1,25,219.0,Calzado,2,1,25.0,0.039,0,700.0
+501399,Instagram,497.0,3,CDMX,Escritorio,47.0,0,0,581.0,Calzado,2,4,17.0,0.22,1,1212.0
+500117,Google Ads,539.0,6,Guadalajara,Movil,28.0,1,0,389.0,Calzado,4,2,9.0,0.291,1,590.0
+500330,Instagram,283.0,5,CDMX,Movil,25.0,0,20,416.0,Calzado,1,0,,0.0,0,416.0
+501478,Google Ads,459.0,9,CDMX,Escritorio,25.0,1,0,307.0,Calzado,1,2,51.0,0.22,0,833.0
+500456,Google Ads,452.0,11,Puebla,Movil,53.0,1,0,620.0,Ropa,1,1,34.0,0.017,1,819.0
+501062,Organico,87.0,10,CDMX,Escritorio,41.0,1,0,384.0,Ropa,2,4,44.0,0.053,0,1104.0
+500662,Google Ads,448.0,7,CDMX,Movil,29.0,1,0,465.0,Calzado,1,2,17.0,0.09,1,1030.0
+500477,Afiliados,228.0,4,CDMX,Movil,52.0,1,25,173.0,Ropa,1,1,2.0,0.064,0,327.0
+501552,Afiliados,220.0,9,CDMX,Escritorio,48.0,1,0,263.0,Calzado,2,0,,0.0,0,726.0
+500802,Instagram,367.0,8,CDMX,Escritorio,47.0,1,0,314.0,Ropa,1,3,3.0,0.356,0,1345.0
+501434,Instagram,427.0,8,Puebla,Movil,33.0,0,20,359.0,Calzado,1,0,,0.0,0,761.0
+501401,Google Ads,474.0,3,CDMX,Escritorio,47.0,0,5,650.0,Ropa,1,1,25.0,0.006,0,650.0
+500101,Instagram,403.0,10,CDMX,Movil,24.0,1,0,532.0,Ropa,1,1,18.0,0.064,0,693.0
+501187,Referido,155.0,11,CDMX,Tablet,33.0,1,0,937.0,Ropa,3,1,31.0,0.383,0,1023.0
+500329,Referido,110.0,2,CDMX,Movil,23.0,0,25,498.0,Ropa,2,3,6.0,0.349,0,905.0
+501015,Google Ads,435.0,11,Guadalajara,Movil,34.0,0,20,270.0,Calzado,2,1,42.0,0.219,0,362.0
+501703,Google Ads,378.0,8,Merida,Movil,45.0,1,0,256.0,Ropa,1,0,,0.0,0,462.0
+500454,Instagram,475.0,5,Puebla,Movil,24.0,0,25,460.0,Accesorios,3,3,26.0,0.184,1,831.0
+501789,Google Ads,385.0,3,CDMX,Movil,32.0,0,20,760.0,Calzado,2,1,36.0,0.217,0,785.0
+500807,Afiliados,276.0,7,CDMX,Movil,36.0,0,15,194.0,Accesorios,1,1,11.0,0.018,0,402.0
+501480,Organico,110.0,7,CDMX,Movil,18.0,1,0,267.0,Deportivo,2,1,20.0,0.191,1,1028.0
+500889,Instagram,365.0,4,Merida,Movil,30.0,0,20,653.0,Calzado,1,1,3.0,0.431,1,673.0
+500934,Instagram,339.0,4,Merida,Movil,32.0,0,25,466.0,Accesorios,2,1,19.0,0.094,1,748.0
+501831,Afiliados,186.0,7,Monterrey,Movil,,0,0,293.0,Ropa,1,0,,0.0,1,379.0
+500597,Google Ads,549.0,3,CDMX,Movil,32.0,1,0,492.0,Ropa,2,2,19.0,0.042,0,1450.0
+500296,Google Ads,273.0,3,CDMX,Movil,29.0,0,15,279.0,Calzado,3,2,29.0,0.115,0,
+501141,Instagram,384.0,1,Puebla,Escritorio,36.0,0,20,592.0,Calzado,3,4,27.0,0.512,0,685.0
+501359,Referido,138.0,2,CDMX,Movil,32.0,1,0,345.0,Calzado,2,4,15.0,0.462,1,1237.0
+501180,Instagram,492.0,4,Monterrey,Movil,36.0,0,10,238.0,Accesorios,3,2,29.0,0.113,0,629.0
+501183,Google Ads,519.0,3,Puebla,Movil,45.0,1,0,443.0,Accesorios,3,1,21.0,0.309,1,1109.0
+500075,Afiliados,192.0,10,CDMX,Escritorio,42.0,0,20,250.0,Ropa,1,1,90.0,0.111,0,299.0
+500906,Organico,128.0,3,Guadalajara,Movil,46.0,1,25,314.0,Ropa,4,0,,0.0,0,797.0
+501583,Organico,95.0,5,Monterrey,Movil,25.0,1,0,501.0,Calzado,6,2,26.0,0.152,0,513.0
+501934,Instagram,269.0,8,CDMX,Movil,40.0,0,20,375.0,Accesorios,1,3,14.0,0.107,0,520.0
+500171,Google Ads,579.0,10,Monterrey,Movil,21.0,0,20,303.0,Ropa,1,1,4.0,0.039,0,474.0
+500560,Afiliados,159.0,8,Puebla,Movil,25.0,1,15,336.0,Calzado,1,1,19.0,0.259,0,828.0
+500002,Instagram,434.0,12,CDMX,Escritorio,40.0,0,25,573.0,Ropa,1,0,,0.0,1,747.0
+501048,Afiliados,269.0,1,CDMX,Escritorio,26.0,0,20,366.0,Accesorios,1,0,,0.0,0,535.0
+500967,Google Ads,467.0,2,CDMX,Movil,30.0,0,0,486.0,Deportivo,2,2,47.0,0.288,1,1300.0
+501072,Google Ads,,5,Guadalajara,Movil,28.0,0,15,597.0,Calzado,2,1,28.0,0.199,0,1132.0
+500305,Referido,180.0,1,Puebla,Tablet,19.0,1,0,842.0,Deportivo,2,3,44.0,0.366,0,1361.0
+500388,Google Ads,322.0,10,CDMX,Movil,23.0,0,20,618.0,Calzado,4,1,19.0,0.03,0,1204.0
+501113,Afiliados,266.0,11,Monterrey,Movil,44.0,0,20,314.0,Accesorios,1,0,,0.0,0,314.0
+500209,Instagram,532.0,7,CDMX,Movil,34.0,0,30,227.0,Deportivo,4,0,,0.0,1,893.0
+500129,Instagram,365.0,7,Monterrey,Movil,33.0,1,0,431.0,Ropa,1,1,45.0,0.444,0,1054.0
+500999,Organico,141.0,8,Puebla,Escritorio,36.0,1,0,513.0,Calzado,1,2,42.0,0.171,0,666.0
+500709,Instagram,470.0,9,CDMX,Movil,37.0,0,0,567.0,Accesorios,1,1,25.0,0.455,0,634.0
+501684,Afiliados,182.0,5,Monterrey,Movil,32.0,0,25,148.0,Calzado,3,1,57.0,0.292,1,
+500926,Google Ads,488.0,2,CDMX,Movil,41.0,0,30,623.0,Ropa,1,2,67.0,0.278,0,623.0
+501025,Organico,163.0,3,CDMX,Movil,36.0,1,0,463.0,Calzado,6,5,33.0,0.145,1,1212.0
+501153,Referido,180.0,9,CDMX,Movil,18.0,0,0,1910.0,Ropa,1,4,4.0,0.305,1,1959.0
+500996,Instagram,373.0,10,Puebla,Movil,46.0,1,20,256.0,Calzado,1,3,8.0,0.451,0,
+500732,Afiliados,201.0,3,Puebla,Movil,,0,30,288.0,Ropa,1,0,,0.0,0,640.0
+501978,Google Ads,476.0,9,Guadalajara,Tablet,29.0,0,0,1017.0,Ropa,2,3,59.0,0.705,0,1418.0
+500539,Instagram,394.0,7,Puebla,Movil,34.0,1,0,490.0,Calzado,1,0,,0.0,1,551.0
+501035,Afiliados,201.0,4,Guadalajara,Escritorio,40.0,1,20,408.0,Calzado,1,0,,0.0,0,857.0
+500661,Instagram,416.0,12,CDMX,Movil,19.0,1,20,315.0,Ropa,1,0,,0.0,0,476.0
+500556,Afiliados,241.0,1,CDMX,Escritorio,26.0,1,15,284.0,Calzado,1,0,,0.0,0,284.0
+501964,Afiliados,201.0,3,Monterrey,Escritorio,,0,0,547.0,Ropa,2,0,,0.0,0,999.0
+501440,Afiliados,253.0,4,Merida,Movil,,0,15,344.0,Ropa,1,2,8.0,0.359,0,533.0
+501802,Google Ads,433.0,9,Monterrey,Escritorio,38.0,1,0,666.0,Ropa,1,1,38.0,0.255,0,718.0
+500307,Instagram,352.0,9,CDMX,Escritorio,27.0,0,0,629.0,Ropa,2,2,7.0,0.289,0,823.0
+501938,Afiliados,216.0,11,CDMX,Movil,38.0,0,15,232.0,Accesorios,6,1,70.0,0.287,0,368.0
+500078,Instagram,564.0,6,Monterrey,Movil,32.0,0,5,605.0,Calzado,1,0,,0.0,1,693.0
+501012,Afiliados,139.0,11,Puebla,Escritorio,29.0,0,0,548.0,Accesorios,2,0,,0.0,1,683.0
+501677,Google Ads,,11,CDMX,Movil,35.0,1,0,452.0,Ropa,5,2,42.0,0.245,0,1037.0
+500120,Organico,85.0,10,Puebla,Movil,21.0,1,25,371.0,Calzado,2,3,31.0,0.184,0,614.0
+501449,Afiliados,200.0,8,CDMX,Movil,43.0,0,25,136.0,Ropa,1,0,,0.0,0,136.0
+501277,Referido,178.0,5,Merida,Movil,44.0,1,5,747.0,Accesorios,1,2,9.0,0.143,1,1112.0
+500931,Instagram,409.0,1,Monterrey,Escritorio,48.0,0,30,639.0,Ropa,1,0,,0.0,0,639.0
+500164,Instagram,369.0,4,CDMX,Movil,18.0,1,0,360.0,Accesorios,1,0,,0.0,0,609.0
+501944,Referido,89.0,2,CDMX,Movil,18.0,1,0,689.0,Calzado,2,8,29.0,0.2,0,1708.0
+501823,Google Ads,536.0,7,CDMX,Movil,18.0,0,20,1019.0,Calzado,1,0,,0.0,0,1233.0
+501592,Instagram,337.0,3,Guadalajara,Escritorio,20.0,0,0,822.0,Deportivo,1,1,49.0,0.245,1,906.0
+500778,Organico,139.0,1,Guadalajara,Escritorio,30.0,0,20,421.0,Ropa,2,3,20.0,0.062,1,878.0
+501223,Google Ads,541.0,11,Merida,Movil,37.0,1,25,577.0,Ropa,1,1,31.0,0.022,0,940.0
+501606,Afiliados,208.0,6,Monterrey,Escritorio,,1,20,614.0,Calzado,1,0,,0.0,1,
+500681,Instagram,372.0,3,Puebla,Movil,31.0,0,30,341.0,Calzado,1,0,,0.0,1,891.0
+501199,Google Ads,608.0,10,Guadalajara,Escritorio,44.0,1,15,365.0,Deportivo,1,1,15.0,0.032,1,942.0
+500606,Instagram,453.0,7,Monterrey,Movil,19.0,0,0,280.0,Ropa,2,0,,0.0,0,431.0
+500867,Afiliados,286.0,9,Puebla,Movil,51.0,0,10,341.0,Accesorios,1,1,90.0,0.016,0,823.0
+501759,Instagram,341.0,2,CDMX,Movil,29.0,0,0,541.0,Calzado,1,1,8.0,0.027,0,898.0
+501189,Google Ads,423.0,5,CDMX,Movil,35.0,0,15,573.0,Accesorios,3,2,90.0,0.116,0,728.0
+500320,Instagram,344.0,1,Monterrey,Movil,35.0,0,0,262.0,Accesorios,1,2,37.0,0.299,0,425.0
+501378,Organico,,11,CDMX,Escritorio,37.0,1,25,516.0,Ropa,1,4,14.0,0.2,1,1253.0
+500758,Instagram,506.0,12,Monterrey,Movil,31.0,0,0,773.0,Deportivo,4,0,,0.0,0,773.0
+500947,Afiliados,156.0,5,Monterrey,Escritorio,,0,25,584.0,Ropa,3,0,,0.0,0,584.0
+500611,Afiliados,284.0,3,CDMX,Movil,33.0,0,15,292.0,Ropa,1,1,27.0,0.146,0,292.0
+501957,Google Ads,471.0,10,CDMX,Movil,37.0,1,0,787.0,Calzado,1,0,,0.0,1,787.0
+500032,Instagram,,1,Monterrey,Movil,46.0,1,25,230.0,Calzado,3,1,16.0,0.269,1,581.0
+501614,Instagram,428.0,1,Merida,Movil,43.0,0,15,279.0,Accesorios,2,2,10.0,0.152,0,651.0
+501355,Afiliados,245.0,10,CDMX,Movil,42.0,0,15,274.0,Ropa,1,1,31.0,0.315,1,
+500502,Referido,175.0,4,CDMX,Movil,48.0,1,5,641.0,Ropa,2,0,,0.0,1,1175.0
+501332,Google Ads,563.0,4,CDMX,Movil,28.0,1,0,573.0,Ropa,2,2,36.0,0.151,1,1261.0
+501907,Referido,202.0,2,Monterrey,Escritorio,30.0,1,0,694.0,Ropa,1,5,33.0,0.393,0,1288.0
+501955,Organico,127.0,11,CDMX,Movil,41.0,1,0,411.0,Calzado,2,2,9.0,0.232,1,945.0
+500856,Referido,151.0,3,Puebla,Escritorio,38.0,1,30,659.0,Ropa,2,1,20.0,0.101,1,1049.0
+501571,Referido,149.0,3,Merida,Escritorio,45.0,0,5,534.0,Calzado,2,3,26.0,0.416,1,1126.0
+500176,Google Ads,544.0,8,Guadalajara,Escritorio,49.0,0,25,159.0,Accesorios,2,2,52.0,0.042,1,779.0
+500730,Instagram,349.0,9,Guadalajara,Escritorio,32.0,0,5,440.0,Accesorios,1,2,90.0,0.237,0,890.0
+501660,Google Ads,728.0,1,Merida,Movil,39.0,0,30,305.0,Calzado,2,0,,0.0,0,494.0
+500949,Referido,140.0,2,CDMX,Movil,24.0,0,0,837.0,Calzado,1,6,20.0,0.287,1,1472.0
+501142,Referido,127.0,7,Merida,Movil,24.0,1,15,480.0,Accesorios,3,5,40.0,0.033,0,1370.0
+500957,Afiliados,237.0,7,Guadalajara,Movil,,0,30,275.0,Deportivo,1,1,59.0,0.153,1,748.0
+501425,Instagram,524.0,9,CDMX,Movil,43.0,0,25,434.0,Accesorios,1,0,,0.0,0,
+500848,Instagram,415.0,8,Guadalajara,Tablet,27.0,1,0,368.0,Ropa,3,0,,0.0,1,1005.0
+500153,Instagram,285.0,2,Puebla,Movil,35.0,0,0,552.0,Calzado,1,1,11.0,0.024,0,668.0
+501850,Instagram,316.0,1,Guadalajara,Movil,34.0,0,25,390.0,Ropa,2,2,6.0,0.042,0,711.0
+501519,Google Ads,451.0,6,Guadalajara,Movil,36.0,0,0,567.0,Ropa,4,2,36.0,0.241,0,1165.0
+500076,Organico,126.0,5,CDMX,Movil,36.0,1,5,489.0,Accesorios,2,0,,0.0,0,568.0
+501385,Google Ads,368.0,7,Guadalajara,Movil,39.0,0,15,214.0,Calzado,2,2,67.0,0.151,0,635.0
+500132,Google Ads,419.0,6,Sin dato,Movil,29.0,1,0,432.0,Calzado,1,2,10.0,0.097,1,1088.0
+501742,Organico,112.0,4,Guadalajara,Escritorio,32.0,0,20,790.0,Deportivo,4,3,28.0,0.371,0,1333.0
+500023,Instagram,383.0,10,Merida,Movil,29.0,0,15,1352.0,Calzado,1,0,,0.0,0,1352.0
+500350,Afiliados,200.0,7,Puebla,Movil,19.0,0,20,299.0,Accesorios,2,0,,0.0,0,815.0
+501930,Organico,132.0,8,CDMX,Movil,28.0,1,5,654.0,Accesorios,2,1,15.0,0.249,1,1131.0
+501203,Instagram,324.0,10,CDMX,Movil,33.0,0,5,374.0,Ropa,1,1,9.0,0.126,0,374.0
+501337,Google Ads,674.0,10,Guadalajara,Movil,23.0,0,15,370.0,Ropa,1,2,61.0,0.183,0,829.0
+500883,Afiliados,245.0,9,Guadalajara,Escritorio,40.0,0,25,469.0,Calzado,1,0,,0.0,0,559.0
+500752,Organico,113.0,7,Merida,Escritorio,34.0,1,0,247.0,Ropa,2,2,13.0,0.417,0,860.0
+500531,Referido,206.0,2,Puebla,Tablet,45.0,0,0,725.0,Accesorios,1,3,40.0,0.059,0,1464.0
+501129,Google Ads,389.0,9,Merida,Movil,29.0,0,20,777.0,Calzado,2,1,82.0,0.354,0,848.0
+501110,Instagram,398.0,9,CDMX,Movil,48.0,1,15,950.0,Ropa,1,3,62.0,0.297,0,1105.0
+500600,Google Ads,460.0,1,Puebla,Escritorio,32.0,1,5,483.0,Ropa,1,2,80.0,0.244,0,967.0
+501539,Google Ads,485.0,5,CDMX,Movil,44.0,1,0,810.0,Deportivo,1,2,5.0,0.271,0,959.0
+501398,Afiliados,166.0,8,CDMX,Movil,24.0,0,25,404.0,Calzado,1,1,36.0,0.127,0,652.0
+500498,Instagram,378.0,9,Monterrey,Movil,27.0,0,0,753.0,Ropa,1,1,13.0,0.053,0,1078.0
+501430,Referido,92.0,2,Guadalajara,Movil,39.0,0,0,358.0,Accesorios,1,3,18.0,0.44,1,1090.0
+501327,Google Ads,402.0,3,Guadalajara,Movil,28.0,1,0,635.0,Ropa,1,4,26.0,0.372,1,1309.0
+500893,Afiliados,212.0,10,CDMX,Escritorio,,0,30,314.0,Deportivo,1,1,10.0,0.145,1,543.0
+501755,Google Ads,569.0,6,CDMX,Movil,32.0,0,0,487.0,Deportivo,2,2,10.0,0.565,0,718.0
+500639,Organico,108.0,1,Merida,Movil,40.0,0,25,295.0,Ropa,2,1,20.0,0.096,0,433.0
+501889,Referido,124.0,8,Guadalajara,Movil,35.0,0,0,628.0,Ropa,3,2,15.0,0.031,1,1045.0
+501354,Instagram,452.0,5,CDMX,Movil,28.0,1,15,483.0,Calzado,1,1,11.0,0.065,1,862.0
+500084,Google Ads,556.0,1,CDMX,Movil,29.0,1,0,428.0,Ropa,4,0,,0.0,0,730.0
+501256,Google Ads,391.0,11,Merida,Escritorio,33.0,1,15,455.0,Accesorios,4,1,13.0,0.587,0,750.0
+501152,Afiliados,191.0,5,Guadalajara,Movil,30.0,0,20,304.0,Calzado,1,1,31.0,0.143,0,490.0
+501640,Afiliados,,5,Monterrey,Movil,,0,0,719.0,Ropa,2,0,,0.0,0,719.0
+501082,Google Ads,651.0,6,CDMX,Tablet,34.0,0,25,571.0,Ropa,3,2,24.0,0.391,0,
+501092,Instagram,390.0,9,Merida,Movil,37.0,0,0,250.0,Accesorios,2,1,37.0,0.353,1,669.0
+500271,Google Ads,569.0,5,CDMX,Movil,39.0,1,0,514.0,Ropa,3,0,,0.0,0,933.0
+500444,Referido,161.0,4,Monterrey,Movil,28.0,1,20,865.0,Ropa,3,6,17.0,0.316,1,1773.0
+501026,Instagram,478.0,2,Guadalajara,Movil,34.0,0,0,269.0,Deportivo,1,1,52.0,0.167,1,737.0
+500857,Referido,,3,CDMX,Movil,44.0,1,0,557.0,Accesorios,3,1,3.0,0.157,0,1312.0
+501847,Instagram,338.0,2,Merida,Movil,30.0,0,30,410.0,Ropa,2,0,,0.0,1,973.0
+500552,Organico,111.0,11,Monterrey,Movil,35.0,1,5,1119.0,Ropa,4,1,4.0,0.141,1,1484.0
+500699,Referido,178.0,8,CDMX,Movil,45.0,0,0,772.0,Calzado,1,3,13.0,0.266,0,1285.0
+500545,Google Ads,393.0,8,Merida,Movil,36.0,0,15,742.0,Ropa,2,0,,0.0,1,742.0
+501307,Instagram,224.0,2,CDMX,Movil,20.0,1,25,170.0,Ropa,3,0,,0.0,0,468.0
+500392,Afiliados,269.0,2,CDMX,Movil,19.0,1,20,514.0,Ropa,1,0,,0.0,0,620.0
+500861,Organico,124.0,1,Monterrey,Movil,,1,5,387.0,Ropa,3,2,4.0,0.058,1,1010.0
+500659,Instagram,325.0,12,Monterrey,Movil,18.0,0,20,797.0,Ropa,3,3,16.0,0.096,1,1157.0
+500234,Referido,172.0,6,Puebla,Movil,38.0,1,0,573.0,Calzado,3,4,32.0,0.38,0,1102.0
+500912,Google Ads,625.0,8,CDMX,Escritorio,34.0,0,30,671.0,Deportivo,3,2,66.0,0.328,1,801.0
+501919,Instagram,263.0,1,CDMX,Tablet,37.0,0,0,446.0,Deportivo,1,0,,0.0,0,527.0
+501274,Referido,151.0,10,Puebla,Movil,22.0,0,0,880.0,Deportivo,2,5,3.0,0.219,0,1412.0
+500609,Referido,141.0,4,CDMX,Escritorio,26.0,1,30,870.0,Accesorios,2,3,11.0,0.242,1,1339.0
+500509,Afiliados,187.0,3,Puebla,Escritorio,,1,25,223.0,Ropa,2,0,,0.0,0,396.0
+501255, Referido,350.0,4,Monterrey,Movil,38.0,0,20,421.0,Accesorios,3,1,59.0,0.101,1,930.0
+501195,Afiliados,199.0,11,Monterrey,Movil,,0,15,194.0,Ropa,1,0,,0.0,0,194.0
+500457,Instagram,491.0,9,Guadalajara,Movil,35.0,0,0,727.0,Accesorios,2,0,,0.0,1,759.0
+501555,Organico,113.0,10,Puebla,Movil,33.0,0,25,325.0,Ropa,1,1,27.0,0.187,0,1041.0
+501115,Google Ads,430.0,1,Monterrey,Escritorio,19.0,0,0,581.0,Calzado,1,1,27.0,0.234,0,910.0
+501596,Instagram,329.0,5,CDMX,Movil,39.0,0,25,234.0,Deportivo,1,1,62.0,0.095,0,462.0
+500056,Google Ads,370.0,9,CDMX,Movil,37.0,0,15,469.0,Calzado,1,1,80.0,0.14,1,839.0
+501494,Referido,227.0,8,Merida,Movil,33.0,1,25,882.0,Ropa,1,1,10.0,0.415,0,1196.0
+500455,Google Ads,,10,Puebla,Escritorio,33.0,0,10,227.0,Calzado,1,4,15.0,0.294,0,593.0
+500310,Google Ads,732.0,10,Puebla,Movil,34.0,0,30,401.0,Accesorios,1,1,65.0,0.165,0,563.0
+501933,Google Ads,516.0,2,CDMX,Movil,30.0,1,25,505.0,Ropa,2,0,,0.0,1,569.0
+501505,Organico,116.0,2,CDMX,Escritorio,30.0,1,5,564.0,Ropa,3,3,19.0,0.456,1,1079.0
+500258,Referido,208.0,11,Guadalajara,Escritorio,66.0,1,20,659.0,Ropa,2,2,17.0,0.09,1,1413.0
+501145,Organico,174.0,12,CDMX,Movil,45.0,0,20,374.0,Accesorios,1,2,19.0,0.399,1,1252.0
+500706,Instagram,419.0,5,CDMX,Escritorio,34.0,0,30,373.0,Ropa,1,0,,0.0,0,
+500221,Google Ads,,12,Merida,Tablet,46.0,0,5,557.0,Ropa,3,0,,0.0,1,927.0
+501803,Referido,135.0,7,Merida,Escritorio,25.0,1,0,542.0,Calzado,1,2,13.0,0.303,1,
+500461,Instagram,468.0,7,Merida,Movil,34.0,0,0,447.0,Calzado,2,0,,0.0,0,447.0
+501786,Afiliados,227.0,4,CDMX,Movil,25.0,0,25,78.0,Ropa,4,0,,0.0,0,78.0
+500467,Organico,158.0,1,Guadalajara,Movil,28.0,0,0,972.0,Ropa,1,4,30.0,0.066,1,1710.0
+501697,Referido,127.0,11,CDMX,Movil,44.0,1,0,866.0,Ropa,4,3,2.0,0.371,1,1330.0
+501182,Google Ads,398.0,10,CDMX,Escritorio,30.0,1,20,930.0,Deportivo,1,2,18.0,0.471,0,1149.0
+501006,Google Ads,468.0,12,Guadalajara,Escritorio,32.0,0,5,514.0,Calzado,2,1,28.0,0.254,0,715.0
+501731,Google Ads,609.0,2,Guadalajara,Movil,25.0,1,20,214.0,Calzado,2,1,14.0,0.137,0,
+500874,Instagram,426.0,10,CDMX,Movil,42.0,0,20,238.0,Ropa,1,2,24.0,0.151,1,637.0
+501030,Instagram,228.0,9,CDMX,Movil,39.0,1,30,249.0,Accesorios,2,1,20.0,0.06,0,714.0
+501388,Referido,182.0,4,Merida,Escritorio,18.0,1,5,441.0,Accesorios,1,3,7.0,0.58,0,1236.0
+500746,Instagram,272.0,6,Monterrey,Movil,22.0,0,0,446.0,Accesorios,1,2,37.0,0.112,0,867.0
+501278,Google Ads,669.0,11,Merida,Movil,,0,0,309.0,Ropa,1,1,31.0,0.209,0,607.0
+500282,Google Ads,374.0,10,CDMX,Escritorio,44.0,0,30,797.0,Accesorios,1,2,3.0,0.506,0,1424.0
+500405,Google Ads,453.0,7,CDMX,Escritorio,23.0,0,0,361.0,Calzado,1,1,41.0,0.128,1,580.0
+500336,Referido,159.0,5,CDMX,Movil,43.0,1,0,433.0,Ropa,4,1,11.0,0.02,0,795.0
+500487,Organico,84.0,5,Sin dato,Escritorio,45.0,0,5,845.0,Ropa,2,5,34.0,0.271,1,1489.0
+500579,Afiliados,477.0,4,Merida,Movil,25.0,0,30,352.0,Calzado,1,0,,0.0,0,352.0
+500985,Referido,210.0,4,CDMX,Movil,36.0,1,25,411.0,Calzado,2,0,,0.0,0,535.0
+500882,Organico,115.0,9,CDMX,Escritorio,41.0,0,0,979.0,Calzado,1,3,35.0,0.026,1,1130.0
+501699,Afiliados,257.0,5,CDMX,Tablet,,0,20,540.0,Ropa,1,0,,0.0,0,540.0
+501347,Organico,132.0,2,CDMX,Escritorio,27.0,1,20,650.0,Ropa,1,0,,0.0,0,1095.0
+500187,Google Ads,615.0,2,Monterrey,Escritorio,41.0,0,25,522.0,Ropa,1,0,,0.0,0,1056.0
+501269,Referido,165.0,1,Monterrey,Escritorio,41.0,0,5,813.0,Accesorios,2,2,15.0,0.292,1,1256.0
+501479,Google Ads,420.0,11,Monterrey,Movil,33.0,1,20,387.0,Ropa,2,1,12.0,0.178,0,726.0
+501996,Google Ads,477.0,12,Guadalajara,Movil,18.0,0,0,349.0,Ropa,1,1,55.0,0.098,0,1002.0
+501515,Afiliados,198.0,10,CDMX,Escritorio,45.0,0,30,218.0,Ropa,1,1,22.0,0.008,0,271.0
+500918,Referido,166.0,1,Guadalajara,Movil,41.0,1,0,973.0,Calzado,3,3,15.0,0.137,1,1289.0
+501848,Organico,121.0,8,CDMX,Escritorio,25.0,0,20,402.0,Deportivo,3,2,10.0,0.082,0,1110.0
+500921,Referido,114.0,3,CDMX,Movil,22.0,0,5,770.0,Deportivo,2,2,17.0,0.348,0,1320.0
+501423,Google Ads,416.0,9,CDMX,Movil,26.0,0,15,578.0,Accesorios,2,1,8.0,0.124,1,773.0
+500090,Instagram,254.0,4,Puebla,Movil,29.0,0,0,243.0,Calzado,2,1,20.0,0.158,0,482.0
+500628,Instagram,413.0,9,Guadalajara,Movil,41.0,1,0,652.0,Deportivo,1,1,90.0,0.285,1,652.0
+501700,Google Ads,387.0,8,CDMX,Movil,26.0,0,15,556.0,Ropa,1,0,,0.0,0,556.0
+501923,Instagram,,11,CDMX,Movil,25.0,0,25,496.0,Ropa,2,1,29.0,0.049,0,778.0
+501448,Afiliados,193.0,1,CDMX,Escritorio,,1,20,361.0,Accesorios,1,1,7.0,0.047,0,691.0
+501814,Afiliados,167.0,3,Puebla,Movil,,0,20,183.0,Ropa,3,0,,0.0,0,212.0
+500280,Organico,119.0,12,Monterrey,Escritorio,27.0,1,15,220.0,Calzado,1,2,23.0,0.083,0,1020.0
+500207,Referido,164.0,9,Puebla,Movil,47.0,0,0,323.0,Calzado,1,1,14.0,0.656,1,991.0
+500761,Instagram,322.0,11,CDMX,Escritorio,32.0,0,30,203.0,Accesorios,2,0,,0.0,0,203.0
+501603,Instagram,357.0,9,Guadalajara,Escritorio,18.0,1,15,414.0,Deportivo,1,2,16.0,0.093,0,723.0
+500247,Organico,106.0,11,Guadalajara,Movil,25.0,0,25,926.0,Calzado,1,2,7.0,0.542,1,1522.0
+501732,Afiliados,174.0,4,Monterrey,Movil,,0,20,1059.0,Ropa,1,0,,0.0,0,1059.0
+501840,Google Ads,624.0,4,CDMX,Escritorio,39.0,1,5,447.0,Ropa,1,2,17.0,0.147,0,
+501765,Instagram,284.0,12,CDMX,Movil,34.0,0,0,622.0,Ropa,1,0,,0.0,0,880.0
+500619,Instagram,317.0,9,Guadalajara,Movil,44.0,1,20,379.0,Deportivo,1,2,33.0,0.036,0,994.0
+500309,Organico,121.0,4,Monterrey,Movil,48.0,1,0,480.0,Calzado,1,1,29.0,0.138,0,672.0
+501495,Instagram,,1,CDMX,Tablet,28.0,0,20,326.0,Ropa,1,0,,0.0,0,326.0
+500707,Instagram,312.0,11,Merida,Escritorio,18.0,1,15,374.0,Deportivo,2,1,30.0,0.191,0,613.0
+500041,Instagram,320.0,3,Guadalajara,Movil,26.0,0,20,324.0,Ropa,2,1,40.0,0.075,0,324.0
+501413,Organico,171.0,12,CDMX,Escritorio,35.0,0,0,760.0,Ropa,3,3,8.0,0.262,0,1058.0
+501249,Afiliados,,1,Merida,Escritorio,,0,25,346.0,Calzado,1,0,,0.0,0,346.0
+500896,Instagram,438.0,12,CDMX,Movil,41.0,1,20,197.0,Accesorios,1,0,,0.0,1,479.0
+501154,Afiliados,155.0,7,CDMX,Escritorio,38.0,0,15,364.0,Ropa,1,1,18.0,0.067,0,568.0
+500179,Instagram,305.0,10,CDMX,Movil,38.0,1,30,378.0,Accesorios,4,2,9.0,0.034,0,597.0
+500185,Organico,106.0,9,Monterrey,Movil,40.0,0,25,571.0,Calzado,3,2,30.0,0.345,0,1107.0
+501547,Afiliados,144.0,5,CDMX,Escritorio,,0,20,586.0,Accesorios,1,0,,0.0,0,609.0
+500196,Referido,206.0,4,Monterrey,Movil,30.0,1,0,641.0,Accesorios,1,2,14.0,0.288,0,1334.0
+501561,Google Ads,388.0,4,CDMX,Tablet,40.0,1,20,604.0,Deportivo,3,2,22.0,0.281,0,764.0
+500783,Afiliados,208.0,8,Sin dato,Escritorio,,0,25,300.0,Calzado,1,1,49.0,0.001,0,441.0
+501855,Instagram,339.0,3,CDMX,Movil,23.0,1,25,252.0,Accesorios,2,1,2.0,0.527,0,252.0
+501316,Organico,,12,CDMX,Movil,25.0,0,5,654.0,Ropa,1,0,,0.0,0,1153.0
+500044,Google Ads,469.0,9,Guadalajara,Tablet,37.0,0,20,242.0,Accesorios,1,0,,0.0,0,267.0
+501455,Google Ads,610.0,11,Guadalajara,Movil,33.0,0,20,580.0,Ropa,2,3,11.0,0.12,0,1015.0
+501858,Google Ads,471.0,3,Puebla,Movil,44.0,1,15,200.0,Ropa,2,0,,0.0,0,544.0
+500111,Organico,,1,Guadalajara,Movil,43.0,0,20,673.0,Deportivo,2,1,23.0,0.225,1,1352.0
+501790,Afiliados,169.0,9,CDMX,Movil,45.0,1,20,248.0,Ropa,1,0,,0.0,1,455.0
+500558,Google Ads,439.0,12,CDMX,Movil,35.0,0,15,292.0,Calzado,1,0,,0.0,0,660.0
+501799,Organico,127.0,5,Puebla,Escritorio,26.0,1,5,392.0,Ropa,2,4,85.0,0.151,0,1015.0
+501973,Afiliados,176.0,10,Puebla,Movil,35.0,0,5,357.0,Ropa,1,2,21.0,0.096,0,642.0
+501328,Google Ads,416.0,4,CDMX,Movil,30.0,1,5,367.0,Calzado,2,0,,0.0,1,535.0
+501826,Organico,108.0,8,CDMX,Escritorio,37.0,1,30,310.0,Accesorios,4,0,,0.0,0,719.0
+501340,Instagram,413.0,1,CDMX,Escritorio,33.0,0,30,372.0,Calzado,1,2,11.0,0.009,1,762.0
+501892,Afiliados,244.0,6,Puebla,Movil,,1,20,294.0,Calzado,4,1,13.0,0.249,1,761.0
+500318,Google Ads,390.0,7,Guadalajara,Escritorio,25.0,1,0,327.0,Calzado,2,1,25.0,0.028,0,899.0
+501099,Organico,112.0,2,Monterrey,Movil,39.0,1,0,385.0,Accesorios,2,3,8.0,0.229,0,930.0
+501156,Afiliados,265.0,8,Puebla,Movil,29.0,1,5,544.0,Deportivo,3,0,,0.0,1,868.0
+500888,Instagram,365.0,9,CDMX,Movil,19.0,0,15,900.0,Calzado,4,2,90.0,0.055,0,900.0
+501626,Afiliados,247.0,4,CDMX,Movil,,1,20,253.0,Ropa,1,1,53.0,0.033,0,746.0
+501237,Organico,163.0,3,CDMX,Movil,18.0,1,0,613.0,Accesorios,1,1,31.0,0.206,1,1221.0
+500876,Google Ads,485.0,3,Puebla,Movil,,1,20,498.0,Accesorios,1,1,20.0,0.352,0,529.0
+500794,Instagram,438.0,5,Puebla,Movil,27.0,0,20,470.0,Ropa,1,1,60.0,0.067,0,642.0
+500146, Referido,253.0,11,CDMX,Escritorio,34.0,0,15,332.0,Deportivo,1,1,60.0,0.005,0,484.0
+501549,Instagram,348.0,9,Guadalajara,Movil,33.0,0,15,470.0,Accesorios,3,1,19.0,0.019,0,734.0
+501046,Instagram,389.0,5,Puebla,Escritorio,47.0,0,25,433.0,Deportivo,2,2,18.0,0.124,0,434.0
+500617,Instagram,343.0,5,Guadalajara,Escritorio,39.0,1,20,977.0,Deportivo,3,2,22.0,0.135,0,980.0
+501416,Afiliados,196.0,8,CDMX,Movil,20.0,0,0,471.0,Calzado,2,1,37.0,0.386,0,507.0
+501166,Afiliados,183.0,12,Guadalajara,Movil,48.0,0,15,514.0,Ropa,2,0,,0.0,0,830.0
+501969,Instagram,317.0,2,CDMX,Escritorio,43.0,0,0,438.0,Ropa,1,1,32.0,0.328,1,611.0
+501716,Instagram,365.0,1,Puebla,Movil,38.0,1,0,493.0,Deportivo,1,2,6.0,0.247,1,1017.0
+500540,Afiliados,344.0,2,Puebla,Movil,48.0,0,5,623.0,Ropa,1,0,,0.0,0,623.0
+501502,Referido,159.0,1,Guadalajara,Movil,21.0,1,15,454.0,Ropa,1,3,10.0,0.341,0,795.0
+501061,Google Ads,591.0,12,Monterrey,Movil,35.0,1,15,859.0,Ropa,1,1,14.0,0.134,0,859.0
+501253,Instagram,295.0,3,Guadalajara,Movil,22.0,1,0,525.0,Ropa,3,1,63.0,0.264,1,850.0
+500475,Afiliados,273.0,6,CDMX,Movil,32.0,0,20,225.0,Calzado,2,0,,0.0,0,225.0
+500272,Instagram,500.0,7,Puebla,Tablet,41.0,1,30,451.0,Ropa,3,0,,0.0,1,781.0
+501910,Instagram,415.0,11,CDMX,Movil,37.0,0,5,678.0,Calzado,2,1,17.0,0.002,0,1360.0
+500789,Google Ads,544.0,7,Merida,Movil,41.0,1,20,772.0,Ropa,1,0,,0.0,0,1018.0
+501485,Organico,90.0,10,Merida,Escritorio,58.0,0,25,360.0,Calzado,1,1,59.0,0.087,1,625.0
+500705,Google Ads,,6,Puebla,Escritorio,49.0,0,0,875.0,Ropa,1,1,49.0,0.09,0,1019.0
+501609,Afiliados,153.0,1,Guadalajara,Movil,40.0,1,30,339.0,Ropa,3,3,30.0,0.172,0,831.0
+501202,Instagram,495.0,12,Sin dato,Escritorio,58.0,1,0,384.0,Accesorios,3,3,35.0,0.161,0,802.0
+501330,Organico,139.0,9,Monterrey,Movil,44.0,1,20,535.0,Calzado,3,4,11.0,0.076,1,1269.0
+500515,Organico,89.0,7,Merida,Movil,33.0,0,0,426.0,Ropa,1,1,14.0,0.014,0,764.0
+501739,Instagram,345.0,6,Guadalajara,Movil,27.0,1,0,345.0,Ropa,1,2,60.0,0.076,1,
+500623,Google Ads,667.0,8,Puebla,Movil,41.0,1,5,434.0,Ropa,3,4,13.0,0.039,1,1338.0
+501465,Google Ads,687.0,1,CDMX,Escritorio,18.0,1,10,280.0,Accesorios,5,2,17.0,0.332,0,493.0
+501116,Referido,145.0,3,Monterrey,Movil,41.0,1,0,1078.0,Calzado,3,3,20.0,0.626,1,1283.0
+501051,Google Ads,447.0,3,CDMX,Movil,34.0,0,10,700.0,Ropa,4,1,29.0,0.197,0,849.0
+501004,Instagram,491.0,7,Monterrey,Escritorio,35.0,0,20,651.0,Ropa,3,3,17.0,0.258,0,651.0
+500064,Referido,196.0,9,CDMX,Movil,56.0,1,10,451.0,Ropa,3,2,15.0,0.292,1,1118.0
+501916,Google Ads,434.0,5,CDMX,Escritorio,38.0,1,15,276.0,Calzado,2,2,8.0,0.466,1,1254.0
+501011,Instagram,446.0,5,Monterrey,Movil,30.0,0,15,706.0,Calzado,4,0,,0.0,0,1068.0
+501971,Organico,119.0,7,Guadalajara,Movil,,1,0,402.0,Ropa,1,0,,0.0,0,779.0
+500436,Afiliados,172.0,1,CDMX,Movil,27.0,0,15,317.0,Calzado,1,0,,0.0,1,363.0
+501033,Referido,207.0,5,CDMX,Movil,24.0,0,30,407.0,Calzado,1,1,39.0,0.407,0,742.0
+500378,Instagram,468.0,2,CDMX,Movil,49.0,0,20,1153.0,Accesorios,2,5,7.0,0.279,0,1153.0
+500573,Google Ads,492.0,9,Merida,Escritorio,48.0,1,0,417.0,Ropa,2,1,17.0,0.144,1,1039.0
+501074,Google Ads,474.0,8,CDMX,Escritorio,32.0,0,5,313.0,Ropa,1,0,,0.0,0,700.0
+500819,Organico,109.0,6,Merida,Movil,36.0,1,5,852.0,Ropa,2,1,61.0,0.069,0,1051.0
+501876,Organico,114.0,3,Guadalajara,Movil,32.0,1,0,683.0,Ropa,3,3,22.0,0.21,1,1412.0
+500747,Instagram,519.0,10,Monterrey,Movil,28.0,0,10,463.0,Accesorios,1,1,47.0,0.206,0,463.0
+500284,Instagram,381.0,6,Guadalajara,Movil,44.0,0,0,236.0,Calzado,5,0,,0.0,0,281.0
+500569,Instagram,346.0,1,CDMX,Movil,36.0,1,15,664.0,Ropa,3,1,9.0,0.107,0,1226.0
+501678,Google Ads,400.0,7,CDMX,Movil,23.0,1,0,477.0,Accesorios,1,1,12.0,0.304,0,804.0
+501402,Afiliados,165.0,4,Puebla,Movil,28.0,0,30,187.0,Calzado,1,0,,0.0,0,479.0
+500951,Google Ads,517.0,10,CDMX,Movil,31.0,0,5,522.0,Calzado,1,1,6.0,0.236,1,1082.0
+501069,Organico,141.0,12,CDMX,Movil,28.0,0,0,394.0,Calzado,1,3,15.0,0.066,0,1139.0
+501027,Google Ads,421.0,10,Puebla,Movil,31.0,1,30,134.0,Ropa,1,0,,0.0,0,447.0
+500167,Organico,117.0,1,CDMX,Movil,37.0,1,20,559.0,Ropa,3,3,11.0,0.234,0,1384.0
+500390,Organico,135.0,9,Puebla,Movil,48.0,1,5,762.0,Accesorios,4,2,31.0,0.23,0,996.0
+500830,Instagram,417.0,8,Puebla,Movil,37.0,0,20,319.0,Calzado,2,1,72.0,0.037,0,893.0
+500033,Referido,153.0,10,Puebla,Movil,40.0,1,10,873.0,Ropa,1,2,12.0,0.578,1,1264.0
+500434,Google Ads,432.0,6,CDMX,Escritorio,37.0,1,0,361.0,Ropa,1,2,23.0,0.25,1,748.0
+500230,Afiliados,165.0,11,Monterrey,Escritorio,36.0,0,15,175.0,Deportivo,1,0,,0.0,0,175.0
+500238,Afiliados,139.0,1,Merida,Movil,24.0,0,30,195.0,Accesorios,1,1,68.0,0.022,0,341.0
+501007,Google Ads,427.0,3,CDMX,Movil,38.0,0,20,398.0,Ropa,2,1,68.0,0.169,0,780.0
+501298,Instagram,314.0,10,CDMX,Movil,40.0,0,20,185.0,Ropa,1,3,43.0,0.192,0,
+500031,Instagram,341.0,12,Puebla,Escritorio,26.0,1,25,390.0,Calzado,3,1,43.0,0.079,0,390.0
+500698,Google Ads,339.0,1,CDMX,Movil,46.0,0,10,268.0,Ropa,2,1,58.0,0.088,0,778.0
+501834,Afiliados,214.0,7,Monterrey,Escritorio,50.0,0,25,399.0,Deportivo,1,0,,0.0,0,805.0
+501191,Google Ads,680.0,9,Guadalajara,Movil,31.0,1,20,346.0,Ropa,1,0,,0.0,1,715.0
+501287,Afiliados,267.0,7,Merida,Escritorio,31.0,0,30,366.0,Ropa,2,1,56.0,0.088,0,607.0
+501856,Organico,139.0,2,CDMX,Movil,27.0,1,0,347.0,Calzado,3,3,15.0,0.327,0,472.0
+501668,Organico,,7,CDMX,Escritorio,50.0,0,5,623.0,Ropa,1,0,,0.0,1,1069.0
+500483,Afiliados,223.0,5,CDMX,Escritorio,,0,25,499.0,Calzado,3,2,14.0,0.001,0,733.0
+500779,Instagram,275.0,9,CDMX,Tablet,38.0,1,10,628.0,Ropa,1,1,8.0,0.404,0,633.0
+501721,Instagram,502.0,1,CDMX,Escritorio,,0,25,293.0,Ropa,2,1,33.0,0.005,1,1091.0
+501066,Google Ads,370.0,9,Puebla,Movil,31.0,1,0,896.0,Accesorios,2,3,16.0,0.154,1,1236.0
+501042,Google Ads,,11,Guadalajara,Movil,52.0,0,5,607.0,Calzado,2,1,11.0,0.258,1,1260.0
+501775,Referido,171.0,8,Merida,Escritorio,21.0,1,5,787.0,Accesorios,1,3,16.0,0.671,1,1517.0
+500898,Organico,97.0,11,Puebla,Escritorio,32.0,0,0,247.0,Ropa,3,4,29.0,0.05,1,881.0
+501544,Instagram,366.0,7,CDMX,Movil,20.0,0,0,657.0,Ropa,1,0,,0.0,0,657.0
+501965,Instagram,573.0,12,CDMX,Movil,24.0,1,0,190.0,Calzado,2,1,65.0,0.086,1,720.0
+500469,Google Ads,314.0,10,CDMX,Escritorio,43.0,1,5,548.0,Deportivo,2,3,36.0,0.27,0,973.0
+501576, Referido,567.0,12,Merida,Movil,41.0,1,25,250.0,Ropa,1,0,,0.0,0,611.0
+500325,Google Ads,550.0,11,Puebla,Escritorio,31.0,0,25,338.0,Calzado,4,1,5.0,0.065,1,513.0
+501056,Referido,199.0,1,CDMX,Movil,41.0,0,0,562.0,Deportivo,1,2,83.0,0.058,0,969.0
+500279,Google Ads,442.0,10,Monterrey,Escritorio,44.0,1,25,370.0,Deportivo,2,2,90.0,0.196,0,544.0
+501966,Instagram,248.0,6,CDMX,Movil,33.0,0,15,285.0,Accesorios,1,1,28.0,0.194,0,697.0
+500753,Instagram,456.0,10,Merida,Movil,42.0,1,25,177.0,Ropa,2,0,,0.0,0,475.0
+501338,Google Ads,483.0,9,Monterrey,Movil,39.0,1,20,428.0,Deportivo,2,1,20.0,0.166,0,609.0
+500407,Google Ads,379.0,11,Guadalajara,Movil,41.0,0,0,310.0,Ropa,2,0,,0.0,0,343.0
+501415,Google Ads,475.0,10,CDMX,Movil,41.0,1,5,442.0,Deportivo,4,2,2.0,0.155,1,859.0
+500144,Instagram,341.0,9,Guadalajara,Tablet,44.0,0,0,534.0,Ropa,1,4,36.0,0.048,0,1320.0
+501266,Referido,182.0,1,CDMX,Movil,21.0,0,0,1199.0,Deportivo,1,0,,0.0,1,1199.0
+500624,Afiliados,211.0,12,CDMX,Escritorio,25.0,0,30,310.0,Accesorios,1,0,,0.0,0,310.0
