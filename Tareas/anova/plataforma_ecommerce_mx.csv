@@ -1,0 +1,281 @@
+id_cliente,edad,tiempo_navegacion_min,visitas_previas,gasto_historico_promedio_mxn,genero,region,dispositivo,fuente_trafico,categoria_interes,monto_compra_mxn
+1,41,22,2,259,Femenino,Norte,Móvil,Email,Electrónica,1597
+2,33,6,3,3667,Masculino,Centro,Tablet,Email,Electrónica,3763
+3,43,3,5,3259,Masculino,Occidente,Desktop,Directo,Electrónica,2663
+4,54,8,4,1443,Femenino,Centro,Tablet,Email,Ropa,3953
+5,31,4,4,1907,Masculino,Centro,Desktop,Red Social,Ropa,3059
+6,31,6,3,2731,Femenino,Centro,Móvil,Red Social,Electrónica,2500
+7,55,22,2,517,Femenino,Norte,Desktop,Búsqueda,Ropa,3205
+8,44,3,2,1184,Femenino,Centro,Desktop,Email,Electrónica,3126
+9,28,25,3,3413,Femenino,Centro,Móvil,Búsqueda,Deportes,1825
+10,42,18,6,662,Masculino,Norte,Móvil,Email,Deportes,2350
+11,28,1,5,2286,Femenino,Sur,Desktop,Búsqueda,Hogar,2047
+12,28,1,4,610,Masculino,Centro,Móvil,Búsqueda,Ropa,3089
+13,38,1,2,2625,Masculino,Sur,Desktop,Búsqueda,Deportes,2279
+14,18,1,3,1757,Femenino,Occidente,Desktop,Búsqueda,Deportes,1873
+15,18,1,2,496,Masculino,Norte,Tablet,Email,Ropa,1244
+16,27,9,1,4590,Femenino,Sur,Móvil,Email,Hogar,842
+17,21,1,7,1004,Femenino,Centro,Móvil,Red Social,Ropa,1252
+18,39,3,5,945,Femenino,Occidente,Desktop,Búsqueda,Hogar,2277
+19,23,14,3,2122,Femenino,Norte,Móvil,Búsqueda,Deportes,363
+20,18,1,5,4531,Masculino,Sur,Desktop,Búsqueda,Ropa,3954
+21,54,13,3,802,Masculino,Centro,Desktop,Búsqueda,Deportes,3616
+22,32,2,6,1899,Femenino,Centro,Móvil,Directo,Electrónica,3536
+23,35,1,4,2547,Masculino,Norte,Móvil,Búsqueda,Deportes,1738
+24,18,9,5,3147,Femenino,Sur,Móvil,Red Social,Electrónica,1617
+25,27,7,5,2082,Femenino,Sur,Móvil,Búsqueda,Hogar,482
+26,36,16,4,1348,Femenino,Centro,Tablet,Búsqueda,Ropa,1965
+27,20,10,2,932,Masculino,Sur,Desktop,Red Social,Ropa,1840
+28,39,13,5,1937,Masculino,Centro,Desktop,Red Social,Ropa,1374
+29,27,2,4,766,Masculino,Sur,Desktop,Búsqueda,Deportes,1989
+30,31,1,6,174,Masculino,Norte,Móvil,Búsqueda,Hogar,2077
+31,27,11,4,2563,Femenino,Occidente,Tablet,Red Social,Deportes,100
+32,59,13,5,3726,Masculino,Centro,Desktop,Búsqueda,Deportes,1753
+33,34,37,0,273,Masculino,Centro,Desktop,Búsqueda,Ropa,2273
+34,21,4,8,806,Masculino,Norte,Desktop,Directo,Electrónica,5474
+35,45,3,5,2967,Femenino,Norte,Móvil,Red Social,Ropa,1705
+36,19,11,7,5000,Femenino,Centro,Desktop,Red Social,Ropa,896
+37,37,3,2,1838,Masculino,Norte,Móvil,Red Social,Ropa,1983
+38,18,21,0,1009,Masculino,Sur,Móvil,Red Social,Electrónica,823
+39,18,15,5,1561,Masculino,Norte,Móvil,Red Social,Ropa,2511
+40,37,4,4,5000,Masculino,Centro,Tablet,Email,Ropa,2361
+41,44,11,4,1078,Femenino,Centro,Desktop,Email,Ropa,2681
+42,37,11,2,953,Femenino,Norte,Desktop,Búsqueda,Ropa,3217
+43,33,1,3,1228,Masculino,Norte,Desktop,Red Social,Deportes,880
+44,31,18,3,843,Masculino,Centro,Desktop,Red Social,Hogar,1415
+45,18,5,3,1994,Femenino,Centro,Tablet,Directo,Deportes,1331
+46,25,14,3,5000,Masculino,Centro,Móvil,Red Social,Electrónica,3651
+47,29,3,2,2341,Femenino,Centro,Móvil,Red Social,Ropa,100
+48,48,18,5,1477,Masculino,Centro,Móvil,Búsqueda,Hogar,100
+49,39,3,4,1431,Masculino,Norte,Desktop,Red Social,Ropa,1877
+50,18,1,3,517,Masculino,Centro,Desktop,Búsqueda,Ropa,3083
+51,39,18,3,3664,Masculino,Occidente,Móvil,Red Social,Ropa,2403
+52,29,1,3,1698,Femenino,Centro,Móvil,Búsqueda,Ropa,1284
+53,26,3,2,1564,Masculino,Sur,Desktop,Email,Ropa,2102
+54,42,23,2,5000,Masculino,Centro,Móvil,Búsqueda,Electrónica,4104
+55,48,24,6,2296,Masculino,Sur,Desktop,Red Social,Hogar,461
+56,47,6,2,990,Masculino,Sur,Tablet,Directo,Ropa,1550
+57,24,7,1,1285,Masculino,Centro,Móvil,Búsqueda,Ropa,2155
+58,30,4,1,4531,Masculino,Occidente,Móvil,Red Social,Hogar,1915
+59,39,2,5,1979,Femenino,Norte,Desktop,Red Social,Ropa,1443
+60,47,3,4,572,Masculino,Norte,Desktop,Búsqueda,Ropa,2624
+61,28,8,5,3772,Masculino,Sur,Móvil,Email,Deportes,100
+62,32,11,5,1059,Femenino,Sur,Tablet,Búsqueda,Ropa,729
+63,20,12,4,5000,Masculino,Norte,Móvil,Red Social,Ropa,1992
+64,19,12,5,4289,Femenino,Norte,Móvil,Red Social,Electrónica,1557
+65,45,1,3,1264,Masculino,Norte,Desktop,Red Social,Ropa,2271
+66,52,5,4,5000,Femenino,Centro,Desktop,Email,Electrónica,4215
+67,34,1,6,1908,Femenino,Sur,Móvil,Búsqueda,Hogar,982
+68,48,6,4,3576,Femenino,Centro,Desktop,Búsqueda,Ropa,2440
+69,39,4,2,2664,Femenino,Centro,Desktop,Email,Electrónica,3028
+70,26,17,3,918,Masculino,Centro,Móvil,Red Social,Electrónica,2660
+71,39,3,5,1080,Femenino,Norte,Móvil,Email,Ropa,2540
+72,54,1,3,4121,Masculino,Centro,Desktop,Email,Electrónica,4361
+73,34,1,2,1383,Masculino,Sur,Móvil,Email,Ropa,1368
+74,55,11,4,1309,Masculino,Occidente,Móvil,Red Social,Electrónica,2748
+75,18,7,4,842,Femenino,Sur,Móvil,Red Social,Ropa,1240
+76,45,1,5,2537,Masculino,Norte,Desktop,Email,Electrónica,2517
+77,36,1,3,5000,Femenino,Occidente,Desktop,Red Social,Ropa,2541
+78,31,9,7,769,Femenino,Sur,Desktop,Búsqueda,Hogar,1605
+79,36,1,4,1843,Femenino,Sur,Móvil,Directo,Ropa,1621
+80,18,13,5,5000,Femenino,Centro,Desktop,Directo,Electrónica,4601
+81,32,9,2,1696,Masculino,Centro,Desktop,Red Social,Electrónica,2300
+82,39,1,9,2596,Masculino,Centro,Desktop,Búsqueda,Hogar,2373
+83,54,1,2,772,Masculino,Norte,Tablet,Red Social,Electrónica,2681
+84,28,34,1,2546,Masculino,Norte,Móvil,Email,Hogar,1971
+85,24,3,3,1556,Masculino,Norte,Desktop,Directo,Hogar,4390
+86,28,3,6,3978,Masculino,Centro,Móvil,Búsqueda,Deportes,1116
+87,46,13,1,4674,Masculino,Sur,Móvil,Búsqueda,Ropa,944
+88,39,23,2,5000,Femenino,Centro,Móvil,Directo,Electrónica,3191
+89,28,34,8,2874,Femenino,Norte,Móvil,Red Social,Hogar,557
+90,41,11,7,2346,Masculino,Occidente,Móvil,Red Social,Deportes,873
+91,36,3,3,2112,Femenino,Occidente,Desktop,Directo,Deportes,2170
+92,47,1,1,1363,Masculino,Sur,Móvil,Búsqueda,Electrónica,2205
+93,25,12,6,2370,Masculino,Occidente,Desktop,Red Social,Ropa,1987
+94,30,6,4,1427,Femenino,Centro,Móvil,Búsqueda,Electrónica,2358
+95,29,4,5,2068,Masculino,Occidente,Móvil,Red Social,Hogar,430
+96,18,18,3,5000,Masculino,Norte,Desktop,Email,Electrónica,4375
+97,38,1,3,808,Femenino,Centro,Móvil,Red Social,Electrónica,3819
+98,38,5,5,4500,Femenino,Norte,Móvil,Directo,Hogar,2069
+99,35,1,5,5000,Femenino,Norte,Desktop,Red Social,Electrónica,3125
+100,31,5,4,1645,Femenino,Norte,Móvil,Red Social,Deportes,1485
+101,18,1,6,331,Femenino,Centro,Móvil,Búsqueda,Electrónica,1771
+102,29,1,3,1111,Masculino,Sur,Móvil,Red Social,Ropa,2417
+103,30,1,4,5000,Masculino,Centro,Tablet,Red Social,Electrónica,3186
+104,24,8,2,1775,Masculino,Norte,Desktop,Búsqueda,Hogar,4042
+105,32,10,7,812,Masculino,Sur,Desktop,Red Social,Ropa,1141
+106,40,7,10,1207,Femenino,Sur,Desktop,Red Social,Ropa,2812
+107,59,26,4,3542,Masculino,Centro,Móvil,Email,Deportes,2917
+108,37,3,4,2800,Femenino,Sur,Móvil,Email,Ropa,1928
+109,38,2,3,1493,Femenino,Norte,Desktop,Email,Electrónica,3904
+110,34,16,5,1348,Femenino,Centro,Móvil,Búsqueda,Electrónica,2617
+111,18,2,5,1321,Femenino,Occidente,Móvil,Búsqueda,Electrónica,3436
+112,34,26,5,864,Femenino,Centro,Móvil,Email,Electrónica,3393
+113,35,1,2,5000,Masculino,Centro,Móvil,Red Social,Ropa,116
+114,67,28,2,1397,Femenino,Occidente,Tablet,Búsqueda,Electrónica,1824
+115,32,1,5,4787,Masculino,Sur,Móvil,Email,Electrónica,2843
+116,38,17,2,5000,Femenino,Norte,Móvil,Email,Hogar,2465
+117,34,6,1,4018,Masculino,Norte,Móvil,Red Social,Ropa,1518
+118,19,39,6,1280,Femenino,Norte,Tablet,Búsqueda,Electrónica,3920
+119,49,1,4,2497,Femenino,Sur,Móvil,Email,Ropa,100
+120,44,6,3,1773,Masculino,Centro,Móvil,Red Social,Ropa,1845
+121,45,27,5,877,Masculino,Norte,Desktop,Email,Ropa,1641
+122,23,5,5,2343,Femenino,Occidente,Desktop,Email,Ropa,3044
+123,53,7,1,703,Masculino,Centro,Móvil,Email,Hogar,2611
+124,18,9,5,4675,Femenino,Norte,Móvil,Red Social,Ropa,1572
+125,42,4,7,1246,Femenino,Centro,Móvil,Búsqueda,Deportes,739
+126,63,7,5,2123,Masculino,Sur,Móvil,Email,Deportes,2661
+127,22,7,4,2267,Masculino,Norte,Móvil,Red Social,Electrónica,3557
+128,27,18,4,1469,Masculino,Norte,Móvil,Email,Ropa,2912
+129,36,1,0,2890,Femenino,Sur,Móvil,Búsqueda,Electrónica,1899
+130,28,2,2,1236,Masculino,Centro,Móvil,Búsqueda,Hogar,2696
+131,18,24,5,3630,Masculino,Centro,Desktop,Directo,Electrónica,3493
+132,35,17,2,615,Masculino,Centro,Tablet,Email,Ropa,3397
+133,21,4,5,2000,Femenino,Norte,Desktop,Directo,Electrónica,4852
+134,41,7,0,5000,Femenino,Norte,Móvil,Email,Hogar,2975
+135,23,2,2,812,Femenino,Centro,Móvil,Red Social,Hogar,892
+136,55,1,1,1051,Masculino,Norte,Tablet,Email,Ropa,2869
+137,24,4,2,2727,Femenino,Norte,Móvil,Directo,Hogar,946
+138,30,3,4,2087,Femenino,Sur,Móvil,Red Social,Ropa,1135
+139,45,7,3,2393,Femenino,Occidente,Desktop,Red Social,Ropa,1994
+140,18,1,4,2674,Femenino,Sur,Desktop,Búsqueda,Deportes,100
+141,37,29,4,3004,Masculino,Occidente,Desktop,Red Social,Ropa,1145
+142,51,34,7,4392,Masculino,Norte,Móvil,Email,Ropa,2310
+143,18,9,1,2509,Femenino,Occidente,Móvil,Búsqueda,Ropa,1058
+144,37,6,4,1490,Masculino,Norte,Tablet,Búsqueda,Deportes,922
+145,38,2,6,3096,Femenino,Occidente,Móvil,Red Social,Hogar,1573
+146,45,13,5,5000,Femenino,Occidente,Desktop,Búsqueda,Electrónica,3326
+147,18,9,1,1626,Masculino,Sur,Desktop,Búsqueda,Hogar,1993
+148,18,1,6,829,Femenino,Occidente,Desktop,Red Social,Ropa,1031
+149,41,19,4,4383,Masculino,Centro,Móvil,Directo,Electrónica,4304
+150,38,13,7,1642,Masculino,Norte,Móvil,Red Social,Electrónica,4113
+151,38,23,4,317,Femenino,Centro,Desktop,Búsqueda,Ropa,1929
+152,39,10,5,3561,Femenino,Centro,Desktop,Búsqueda,Electrónica,2923
+153,26,7,6,1178,Masculino,Norte,Tablet,Email,Deportes,2748
+154,38,4,4,1681,Masculino,Centro,Móvil,Red Social,Ropa,1451
+155,38,21,5,2358,Femenino,Occidente,Móvil,Email,Ropa,1767
+156,25,16,1,2105,Femenino,Norte,Tablet,Email,Ropa,2759
+157,59,1,4,3189,Femenino,Sur,Desktop,Email,Ropa,581
+158,41,1,3,1276,Masculino,Occidente,Desktop,Búsqueda,Deportes,3124
+159,19,3,1,2725,Masculino,Occidente,Móvil,Email,Electrónica,3299
+160,43,13,7,1469,Masculino,Occidente,Desktop,Búsqueda,Electrónica,3216
+161,22,34,2,3265,Femenino,Centro,Desktop,Directo,Hogar,2652
+162,45,1,3,2958,Masculino,Occidente,Desktop,Red Social,Ropa,1994
+163,50,7,4,855,Masculino,Sur,Móvil,Red Social,Electrónica,822
+164,24,3,3,4310,Femenino,Norte,Móvil,Búsqueda,Electrónica,3848
+165,47,28,7,1177,Masculino,Centro,Desktop,Búsqueda,Electrónica,3905
+166,40,14,1,3451,Femenino,Sur,Móvil,Email,Deportes,1487
+167,45,14,4,2425,Femenino,Norte,Móvil,Búsqueda,Hogar,2573
+168,59,5,7,5000,Femenino,Sur,Tablet,Red Social,Electrónica,1236
+169,31,4,4,1512,Masculino,Sur,Móvil,Búsqueda,Hogar,2008
+170,25,2,6,1367,Masculino,Norte,Desktop,Email,Ropa,2832
+171,23,1,3,1780,Femenino,Centro,Móvil,Email,Ropa,2775
+172,24,16,8,1418,Femenino,Sur,Desktop,Email,Ropa,434
+173,33,13,6,3428,Femenino,Centro,Tablet,Email,Ropa,2293
+174,39,65,1,496,Masculino,Norte,Móvil,Búsqueda,Electrónica,2625
+175,38,45,4,778,Femenino,Norte,Móvil,Búsqueda,Electrónica,3095
+176,45,6,3,769,Femenino,Centro,Móvil,Email,Deportes,2207
+177,35,11,3,3867,Femenino,Occidente,Móvil,Red Social,Electrónica,1561
+178,53,23,5,5000,Femenino,Norte,Desktop,Red Social,Electrónica,2430
+179,31,15,4,1663,Femenino,Sur,Tablet,Búsqueda,Ropa,1157
+180,70,2,5,1579,Femenino,Norte,Móvil,Búsqueda,Ropa,921
+181,43,4,1,1912,Masculino,Centro,Móvil,Búsqueda,Electrónica,3794
+182,23,1,4,4580,Masculino,Sur,Móvil,Directo,Electrónica,2471
+183,21,24,3,861,Masculino,Sur,Desktop,Búsqueda,Hogar,100
+184,41,7,3,2187,Masculino,Norte,Móvil,Red Social,Ropa,1328
+185,32,2,5,3944,Masculino,Centro,Desktop,Búsqueda,Ropa,1862
+186,44,8,2,2699,Masculino,Norte,Desktop,Email,Electrónica,2805
+187,41,7,3,2104,Masculino,Centro,Desktop,Red Social,Ropa,1338
+188,34,3,6,4027,Masculino,Sur,Móvil,Directo,Ropa,1797
+189,23,1,6,207,Femenino,Norte,Desktop,Directo,Hogar,3705
+190,18,8,5,3109,Femenino,Centro,Móvil,Red Social,Ropa,1585
+191,29,5,5,1071,Masculino,Centro,Móvil,Directo,Electrónica,2958
+192,46,11,5,418,Femenino,Occidente,Desktop,Directo,Ropa,2637
+193,37,5,2,2721,Femenino,Occidente,Desktop,Email,Ropa,2030
+194,18,15,5,5000,Masculino,Norte,Móvil,Email,Electrónica,2990
+195,37,6,5,1619,Masculino,Sur,Móvil,Búsqueda,Hogar,731
+196,40,6,4,3874,Masculino,Centro,Móvil,Red Social,Electrónica,1442
+197,23,16,3,5000,Femenino,Centro,Móvil,Búsqueda,Hogar,1559
+198,36,4,2,5000,Femenino,Sur,Móvil,Búsqueda,Ropa,1122
+199,35,1,3,5000,Masculino,Occidente,Móvil,Directo,Hogar,2135
+200,20,1,3,3273,Masculino,Occidente,Móvil,Red Social,Ropa,1062
+201,39,11,5,1920,Masculino,Centro,Desktop,Email,Hogar,2608
+202,42,7,6,501,Masculino,Centro,Desktop,Email,Electrónica,4760
+203,49,9,4,1484,Masculino,Sur,Desktop,Directo,Deportes,955
+204,48,1,3,920,Masculino,Norte,Móvil,Directo,Electrónica,3948
+205,18,1,5,5000,Femenino,Centro,Tablet,Búsqueda,Ropa,1073
+206,22,1,7,1570,Femenino,Centro,Desktop,Búsqueda,Ropa,1700
+207,41,3,5,1995,Masculino,Sur,Desktop,Red Social,Hogar,731
+208,41,7,3,2810,Femenino,Norte,Desktop,Búsqueda,Electrónica,2877
+209,41,3,5,1872,Masculino,Norte,Tablet,Búsqueda,Hogar,3185
+210,75,4,7,5000,Masculino,Occidente,Móvil,Red Social,Ropa,1933
+211,42,18,7,1098,Masculino,Norte,Móvil,Email,Ropa,3284
+212,49,3,3,2112,Femenino,Centro,Desktop,Red Social,Ropa,2350
+213,47,5,7,998,Femenino,Norte,Desktop,Red Social,Deportes,705
+214,43,12,4,628,Femenino,Norte,Desktop,Email,Hogar,2591
+215,30,4,2,1108,Masculino,Norte,Móvil,Búsqueda,Deportes,1013
+216,44,7,5,1755,Femenino,Norte,Móvil,Búsqueda,Ropa,2679
+217,24,15,3,1282,Masculino,Occidente,Móvil,Email,Electrónica,2362
+218,31,23,3,1039,Femenino,Centro,Tablet,Red Social,Hogar,2455
+219,28,1,3,586,Masculino,Occidente,Desktop,Email,Ropa,3518
+220,36,20,4,1691,Masculino,Centro,Móvil,Búsqueda,Hogar,3773
+221,65,5,1,542,Femenino,Centro,Móvil,Email,Deportes,1470
+222,18,2,3,3321,Femenino,Centro,Móvil,Red Social,Deportes,1563
+223,43,4,7,1931,Masculino,Centro,Desktop,Red Social,Hogar,4407
+224,18,31,3,563,Femenino,Sur,Desktop,Red Social,Ropa,792
+225,28,5,5,1411,Masculino,Centro,Desktop,Directo,Ropa,1714
+226,49,3,2,990,Femenino,Centro,Móvil,Red Social,Deportes,100
+227,35,8,3,2334,Femenino,Occidente,Desktop,Red Social,Ropa,2193
+228,20,2,1,5000,Femenino,Occidente,Móvil,Directo,Hogar,234
+229,25,1,5,403,Femenino,Occidente,Desktop,Email,Hogar,2334
+230,43,1,4,1982,Femenino,Centro,Móvil,Red Social,Electrónica,2789
+231,25,1,3,1590,Masculino,Sur,Móvil,Email,Deportes,1698
+232,37,1,7,3093,Femenino,Centro,Desktop,Red Social,Ropa,2311
+233,35,1,4,2144,Masculino,Centro,Tablet,Búsqueda,Ropa,2458
+234,26,8,7,990,Masculino,Norte,Móvil,Red Social,Ropa,2690
+235,62,1,5,1400,Masculino,Centro,Desktop,Directo,Electrónica,3315
+236,43,3,2,956,Masculino,Norte,Móvil,Directo,Ropa,1660
+237,18,18,1,4276,Femenino,Centro,Móvil,Red Social,Ropa,644
+238,37,5,6,1839,Masculino,Occidente,Móvil,Red Social,Hogar,2329
+239,26,8,2,5000,Femenino,Norte,Móvil,Búsqueda,Deportes,1960
+240,46,1,3,1722,Masculino,Norte,Móvil,Directo,Ropa,2586
+241,24,1,3,1025,Masculino,Norte,Móvil,Directo,Electrónica,4245
+242,33,1,3,538,Masculino,Occidente,Móvil,Red Social,Deportes,167
+243,41,1,4,427,Masculino,Centro,Tablet,Email,Ropa,4070
+244,46,2,9,509,Masculino,Centro,Móvil,Email,Ropa,3818
+245,19,1,4,2238,Femenino,Sur,Desktop,Red Social,Ropa,1849
+246,30,1,4,2716,Masculino,Sur,Móvil,Búsqueda,Electrónica,3949
+247,28,1,7,510,Femenino,Centro,Desktop,Red Social,Ropa,633
+248,26,4,7,3699,Masculino,Sur,Móvil,Email,Deportes,1192
+249,57,1,4,1228,Masculino,Sur,Móvil,Email,Electrónica,2418
+250,40,3,3,2033,Femenino,Sur,Móvil,Red Social,Electrónica,2348
+251,18,5,6,5000,Masculino,Norte,Móvil,Directo,Ropa,1403
+252,46,9,6,3705,Masculino,Occidente,Móvil,Búsqueda,Electrónica,3538
+253,62,1,0,1458,Masculino,Centro,Desktop,Red Social,Hogar,3530
+254,48,12,3,886,Masculino,Centro,Desktop,Email,Hogar,3900
+255,18,7,5,323,Femenino,Centro,Desktop,Email,Hogar,3160
+256,28,1,4,1017,Masculino,Norte,Desktop,Red Social,Electrónica,2531
+257,51,16,3,1527,Femenino,Norte,Móvil,Búsqueda,Deportes,626
+258,25,20,3,820,Femenino,Sur,Móvil,Búsqueda,Hogar,2228
+259,40,1,7,1627,Masculino,Norte,Móvil,Red Social,Hogar,2497
+260,45,2,3,1922,Femenino,Centro,Móvil,Red Social,Ropa,1294
+261,22,13,3,1510,Masculino,Centro,Móvil,Búsqueda,Ropa,1730
+262,34,11,3,1074,Femenino,Norte,Móvil,Email,Ropa,405
+263,18,1,6,2069,Masculino,Occidente,Móvil,Red Social,Hogar,780
+264,21,1,3,2574,Femenino,Norte,Móvil,Email,Electrónica,4625
+265,31,3,6,755,Masculino,Centro,Desktop,Email,Electrónica,3230
+266,18,5,2,5000,Masculino,Centro,Desktop,Búsqueda,Deportes,2477
+267,56,7,7,1670,Femenino,Norte,Móvil,Búsqueda,Deportes,2158
+268,18,3,4,1835,Femenino,Norte,Tablet,Email,Deportes,909
+269,29,4,4,3186,Masculino,Sur,Tablet,Red Social,Ropa,1425
+270,36,11,1,2178,Masculino,Occidente,Móvil,Email,Hogar,3123
+271,53,1,5,3875,Femenino,Norte,Móvil,Email,Ropa,2077
+272,18,2,6,2274,Femenino,Sur,Móvil,Email,Ropa,3783
+273,50,9,1,1107,Femenino,Sur,Tablet,Directo,Ropa,101
+274,35,18,5,2414,Femenino,Sur,Desktop,Red Social,Ropa,2167
+275,22,5,5,724,Femenino,Centro,Móvil,Red Social,Electrónica,2296
+276,41,6,1,1972,Femenino,Centro,Móvil,Red Social,Hogar,2089
+277,37,1,3,1760,Masculino,Centro,Desktop,Búsqueda,Ropa,3017
+278,27,4,4,1530,Masculino,Sur,Móvil,Red Social,Hogar,688
+279,35,6,1,1631,Femenino,Sur,Móvil,Búsqueda,Electrónica,2247
+280,29,2,2,401,Femenino,Norte,Desktop,Directo,Ropa,897
