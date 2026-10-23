@@ -1,0 +1,1201 @@
+id_cliente,edad_cliente,ingreso_anual,monto_credito_solicitado,tasa_utilizacion_credito,razon_deuda_ingreso,antiguedad_crediticia_anios,num_cuentas_credito,num_consultas_recientes,tipo_vivienda,proposito_credito,nivel_educativo,default
+CR-00001,21,133182.0,99755.0,42.3,10.3,13.1,3,0,Propia,Gastos Personales,Preparatoria,0
+CR-00002,54,349597.0,70442.0,21.3,31.8,16.2,7,1,Rentada,Gastos Personales,Preparatoria,0
+CR-00003,50,250336.0,30681.0,45.0,27.5,5.8,2,3,Propia,Gastos Personales,Posgrado,0
+CR-00004,23,60000.0,44325.0,51.7,52.5,2.7,4,2,Hipotecada,Mejoras del Hogar,Licenciatura,1
+CR-00005,65,295733.0,159279.0,41.1,8.3,6.9,1,3,Propia,Gastos Personales,Preparatoria,0
+CR-00006,31,157047.0,154365.0,24.0,16.7,4.8,1,2,Hipotecada,Gastos Personales,Posgrado,0
+CR-00007,33,180211.0,90619.0,59.8,25.4,1.1,4,1,Rentada,Mejoras del Hogar,Licenciatura,0
+CR-00008,30,101562.0,54504.0,79.4,31.9,8.0,5,0,Hipotecada,Mejoras del Hogar,Licenciatura,0
+CR-00009,37,146871.0,133016.0,49.2,53.7,4.5,4,0,Hipotecada,Automotriz,Preparatoria,1
+CR-00010,29,202302.0,46743.0,43.9,61.5,7.1,6,2,Hipotecada,Consolidación de Deuda,Preparatoria,1
+CR-00011,38,473884.0,130105.0,16.4,45.1,2.3,3,1,Hipotecada,Mejoras del Hogar,Posgrado,0
+CR-00012,60,339673.0,26711.0,44.5,21.9,8.3,4,0,Rentada,Gastos Personales,Licenciatura,0
+CR-00013,43,265113.0,67623.0,40.2,12.8,9.3,2,3,Hipotecada,Consolidación de Deuda,Licenciatura,0
+CR-00014,66,153433.0,67114.0,80.5,10.8,11.9,4,2,Rentada,Consolidación de Deuda,Posgrado,0
+CR-00015,43,118861.0,183697.0,17.1,19.3,4.0,7,1,Rentada,Mejoras del Hogar,Preparatoria,0
+CR-00016,34,264566.0,96371.0,54.1,16.2,4.3,3,1,Rentada,Consolidación de Deuda,Licenciatura,0
+CR-00017,59,78455.0,27203.0,19.0,39.5,3.6,5,1,Rentada,Automotriz,Licenciatura,0
+CR-00018,61,227958.0,130244.0,66.1,51.0,6.7,4,1,Hipotecada,Consolidación de Deuda,Licenciatura,1
+CR-00019,63,131929.0,175245.0,82.1,24.0,13.7,2,2,Rentada,Automotriz,Licenciatura,1
+CR-00020,64,134336.0,74641.0,26.3,36.1,4.5,3,1,Propia,Mejoras del Hogar,Preparatoria,0
+CR-00021,22,243559.0,20310.0,43.7,11.4,5.1,3,5,Rentada,Consolidación de Deuda,Licenciatura,1
+CR-00022,46,271599.0,58267.0,84.8,7.3,4.6,6,0,Rentada,Mejoras del Hogar,Licenciatura,0
+CR-00023,34,163045.0,72959.0,66.0,14.1,6.2,4,0,Propia,Mejoras del Hogar,Licenciatura,0
+CR-00024,33,238629.0,60494.0,17.6,22.7,2.2,3,2,Propia,Automotriz,Licenciatura,1
+CR-00025,32,107550.0,66824.0,60.9,30.0,3.9,1,0,Propia,Gastos Personales,Licenciatura,0
+CR-00026,61,228537.0,80082.0,28.2,8.3,3.7,2,1,Propia,Automotriz,Licenciatura,0
+CR-00027,59,168949.0,55130.0,31.7,13.6,5.6,4,1,Propia,Mejoras del Hogar,Preparatoria,0
+CR-00028,31,60000.0,32279.0,50.5,78.6,10.5,3,0,Rentada,Gastos Personales,Licenciatura,1
+CR-00029,41,139469.0,73394.0,58.3,19.1,5.2,1,4,Propia,Gastos Personales,Preparatoria,1
+CR-00030,57,164338.0,59118.0,38.2,37.6,5.3,3,0,Hipotecada,Gastos Personales,Licenciatura,0
+CR-00031,28,231735.0,37094.0,45.2,14.7,5.2,5,2,Rentada,Automotriz,Posgrado,0
+CR-00032,51,297123.0,66466.0,2.4,44.9,11.4,2,0,Hipotecada,Consolidación de Deuda,Licenciatura,0
+CR-00033,42,131333.0,139954.0,40.5,6.6,12.8,5,0,Propia,Gastos Personales,Licenciatura,0
+CR-00034,66,122618.0,58214.0,12.6,7.9,6.8,4,1,Propia,Gastos Personales,Preparatoria,0
+CR-00035,57,60000.0,40181.0,11.4,37.8,11.8,4,1,Hipotecada,Consolidación de Deuda,Licenciatura,0
+CR-00036,32,60000.0,127065.0,50.5,7.1,10.5,6,0,Rentada,Gastos Personales,Licenciatura,0
+CR-00037,61,60000.0,63004.0,33.5,15.0,1.9,4,2,Propia,Gastos Personales,Licenciatura,0
+CR-00038,60,60000.0,52331.0,3.9,32.3,4.1,5,2,Propia,Gastos Personales,Licenciatura,0
+CR-00039,31,112490.0,116271.0,32.3,26.2,7.3,3,4,Hipotecada,Mejoras del Hogar,Preparatoria,1
+CR-00040,46,199624.0,201451.0,20.9,45.4,3.0,7,0,Rentada,Consolidación de Deuda,Preparatoria,1
+CR-00041,59,154348.0,50397.0,25.0,36.8,14.2,2,0,Propia,Automotriz,Licenciatura,0
+CR-00042,32,104944.0,106015.0,31.3,45.1,15.7,4,0,Rentada,Automotriz,Preparatoria,0
+CR-00043,32,109049.0,82964.0,54.9,30.2,3.1,5,1,Hipotecada,Gastos Personales,Licenciatura,0
+CR-00044,29,593713.0,91969.0,14.1,64.1,11.3,4,1,Rentada,Mejoras del Hogar,Preparatoria,0
+CR-00045,21,256865.0,42706.0,1.7,54.8,6.1,7,1,Hipotecada,Mejoras del Hogar,Preparatoria,0
+CR-00046,45,111972.0,94610.0,28.9,22.9,7.4,8,1,Hipotecada,Automotriz,Preparatoria,1
+CR-00047,21,297961.0,41568.0,23.1,28.7,8.8,6,0,Rentada,Consolidación de Deuda,Preparatoria,0
+CR-00048,49,157579.0,20484.0,29.2,54.7,11.7,3,2,Rentada,Consolidación de Deuda,Licenciatura,0
+CR-00049,41,207088.0,121752.0,65.2,6.4,15.1,6,0,Propia,Automotriz,Licenciatura,0
+CR-00050,30,163568.0,45285.0,19.8,28.8,14.1,3,0,Rentada,Mejoras del Hogar,Licenciatura,0
+CR-00051,38,213187.0,68870.0,5.0,21.3,7.8,7,3,Propia,Consolidación de Deuda,Preparatoria,1
+CR-00052,21,101388.0,48514.0,33.7,15.4,2.2,4,0,Propia,Consolidación de Deuda,Licenciatura,0
+CR-00053,28,478945.0,55238.0,46.6,4.4,3.5,5,1,Propia,Automotriz,Preparatoria,0
+CR-00054,44,295740.0,39643.0,23.3,34.6,7.6,8,1,Hipotecada,Automotriz,Posgrado,0
+CR-00055,24,236104.0,39241.0,9.7,42.3,9.0,3,4,Rentada,Gastos Personales,Licenciatura,0
+CR-00056,56,203138.0,103303.0,47.8,41.0,7.1,4,1,Rentada,Mejoras del Hogar,Preparatoria,0
+CR-00057,33,304201.0,43025.0,53.7,35.1,4.9,5,2,Rentada,Mejoras del Hogar,Licenciatura,1
+CR-00058,66,151198.0,51157.0,54.2,27.1,1.5,6,2,Rentada,Automotriz,Preparatoria,0
+CR-00059,29,111317.0,76835.0,12.9,14.4,2.6,2,1,Rentada,Automotriz,Posgrado,0
+CR-00060,51,66564.0,95874.0,25.0,14.7,3.6,2,2,Propia,Mejoras del Hogar,Preparatoria,1
+CR-00061,46,362223.0,74326.0,24.8,37.4,5.5,4,2,Rentada,Automotriz,Preparatoria,1
+CR-00062,65,74234.0,18515.0,6.4,17.4,1.6,2,2,Rentada,Automotriz,Licenciatura,0
+CR-00063,51,113224.0,15000.0,62.6,33.0,1.8,2,1,Propia,Mejoras del Hogar,Licenciatura,0
+CR-00064,63,77384.0,146557.0,45.7,5.2,4.8,2,3,Propia,Mejoras del Hogar,Posgrado,1
+CR-00065,43,105463.0,58066.0,25.3,24.6,6.6,6,0,Propia,Mejoras del Hogar,Licenciatura,0
+CR-00066,31,114794.0,91564.0,62.5,8.2,3.3,5,0,Rentada,Consolidación de Deuda,Licenciatura,1
+CR-00067,30,230534.0,73733.0,15.5,57.0,5.8,2,1,Hipotecada,Mejoras del Hogar,Posgrado,0
+CR-00068,63,330786.0,53543.0,29.8,43.1,4.0,4,0,Hipotecada,Gastos Personales,Licenciatura,0
+CR-00069,30,296554.0,21568.0,12.3,8.9,18.4,2,0,Rentada,Automotriz,Preparatoria,0
+CR-00070,56,308932.0,80841.0,37.5,51.6,12.7,1,1,Hipotecada,Automotriz,Posgrado,1
+CR-00071,46,133950.0,40662.0,25.4,18.8,11.0,2,0,Rentada,Automotriz,Licenciatura,0
+CR-00072,34,326849.0,103842.0,27.7,67.2,7.3,4,3,Rentada,Automotriz,Licenciatura,1
+CR-00073,41,111729.0,46880.0,70.7,47.5,6.7,2,1,Rentada,Consolidación de Deuda,Licenciatura,1
+CR-00074,60,295633.0,80602.0,15.3,29.5,7.1,2,0,Propia,Consolidación de Deuda,Licenciatura,0
+CR-00075,43,207931.0,91261.0,21.7,20.3,2.1,3,1,Propia,Gastos Personales,Licenciatura,0
+CR-00076,63,285718.0,116638.0,22.0,11.5,2.5,5,1,Rentada,Automotriz,Preparatoria,0
+CR-00077,67,310427.0,173521.0,21.3,37.8,6.8,4,2,Propia,Automotriz,Licenciatura,0
+CR-00078,35,135859.0,81879.0,40.3,16.6,3.1,7,2,Propia,Automotriz,Preparatoria,0
+CR-00079,46,83492.0,166201.0,27.6,20.1,10.9,4,2,Rentada,Automotriz,Preparatoria,1
+CR-00080,46,95450.0,63634.0,34.0,15.4,16.9,4,0,Rentada,Consolidación de Deuda,Licenciatura,0
+CR-00081,47,394542.0,46127.0,16.8,26.9,5.0,2,1,Rentada,Gastos Personales,Preparatoria,0
+CR-00082,24,195517.0,20796.0,18.4,47.2,10.2,8,0,Propia,Automotriz,Preparatoria,0
+CR-00083,39,149898.0,47550.0,78.3,51.4,10.0,4,1,Propia,Consolidación de Deuda,Licenciatura,0
+CR-00084,49,222691.0,47016.0,14.7,24.0,4.4,4,3,Rentada,Consolidación de Deuda,Licenciatura,1
+CR-00085,65,433959.0,76618.0,26.0,15.8,5.3,2,0,Propia,Gastos Personales,Licenciatura,0
+CR-00086,32,142928.0,51758.0,31.4,47.9,6.8,5,5,Rentada,Gastos Personales,Preparatoria,0
+CR-00087,52,119364.0,58185.0,16.3,11.7,12.0,5,2,Propia,Automotriz,Preparatoria,0
+CR-00088,58,235389.0,66208.0,68.7,32.8,14.4,4,0,Propia,Consolidación de Deuda,Preparatoria,0
+CR-00089,66,181075.0,38178.0,19.6,58.9,2.6,1,3,Rentada,Consolidación de Deuda,Licenciatura,0
+CR-00090,29,277744.0,79680.0,8.7,33.9,23.5,8,0,Propia,Consolidación de Deuda,Preparatoria,0
+CR-00091,54,202193.0,38000.0,32.3,39.4,7.1,4,0,Propia,Automotriz,Licenciatura,0
+CR-00092,36,110618.0,77322.0,45.3,49.9,7.1,3,0,Propia,Mejoras del Hogar,Licenciatura,0
+CR-00093,42,303225.0,20919.0,53.0,43.0,6.0,4,0,Hipotecada,Automotriz,Preparatoria,0
+CR-00094,21,168334.0,63463.0,39.3,52.1,15.2,4,1,Propia,Automotriz,Preparatoria,0
+CR-00095,56,224069.0,141193.0,43.0,3.5,5.5,5,3,Rentada,Consolidación de Deuda,Licenciatura,1
+CR-00096,22,211067.0,37892.0,54.8,32.0,14.7,3,5,Rentada,Consolidación de Deuda,Licenciatura,1
+CR-00097,39,60000.0,37337.0,18.1,28.6,4.4,4,3,Hipotecada,Automotriz,Preparatoria,0
+CR-00098,45,164079.0,97162.0,61.3,25.4,7.7,4,1,Propia,Consolidación de Deuda,Preparatoria,0
+CR-00099,53,287200.0,95350.0,17.3,31.1,3.4,1,2,Rentada,Mejoras del Hogar,Posgrado,0
+CR-00100,43,100230.0,97602.0,26.6,29.4,4.6,4,0,Rentada,Mejoras del Hogar,Licenciatura,0
+CR-00101,62,240372.0,137515.0,46.3,6.1,10.3,3,1,Propia,Automotriz,Posgrado,0
+CR-00102,27,147216.0,149053.0,52.4,33.2,10.4,3,1,Hipotecada,Gastos Personales,Preparatoria,0
+CR-00103,33,60000.0,56441.0,45.0,33.5,8.3,2,4,Propia,Gastos Personales,Preparatoria,1
+CR-00104,33,154021.0,53199.0,50.9,13.2,15.5,1,1,Rentada,Mejoras del Hogar,Preparatoria,0
+CR-00105,39,258281.0,31007.0,9.4,41.0,5.4,5,1,Hipotecada,Automotriz,Licenciatura,0
+CR-00106,21,147122.0,18988.0,26.3,42.2,1.2,3,1,Rentada,Gastos Personales,Preparatoria,0
+CR-00107,42,153730.0,28780.0,31.6,28.9,10.0,4,1,Propia,Automotriz,Licenciatura,1
+CR-00108,39,60000.0,118931.0,22.4,15.8,13.5,4,0,Rentada,Automotriz,Licenciatura,0
+CR-00109,49,299050.0,98220.0,69.9,41.5,12.1,6,1,Rentada,Mejoras del Hogar,Posgrado,1
+CR-00110,49,337524.0,103936.0,43.8,53.2,11.2,6,2,Rentada,Consolidación de Deuda,Licenciatura,1
+CR-00111,34,178542.0,21223.0,13.5,14.6,6.6,4,0,Propia,Gastos Personales,Licenciatura,0
+CR-00112,41,71486.0,65153.0,44.1,42.6,4.5,6,0,Propia,Mejoras del Hogar,Preparatoria,1
+CR-00113,45,117411.0,72739.0,58.4,41.4,10.7,3,1,Rentada,Gastos Personales,Licenciatura,1
+CR-00114,61,141095.0,27932.0,30.7,3.2,11.0,4,1,Hipotecada,Automotriz,Preparatoria,0
+CR-00115,24,102911.0,142350.0,31.1,32.6,1.7,8,2,Rentada,Automotriz,Licenciatura,0
+CR-00116,51,279566.0,55010.0,10.2,47.3,4.9,1,1,Rentada,Consolidación de Deuda,Preparatoria,1
+CR-00117,24,166815.0,173592.0,27.9,20.2,10.9,8,1,Hipotecada,Consolidación de Deuda,Preparatoria,0
+CR-00118,34,256681.0,156691.0,36.3,27.2,11.2,1,1,Propia,Automotriz,Licenciatura,0
+CR-00119,42,139125.0,101563.0,48.1,15.8,12.4,5,1,Hipotecada,Mejoras del Hogar,Preparatoria,0
+CR-00120,60,170093.0,15000.0,35.1,49.4,4.6,2,1,Propia,Consolidación de Deuda,Posgrado,0
+CR-00121,37,75431.0,49097.0,21.9,21.2,15.8,5,4,Propia,Mejoras del Hogar,Preparatoria,0
+CR-00122,45,203743.0,96414.0,27.8,20.4,4.2,4,1,Rentada,Gastos Personales,Licenciatura,0
+CR-00123,49,177124.0,63103.0,28.1,12.2,6.1,4,1,Rentada,Gastos Personales,Preparatoria,0
+CR-00124,58,182425.0,60294.0,26.5,65.5,9.4,3,0,Propia,Automotriz,Licenciatura,0
+CR-00125,40,92663.0,49312.0,23.0,65.5,14.0,1,1,Rentada,Consolidación de Deuda,Posgrado,1
+CR-00126,48,291429.0,17198.0,13.4,49.7,4.3,6,3,Rentada,Consolidación de Deuda,Preparatoria,1
+CR-00127,62,153991.0,64417.0,38.3,42.0,12.2,1,1,Rentada,Gastos Personales,Preparatoria,0
+CR-00128,42,224734.0,15000.0,46.1,78.5,4.7,3,2,Hipotecada,Mejoras del Hogar,Licenciatura,1
+CR-00129,66,306597.0,129157.0,58.2,32.5,2.1,6,3,Propia,Mejoras del Hogar,Preparatoria,0
+CR-00130,40,197827.0,75001.0,43.9,42.5,3.2,1,2,Hipotecada,Mejoras del Hogar,Licenciatura,0
+CR-00131,42,186787.0,39537.0,37.2,39.0,8.0,7,0,Propia,Mejoras del Hogar,Licenciatura,0
+CR-00132,22,228749.0,81695.0,48.1,40.2,1.4,3,2,Hipotecada,Mejoras del Hogar,Preparatoria,1
+CR-00133,47,284611.0,99543.0,25.7,34.2,6.5,4,1,Rentada,Gastos Personales,Licenciatura,0
+CR-00134,43,108457.0,38825.0,24.2,33.3,10.5,3,2,Rentada,Consolidación de Deuda,Licenciatura,0
+CR-00135,41,274255.0,38386.0,30.6,44.1,12.0,6,0,Rentada,Mejoras del Hogar,Preparatoria,0
+CR-00136,51,123269.0,78629.0,9.9,65.0,7.4,3,0,Rentada,Gastos Personales,Licenciatura,0
+CR-00137,47,499148.0,22868.0,51.1,22.7,12.3,3,0,Propia,Mejoras del Hogar,Posgrado,0
+CR-00138,67,117449.0,93082.0,64.3,46.8,7.7,5,2,Propia,Gastos Personales,Preparatoria,1
+CR-00139,40,289317.0,217405.0,29.8,49.4,17.3,6,0,Propia,Gastos Personales,Posgrado,0
+CR-00140,42,89208.0,125225.0,55.0,28.3,3.6,5,0,Rentada,Gastos Personales,Licenciatura,1
+CR-00141,60,351026.0,55447.0,33.0,36.9,13.0,6,2,Rentada,Consolidación de Deuda,Preparatoria,0
+CR-00142,44,308641.0,79138.0,67.7,6.0,14.0,5,2,Rentada,Automotriz,Licenciatura,0
+CR-00143,33,69754.0,50258.0,36.5,9.6,4.8,3,0,Rentada,Mejoras del Hogar,Licenciatura,0
+CR-00144,46,132220.0,98923.0,66.3,10.6,6.6,4,2,Hipotecada,Gastos Personales,Preparatoria,1
+CR-00145,45,258209.0,98192.0,11.0,11.0,7.4,2,2,Propia,Gastos Personales,Preparatoria,0
+CR-00146,41,107344.0,41685.0,24.8,28.0,5.6,4,4,Rentada,Consolidación de Deuda,Licenciatura,1
+CR-00147,47,236655.0,36779.0,25.9,42.3,3.5,1,0,Propia,Gastos Personales,Preparatoria,0
+CR-00148,49,255313.0,88835.0,50.8,38.3,11.9,2,0,Propia,Automotriz,Preparatoria,0
+CR-00149,68,127242.0,71610.0,36.0,10.0,12.8,3,2,Propia,Consolidación de Deuda,Preparatoria,1
+CR-00150,24,202501.0,71276.0,40.3,22.4,8.7,2,0,Propia,Mejoras del Hogar,Preparatoria,0
+CR-00151,65,262984.0,34182.0,27.9,22.9,3.5,6,0,Hipotecada,Mejoras del Hogar,Licenciatura,0
+CR-00152,44,117757.0,32805.0,55.0,11.7,11.4,8,3,Propia,Automotriz,Preparatoria,0
+CR-00153,39,193946.0,70170.0,28.1,54.2,7.3,2,0,Rentada,Consolidación de Deuda,Licenciatura,0
+CR-00154,50,237556.0,108107.0,20.5,14.9,6.8,5,0,Rentada,Gastos Personales,Licenciatura,0
+CR-00155,26,181581.0,51638.0,12.3,17.6,9.2,4,1,Rentada,Consolidación de Deuda,Preparatoria,0
+CR-00156,57,149000.0,55402.0,54.2,26.0,7.0,1,1,Rentada,Consolidación de Deuda,Preparatoria,1
+CR-00157,25,279364.0,62876.0,45.1,10.7,11.9,4,1,Rentada,Mejoras del Hogar,Licenciatura,0
+CR-00158,42,334845.0,75361.0,45.7,39.2,7.1,3,1,Propia,Mejoras del Hogar,Licenciatura,0
+CR-00159,30,117553.0,56320.0,62.1,55.5,5.3,3,1,Hipotecada,Automotriz,Posgrado,1
+CR-00160,35,267090.0,29900.0,49.2,9.8,12.4,3,1,Propia,Mejoras del Hogar,Preparatoria,0
+CR-00161,44,331127.0,144672.0,66.9,18.1,3.3,2,3,Hipotecada,Automotriz,Preparatoria,1
+CR-00162,21,168035.0,83803.0,45.3,35.1,0.5,8,1,Propia,Consolidación de Deuda,Posgrado,1
+CR-00163,64,248767.0,71924.0,14.9,17.9,6.0,3,0,Rentada,Gastos Personales,Licenciatura,0
+CR-00164,58,130313.0,68286.0,49.1,8.5,16.6,5,1,Rentada,Consolidación de Deuda,Posgrado,0
+CR-00165,67,291907.0,92755.0,27.0,17.3,11.2,6,0,Propia,Gastos Personales,Preparatoria,0
+CR-00166,24,215632.0,44612.0,48.1,58.2,6.3,5,0,Propia,Gastos Personales,Preparatoria,1
+CR-00167,29,126536.0,112060.0,54.2,44.6,10.7,1,3,Rentada,Gastos Personales,Posgrado,1
+CR-00168,45,188104.0,63897.0,51.5,39.4,8.5,2,0,Rentada,Mejoras del Hogar,Preparatoria,0
+CR-00169,62,89757.0,88901.0,62.1,32.0,3.0,4,1,Rentada,Automotriz,Preparatoria,1
+CR-00170,35,89046.0,74955.0,52.2,15.0,5.1,2,2,Rentada,Gastos Personales,Licenciatura,1
+CR-00171,35,297228.0,113217.0,44.5,19.2,4.8,1,0,Rentada,Mejoras del Hogar,Licenciatura,0
+CR-00172,62,214783.0,122922.0,6.3,70.3,2.7,5,2,Rentada,Consolidación de Deuda,Licenciatura,1
+CR-00173,21,120406.0,59802.0,53.3,13.2,12.0,7,0,Hipotecada,Gastos Personales,Licenciatura,0
+CR-00174,67,112972.0,29425.0,10.6,29.7,4.5,3,0,Propia,Consolidación de Deuda,Licenciatura,0
+CR-00175,30,229540.0,48668.0,33.1,24.9,3.1,3,1,Hipotecada,Automotriz,Preparatoria,0
+CR-00176,36,296025.0,36820.0,17.3,17.2,7.0,5,0,Hipotecada,Automotriz,Posgrado,0
+CR-00177,36,117336.0,39267.0,41.4,31.7,8.1,3,1,Rentada,Mejoras del Hogar,Licenciatura,0
+CR-00178,64,213355.0,33326.0,27.5,29.1,6.1,5,0,Rentada,Mejoras del Hogar,Licenciatura,0
+CR-00179,61,145925.0,62069.0,59.4,42.9,5.4,3,1,Rentada,Consolidación de Deuda,Preparatoria,0
+CR-00180,37,399279.0,156472.0,2.0,46.7,8.6,4,1,Hipotecada,Mejoras del Hogar,Licenciatura,0
+CR-00181,37,168740.0,28001.0,31.2,21.9,30.9,8,0,Rentada,Consolidación de Deuda,Preparatoria,0
+CR-00182,60,171507.0,188627.0,77.8,42.8,3.2,6,1,Rentada,Consolidación de Deuda,Preparatoria,1
+CR-00183,34,410705.0,56471.0,30.0,25.3,22.9,1,2,Propia,Automotriz,Preparatoria,0
+CR-00184,60,89427.0,92324.0,33.1,41.0,2.3,4,1,Rentada,Automotriz,Preparatoria,1
+CR-00185,60,64656.0,73349.0,5.0,16.9,3.0,1,2,Hipotecada,Mejoras del Hogar,Preparatoria,1
+CR-00186,53,376595.0,109100.0,45.7,26.1,11.6,5,2,Hipotecada,Automotriz,Licenciatura,0
+CR-00187,57,236381.0,26460.0,36.9,21.8,11.1,2,1,Rentada,Automotriz,Licenciatura,0
+CR-00188,32,155537.0,133335.0,27.1,42.8,9.1,4,3,Propia,Automotriz,Posgrado,1
+CR-00189,48,67813.0,66453.0,63.4,38.8,13.8,4,0,Rentada,Consolidación de Deuda,Licenciatura,1
+CR-00190,27,114475.0,114284.0,53.7,60.3,11.5,6,5,Rentada,Gastos Personales,Preparatoria,1
+CR-00191,23,141377.0,56322.0,34.2,23.7,13.7,3,2,Hipotecada,Automotriz,Preparatoria,0
+CR-00192,41,149926.0,101640.0,50.1,30.8,8.7,3,1,Rentada,Mejoras del Hogar,Licenciatura,0
+CR-00193,35,218567.0,56760.0,15.8,38.5,6.2,5,1,Rentada,Automotriz,Preparatoria,1
+CR-00194,28,92292.0,151217.0,44.6,38.0,7.6,5,2,Propia,Consolidación de Deuda,Preparatoria,1
+CR-00195,46,152329.0,41329.0,8.6,38.9,17.1,2,3,Propia,Gastos Personales,Licenciatura,0
+CR-00196,63,185523.0,51229.0,18.4,33.5,14.2,3,0,Rentada,Gastos Personales,Preparatoria,0
+CR-00197,33,192371.0,26050.0,17.2,57.6,9.2,2,0,Propia,Gastos Personales,Licenciatura,0
+CR-00198,29,144183.0,15000.0,44.0,0.4,3.7,4,1,Rentada,Consolidación de Deuda,Posgrado,0
+CR-00199,63,85566.0,44849.0,32.5,31.3,1.1,8,1,Hipotecada,Mejoras del Hogar,Licenciatura,1
+CR-00200,22,290839.0,39719.0,35.9,26.5,10.7,3,0,Hipotecada,Automotriz,Preparatoria,0
+CR-00201,49,126931.0,69323.0,47.1,33.1,6.0,4,0,Propia,Consolidación de Deuda,Licenciatura,0
+CR-00202,48,156605.0,131012.0,15.4,83.9,4.9,7,2,Propia,Consolidación de Deuda,Posgrado,1
+CR-00203,43,172915.0,69624.0,36.2,44.5,10.5,5,2,Hipotecada,Consolidación de Deuda,Licenciatura,0
+CR-00204,42,89292.0,62132.0,38.6,41.0,15.1,5,0,Hipotecada,Mejoras del Hogar,Licenciatura,0
+CR-00205,22,283156.0,57283.0,38.3,32.4,10.2,1,2,Hipotecada,Gastos Personales,Licenciatura,0
+CR-00206,63,182222.0,64460.0,61.4,18.6,5.7,5,1,Propia,Mejoras del Hogar,Preparatoria,1
+CR-00207,24,270856.0,110229.0,30.1,25.7,13.7,5,2,Rentada,Consolidación de Deuda,Licenciatura,1
+CR-00208,28,133894.0,127329.0,61.5,32.4,12.5,4,1,Rentada,Gastos Personales,Licenciatura,0
+CR-00209,64,274383.0,168038.0,12.6,35.1,9.1,3,1,Rentada,Automotriz,Licenciatura,0
+CR-00210,38,185594.0,96824.0,58.4,9.5,16.2,9,3,Hipotecada,Gastos Personales,Preparatoria,0
+CR-00211,43,150518.0,17494.0,64.8,12.1,13.7,5,1,Propia,Gastos Personales,Preparatoria,0
+CR-00212,52,277472.0,76885.0,51.0,8.8,1.7,5,2,Rentada,Mejoras del Hogar,Licenciatura,0
+CR-00213,48,386634.0,51777.0,10.0,43.3,5.2,5,0,Propia,Gastos Personales,Preparatoria,0
+CR-00214,66,92897.0,46869.0,10.0,63.8,1.1,2,1,Hipotecada,Automotriz,Licenciatura,1
+CR-00215,66,60000.0,80648.0,19.9,42.5,12.5,2,2,Hipotecada,Consolidación de Deuda,Licenciatura,0
+CR-00216,33,117252.0,74591.0,83.7,25.6,5.1,3,2,Propia,Consolidación de Deuda,Licenciatura,0
+CR-00217,58,177392.0,41928.0,60.4,35.3,3.4,6,4,Rentada,Consolidación de Deuda,Licenciatura,1
+CR-00218,54,181152.0,49559.0,6.1,47.7,22.2,3,1,Hipotecada,Consolidación de Deuda,Licenciatura,0
+CR-00219,33,220937.0,50051.0,48.7,62.7,8.0,5,3,Propia,Gastos Personales,Licenciatura,0
+CR-00220,28,90563.0,20987.0,68.6,11.3,5.8,2,1,Rentada,Automotriz,Preparatoria,1
+CR-00221,60,148842.0,86393.0,37.2,80.1,7.0,3,1,Rentada,Gastos Personales,Preparatoria,1
+CR-00222,57,174821.0,56456.0,68.9,13.2,5.9,3,2,Rentada,Consolidación de Deuda,Preparatoria,1
+CR-00223,39,142816.0,32760.0,54.2,12.0,7.3,5,0,Hipotecada,Gastos Personales,Licenciatura,0
+CR-00224,35,140314.0,110288.0,46.0,18.5,3.1,3,0,Rentada,Consolidación de Deuda,Preparatoria,0
+CR-00225,54,84411.0,154818.0,37.2,64.1,8.1,4,1,Propia,Gastos Personales,Licenciatura,0
+CR-00226,32,197566.0,67624.0,23.7,24.9,6.0,4,1,Propia,Gastos Personales,Licenciatura,0
+CR-00227,43,78327.0,123818.0,16.1,8.9,3.6,9,2,Propia,Mejoras del Hogar,Posgrado,0
+CR-00228,32,312697.0,103466.0,13.1,32.0,0.8,6,0,Rentada,Gastos Personales,Posgrado,0
+CR-00229,51,132321.0,28997.0,54.6,44.3,6.1,6,2,Propia,Mejoras del Hogar,Posgrado,0
+CR-00230,39,399147.0,36969.0,49.0,25.8,8.8,5,0,Rentada,Consolidación de Deuda,Licenciatura,0
+CR-00231,53,313639.0,45946.0,52.4,23.3,2.9,5,2,Rentada,Automotriz,Posgrado,1
+CR-00232,37,182037.0,27761.0,32.7,23.6,9.5,5,1,Propia,Automotriz,Licenciatura,0
+CR-00233,51,139753.0,75958.0,11.2,30.4,6.1,5,1,Hipotecada,Automotriz,Preparatoria,0
+CR-00234,51,231702.0,99269.0,20.2,47.3,9.4,4,3,Propia,Gastos Personales,Licenciatura,0
+CR-00235,43,107795.0,64984.0,63.3,38.8,13.4,3,2,Hipotecada,Consolidación de Deuda,Licenciatura,1
+CR-00236,47,168599.0,102024.0,41.7,11.5,5.4,6,0,Rentada,Gastos Personales,Licenciatura,0
+CR-00237,29,99842.0,69056.0,40.6,37.3,23.0,2,0,Rentada,Gastos Personales,Licenciatura,0
+CR-00238,57,227456.0,80989.0,33.9,39.2,20.1,3,4,Hipotecada,Mejoras del Hogar,Preparatoria,0
+CR-00239,56,80890.0,15000.0,24.3,40.8,6.9,5,1,Propia,Gastos Personales,Posgrado,0
+CR-00240,35,150656.0,42414.0,50.6,36.4,8.3,6,0,Hipotecada,Mejoras del Hogar,Licenciatura,0
+CR-00241,41,165355.0,108336.0,21.0,50.4,3.7,5,0,Propia,Consolidación de Deuda,Licenciatura,0
+CR-00242,68,159423.0,39814.0,67.0,53.8,14.5,5,0,Rentada,Consolidación de Deuda,Preparatoria,1
+CR-00243,27,242825.0,50894.0,9.1,17.5,3.0,5,0,Hipotecada,Gastos Personales,Licenciatura,0
+CR-00244,47,140044.0,70677.0,34.8,50.4,4.4,4,3,Propia,Gastos Personales,Preparatoria,0
+CR-00245,47,189256.0,50354.0,47.9,23.5,14.2,5,1,Propia,Automotriz,Preparatoria,1
+CR-00246,54,172309.0,83217.0,47.5,27.7,24.4,2,1,Rentada,Consolidación de Deuda,Licenciatura,0
+CR-00247,42,199191.0,65555.0,18.2,17.7,10.4,5,0,Hipotecada,Mejoras del Hogar,Licenciatura,0
+CR-00248,54,97143.0,82627.0,53.9,24.2,11.1,1,1,Propia,Gastos Personales,Licenciatura,0
+CR-00249,26,64150.0,68123.0,89.8,18.6,24.8,4,0,Propia,Automotriz,Licenciatura,1
+CR-00250,28,100860.0,52615.0,51.6,27.1,8.4,1,0,Rentada,Gastos Personales,Licenciatura,0
+CR-00251,47,119841.0,297096.0,59.3,53.3,2.0,8,2,Rentada,Gastos Personales,Preparatoria,0
+CR-00252,28,365101.0,80616.0,48.9,30.7,6.8,4,0,Propia,Mejoras del Hogar,Preparatoria,0
+CR-00253,22,99552.0,60616.0,22.7,34.1,8.3,3,1,Propia,Consolidación de Deuda,Licenciatura,0
+CR-00254,43,92477.0,30051.0,10.8,10.8,12.0,6,1,Rentada,Mejoras del Hogar,Posgrado,0
+CR-00255,55,232568.0,42473.0,9.3,29.7,2.1,8,1,Propia,Mejoras del Hogar,Preparatoria,0
+CR-00256,46,89434.0,139712.0,40.4,61.7,7.9,3,4,Propia,Mejoras del Hogar,Licenciatura,1
+CR-00257,63,136076.0,69913.0,28.0,16.6,9.2,2,4,Propia,Gastos Personales,Licenciatura,0
+CR-00258,34,94169.0,46025.0,48.7,5.4,2.2,3,1,Rentada,Gastos Personales,Licenciatura,0
+CR-00259,43,134432.0,105332.0,43.1,17.3,2.2,2,1,Rentada,Automotriz,Preparatoria,0
+CR-00260,29,60000.0,50390.0,53.1,49.0,7.4,5,2,Rentada,Gastos Personales,Preparatoria,1
+CR-00261,33,255108.0,160115.0,1.5,46.1,11.0,5,0,Hipotecada,Consolidación de Deuda,Preparatoria,0
+CR-00262,45,151479.0,124522.0,9.0,36.4,11.3,2,2,Rentada,Mejoras del Hogar,Licenciatura,0
+CR-00263,50,174055.0,28262.0,32.2,14.7,3.9,2,4,Hipotecada,Consolidación de Deuda,Licenciatura,0
+CR-00264,53,162598.0,129353.0,61.6,14.1,8.2,6,3,Propia,Automotriz,Licenciatura,0
+CR-00265,33,129181.0,64151.0,13.8,19.0,2.9,2,4,Propia,Gastos Personales,Licenciatura,0
+CR-00266,32,97839.0,98855.0,42.3,68.3,7.8,7,1,Propia,Mejoras del Hogar,Preparatoria,0
+CR-00267,41,104714.0,29176.0,23.9,34.5,18.0,2,0,Hipotecada,Consolidación de Deuda,Licenciatura,0
+CR-00268,31,352404.0,45237.0,12.0,41.2,5.7,3,0,Rentada,Gastos Personales,Licenciatura,0
+CR-00269,32,118099.0,168791.0,68.9,36.1,5.3,5,2,Hipotecada,Automotriz,Licenciatura,0
+CR-00270,67,309503.0,15000.0,13.5,51.4,7.9,4,2,Rentada,Automotriz,Licenciatura,0
+CR-00271,37,244596.0,80533.0,41.6,28.0,6.9,4,1,Hipotecada,Gastos Personales,Preparatoria,0
+CR-00272,56,110927.0,35759.0,43.8,40.0,10.7,1,1,Hipotecada,Automotriz,Posgrado,0
+CR-00273,36,93643.0,43540.0,61.6,13.4,10.7,10,1,Propia,Consolidación de Deuda,Preparatoria,0
+CR-00274,22,291256.0,63290.0,39.5,26.0,7.2,3,0,Rentada,Mejoras del Hogar,Licenciatura,0
+CR-00275,23,99861.0,15000.0,54.7,37.0,1.6,4,0,Propia,Mejoras del Hogar,Licenciatura,1
+CR-00276,69,252877.0,191929.0,42.2,24.8,19.9,3,2,Hipotecada,Automotriz,Licenciatura,0
+CR-00277,38,186965.0,29834.0,34.3,46.2,9.3,5,0,Propia,Consolidación de Deuda,Posgrado,0
+CR-00278,21,116561.0,39557.0,19.7,27.0,9.2,6,1,Propia,Mejoras del Hogar,Licenciatura,0
+CR-00279,39,151728.0,25150.0,11.8,50.3,4.1,2,0,Propia,Gastos Personales,Preparatoria,1
+CR-00280,33,109881.0,66767.0,18.1,10.3,8.5,8,4,Hipotecada,Automotriz,Posgrado,0
+CR-00281,53,210019.0,30158.0,53.8,33.8,1.7,2,0,Rentada,Automotriz,Licenciatura,1
+CR-00282,65,103615.0,92140.0,8.9,25.6,10.2,7,0,Hipotecada,Automotriz,Licenciatura,0
+CR-00283,64,125478.0,38927.0,18.7,25.1,4.3,3,1,Hipotecada,Gastos Personales,Licenciatura,0
+CR-00284,24,108075.0,36097.0,64.9,46.9,7.6,3,1,Rentada,Gastos Personales,Licenciatura,1
+CR-00285,21,189502.0,75800.0,30.9,17.6,2.2,6,1,Rentada,Consolidación de Deuda,Licenciatura,1
+CR-00286,62,325019.0,85896.0,41.5,49.6,7.9,3,2,Propia,Automotriz,Preparatoria,1
+CR-00287,29,137560.0,37696.0,39.3,33.5,3.6,8,1,Rentada,Automotriz,Posgrado,0
+CR-00288,28,105616.0,73650.0,4.5,31.5,13.9,5,3,Rentada,Consolidación de Deuda,Licenciatura,0
+CR-00289,67,185034.0,47279.0,46.5,35.0,9.5,1,1,Rentada,Gastos Personales,Licenciatura,0
+CR-00290,29,172090.0,61780.0,37.1,25.5,4.9,6,1,Rentada,Mejoras del Hogar,Licenciatura,0
+CR-00291,63,140407.0,150628.0,12.8,22.8,3.7,2,1,Propia,Gastos Personales,Preparatoria,0
+CR-00292,59,173743.0,123792.0,63.1,17.7,7.4,7,3,Hipotecada,Consolidación de Deuda,Posgrado,1
+CR-00293,30,127372.0,37092.0,33.2,22.2,3.9,4,3,Propia,Mejoras del Hogar,Licenciatura,0
+CR-00294,64,112750.0,88823.0,46.0,45.6,7.5,2,1,Hipotecada,Gastos Personales,Licenciatura,1
+CR-00295,51,89241.0,99128.0,23.9,18.7,14.0,2,2,Propia,Gastos Personales,Preparatoria,0
+CR-00296,43,195297.0,181136.0,51.2,14.7,21.8,5,1,Propia,Gastos Personales,Posgrado,0
+CR-00297,44,194042.0,109854.0,8.2,19.1,10.4,3,0,Rentada,Consolidación de Deuda,Licenciatura,0
+CR-00298,22,146781.0,20715.0,61.5,22.6,8.1,4,2,Rentada,Gastos Personales,Licenciatura,1
+CR-00299,63,159338.0,19268.0,71.9,33.9,6.3,3,0,Hipotecada,Gastos Personales,Licenciatura,0
+CR-00300,36,250158.0,84850.0,2.4,26.5,9.8,5,0,Rentada,Gastos Personales,Preparatoria,0
+CR-00301,34,218693.0,100933.0,11.2,32.7,0.8,4,2,Rentada,Automotriz,Licenciatura,0
+CR-00302,21,173798.0,28021.0,29.4,27.7,6.6,5,0,Hipotecada,Mejoras del Hogar,Licenciatura,0
+CR-00303,33,131698.0,121825.0,37.1,33.5,4.8,5,0,Propia,Gastos Personales,Licenciatura,0
+CR-00304,38,203318.0,25310.0,78.3,2.3,5.6,3,0,Propia,Gastos Personales,Preparatoria,1
+CR-00305,23,382701.0,76802.0,16.9,44.3,2.8,5,3,Rentada,Gastos Personales,Posgrado,0
+CR-00306,53,89443.0,67272.0,11.3,27.2,5.5,2,0,Hipotecada,Consolidación de Deuda,Preparatoria,0
+CR-00307,27,162833.0,85792.0,21.6,5.9,17.0,8,0,Propia,Automotriz,Licenciatura,0
+CR-00308,33,240613.0,43719.0,24.4,35.9,5.1,8,0,Propia,Consolidación de Deuda,Licenciatura,0
+CR-00309,44,240562.0,84050.0,1.8,10.8,6.3,3,2,Propia,Gastos Personales,Licenciatura,0
+CR-00310,52,79388.0,61408.0,20.7,12.0,6.1,5,0,Rentada,Mejoras del Hogar,Preparatoria,0
+CR-00311,30,98361.0,26143.0,36.0,39.0,2.8,5,2,Rentada,Gastos Personales,Licenciatura,1
+CR-00312,66,140480.0,34320.0,39.3,48.5,12.9,2,0,Hipotecada,Mejoras del Hogar,Licenciatura,0
+CR-00313,46,123686.0,24659.0,59.0,17.8,14.8,3,3,Hipotecada,Automotriz,Preparatoria,0
+CR-00314,43,231350.0,27797.0,19.6,2.9,9.9,1,1,Propia,Consolidación de Deuda,Licenciatura,0
+CR-00315,57,226341.0,192795.0,17.9,31.5,27.9,6,0,Propia,Mejoras del Hogar,Preparatoria,0
+CR-00316,31,67128.0,172747.0,18.6,54.8,7.3,4,2,Hipotecada,Mejoras del Hogar,Posgrado,0
+CR-00317,34,153454.0,66944.0,37.2,33.0,14.9,2,1,Rentada,Gastos Personales,Licenciatura,0
+CR-00318,66,120252.0,83571.0,39.1,38.9,10.9,5,2,Propia,Automotriz,Licenciatura,1
+CR-00319,55,183788.0,37001.0,52.3,30.6,5.6,8,2,Propia,Automotriz,Preparatoria,1
+CR-00320,67,125352.0,47787.0,14.1,34.6,8.2,3,1,Rentada,Automotriz,Preparatoria,0
+CR-00321,51,127334.0,71414.0,29.5,50.0,6.9,6,0,Hipotecada,Automotriz,Posgrado,0
+CR-00322,27,100644.0,31302.0,44.2,28.0,6.6,5,0,Propia,Gastos Personales,Licenciatura,1
+CR-00323,58,350862.0,108182.0,13.7,43.8,1.0,1,2,Propia,Automotriz,Preparatoria,0
+CR-00324,65,198532.0,30687.0,62.9,24.9,7.5,7,0,Propia,Consolidación de Deuda,Preparatoria,1
+CR-00325,27,203741.0,46860.0,29.8,42.7,4.9,5,1,Propia,Consolidación de Deuda,Posgrado,0
+CR-00326,35,105361.0,15000.0,11.3,16.3,1.9,3,2,Propia,Gastos Personales,Posgrado,0
+CR-00327,59,67094.0,154805.0,33.1,9.9,5.2,3,1,Propia,Consolidación de Deuda,Licenciatura,0
+CR-00328,27,234947.0,142944.0,35.8,11.5,6.8,2,0,Hipotecada,Automotriz,Licenciatura,0
+CR-00329,68,138431.0,49775.0,63.4,45.7,13.8,7,1,Rentada,Gastos Personales,Licenciatura,0
+CR-00330,26,261615.0,96131.0,27.4,21.3,4.8,4,0,Propia,Consolidación de Deuda,Licenciatura,0
+CR-00331,22,183582.0,142276.0,4.9,31.7,3.2,4,1,Propia,Consolidación de Deuda,Preparatoria,0
+CR-00332,58,215734.0,57231.0,46.2,14.9,4.0,7,0,Rentada,Automotriz,Preparatoria,0
+CR-00333,21,213762.0,31888.0,5.6,50.2,2.3,2,1,Hipotecada,Gastos Personales,Licenciatura,0
+CR-00334,25,154038.0,30834.0,42.8,10.8,5.0,2,0,Rentada,Mejoras del Hogar,Licenciatura,1
+CR-00335,54,60000.0,126195.0,46.7,17.4,6.2,2,2,Hipotecada,Automotriz,Licenciatura,0
+CR-00336,58,145823.0,15000.0,8.5,60.7,20.3,4,1,Propia,Consolidación de Deuda,Preparatoria,0
+CR-00337,64,178111.0,34698.0,54.8,35.0,9.3,4,0,Rentada,Gastos Personales,Licenciatura,0
+CR-00338,32,103581.0,88972.0,61.0,26.8,5.6,5,3,Propia,Mejoras del Hogar,Licenciatura,1
+CR-00339,60,213576.0,96551.0,65.2,56.5,8.0,4,1,Rentada,Gastos Personales,Posgrado,1
+CR-00340,41,103610.0,136793.0,41.9,19.0,4.5,2,3,Propia,Automotriz,Preparatoria,0
+CR-00341,58,124765.0,32311.0,43.9,23.8,1.4,5,3,Hipotecada,Automotriz,Licenciatura,0
+CR-00342,28,215221.0,84274.0,17.3,3.0,7.7,8,0,Rentada,Gastos Personales,Preparatoria,0
+CR-00343,56,89435.0,104997.0,27.8,54.7,8.5,2,2,Rentada,Gastos Personales,Preparatoria,1
+CR-00344,52,302289.0,175366.0,39.7,36.2,16.0,7,2,Rentada,Mejoras del Hogar,Licenciatura,0
+CR-00345,41,110808.0,45010.0,29.5,67.2,3.7,5,1,Rentada,Automotriz,Preparatoria,1
+CR-00346,43,219788.0,73531.0,44.5,73.7,17.9,3,1,Propia,Mejoras del Hogar,Posgrado,0
+CR-00347,29,227344.0,87521.0,49.0,8.3,14.2,3,3,Rentada,Gastos Personales,Preparatoria,0
+CR-00348,40,309999.0,77855.0,23.0,62.8,3.7,2,0,Rentada,Mejoras del Hogar,Licenciatura,0
+CR-00349,50,255627.0,17397.0,60.3,22.2,10.2,5,0,Rentada,Automotriz,Licenciatura,0
+CR-00350,60,264981.0,52498.0,17.3,55.0,5.7,2,1,Rentada,Mejoras del Hogar,Licenciatura,0
+CR-00351,50,317281.0,89126.0,39.7,0.1,2.9,4,1,Rentada,Mejoras del Hogar,Licenciatura,0
+CR-00352,43,148755.0,68202.0,19.1,20.3,13.0,6,0,Propia,Consolidación de Deuda,Posgrado,0
+CR-00353,56,90725.0,18132.0,90.7,16.4,11.7,3,2,Propia,Consolidación de Deuda,Licenciatura,1
+CR-00354,54,124152.0,98610.0,14.7,63.9,4.8,1,3,Propia,Gastos Personales,Posgrado,0
+CR-00355,67,128382.0,53769.0,35.7,23.4,12.6,3,1,Propia,Mejoras del Hogar,Preparatoria,0
+CR-00356,59,158295.0,34820.0,17.7,47.4,13.0,2,0,Hipotecada,Automotriz,Licenciatura,0
+CR-00357,24,100070.0,39609.0,29.2,14.5,22.6,3,1,Rentada,Consolidación de Deuda,Posgrado,0
+CR-00358,51,202893.0,81941.0,39.4,17.5,3.1,4,0,Rentada,Gastos Personales,Posgrado,0
+CR-00359,55,83449.0,64172.0,67.0,51.6,4.9,3,0,Propia,Mejoras del Hogar,Posgrado,1
+CR-00360,68,439942.0,60346.0,37.3,50.1,14.3,4,1,Propia,Consolidación de Deuda,Preparatoria,1
+CR-00361,58,60000.0,15000.0,23.9,9.9,9.5,5,0,Rentada,Gastos Personales,Preparatoria,0
+CR-00362,47,150251.0,45950.0,85.7,9.8,5.3,8,2,Rentada,Consolidación de Deuda,Licenciatura,1
+CR-00363,23,157737.0,46339.0,34.8,50.2,1.6,6,3,Propia,Automotriz,Preparatoria,0
+CR-00364,31,145506.0,47358.0,46.6,26.0,5.1,1,0,Rentada,Gastos Personales,Licenciatura,0
+CR-00365,58,60000.0,55884.0,21.0,35.6,9.4,5,1,Rentada,Consolidación de Deuda,Licenciatura,0
+CR-00366,47,161526.0,99283.0,20.0,15.2,14.7,3,1,Propia,Mejoras del Hogar,Preparatoria,0
+CR-00367,54,457591.0,111309.0,33.9,42.2,9.2,1,0,Propia,Gastos Personales,Licenciatura,0
+CR-00368,32,261540.0,72596.0,16.8,44.3,7.7,2,1,Propia,Gastos Personales,Preparatoria,0
+CR-00369,59,133109.0,30425.0,70.5,39.1,7.2,4,2,Rentada,Automotriz,Posgrado,1
+CR-00370,25,151253.0,132776.0,56.2,7.0,3.1,7,3,Propia,Mejoras del Hogar,Licenciatura,1
+CR-00371,68,108563.0,30220.0,51.3,35.2,6.6,5,0,Propia,Automotriz,Licenciatura,0
+CR-00372,58,87321.0,46645.0,12.7,22.6,8.5,3,0,Hipotecada,Automotriz,Licenciatura,0
+CR-00373,54,181618.0,49497.0,15.3,25.9,16.6,5,6,Rentada,Mejoras del Hogar,Licenciatura,0
+CR-00374,33,66084.0,64257.0,47.3,48.8,9.3,7,2,Propia,Consolidación de Deuda,Preparatoria,1
+CR-00375,60,147320.0,41440.0,3.2,26.1,2.5,4,1,Propia,Consolidación de Deuda,Preparatoria,0
+CR-00376,36,149344.0,90481.0,63.2,31.0,11.5,5,0,Rentada,Consolidación de Deuda,Licenciatura,0
+CR-00377,62,96970.0,63110.0,38.2,32.8,2.9,5,1,Rentada,Gastos Personales,Posgrado,0
+CR-00378,69,273627.0,64702.0,22.8,35.7,5.0,3,1,Rentada,Automotriz,Licenciatura,1
+CR-00379,63,60000.0,98242.0,42.8,38.5,1.8,4,4,Propia,Mejoras del Hogar,Preparatoria,1
+CR-00380,40,167181.0,51556.0,47.3,31.4,4.0,1,0,Propia,Automotriz,Preparatoria,0
+CR-00381,65,209063.0,30289.0,36.3,62.4,2.7,4,1,Hipotecada,Automotriz,Licenciatura,0
+CR-00382,42,147163.0,110670.0,52.8,20.9,4.3,4,2,Rentada,Gastos Personales,Licenciatura,0
+CR-00383,61,374080.0,77471.0,16.6,23.4,14.0,2,2,Rentada,Gastos Personales,Preparatoria,0
+CR-00384,66,218864.0,168142.0,48.9,37.0,12.9,2,2,Hipotecada,Gastos Personales,Licenciatura,0
+CR-00385,39,248257.0,121115.0,8.8,10.1,5.8,6,1,Propia,Gastos Personales,Preparatoria,0
+CR-00386,59,80317.0,123833.0,60.5,21.4,8.5,6,0,Hipotecada,Automotriz,Preparatoria,0
+CR-00387,69,163582.0,205504.0,67.7,30.6,3.4,4,2,Propia,Automotriz,Preparatoria,1
+CR-00388,63,131786.0,45108.0,28.7,47.4,8.4,4,2,Rentada,Gastos Personales,Posgrado,1
+CR-00389,30,141448.0,219363.0,46.5,7.7,8.4,1,2,Hipotecada,Consolidación de Deuda,Preparatoria,0
+CR-00390,43,124522.0,110441.0,14.6,34.8,9.0,1,1,Rentada,Gastos Personales,Licenciatura,0
+CR-00391,42,87699.0,164086.0,49.4,11.3,5.7,2,1,Hipotecada,Consolidación de Deuda,Licenciatura,0
+CR-00392,31,104579.0,34383.0,47.9,36.9,21.3,6,0,Hipotecada,Consolidación de Deuda,Preparatoria,1
+CR-00393,31,361894.0,169678.0,28.0,22.5,9.5,2,1,Propia,Mejoras del Hogar,Licenciatura,0
+CR-00394,24,196303.0,112250.0,28.1,73.4,14.2,2,1,Propia,Consolidación de Deuda,Licenciatura,0
+CR-00395,55,232454.0,60716.0,22.2,25.0,3.5,4,0,Propia,Gastos Personales,Posgrado,0
+CR-00396,24,306280.0,36510.0,41.6,8.1,6.6,4,2,Rentada,Consolidación de Deuda,Licenciatura,0
+CR-00397,27,152768.0,87619.0,1.6,43.5,16.8,4,3,Propia,Mejoras del Hogar,Preparatoria,0
+CR-00398,27,202693.0,61235.0,50.4,14.6,11.7,5,2,Rentada,Gastos Personales,Preparatoria,0
+CR-00399,46,189551.0,97998.0,47.4,31.2,9.6,3,0,Rentada,Automotriz,Licenciatura,0
+CR-00400,34,224929.0,54064.0,57.7,29.6,10.9,4,2,Propia,Mejoras del Hogar,Preparatoria,0
+CR-00401,43,148182.0,58199.0,12.3,46.9,4.2,3,1,Propia,Mejoras del Hogar,Posgrado,0
+CR-00402,59,209914.0,108498.0,22.4,23.0,3.7,4,1,Rentada,Automotriz,Posgrado,0
+CR-00403,38,266184.0,64925.0,11.3,21.9,5.5,2,0,Hipotecada,Gastos Personales,Posgrado,1
+CR-00404,32,123373.0,29712.0,84.6,52.9,5.7,7,2,Propia,Mejoras del Hogar,Licenciatura,1
+CR-00405,24,173441.0,40387.0,28.2,34.2,5.9,2,0,Hipotecada,Automotriz,Licenciatura,0
+CR-00406,41,110614.0,70130.0,50.5,25.3,9.1,6,1,Rentada,Consolidación de Deuda,Licenciatura,0
+CR-00407,61,190985.0,15000.0,44.9,34.5,1.7,6,1,Hipotecada,Automotriz,Licenciatura,0
+CR-00408,43,77411.0,92428.0,29.0,59.7,3.4,3,0,Propia,Gastos Personales,Preparatoria,1
+CR-00409,34,148735.0,78815.0,35.5,16.9,9.0,1,1,Propia,Consolidación de Deuda,Licenciatura,0
+CR-00410,36,256292.0,28808.0,45.5,31.3,10.2,6,3,Propia,Gastos Personales,Licenciatura,1
+CR-00411,21,109457.0,57858.0,7.1,42.7,7.6,3,1,Hipotecada,Consolidación de Deuda,Licenciatura,0
+CR-00412,29,117139.0,53363.0,57.0,15.6,8.2,2,5,Rentada,Gastos Personales,Preparatoria,0
+CR-00413,26,102504.0,94706.0,55.8,47.5,1.1,4,0,Propia,Consolidación de Deuda,Licenciatura,0
+CR-00414,34,160833.0,109520.0,36.4,22.8,9.2,5,0,Rentada,Mejoras del Hogar,Licenciatura,0
+CR-00415,67,368195.0,23190.0,11.1,32.4,5.9,3,2,Rentada,Gastos Personales,Licenciatura,0
+CR-00416,62,308169.0,74746.0,73.0,24.7,2.1,4,2,Propia,Gastos Personales,Licenciatura,1
+CR-00417,58,68941.0,49585.0,52.3,29.7,9.1,7,1,Rentada,Consolidación de Deuda,Licenciatura,0
+CR-00418,69,115295.0,84523.0,72.6,28.1,3.5,2,1,Rentada,Automotriz,Licenciatura,0
+CR-00419,36,305377.0,40613.0,11.2,53.6,29.4,6,1,Hipotecada,Automotriz,Licenciatura,0
+CR-00420,39,222700.0,65784.0,26.6,14.5,8.0,4,1,Rentada,Gastos Personales,Posgrado,0
+CR-00421,22,403491.0,61133.0,90.7,38.1,1.7,2,1,Propia,Consolidación de Deuda,Posgrado,0
+CR-00422,43,265854.0,56286.0,30.6,41.8,8.3,5,0,Propia,Mejoras del Hogar,Licenciatura,0
+CR-00423,46,60000.0,53732.0,26.0,36.5,19.6,1,3,Propia,Automotriz,Preparatoria,0
+CR-00424,37,131149.0,52226.0,26.4,42.2,14.6,7,0,Hipotecada,Gastos Personales,Licenciatura,0
+CR-00425,53,158080.0,103926.0,26.5,55.8,16.9,3,2,Rentada,Automotriz,Licenciatura,1
+CR-00426,38,144117.0,52220.0,26.3,42.0,10.7,3,5,Rentada,Automotriz,Preparatoria,1
+CR-00427,42,142683.0,160769.0,21.8,59.4,9.1,1,0,Rentada,Automotriz,Posgrado,0
+CR-00428,54,325647.0,60683.0,39.2,12.1,8.3,4,1,Propia,Automotriz,Licenciatura,0
+CR-00429,54,250736.0,232318.0,83.2,46.0,14.7,2,1,Hipotecada,Gastos Personales,Posgrado,0
+CR-00430,57,243781.0,192431.0,32.8,28.6,10.4,3,1,Rentada,Gastos Personales,Posgrado,0
+CR-00431,54,113116.0,80559.0,26.8,23.3,3.1,1,0,Propia,Gastos Personales,Posgrado,0
+CR-00432,36,216587.0,40392.0,36.3,40.0,5.4,3,3,Propia,Gastos Personales,Licenciatura,0
+CR-00433,32,60000.0,116216.0,41.5,23.5,3.1,8,1,Rentada,Gastos Personales,Licenciatura,0
+CR-00434,28,60000.0,96006.0,30.4,41.2,2.8,2,3,Rentada,Consolidación de Deuda,Licenciatura,1
+CR-00435,36,65440.0,49094.0,42.5,40.7,5.2,3,1,Propia,Automotriz,Posgrado,0
+CR-00436,55,250935.0,92155.0,19.7,20.7,2.4,5,2,Rentada,Consolidación de Deuda,Licenciatura,0
+CR-00437,62,78546.0,72082.0,56.9,48.2,13.7,4,1,Propia,Automotriz,Licenciatura,1
+CR-00438,42,60000.0,97467.0,25.4,20.3,3.4,2,2,Propia,Gastos Personales,Preparatoria,0
+CR-00439,24,114890.0,118406.0,28.7,67.2,3.5,3,0,Rentada,Consolidación de Deuda,Licenciatura,1
+CR-00440,65,60000.0,71105.0,22.9,16.7,5.6,6,5,Hipotecada,Consolidación de Deuda,Licenciatura,1
+CR-00441,61,266199.0,38224.0,11.0,32.1,3.7,3,2,Hipotecada,Gastos Personales,Licenciatura,0
+CR-00442,41,199930.0,240334.0,10.3,42.8,14.6,4,3,Rentada,Consolidación de Deuda,Licenciatura,0
+CR-00443,51,343912.0,26583.0,24.7,17.2,6.6,1,3,Rentada,Gastos Personales,Licenciatura,0
+CR-00444,22,158926.0,66481.0,7.1,34.2,21.0,3,2,Rentada,Consolidación de Deuda,Posgrado,0
+CR-00445,41,74263.0,58780.0,6.9,2.1,6.6,4,1,Rentada,Gastos Personales,Posgrado,0
+CR-00446,56,102941.0,68371.0,63.8,15.8,8.0,2,1,Rentada,Mejoras del Hogar,Licenciatura,0
+CR-00447,57,284157.0,57844.0,56.8,16.1,6.5,5,2,Rentada,Automotriz,Preparatoria,0
+CR-00448,69,269576.0,40708.0,37.1,25.7,4.3,2,0,Rentada,Automotriz,Licenciatura,0
+CR-00449,45,154626.0,54965.0,51.9,5.5,5.7,6,0,Hipotecada,Mejoras del Hogar,Posgrado,0
+CR-00450,43,82294.0,73064.0,52.5,10.1,24.2,6,0,Rentada,Consolidación de Deuda,Licenciatura,0
+CR-00451,47,318857.0,54466.0,3.7,54.7,5.2,3,2,Hipotecada,Consolidación de Deuda,Licenciatura,0
+CR-00452,67,238567.0,81420.0,17.5,65.7,8.3,4,1,Rentada,Mejoras del Hogar,Posgrado,0
+CR-00453,27,138644.0,18996.0,15.6,12.9,8.3,4,0,Rentada,Automotriz,Posgrado,0
+CR-00454,28,185578.0,64998.0,10.0,35.0,2.9,1,3,Propia,Consolidación de Deuda,Preparatoria,0
+CR-00455,60,163361.0,33105.0,28.4,44.4,6.4,9,1,Rentada,Automotriz,Posgrado,1
+CR-00456,31,212581.0,87898.0,43.0,55.0,2.7,5,2,Rentada,Gastos Personales,Licenciatura,1
+CR-00457,51,133577.0,116416.0,18.9,32.0,16.4,4,0,Propia,Consolidación de Deuda,Licenciatura,0
+CR-00458,37,107697.0,131484.0,17.9,10.9,9.9,1,1,Propia,Gastos Personales,Preparatoria,0
+CR-00459,57,195245.0,96829.0,9.5,26.7,24.4,3,1,Propia,Mejoras del Hogar,Licenciatura,0
+CR-00460,40,246728.0,113368.0,33.3,6.6,3.9,5,3,Rentada,Gastos Personales,Preparatoria,0
+CR-00461,29,196534.0,54811.0,10.6,7.3,17.0,3,1,Hipotecada,Gastos Personales,Posgrado,0
+CR-00462,65,66327.0,76513.0,22.1,23.8,9.3,4,3,Propia,Gastos Personales,Preparatoria,0
+CR-00463,21,113413.0,15000.0,24.9,22.1,2.5,6,1,Propia,Automotriz,Licenciatura,0
+CR-00464,68,191126.0,159276.0,60.7,9.4,4.9,2,2,Hipotecada,Mejoras del Hogar,Licenciatura,1
+CR-00465,23,60000.0,77482.0,38.6,53.3,0.8,4,1,Propia,Consolidación de Deuda,Licenciatura,1
+CR-00466,46,174055.0,30329.0,22.8,30.5,14.1,1,0,Rentada,Automotriz,Licenciatura,0
+CR-00467,65,152964.0,94914.0,63.4,21.3,3.2,7,2,Propia,Gastos Personales,Preparatoria,0
+CR-00468,55,206860.0,60020.0,53.4,24.0,15.2,5,2,Hipotecada,Gastos Personales,Preparatoria,1
+CR-00469,31,97303.0,53029.0,39.2,38.3,15.3,3,4,Rentada,Mejoras del Hogar,Licenciatura,0
+CR-00470,51,181921.0,34280.0,28.6,17.0,2.9,5,1,Rentada,Gastos Personales,Preparatoria,0
+CR-00471,31,83117.0,102255.0,41.1,20.0,8.8,5,1,Hipotecada,Consolidación de Deuda,Posgrado,1
+CR-00472,63,84910.0,153948.0,14.5,41.6,3.3,7,2,Propia,Gastos Personales,Licenciatura,0
+CR-00473,24,258256.0,108369.0,36.7,44.1,2.1,3,2,Hipotecada,Automotriz,Preparatoria,0
+CR-00474,26,278106.0,38780.0,22.8,54.6,1.2,5,0,Hipotecada,Mejoras del Hogar,Licenciatura,0
+CR-00475,55,150091.0,59976.0,40.5,35.6,6.9,3,1,Propia,Gastos Personales,Licenciatura,1
+CR-00476,48,60000.0,54839.0,11.1,52.2,4.2,2,2,Rentada,Automotriz,Licenciatura,1
+CR-00477,57,185174.0,90975.0,50.3,30.1,18.8,2,2,Rentada,Consolidación de Deuda,Licenciatura,1
+CR-00478,60,418937.0,77401.0,14.0,21.4,3.0,1,2,Propia,Gastos Personales,Licenciatura,0
+CR-00479,25,187701.0,35541.0,62.0,13.3,5.5,3,3,Propia,Gastos Personales,Posgrado,0
+CR-00480,58,243437.0,56892.0,15.8,52.7,5.2,1,2,Rentada,Consolidación de Deuda,Licenciatura,1
+CR-00481,39,179270.0,54225.0,30.1,35.5,7.5,8,0,Rentada,Consolidación de Deuda,Preparatoria,0
+CR-00482,58,60000.0,65084.0,68.9,36.5,6.8,4,1,Rentada,Mejoras del Hogar,Licenciatura,1
+CR-00483,31,184252.0,196826.0,44.1,3.0,10.6,1,1,Propia,Gastos Personales,Preparatoria,0
+CR-00484,69,266866.0,25005.0,37.7,21.3,4.9,4,1,Propia,Gastos Personales,Licenciatura,0
+CR-00485,44,113015.0,59142.0,72.6,20.6,1.9,3,1,Rentada,Mejoras del Hogar,Posgrado,0
+CR-00486,22,60000.0,84495.0,12.6,14.1,4.5,3,2,Propia,Consolidación de Deuda,Licenciatura,0
+CR-00487,56,184517.0,229387.0,50.4,28.6,6.2,3,0,Rentada,Mejoras del Hogar,Licenciatura,1
+CR-00488,26,258098.0,161082.0,48.5,72.7,3.2,9,0,Hipotecada,Consolidación de Deuda,Licenciatura,0
+CR-00489,50,137821.0,84426.0,23.5,40.5,13.2,4,2,Rentada,Gastos Personales,Licenciatura,0
+CR-00490,28,191370.0,49726.0,27.9,65.8,10.5,4,4,Propia,Mejoras del Hogar,Preparatoria,1
+CR-00491,31,238831.0,15000.0,5.0,10.2,34.0,5,3,Rentada,Gastos Personales,Posgrado,0
+CR-00492,49,97363.0,54373.0,56.5,52.3,4.6,6,1,Rentada,Mejoras del Hogar,Licenciatura,0
+CR-00493,49,370492.0,27043.0,28.6,7.5,11.7,1,2,Rentada,Gastos Personales,Preparatoria,0
+CR-00494,42,131466.0,89944.0,17.8,1.5,4.6,3,2,Hipotecada,Automotriz,Posgrado,0
+CR-00495,34,226040.0,64979.0,53.6,24.8,3.2,3,1,Propia,Consolidación de Deuda,Preparatoria,1
+CR-00496,24,117180.0,173080.0,19.2,41.5,3.3,6,3,Rentada,Consolidación de Deuda,Licenciatura,1
+CR-00497,37,149239.0,109272.0,59.3,14.7,11.6,3,0,Propia,Consolidación de Deuda,Preparatoria,0
+CR-00498,34,204555.0,65039.0,58.1,37.6,9.3,4,2,Rentada,Automotriz,Licenciatura,1
+CR-00499,69,134154.0,76745.0,64.6,12.2,1.7,6,1,Propia,Gastos Personales,Preparatoria,0
+CR-00500,40,80822.0,31224.0,26.0,18.8,11.1,4,0,Propia,Automotriz,Licenciatura,0
+CR-00501,47,184119.0,33111.0,30.2,32.2,8.1,4,2,Propia,Automotriz,Licenciatura,0
+CR-00502,45,157824.0,111348.0,38.0,9.6,11.4,3,4,Rentada,Consolidación de Deuda,Preparatoria,0
+CR-00503,66,131646.0,138660.0,9.3,21.5,9.0,4,2,Propia,Mejoras del Hogar,Preparatoria,0
+CR-00504,58,106211.0,90103.0,37.9,8.3,6.5,7,0,Hipotecada,Gastos Personales,Posgrado,0
+CR-00505,48,332733.0,72586.0,27.8,30.5,5.8,3,1,Propia,Mejoras del Hogar,Preparatoria,0
+CR-00506,44,296003.0,187489.0,71.6,39.7,1.0,3,1,Rentada,Consolidación de Deuda,Preparatoria,0
+CR-00507,65,259770.0,60360.0,25.4,49.3,5.7,1,1,Rentada,Gastos Personales,Preparatoria,0
+CR-00508,61,175330.0,83569.0,14.2,40.9,18.1,5,0,Hipotecada,Mejoras del Hogar,Licenciatura,0
+CR-00509,54,146572.0,38899.0,37.0,37.6,2.0,2,1,Propia,Gastos Personales,Licenciatura,1
+CR-00510,47,237218.0,34381.0,21.9,42.3,11.3,5,0,Propia,Mejoras del Hogar,Posgrado,0
+CR-00511,26,242859.0,16976.0,55.5,19.1,6.2,1,2,Rentada,Consolidación de Deuda,Preparatoria,0
+CR-00512,38,424888.0,25409.0,44.3,45.8,8.3,1,1,Propia,Gastos Personales,Preparatoria,0
+CR-00513,55,177222.0,72704.0,12.0,17.5,7.2,5,1,Propia,Gastos Personales,Posgrado,0
+CR-00514,60,227582.0,68322.0,38.8,48.6,4.8,2,2,Hipotecada,Gastos Personales,Preparatoria,1
+CR-00515,54,112831.0,81892.0,25.9,40.3,4.9,8,3,Rentada,Automotriz,Preparatoria,0
+CR-00516,30,156030.0,29441.0,63.0,30.2,6.5,1,3,Rentada,Gastos Personales,Licenciatura,1
+CR-00517,31,419367.0,38739.0,38.3,31.4,9.8,4,1,Rentada,Mejoras del Hogar,Preparatoria,0
+CR-00518,64,62722.0,64750.0,16.3,16.0,5.3,3,0,Propia,Gastos Personales,Preparatoria,0
+CR-00519,38,60000.0,118672.0,43.6,54.0,7.0,1,1,Hipotecada,Gastos Personales,Licenciatura,0
+CR-00520,53,149944.0,60392.0,19.1,19.3,9.5,8,1,Rentada,Mejoras del Hogar,Posgrado,0
+CR-00521,30,200496.0,80882.0,15.9,29.2,6.5,5,1,Rentada,Gastos Personales,Preparatoria,0
+CR-00522,67,294293.0,50654.0,39.3,14.1,2.2,4,1,Propia,Automotriz,Licenciatura,0
+CR-00523,34,108176.0,109820.0,35.1,5.8,13.9,1,2,Propia,Mejoras del Hogar,Licenciatura,0
+CR-00524,31,218586.0,54316.0,13.2,27.9,4.3,8,0,Rentada,Gastos Personales,Licenciatura,0
+CR-00525,34,361032.0,113018.0,32.5,31.3,3.8,4,1,Propia,Consolidación de Deuda,Licenciatura,1
+CR-00526,32,298460.0,44377.0,37.8,52.5,8.8,3,1,Propia,Gastos Personales,Preparatoria,1
+CR-00527,25,66533.0,37842.0,34.6,42.0,12.8,3,0,Propia,Gastos Personales,Licenciatura,0
+CR-00528,43,141316.0,45472.0,21.7,44.9,16.7,5,1,Rentada,Gastos Personales,Preparatoria,0
+CR-00529,49,279737.0,40208.0,57.9,62.6,5.9,5,2,Propia,Consolidación de Deuda,Preparatoria,1
+CR-00530,28,160644.0,134748.0,19.1,34.2,5.6,1,1,Hipotecada,Mejoras del Hogar,Preparatoria,1
+CR-00531,43,67990.0,62784.0,66.4,21.4,0.8,4,2,Hipotecada,Mejoras del Hogar,Preparatoria,0
+CR-00532,22,236936.0,90717.0,16.7,47.0,16.4,6,3,Propia,Gastos Personales,Licenciatura,0
+CR-00533,47,60000.0,18554.0,51.3,29.6,0.9,1,1,Propia,Gastos Personales,Posgrado,0
+CR-00534,38,139071.0,47540.0,38.7,3.8,8.7,2,1,Rentada,Gastos Personales,Posgrado,0
+CR-00535,54,159814.0,68675.0,35.9,44.7,2.9,1,2,Propia,Gastos Personales,Licenciatura,1
+CR-00536,57,122103.0,116870.0,55.0,23.3,3.5,2,0,Propia,Mejoras del Hogar,Licenciatura,1
+CR-00537,28,199332.0,128035.0,47.2,25.1,3.5,5,0,Rentada,Mejoras del Hogar,Preparatoria,0
+CR-00538,64,283267.0,48224.0,11.5,16.4,4.1,7,0,Rentada,Consolidación de Deuda,Licenciatura,0
+CR-00539,59,120942.0,95825.0,29.1,17.1,1.2,2,1,Hipotecada,Consolidación de Deuda,Preparatoria,0
+CR-00540,32,190534.0,68925.0,42.2,29.5,4.1,3,2,Propia,Automotriz,Licenciatura,0
+CR-00541,42,119903.0,124303.0,26.5,19.1,3.5,4,1,Propia,Gastos Personales,Preparatoria,0
+CR-00542,67,306998.0,36203.0,55.0,37.8,9.0,5,1,Rentada,Consolidación de Deuda,Licenciatura,0
+CR-00543,64,96047.0,86315.0,63.2,12.3,28.5,2,1,Rentada,Gastos Personales,Licenciatura,0
+CR-00544,24,127843.0,53580.0,9.4,55.6,2.3,1,1,Rentada,Consolidación de Deuda,Licenciatura,0
+CR-00545,64,164953.0,93498.0,28.1,55.4,3.7,7,1,Propia,Consolidación de Deuda,Licenciatura,1
+CR-00546,24,64811.0,169982.0,43.3,55.1,11.3,5,0,Rentada,Automotriz,Preparatoria,1
+CR-00547,37,158991.0,84042.0,15.0,17.3,8.1,3,3,Propia,Mejoras del Hogar,Preparatoria,0
+CR-00548,55,179472.0,23851.0,79.6,40.5,3.4,5,0,Hipotecada,Automotriz,Licenciatura,1
+CR-00549,61,149546.0,22294.0,17.8,43.8,2.6,8,3,Propia,Automotriz,Preparatoria,0
+CR-00550,24,206467.0,66573.0,18.0,30.2,5.3,2,0,Hipotecada,Mejoras del Hogar,Licenciatura,0
+CR-00551,67,77423.0,88093.0,14.4,28.0,4.7,4,0,Hipotecada,Automotriz,Preparatoria,0
+CR-00552,68,302638.0,50464.0,12.1,11.4,8.5,4,1,Rentada,Consolidación de Deuda,Licenciatura,0
+CR-00553,39,115601.0,99543.0,21.4,18.8,2.9,4,1,Propia,Consolidación de Deuda,Preparatoria,0
+CR-00554,34,69430.0,75526.0,7.0,28.5,8.1,6,2,Rentada,Gastos Personales,Preparatoria,1
+CR-00555,26,149514.0,102995.0,28.3,5.0,11.2,7,1,Propia,Mejoras del Hogar,Licenciatura,0
+CR-00556,27,105934.0,116282.0,24.1,35.5,7.1,4,1,Propia,Gastos Personales,Preparatoria,0
+CR-00557,23,155071.0,78017.0,29.8,26.9,6.2,2,1,Rentada,Consolidación de Deuda,Preparatoria,0
+CR-00558,58,121733.0,105223.0,32.5,13.0,10.5,3,1,Propia,Consolidación de Deuda,Posgrado,0
+CR-00559,41,221664.0,126367.0,17.2,16.4,3.7,2,2,Propia,Gastos Personales,Licenciatura,0
+CR-00560,41,287285.0,84174.0,20.7,54.3,5.9,4,1,Propia,Automotriz,Preparatoria,1
+CR-00561,33,145407.0,49141.0,10.4,23.2,6.6,1,0,Propia,Gastos Personales,Posgrado,0
+CR-00562,65,74804.0,17585.0,17.3,11.4,20.3,2,1,Rentada,Gastos Personales,Licenciatura,0
+CR-00563,46,86739.0,109050.0,65.4,20.0,15.4,3,2,Propia,Gastos Personales,Licenciatura,1
+CR-00564,45,115098.0,96990.0,13.4,39.5,19.6,5,1,Rentada,Consolidación de Deuda,Posgrado,0
+CR-00565,39,89488.0,52109.0,56.6,21.3,2.8,10,4,Propia,Automotriz,Licenciatura,0
+CR-00566,21,106624.0,69157.0,68.2,35.2,13.8,7,5,Propia,Gastos Personales,Preparatoria,1
+CR-00567,28,172784.0,33174.0,3.8,6.9,8.9,1,1,Propia,Mejoras del Hogar,Preparatoria,0
+CR-00568,29,151385.0,65593.0,63.1,22.7,11.3,8,2,Hipotecada,Automotriz,Licenciatura,0
+CR-00569,41,280413.0,43426.0,34.2,23.7,6.2,6,3,Propia,Consolidación de Deuda,Licenciatura,0
+CR-00570,25,316407.0,88807.0,49.5,31.4,8.3,3,1,Hipotecada,Gastos Personales,Licenciatura,0
+CR-00571,65,255849.0,19342.0,53.0,53.6,12.3,2,2,Propia,Gastos Personales,Preparatoria,1
+CR-00572,29,133438.0,32837.0,23.8,27.6,4.3,7,1,Hipotecada,Mejoras del Hogar,Licenciatura,0
+CR-00573,49,364261.0,56525.0,22.3,14.3,11.6,3,0,Propia,Gastos Personales,Licenciatura,0
+CR-00574,34,78236.0,33114.0,72.0,37.0,2.0,2,2,Hipotecada,Gastos Personales,Licenciatura,1
+CR-00575,25,106454.0,100942.0,30.6,41.2,14.4,4,1,Hipotecada,Consolidación de Deuda,Posgrado,1
+CR-00576,24,91570.0,114341.0,11.2,19.1,1.0,1,5,Hipotecada,Automotriz,Preparatoria,0
+CR-00577,44,235106.0,103943.0,2.4,33.4,6.8,1,0,Rentada,Gastos Personales,Preparatoria,0
+CR-00578,64,231608.0,43134.0,46.1,28.7,13.6,2,2,Propia,Gastos Personales,Preparatoria,0
+CR-00579,56,258971.0,60030.0,60.5,26.5,3.9,4,1,Rentada,Automotriz,Preparatoria,1
+CR-00580,53,66237.0,110827.0,32.0,5.2,2.4,7,2,Propia,Automotriz,Licenciatura,0
+CR-00581,51,167341.0,29011.0,51.5,61.0,8.1,5,1,Propia,Gastos Personales,Licenciatura,0
+CR-00582,42,276503.0,25118.0,25.0,36.1,10.3,5,0,Rentada,Gastos Personales,Licenciatura,0
+CR-00583,55,114556.0,86202.0,56.0,18.2,4.6,7,0,Propia,Mejoras del Hogar,Licenciatura,0
+CR-00584,65,369684.0,34293.0,48.2,30.7,5.7,6,5,Propia,Consolidación de Deuda,Licenciatura,1
+CR-00585,46,191046.0,31331.0,63.0,47.0,5.2,6,0,Hipotecada,Mejoras del Hogar,Licenciatura,1
+CR-00586,50,60000.0,113591.0,45.2,7.5,13.7,4,5,Rentada,Gastos Personales,Licenciatura,0
+CR-00587,30,304069.0,78761.0,57.5,50.7,2.2,6,1,Rentada,Gastos Personales,Preparatoria,1
+CR-00588,54,276164.0,246551.0,42.0,26.7,11.0,3,1,Propia,Automotriz,Licenciatura,0
+CR-00589,26,98672.0,107395.0,45.3,8.8,4.2,4,2,Rentada,Gastos Personales,Preparatoria,1
+CR-00590,55,213070.0,105644.0,23.8,46.9,7.4,9,2,Propia,Consolidación de Deuda,Preparatoria,0
+CR-00591,69,178512.0,102725.0,16.8,26.0,3.8,4,0,Propia,Gastos Personales,Preparatoria,0
+CR-00592,42,86000.0,27749.0,15.9,22.7,10.2,3,2,Rentada,Mejoras del Hogar,Licenciatura,0
+CR-00593,46,60000.0,83113.0,82.6,8.9,8.3,14,1,Propia,Gastos Personales,Posgrado,1
+CR-00594,35,198501.0,115504.0,43.1,4.0,3.9,5,1,Propia,Consolidación de Deuda,Licenciatura,0
+CR-00595,57,206550.0,136203.0,10.6,5.1,3.0,4,0,Rentada,Automotriz,Licenciatura,0
+CR-00596,64,348261.0,82434.0,31.9,47.1,3.4,1,1,Rentada,Gastos Personales,Posgrado,0
+CR-00597,29,265738.0,27782.0,40.1,47.6,10.1,2,1,Hipotecada,Consolidación de Deuda,Preparatoria,0
+CR-00598,39,112034.0,50160.0,15.7,14.2,4.2,2,1,Rentada,Consolidación de Deuda,Licenciatura,0
+CR-00599,38,181368.0,83787.0,11.8,62.4,4.4,4,2,Rentada,Automotriz,Licenciatura,1
+CR-00600,42,292499.0,64922.0,59.3,29.9,6.5,3,0,Hipotecada,Mejoras del Hogar,Preparatoria,1
+CR-00601,21,174171.0,15000.0,59.3,11.4,5.3,4,2,Rentada,Consolidación de Deuda,Licenciatura,1
+CR-00602,34,163556.0,112195.0,40.8,51.7,11.2,5,1,Hipotecada,Automotriz,Preparatoria,1
+CR-00603,45,193967.0,118037.0,47.2,13.2,11.6,6,4,Propia,Consolidación de Deuda,Licenciatura,1
+CR-00604,48,167391.0,77239.0,22.4,61.0,3.8,3,1,Propia,Automotriz,Preparatoria,0
+CR-00605,58,220551.0,50918.0,41.3,17.0,1.2,4,3,Rentada,Consolidación de Deuda,Preparatoria,1
+CR-00606,47,140914.0,90575.0,40.9,35.6,20.6,2,3,Rentada,Mejoras del Hogar,Posgrado,1
+CR-00607,23,231894.0,97134.0,3.5,44.4,10.5,4,0,Propia,Mejoras del Hogar,Posgrado,0
+CR-00608,42,68959.0,70709.0,37.2,10.1,6.1,5,1,Rentada,Consolidación de Deuda,Preparatoria,0
+CR-00609,42,158565.0,97552.0,37.5,56.7,9.3,4,3,Rentada,Mejoras del Hogar,Licenciatura,1
+CR-00610,38,192499.0,41873.0,27.9,38.3,9.2,4,1,Hipotecada,Gastos Personales,Preparatoria,0
+CR-00611,34,203733.0,26829.0,77.1,17.9,6.0,5,0,Rentada,Mejoras del Hogar,Preparatoria,0
+CR-00612,47,60000.0,57171.0,12.4,42.0,7.2,4,1,Propia,Gastos Personales,Preparatoria,0
+CR-00613,43,181376.0,31555.0,72.8,48.4,15.6,3,1,Rentada,Mejoras del Hogar,Licenciatura,0
+CR-00614,39,111476.0,153598.0,64.3,31.1,3.4,4,4,Rentada,Consolidación de Deuda,Licenciatura,1
+CR-00615,69,182846.0,15000.0,58.2,19.6,19.0,3,2,Propia,Automotriz,Posgrado,0
+CR-00616,59,311059.0,126125.0,26.1,32.3,11.4,4,0,Rentada,Automotriz,Licenciatura,0
+CR-00617,27,82037.0,79399.0,46.6,49.5,4.0,5,2,Propia,Automotriz,Preparatoria,1
+CR-00618,28,241798.0,75429.0,42.6,42.1,9.4,5,1,Propia,Mejoras del Hogar,Licenciatura,0
+CR-00619,34,175798.0,95754.0,21.2,50.8,3.9,4,2,Rentada,Automotriz,Preparatoria,0
+CR-00620,56,211604.0,48496.0,46.0,31.0,11.0,3,0,Rentada,Mejoras del Hogar,Preparatoria,0
+CR-00621,31,86853.0,45728.0,47.9,18.5,4.6,6,1,Propia,Mejoras del Hogar,Licenciatura,0
+CR-00622,31,83092.0,147146.0,57.1,30.0,4.9,4,2,Hipotecada,Mejoras del Hogar,Preparatoria,0
+CR-00623,69,283654.0,19342.0,56.5,33.2,3.0,5,1,Propia,Gastos Personales,Preparatoria,1
+CR-00624,66,157688.0,48285.0,33.1,47.1,6.1,7,3,Hipotecada,Gastos Personales,Preparatoria,1
+CR-00625,55,313769.0,64609.0,52.7,35.2,6.2,6,1,Propia,Automotriz,Preparatoria,0
+CR-00626,39,114420.0,31298.0,46.2,14.7,5.3,3,2,Propia,Consolidación de Deuda,Licenciatura,0
+CR-00627,52,111436.0,87012.0,39.6,36.6,15.6,7,1,Rentada,Gastos Personales,Licenciatura,0
+CR-00628,36,60000.0,134735.0,25.0,15.9,22.6,5,3,Rentada,Automotriz,Posgrado,0
+CR-00629,21,69404.0,83574.0,4.5,22.1,3.6,8,2,Rentada,Consolidación de Deuda,Licenciatura,0
+CR-00630,65,171203.0,53906.0,76.2,3.8,6.3,4,0,Rentada,Consolidación de Deuda,Preparatoria,1
+CR-00631,69,128748.0,60972.0,65.8,12.0,13.4,6,1,Hipotecada,Consolidación de Deuda,Posgrado,0
+CR-00632,23,180802.0,65525.0,33.0,31.9,8.4,8,0,Propia,Gastos Personales,Licenciatura,0
+CR-00633,48,173924.0,126326.0,32.6,75.8,8.0,2,1,Propia,Consolidación de Deuda,Preparatoria,1
+CR-00634,68,112044.0,86971.0,48.0,20.7,4.1,4,0,Rentada,Gastos Personales,Licenciatura,1
+CR-00635,61,75278.0,73369.0,55.4,4.1,7.6,7,3,Hipotecada,Automotriz,Posgrado,0
+CR-00636,66,150733.0,109499.0,22.5,13.9,18.6,4,1,Propia,Automotriz,Licenciatura,0
+CR-00637,60,122655.0,79498.0,59.0,12.5,5.1,5,0,Rentada,Automotriz,Preparatoria,0
+CR-00638,53,193626.0,64297.0,13.7,60.5,3.1,5,0,Hipotecada,Consolidación de Deuda,Preparatoria,0
+CR-00639,45,153286.0,84026.0,38.7,9.7,8.7,4,0,Rentada,Consolidación de Deuda,Posgrado,0
+CR-00640,48,136576.0,26521.0,12.9,64.1,10.4,2,1,Rentada,Automotriz,Posgrado,0
+CR-00641,21,151938.0,95484.0,29.6,21.7,7.9,4,2,Hipotecada,Gastos Personales,Posgrado,0
+CR-00642,46,206160.0,180152.0,45.4,56.1,6.6,1,3,Propia,Consolidación de Deuda,Preparatoria,1
+CR-00643,22,177724.0,96256.0,13.6,53.0,7.4,4,3,Rentada,Gastos Personales,Preparatoria,0
+CR-00644,25,257083.0,113443.0,52.6,13.7,7.1,3,2,Propia,Consolidación de Deuda,Preparatoria,0
+CR-00645,61,129664.0,24228.0,18.7,37.6,7.5,5,1,Rentada,Automotriz,Licenciatura,0
+CR-00646,25,282373.0,131311.0,62.1,22.9,4.5,3,0,Propia,Automotriz,Preparatoria,0
+CR-00647,48,98274.0,85630.0,22.7,80.2,4.5,3,1,Propia,Automotriz,Preparatoria,1
+CR-00648,54,363961.0,17602.0,3.3,25.2,10.7,8,0,Propia,Automotriz,Licenciatura,0
+CR-00649,22,235036.0,42846.0,18.0,36.6,0.5,5,1,Rentada,Consolidación de Deuda,Licenciatura,0
+CR-00650,67,206720.0,178833.0,41.5,19.9,2.5,3,1,Hipotecada,Consolidación de Deuda,Licenciatura,1
+CR-00651,41,120501.0,120370.0,60.9,16.8,7.7,6,1,Rentada,Gastos Personales,Preparatoria,0
+CR-00652,46,65532.0,124639.0,23.0,22.8,20.7,3,4,Propia,Gastos Personales,Licenciatura,0
+CR-00653,67,149467.0,83952.0,47.8,29.5,4.6,3,1,Hipotecada,Gastos Personales,Preparatoria,0
+CR-00654,21,141713.0,53543.0,13.2,14.1,4.7,2,3,Rentada,Gastos Personales,Licenciatura,0
+CR-00655,27,159742.0,82827.0,21.4,11.5,14.6,3,2,Rentada,Gastos Personales,Licenciatura,0
+CR-00656,61,254964.0,50578.0,19.5,46.0,7.3,2,0,Rentada,Gastos Personales,Licenciatura,1
+CR-00657,36,236920.0,72561.0,51.1,22.5,17.1,2,1,Propia,Automotriz,Licenciatura,0
+CR-00658,61,223688.0,40232.0,11.7,16.7,5.5,3,0,Propia,Mejoras del Hogar,Licenciatura,0
+CR-00659,66,156878.0,263732.0,43.1,79.7,5.7,7,2,Rentada,Consolidación de Deuda,Licenciatura,1
+CR-00660,37,60000.0,59139.0,35.2,18.3,10.8,3,2,Rentada,Mejoras del Hogar,Preparatoria,0
+CR-00661,21,93686.0,74567.0,44.3,37.9,5.0,3,0,Hipotecada,Consolidación de Deuda,Preparatoria,0
+CR-00662,54,403517.0,59076.0,34.9,35.0,11.6,4,0,Rentada,Consolidación de Deuda,Posgrado,0
+CR-00663,59,146651.0,135560.0,18.2,10.5,6.0,2,2,Propia,Automotriz,Preparatoria,0
+CR-00664,27,342263.0,60001.0,52.4,46.6,2.8,5,1,Propia,Gastos Personales,Licenciatura,0
+CR-00665,33,293625.0,15000.0,11.7,38.7,4.7,2,0,Hipotecada,Consolidación de Deuda,Licenciatura,0
+CR-00666,28,209939.0,76643.0,32.5,24.1,9.4,2,2,Rentada,Gastos Personales,Preparatoria,0
+CR-00667,50,144917.0,60344.0,57.9,21.5,1.8,1,1,Rentada,Mejoras del Hogar,Preparatoria,0
+CR-00668,55,140860.0,97643.0,56.3,41.6,10.9,6,2,Rentada,Consolidación de Deuda,Licenciatura,1
+CR-00669,22,238360.0,16335.0,34.5,36.5,4.4,1,1,Hipotecada,Mejoras del Hogar,Licenciatura,0
+CR-00670,45,110592.0,67432.0,23.1,11.1,10.0,5,0,Rentada,Automotriz,Licenciatura,0
+CR-00671,56,136442.0,81305.0,24.5,5.3,7.6,7,0,Hipotecada,Automotriz,Preparatoria,0
+CR-00672,49,291871.0,17789.0,9.7,17.3,12.4,2,1,Rentada,Mejoras del Hogar,Posgrado,0
+CR-00673,69,319083.0,37389.0,40.3,37.7,7.7,4,1,Hipotecada,Gastos Personales,Posgrado,0
+CR-00674,46,175405.0,125199.0,59.8,52.7,4.7,7,2,Propia,Consolidación de Deuda,Licenciatura,1
+CR-00675,66,93683.0,89365.0,18.2,9.1,6.6,4,1,Hipotecada,Automotriz,Preparatoria,0
+CR-00676,67,88316.0,87507.0,61.2,74.7,6.0,2,1,Rentada,Gastos Personales,Posgrado,1
+CR-00677,29,264149.0,199539.0,4.2,24.8,13.6,4,4,Rentada,Mejoras del Hogar,Preparatoria,1
+CR-00678,59,106709.0,19007.0,66.3,31.4,10.1,1,0,Propia,Consolidación de Deuda,Licenciatura,1
+CR-00679,51,324717.0,45430.0,72.4,25.5,8.9,2,2,Rentada,Gastos Personales,Licenciatura,1
+CR-00680,65,119717.0,45185.0,52.8,66.1,2.0,4,1,Rentada,Automotriz,Preparatoria,1
+CR-00681,33,167795.0,92441.0,20.2,20.4,12.2,9,1,Rentada,Gastos Personales,Preparatoria,0
+CR-00682,35,188065.0,91143.0,32.8,17.5,11.8,4,1,Rentada,Consolidación de Deuda,Preparatoria,0
+CR-00683,40,101453.0,35871.0,24.9,41.4,10.1,5,1,Propia,Gastos Personales,Posgrado,0
+CR-00684,69,156451.0,35262.0,24.5,65.5,0.7,4,1,Rentada,Gastos Personales,Licenciatura,1
+CR-00685,69,106270.0,81058.0,11.9,61.9,12.0,12,1,Propia,Mejoras del Hogar,Licenciatura,0
+CR-00686,61,202459.0,116290.0,13.4,24.1,5.7,5,0,Rentada,Mejoras del Hogar,Preparatoria,0
+CR-00687,23,210919.0,105010.0,11.7,39.8,14.9,2,1,Propia,Gastos Personales,Licenciatura,0
+CR-00688,25,81834.0,39109.0,40.7,10.7,11.2,5,1,Hipotecada,Consolidación de Deuda,Preparatoria,0
+CR-00689,54,141681.0,114033.0,48.7,32.6,19.0,5,0,Propia,Automotriz,Licenciatura,0
+CR-00690,25,382947.0,114199.0,39.3,27.5,7.9,2,0,Propia,Consolidación de Deuda,Preparatoria,1
+CR-00691,68,194843.0,59796.0,27.8,38.2,15.6,1,2,Rentada,Consolidación de Deuda,Licenciatura,0
+CR-00692,30,247592.0,52573.0,58.6,37.9,2.1,4,0,Hipotecada,Automotriz,Licenciatura,1
+CR-00693,67,121430.0,46956.0,20.8,10.5,11.7,3,2,Propia,Automotriz,Licenciatura,0
+CR-00694,37,373750.0,28050.0,64.4,41.0,10.3,6,2,Propia,Gastos Personales,Licenciatura,1
+CR-00695,33,320578.0,94001.0,51.4,9.1,7.8,4,0,Propia,Mejoras del Hogar,Licenciatura,0
+CR-00696,31,89871.0,22950.0,41.6,10.1,4.3,8,1,Propia,Automotriz,Preparatoria,0
+CR-00697,58,103214.0,34459.0,39.4,40.3,6.1,6,1,Propia,Consolidación de Deuda,Posgrado,1
+CR-00698,23,152416.0,107399.0,5.8,13.1,3.0,3,1,Propia,Consolidación de Deuda,Licenciatura,0
+CR-00699,49,95781.0,127699.0,17.5,18.9,1.3,1,1,Rentada,Automotriz,Licenciatura,0
+CR-00700,42,211562.0,41396.0,51.0,26.9,11.4,3,4,Rentada,Mejoras del Hogar,Posgrado,1
+CR-00701,47,98365.0,200540.0,65.4,48.6,5.2,6,1,Rentada,Gastos Personales,Preparatoria,1
+CR-00702,33,74990.0,28906.0,40.9,20.1,16.3,2,2,Propia,Automotriz,Posgrado,0
+CR-00703,24,293890.0,41382.0,21.0,9.6,1.6,1,1,Rentada,Automotriz,Licenciatura,0
+CR-00704,43,331678.0,82790.0,60.1,16.1,14.8,6,0,Hipotecada,Mejoras del Hogar,Licenciatura,0
+CR-00705,36,112295.0,70516.0,70.7,32.7,10.0,6,0,Rentada,Consolidación de Deuda,Licenciatura,1
+CR-00706,59,161677.0,54204.0,26.2,29.2,1.5,4,0,Propia,Gastos Personales,Preparatoria,0
+CR-00707,37,136534.0,77015.0,50.5,48.3,3.3,1,1,Hipotecada,Mejoras del Hogar,Licenciatura,0
+CR-00708,36,209990.0,243009.0,10.9,19.6,10.5,2,0,Propia,Mejoras del Hogar,Licenciatura,0
+CR-00709,39,112280.0,96372.0,44.4,81.4,12.4,7,1,Rentada,Automotriz,Licenciatura,0
+CR-00710,22,163785.0,66934.0,5.0,49.0,3.4,4,1,Propia,Gastos Personales,Posgrado,0
+CR-00711,45,225557.0,125731.0,26.6,58.7,13.0,5,1,Propia,Mejoras del Hogar,Preparatoria,0
+CR-00712,61,211438.0,75904.0,28.4,37.7,10.7,2,2,Hipotecada,Gastos Personales,Preparatoria,0
+CR-00713,45,233837.0,138365.0,40.7,57.3,12.8,4,2,Hipotecada,Gastos Personales,Preparatoria,0
+CR-00714,45,158148.0,34105.0,10.9,31.9,6.6,3,2,Rentada,Automotriz,Posgrado,0
+CR-00715,45,221220.0,57968.0,25.2,39.2,16.3,2,2,Hipotecada,Consolidación de Deuda,Preparatoria,0
+CR-00716,32,82212.0,93013.0,61.8,19.3,9.0,1,2,Propia,Gastos Personales,Licenciatura,0
+CR-00717,26,122477.0,98412.0,34.0,36.0,11.6,3,0,Rentada,Consolidación de Deuda,Preparatoria,0
+CR-00718,66,148132.0,65240.0,54.4,27.4,8.3,8,2,Propia,Consolidación de Deuda,Preparatoria,0
+CR-00719,59,213107.0,64720.0,47.3,37.7,8.9,4,1,Hipotecada,Consolidación de Deuda,Licenciatura,0
+CR-00720,57,77168.0,150977.0,16.6,44.2,6.6,3,1,Propia,Mejoras del Hogar,Preparatoria,0
+CR-00721,23,184069.0,70907.0,22.4,53.8,7.6,4,3,Propia,Consolidación de Deuda,Licenciatura,0
+CR-00722,41,276776.0,37054.0,12.6,16.3,6.0,3,1,Propia,Mejoras del Hogar,Posgrado,0
+CR-00723,21,127701.0,91356.0,26.1,21.3,6.3,8,1,Rentada,Mejoras del Hogar,Posgrado,0
+CR-00724,38,147620.0,84690.0,23.4,17.8,6.3,3,0,Propia,Gastos Personales,Preparatoria,0
+CR-00725,25,457302.0,22128.0,27.0,31.4,3.9,3,1,Rentada,Gastos Personales,Preparatoria,0
+CR-00726,24,68475.0,142581.0,75.3,16.6,3.8,6,0,Propia,Consolidación de Deuda,Posgrado,1
+CR-00727,43,290131.0,64518.0,21.9,37.2,6.0,8,1,Hipotecada,Automotriz,Posgrado,1
+CR-00728,34,127386.0,44525.0,24.9,36.8,9.5,8,2,Hipotecada,Automotriz,Posgrado,0
+CR-00729,68,310985.0,67737.0,76.9,21.9,7.4,3,0,Propia,Mejoras del Hogar,Preparatoria,0
+CR-00730,56,99522.0,39516.0,22.4,8.5,4.1,5,1,Propia,Gastos Personales,Licenciatura,0
+CR-00731,38,241373.0,207561.0,17.4,3.9,5.1,2,3,Propia,Mejoras del Hogar,Posgrado,0
+CR-00732,24,93813.0,25243.0,19.9,24.5,9.5,2,2,Rentada,Automotriz,Licenciatura,1
+CR-00733,52,119315.0,29550.0,35.7,20.2,9.6,5,2,Rentada,Consolidación de Deuda,Preparatoria,0
+CR-00734,39,290325.0,47670.0,41.4,64.1,8.3,4,1,Propia,Consolidación de Deuda,Posgrado,1
+CR-00735,39,81148.0,60925.0,63.2,15.7,10.7,4,1,Hipotecada,Consolidación de Deuda,Preparatoria,1
+CR-00736,49,199629.0,93715.0,31.2,33.4,17.2,8,1,Propia,Mejoras del Hogar,Preparatoria,0
+CR-00737,40,115244.0,50889.0,15.0,47.4,7.5,4,2,Propia,Mejoras del Hogar,Preparatoria,1
+CR-00738,57,172673.0,62546.0,66.7,24.5,3.0,5,3,Rentada,Automotriz,Posgrado,1
+CR-00739,64,218469.0,49337.0,21.5,9.5,4.2,4,1,Rentada,Automotriz,Licenciatura,0
+CR-00740,57,223320.0,150554.0,39.0,17.3,3.1,4,1,Rentada,Gastos Personales,Licenciatura,0
+CR-00741,69,176589.0,81810.0,42.2,13.7,4.0,1,1,Rentada,Mejoras del Hogar,Posgrado,0
+CR-00742,35,128191.0,100462.0,30.9,25.9,4.3,4,2,Rentada,Consolidación de Deuda,Licenciatura,0
+CR-00743,35,158439.0,29378.0,12.3,15.8,3.6,4,2,Propia,Gastos Personales,Licenciatura,0
+CR-00744,37,242439.0,109897.0,51.9,70.8,8.2,7,2,Propia,Automotriz,Licenciatura,1
+CR-00745,30,349671.0,61380.0,11.5,12.2,9.3,3,1,Propia,Consolidación de Deuda,Licenciatura,0
+CR-00746,28,108201.0,15000.0,71.0,23.7,4.9,4,2,Rentada,Gastos Personales,Licenciatura,0
+CR-00747,30,242759.0,106719.0,56.2,7.9,3.0,2,0,Rentada,Automotriz,Preparatoria,0
+CR-00748,56,127549.0,72510.0,39.3,8.0,20.4,2,2,Rentada,Consolidación de Deuda,Licenciatura,0
+CR-00749,45,146669.0,108353.0,35.2,69.5,9.5,2,2,Propia,Mejoras del Hogar,Preparatoria,0
+CR-00750,34,130512.0,63212.0,49.8,2.8,10.3,3,0,Hipotecada,Gastos Personales,Preparatoria,0
+CR-00751,53,268370.0,128444.0,16.6,38.5,29.0,6,3,Hipotecada,Gastos Personales,Preparatoria,0
+CR-00752,44,143652.0,89951.0,20.5,37.8,9.5,3,0,Rentada,Mejoras del Hogar,Preparatoria,0
+CR-00753,21,195304.0,64433.0,13.4,48.1,4.5,5,3,Propia,Automotriz,Posgrado,1
+CR-00754,65,99871.0,61336.0,36.5,19.6,15.2,2,2,Hipotecada,Automotriz,Licenciatura,0
+CR-00755,39,119378.0,59385.0,27.2,4.1,12.3,5,1,Hipotecada,Mejoras del Hogar,Posgrado,0
+CR-00756,21,111220.0,53917.0,51.3,43.0,20.3,5,1,Propia,Automotriz,Licenciatura,0
+CR-00757,29,404372.0,106010.0,70.3,23.1,13.0,7,1,Propia,Mejoras del Hogar,Preparatoria,0
+CR-00758,62,60000.0,38509.0,77.7,9.7,11.1,2,1,Rentada,Automotriz,Preparatoria,0
+CR-00759,52,172592.0,23459.0,48.0,41.1,7.8,3,1,Hipotecada,Gastos Personales,Licenciatura,1
+CR-00760,57,364376.0,60338.0,47.8,13.0,10.8,1,3,Propia,Gastos Personales,Licenciatura,0
+CR-00761,37,380512.0,45395.0,52.5,35.8,3.8,4,3,Propia,Automotriz,Licenciatura,0
+CR-00762,52,215273.0,79734.0,29.2,24.1,12.3,4,1,Rentada,Gastos Personales,Licenciatura,0
+CR-00763,36,427079.0,48060.0,30.1,46.8,1.7,4,1,Hipotecada,Automotriz,Licenciatura,0
+CR-00764,40,88246.0,107002.0,56.8,19.7,5.9,5,2,Rentada,Gastos Personales,Licenciatura,0
+CR-00765,29,141649.0,91528.0,55.6,22.8,2.1,4,3,Propia,Automotriz,Preparatoria,0
+CR-00766,51,345279.0,167653.0,27.5,26.3,5.4,3,2,Rentada,Mejoras del Hogar,Licenciatura,0
+CR-00767,50,119397.0,35537.0,8.9,50.6,6.5,5,3,Propia,Automotriz,Preparatoria,0
+CR-00768,67,219292.0,27972.0,60.3,49.0,11.0,4,2,Propia,Automotriz,Preparatoria,0
+CR-00769,53,197489.0,81823.0,68.5,47.2,16.5,4,2,Rentada,Gastos Personales,Licenciatura,1
+CR-00770,25,211861.0,119593.0,23.9,76.9,5.5,4,0,Rentada,Consolidación de Deuda,Licenciatura,1
+CR-00771,34,190256.0,76254.0,16.5,32.0,12.9,3,0,Hipotecada,Automotriz,Preparatoria,0
+CR-00772,24,245902.0,44329.0,28.1,18.0,5.1,2,3,Propia,Mejoras del Hogar,Preparatoria,0
+CR-00773,34,225755.0,50985.0,5.8,14.3,5.1,5,5,Propia,Automotriz,Licenciatura,0
+CR-00774,37,163567.0,57675.0,44.5,55.6,3.5,3,1,Propia,Mejoras del Hogar,Preparatoria,0
+CR-00775,67,60000.0,59792.0,29.8,29.8,5.5,7,2,Hipotecada,Automotriz,Licenciatura,1
+CR-00776,26,60000.0,55000.0,22.4,26.2,20.7,5,1,Rentada,Mejoras del Hogar,Preparatoria,0
+CR-00777,46,235687.0,59555.0,68.3,25.9,1.7,3,2,Rentada,Automotriz,Licenciatura,1
+CR-00778,65,149644.0,70652.0,42.3,49.1,7.5,2,0,Hipotecada,Mejoras del Hogar,Preparatoria,0
+CR-00779,36,313394.0,35582.0,41.3,14.4,5.2,2,1,Propia,Mejoras del Hogar,Licenciatura,0
+CR-00780,59,156305.0,33304.0,70.9,19.3,10.0,3,1,Hipotecada,Automotriz,Licenciatura,1
+CR-00781,37,183194.0,50010.0,81.5,23.7,3.1,3,2,Propia,Consolidación de Deuda,Preparatoria,1
+CR-00782,28,144991.0,99020.0,27.3,8.3,13.0,5,1,Rentada,Gastos Personales,Licenciatura,1
+CR-00783,49,101325.0,42559.0,17.4,15.5,12.2,2,0,Rentada,Consolidación de Deuda,Posgrado,0
+CR-00784,39,128109.0,61365.0,48.2,32.8,4.8,3,2,Propia,Consolidación de Deuda,Licenciatura,0
+CR-00785,21,60000.0,56651.0,16.7,18.0,8.5,5,0,Propia,Gastos Personales,Preparatoria,0
+CR-00786,41,103275.0,185662.0,36.5,19.7,2.1,4,0,Propia,Gastos Personales,Licenciatura,0
+CR-00787,40,159106.0,79367.0,53.7,44.0,1.9,6,2,Propia,Mejoras del Hogar,Preparatoria,1
+CR-00788,67,357888.0,144950.0,54.4,39.0,12.7,5,2,Hipotecada,Mejoras del Hogar,Preparatoria,1
+CR-00789,63,119549.0,148444.0,60.4,66.2,2.3,4,1,Rentada,Automotriz,Posgrado,1
+CR-00790,37,248455.0,125157.0,22.6,29.2,5.1,2,2,Propia,Mejoras del Hogar,Preparatoria,0
+CR-00791,57,295378.0,87463.0,33.6,31.3,15.1,9,2,Hipotecada,Automotriz,Posgrado,0
+CR-00792,44,127028.0,90936.0,24.8,60.5,8.1,6,0,Rentada,Gastos Personales,Licenciatura,1
+CR-00793,65,216826.0,47089.0,46.3,57.9,5.0,6,1,Rentada,Mejoras del Hogar,Posgrado,1
+CR-00794,46,187184.0,130635.0,50.2,53.4,5.2,3,2,Hipotecada,Automotriz,Preparatoria,1
+CR-00795,25,172846.0,106121.0,11.1,16.2,8.9,4,4,Propia,Gastos Personales,Posgrado,0
+CR-00796,59,154007.0,77798.0,13.8,3.6,4.6,7,2,Rentada,Gastos Personales,Posgrado,1
+CR-00797,53,498407.0,46844.0,43.8,19.3,23.3,5,2,Hipotecada,Gastos Personales,Licenciatura,0
+CR-00798,63,60000.0,87486.0,21.3,27.2,2.9,3,1,Propia,Automotriz,Licenciatura,0
+CR-00799,56,209161.0,65294.0,18.3,60.7,2.4,2,4,Propia,Consolidación de Deuda,Posgrado,0
+CR-00800,53,79755.0,84554.0,25.8,16.2,12.6,1,1,Hipotecada,Mejoras del Hogar,Preparatoria,0
+CR-00801,38,252534.0,53439.0,15.8,38.5,17.2,8,1,Hipotecada,Gastos Personales,Posgrado,0
+CR-00802,38,382557.0,65905.0,51.1,40.0,4.7,2,4,Rentada,Consolidación de Deuda,Preparatoria,0
+CR-00803,39,244786.0,75806.0,23.1,43.8,4.2,5,0,Rentada,Gastos Personales,Licenciatura,0
+CR-00804,32,70115.0,57140.0,38.1,27.4,7.3,5,2,Rentada,Gastos Personales,Preparatoria,1
+CR-00805,55,208742.0,58169.0,78.3,66.3,5.1,5,0,Rentada,Gastos Personales,Licenciatura,1
+CR-00806,40,522964.0,89181.0,42.6,63.2,8.7,3,0,Rentada,Automotriz,Licenciatura,0
+CR-00807,68,396897.0,63519.0,23.0,35.5,9.3,3,0,Rentada,Automotriz,Licenciatura,0
+CR-00808,49,173163.0,96114.0,86.3,29.2,8.4,2,2,Propia,Mejoras del Hogar,Posgrado,0
+CR-00809,35,382553.0,15000.0,8.1,26.2,11.5,5,1,Rentada,Gastos Personales,Licenciatura,0
+CR-00810,58,172863.0,107398.0,50.7,30.3,5.5,2,0,Hipotecada,Mejoras del Hogar,Licenciatura,0
+CR-00811,43,239054.0,36580.0,62.4,54.4,9.5,5,2,Propia,Consolidación de Deuda,Licenciatura,0
+CR-00812,68,151550.0,99715.0,13.8,49.3,8.5,5,0,Propia,Automotriz,Preparatoria,0
+CR-00813,60,278671.0,83082.0,25.5,43.9,6.3,3,0,Rentada,Consolidación de Deuda,Licenciatura,0
+CR-00814,63,201623.0,31437.0,58.1,2.3,9.3,5,2,Rentada,Consolidación de Deuda,Preparatoria,1
+CR-00815,68,218613.0,207548.0,41.0,6.0,14.0,3,2,Propia,Consolidación de Deuda,Licenciatura,0
+CR-00816,59,95774.0,39300.0,18.3,29.5,6.5,9,2,Rentada,Automotriz,Licenciatura,0
+CR-00817,67,323910.0,79150.0,40.4,53.3,6.1,7,2,Propia,Mejoras del Hogar,Preparatoria,0
+CR-00818,65,88290.0,57348.0,29.7,45.0,7.0,4,1,Propia,Gastos Personales,Licenciatura,0
+CR-00819,28,78341.0,57156.0,26.8,26.9,11.0,3,2,Rentada,Mejoras del Hogar,Preparatoria,1
+CR-00820,55,278916.0,71197.0,30.1,5.5,5.5,6,0,Rentada,Consolidación de Deuda,Preparatoria,1
+CR-00821,48,243918.0,135880.0,9.4,3.5,10.5,3,0,Hipotecada,Consolidación de Deuda,Licenciatura,0
+CR-00822,67,159106.0,88611.0,44.0,45.6,9.1,3,0,Hipotecada,Mejoras del Hogar,Licenciatura,0
+CR-00823,58,166017.0,119864.0,16.2,22.8,3.9,5,4,Propia,Gastos Personales,Preparatoria,0
+CR-00824,46,190244.0,44160.0,54.3,33.8,7.4,3,1,Hipotecada,Automotriz,Preparatoria,1
+CR-00825,52,116413.0,35992.0,35.8,59.4,26.1,4,1,Hipotecada,Gastos Personales,Licenciatura,0
+CR-00826,25,91790.0,43503.0,49.4,54.9,11.5,6,2,Hipotecada,Gastos Personales,Preparatoria,0
+CR-00827,38,217157.0,51419.0,14.0,18.4,3.7,4,1,Hipotecada,Consolidación de Deuda,Posgrado,0
+CR-00828,56,154828.0,54271.0,10.3,16.4,4.0,2,2,Rentada,Consolidación de Deuda,Posgrado,0
+CR-00829,42,178503.0,87800.0,46.3,7.7,2.9,5,1,Propia,Consolidación de Deuda,Preparatoria,0
+CR-00830,67,97760.0,98362.0,8.7,22.5,5.6,5,1,Rentada,Gastos Personales,Licenciatura,0
+CR-00831,53,157054.0,65439.0,6.6,5.8,9.8,5,2,Propia,Mejoras del Hogar,Preparatoria,0
+CR-00832,22,119747.0,16877.0,63.2,34.2,4.8,5,1,Rentada,Gastos Personales,Licenciatura,1
+CR-00833,28,174360.0,62311.0,36.8,7.6,2.9,4,3,Propia,Consolidación de Deuda,Posgrado,0
+CR-00834,51,288149.0,37515.0,53.3,49.0,5.0,4,0,Rentada,Mejoras del Hogar,Licenciatura,1
+CR-00835,59,206256.0,65478.0,70.1,22.4,8.1,3,1,Hipotecada,Mejoras del Hogar,Preparatoria,1
+CR-00836,35,60000.0,50956.0,62.6,24.8,7.2,4,4,Rentada,Gastos Personales,Posgrado,0
+CR-00837,40,140418.0,35503.0,19.3,13.4,4.0,1,2,Propia,Mejoras del Hogar,Preparatoria,0
+CR-00838,40,407837.0,102038.0,55.8,55.7,7.8,2,1,Propia,Consolidación de Deuda,Licenciatura,1
+CR-00839,33,243060.0,54103.0,9.7,19.5,14.0,4,2,Propia,Mejoras del Hogar,Preparatoria,0
+CR-00840,65,220207.0,29834.0,76.0,19.6,6.2,1,0,Hipotecada,Consolidación de Deuda,Preparatoria,0
+CR-00841,45,86538.0,82049.0,11.3,10.0,6.2,3,1,Propia,Gastos Personales,Posgrado,0
+CR-00842,37,169792.0,52403.0,66.6,20.5,1.3,4,1,Propia,Gastos Personales,Preparatoria,0
+CR-00843,66,112844.0,18916.0,12.4,46.1,3.5,4,2,Rentada,Mejoras del Hogar,Licenciatura,0
+CR-00844,51,163936.0,23676.0,14.5,27.3,10.0,5,3,Propia,Consolidación de Deuda,Licenciatura,0
+CR-00845,21,119019.0,20102.0,27.2,3.9,2.6,4,1,Rentada,Automotriz,Preparatoria,0
+CR-00846,41,69003.0,71708.0,63.2,34.2,4.3,7,2,Propia,Gastos Personales,Licenciatura,1
+CR-00847,54,209337.0,162212.0,13.8,22.9,16.8,4,0,Propia,Gastos Personales,Preparatoria,0
+CR-00848,66,80176.0,69578.0,53.3,17.5,8.0,1,1,Rentada,Consolidación de Deuda,Preparatoria,0
+CR-00849,46,213487.0,52092.0,18.9,53.4,6.3,3,4,Propia,Mejoras del Hogar,Posgrado,1
+CR-00850,39,233205.0,87759.0,28.8,24.7,8.3,6,3,Rentada,Automotriz,Posgrado,0
+CR-00851,36,170778.0,94784.0,67.1,33.1,4.6,1,0,Propia,Consolidación de Deuda,Licenciatura,1
+CR-00852,25,269813.0,53191.0,48.8,7.9,10.4,6,3,Rentada,Automotriz,Licenciatura,1
+CR-00853,25,93743.0,48813.0,41.9,35.8,5.3,5,1,Propia,Gastos Personales,Preparatoria,1
+CR-00854,41,91385.0,71083.0,42.3,45.7,1.7,1,2,Propia,Automotriz,Licenciatura,1
+CR-00855,59,96750.0,60822.0,43.4,10.6,9.9,6,2,Rentada,Gastos Personales,Licenciatura,0
+CR-00856,40,122136.0,57663.0,73.7,56.7,5.3,2,2,Hipotecada,Mejoras del Hogar,Licenciatura,1
+CR-00857,27,133938.0,103160.0,16.3,35.5,2.3,1,0,Rentada,Consolidación de Deuda,Licenciatura,0
+CR-00858,64,114463.0,30467.0,87.9,42.9,9.7,1,1,Rentada,Gastos Personales,Licenciatura,1
+CR-00859,60,132706.0,36297.0,18.2,28.5,8.0,5,2,Rentada,Automotriz,Licenciatura,0
+CR-00860,37,142517.0,93915.0,25.4,62.8,0.8,4,1,Rentada,Gastos Personales,Preparatoria,1
+CR-00861,37,110139.0,81524.0,67.3,28.1,12.0,4,1,Propia,Gastos Personales,Licenciatura,0
+CR-00862,35,267201.0,135895.0,32.3,8.3,9.6,7,2,Rentada,Mejoras del Hogar,Posgrado,0
+CR-00863,28,375629.0,124826.0,43.0,50.1,9.3,1,1,Hipotecada,Consolidación de Deuda,Licenciatura,0
+CR-00864,40,188506.0,88366.0,28.4,32.3,3.2,6,2,Propia,Consolidación de Deuda,Posgrado,1
+CR-00865,44,60000.0,62867.0,26.1,22.0,3.2,6,0,Rentada,Consolidación de Deuda,Preparatoria,0
+CR-00866,54,186093.0,52012.0,29.3,30.0,5.4,7,1,Propia,Gastos Personales,Licenciatura,0
+CR-00867,29,226904.0,92240.0,52.1,56.9,4.3,4,2,Propia,Gastos Personales,Preparatoria,1
+CR-00868,41,154750.0,20069.0,49.4,47.7,11.1,3,1,Rentada,Consolidación de Deuda,Preparatoria,0
+CR-00869,21,164941.0,43624.0,32.0,49.5,13.8,4,0,Rentada,Automotriz,Licenciatura,1
+CR-00870,46,235521.0,95274.0,55.3,36.6,8.4,6,1,Rentada,Mejoras del Hogar,Preparatoria,0
+CR-00871,41,91734.0,90228.0,47.2,43.3,2.8,4,0,Rentada,Mejoras del Hogar,Licenciatura,0
+CR-00872,55,189556.0,110704.0,27.7,61.7,14.3,6,1,Rentada,Gastos Personales,Licenciatura,0
+CR-00873,49,144482.0,149467.0,47.5,2.8,16.6,4,2,Rentada,Automotriz,Posgrado,0
+CR-00874,22,224252.0,28525.0,29.4,15.0,1.6,7,1,Propia,Mejoras del Hogar,Licenciatura,0
+CR-00875,27,156739.0,71929.0,9.0,13.8,6.1,4,0,Rentada,Consolidación de Deuda,Preparatoria,0
+CR-00876,27,95537.0,118533.0,35.9,3.1,11.1,6,0,Propia,Gastos Personales,Preparatoria,0
+CR-00877,61,128857.0,57111.0,37.6,58.4,7.9,1,0,Propia,Mejoras del Hogar,Licenciatura,0
+CR-00878,56,76442.0,77357.0,49.1,32.4,3.8,3,1,Propia,Gastos Personales,Preparatoria,1
+CR-00879,28,146316.0,72438.0,27.0,47.5,3.0,3,2,Propia,Consolidación de Deuda,Licenciatura,1
+CR-00880,65,109288.0,48982.0,6.2,22.1,20.2,7,3,Rentada,Automotriz,Licenciatura,0
+CR-00881,46,81365.0,73652.0,49.2,15.0,6.6,4,1,Propia,Automotriz,Licenciatura,0
+CR-00882,63,60000.0,69464.0,27.9,79.0,5.9,3,0,Hipotecada,Consolidación de Deuda,Licenciatura,1
+CR-00883,31,86229.0,92634.0,49.1,49.3,7.5,5,2,Rentada,Gastos Personales,Preparatoria,1
+CR-00884,55,108809.0,46700.0,73.5,12.5,7.0,10,1,Hipotecada,Gastos Personales,Licenciatura,1
+CR-00885,52,190353.0,70085.0,4.4,12.2,7.8,4,2,Rentada,Consolidación de Deuda,Preparatoria,0
+CR-00886,69,183147.0,79962.0,41.3,38.6,3.7,3,3,Propia,Gastos Personales,Licenciatura,1
+CR-00887,42,131096.0,15000.0,15.0,9.2,9.9,7,0,Hipotecada,Gastos Personales,Preparatoria,0
+CR-00888,62,117644.0,52456.0,73.7,4.7,9.4,3,1,Propia,Mejoras del Hogar,Licenciatura,0
+CR-00889,24,209907.0,179610.0,16.9,8.0,12.0,5,2,Propia,Mejoras del Hogar,Preparatoria,0
+CR-00890,54,157440.0,119776.0,20.8,21.8,3.2,6,0,Propia,Mejoras del Hogar,Licenciatura,0
+CR-00891,48,60000.0,110879.0,14.4,28.8,6.8,4,0,Propia,Automotriz,Licenciatura,0
+CR-00892,52,177261.0,116244.0,17.7,13.4,2.7,3,0,Rentada,Automotriz,Posgrado,0
+CR-00893,59,262690.0,43723.0,44.1,17.9,12.7,3,4,Propia,Mejoras del Hogar,Licenciatura,0
+CR-00894,62,276525.0,79524.0,29.6,56.5,9.0,3,1,Hipotecada,Consolidación de Deuda,Preparatoria,0
+CR-00895,24,123667.0,158968.0,27.8,58.2,4.8,1,0,Propia,Consolidación de Deuda,Licenciatura,0
+CR-00896,64,64780.0,111291.0,40.3,32.6,4.1,1,4,Rentada,Automotriz,Licenciatura,0
+CR-00897,43,137902.0,164645.0,60.6,23.9,4.6,3,2,Rentada,Gastos Personales,Licenciatura,1
+CR-00898,34,112995.0,34431.0,33.5,25.1,2.6,4,2,Rentada,Gastos Personales,Posgrado,0
+CR-00899,23,246278.0,129213.0,70.0,41.3,9.9,5,2,Hipotecada,Consolidación de Deuda,Licenciatura,0
+CR-00900,62,75182.0,89404.0,44.4,28.5,10.3,6,2,Hipotecada,Automotriz,Posgrado,0
+CR-00901,56,94115.0,68142.0,5.0,40.7,4.5,3,1,Rentada,Gastos Personales,Licenciatura,0
+CR-00902,49,144341.0,42395.0,23.7,51.7,5.1,8,1,Rentada,Gastos Personales,Preparatoria,0
+CR-00903,23,159340.0,79609.0,68.9,42.8,6.0,8,1,Hipotecada,Consolidación de Deuda,Preparatoria,1
+CR-00904,21,96070.0,100081.0,20.9,47.3,5.8,7,1,Propia,Mejoras del Hogar,Licenciatura,0
+CR-00905,35,374200.0,83266.0,26.9,25.0,26.3,10,1,Propia,Mejoras del Hogar,Posgrado,0
+CR-00906,30,164842.0,67885.0,56.9,8.4,14.6,2,1,Rentada,Mejoras del Hogar,Licenciatura,0
+CR-00907,58,128036.0,112986.0,29.6,37.2,5.5,3,0,Rentada,Consolidación de Deuda,Preparatoria,0
+CR-00908,59,167196.0,60694.0,32.6,23.9,1.3,6,1,Hipotecada,Gastos Personales,Preparatoria,0
+CR-00909,31,298313.0,66262.0,21.2,31.3,5.6,6,4,Propia,Mejoras del Hogar,Posgrado,0
+CR-00910,37,189891.0,198512.0,57.9,47.8,2.2,4,1,Propia,Mejoras del Hogar,Posgrado,1
+CR-00911,23,173201.0,26815.0,20.2,35.2,5.5,2,1,Hipotecada,Gastos Personales,Posgrado,0
+CR-00912,62,92705.0,60326.0,31.7,31.8,16.2,6,3,Propia,Automotriz,Licenciatura,0
+CR-00913,22,80646.0,100612.0,43.7,27.7,3.7,5,0,Propia,Gastos Personales,Licenciatura,0
+CR-00914,50,261942.0,22583.0,71.8,23.4,10.3,2,0,Propia,Automotriz,Preparatoria,0
+CR-00915,51,141998.0,29972.0,54.8,16.1,9.1,4,2,Propia,Automotriz,Licenciatura,1
+CR-00916,69,164241.0,162114.0,30.7,12.7,17.3,5,2,Hipotecada,Mejoras del Hogar,Licenciatura,0
+CR-00917,42,96782.0,15000.0,20.6,20.3,6.2,3,0,Rentada,Gastos Personales,Licenciatura,0
+CR-00918,58,206806.0,52146.0,11.9,26.5,15.7,8,2,Rentada,Consolidación de Deuda,Licenciatura,0
+CR-00919,34,220753.0,189666.0,10.7,5.1,11.3,3,0,Rentada,Mejoras del Hogar,Licenciatura,0
+CR-00920,25,189144.0,46287.0,13.5,7.1,11.4,3,0,Propia,Automotriz,Licenciatura,0
+CR-00921,61,111882.0,69786.0,46.6,30.9,2.1,4,0,Propia,Gastos Personales,Preparatoria,0
+CR-00922,62,121081.0,160649.0,78.5,45.0,7.2,7,0,Propia,Consolidación de Deuda,Licenciatura,1
+CR-00923,66,116167.0,39780.0,34.2,20.4,1.4,4,0,Hipotecada,Consolidación de Deuda,Licenciatura,1
+CR-00924,53,60000.0,46407.0,48.7,26.8,6.3,3,0,Hipotecada,Mejoras del Hogar,Licenciatura,1
+CR-00925,26,245136.0,52141.0,49.4,51.6,18.1,2,0,Propia,Consolidación de Deuda,Licenciatura,0
+CR-00926,31,87482.0,40945.0,62.5,32.4,2.5,5,3,Hipotecada,Mejoras del Hogar,Licenciatura,1
+CR-00927,48,263343.0,26294.0,22.4,35.2,7.4,6,1,Propia,Mejoras del Hogar,Preparatoria,0
+CR-00928,46,208876.0,64379.0,67.2,27.9,4.9,5,0,Propia,Mejoras del Hogar,Licenciatura,0
+CR-00929,25,67863.0,62967.0,66.5,29.3,15.0,4,2,Propia,Consolidación de Deuda,Preparatoria,0
+CR-00930,28,60000.0,110053.0,46.2,13.4,3.9,3,1,Propia,Gastos Personales,Licenciatura,0
+CR-00931,51,121859.0,20232.0,81.3,13.8,16.9,6,3,Rentada,Consolidación de Deuda,Licenciatura,0
+CR-00932,39,169015.0,21846.0,30.3,28.1,9.0,7,0,Rentada,Consolidación de Deuda,Preparatoria,0
+CR-00933,65,192891.0,158240.0,43.6,18.6,0.6,3,1,Rentada,Consolidación de Deuda,Licenciatura,0
+CR-00934,57,200849.0,67832.0,52.4,43.5,9.5,6,0,Rentada,Automotriz,Preparatoria,1
+CR-00935,43,379721.0,68656.0,4.3,27.8,5.1,4,0,Hipotecada,Mejoras del Hogar,Preparatoria,0
+CR-00936,43,98407.0,77184.0,42.0,37.0,1.7,4,0,Hipotecada,Automotriz,Posgrado,0
+CR-00937,26,172069.0,107613.0,24.7,31.0,9.5,4,0,Propia,Mejoras del Hogar,Preparatoria,0
+CR-00938,53,135185.0,22880.0,46.7,26.5,8.2,3,5,Rentada,Gastos Personales,Preparatoria,1
+CR-00939,60,211648.0,68572.0,38.5,50.6,7.4,7,0,Rentada,Automotriz,Licenciatura,0
+CR-00940,65,192591.0,125350.0,39.2,17.6,5.4,7,1,Propia,Consolidación de Deuda,Licenciatura,0
+CR-00941,32,155909.0,48969.0,75.7,4.0,32.3,2,3,Propia,Automotriz,Preparatoria,0
+CR-00942,55,156804.0,72757.0,15.6,17.2,13.6,1,1,Propia,Automotriz,Posgrado,0
+CR-00943,39,186588.0,39577.0,20.1,54.5,2.4,7,1,Rentada,Automotriz,Licenciatura,1
+CR-00944,25,85588.0,98764.0,3.2,39.8,5.0,5,1,Rentada,Mejoras del Hogar,Preparatoria,0
+CR-00945,28,171201.0,40568.0,33.3,34.2,11.3,4,0,Rentada,Consolidación de Deuda,Preparatoria,0
+CR-00946,41,61843.0,111997.0,13.1,43.1,17.8,7,0,Hipotecada,Automotriz,Preparatoria,0
+CR-00947,21,61596.0,53237.0,19.6,18.4,9.9,4,1,Rentada,Mejoras del Hogar,Preparatoria,0
+CR-00948,36,115410.0,76057.0,20.7,45.5,4.5,6,0,Hipotecada,Automotriz,Licenciatura,0
+CR-00949,45,60000.0,150904.0,27.5,32.3,8.6,4,2,Propia,Automotriz,Licenciatura,0
+CR-00950,44,115270.0,30344.0,35.3,43.9,9.3,4,0,Rentada,Gastos Personales,Posgrado,1
+CR-00951,63,167081.0,69332.0,11.4,20.3,5.5,4,1,Rentada,Automotriz,Licenciatura,0
+CR-00952,64,73595.0,98198.0,21.7,57.1,11.0,4,0,Hipotecada,Mejoras del Hogar,Licenciatura,0
+CR-00953,40,124166.0,32964.0,29.8,44.4,8.1,1,2,Hipotecada,Automotriz,Preparatoria,0
+CR-00954,37,97390.0,51177.0,27.8,40.2,17.6,6,1,Propia,Consolidación de Deuda,Licenciatura,0
+CR-00955,68,180723.0,42088.0,64.6,37.1,6.1,3,5,Propia,Consolidación de Deuda,Preparatoria,0
+CR-00956,57,144453.0,46697.0,20.2,28.5,3.7,4,1,Rentada,Automotriz,Preparatoria,0
+CR-00957,29,279623.0,68726.0,77.2,54.4,1.5,1,2,Propia,Consolidación de Deuda,Preparatoria,1
+CR-00958,43,98333.0,91031.0,28.9,43.6,15.0,2,0,Rentada,Mejoras del Hogar,Preparatoria,0
+CR-00959,49,138686.0,71027.0,31.2,20.3,4.6,3,3,Rentada,Consolidación de Deuda,Preparatoria,1
+CR-00960,62,161668.0,30399.0,18.9,22.0,7.0,3,0,Hipotecada,Automotriz,Preparatoria,0
+CR-00961,46,268336.0,78216.0,35.6,24.4,14.5,1,2,Hipotecada,Automotriz,Preparatoria,1
+CR-00962,32,180075.0,41509.0,30.3,41.5,12.7,4,3,Propia,Gastos Personales,Preparatoria,0
+CR-00963,67,190918.0,21691.0,48.2,22.8,3.5,3,1,Hipotecada,Gastos Personales,Posgrado,0
+CR-00964,46,64267.0,33763.0,19.2,24.6,25.1,4,0,Rentada,Automotriz,Preparatoria,0
+CR-00965,48,230876.0,62691.0,47.5,16.2,6.4,4,3,Hipotecada,Consolidación de Deuda,Licenciatura,0
+CR-00966,51,287495.0,56639.0,39.3,27.1,7.4,4,0,Rentada,Gastos Personales,Preparatoria,0
+CR-00967,67,149761.0,98343.0,21.7,36.7,8.8,4,2,Rentada,Automotriz,Licenciatura,0
+CR-00968,39,119882.0,81496.0,6.7,41.3,8.3,3,0,Rentada,Automotriz,Licenciatura,0
+CR-00969,63,208831.0,51321.0,38.7,39.8,6.0,3,4,Rentada,Consolidación de Deuda,Licenciatura,1
+CR-00970,48,323186.0,130967.0,17.2,7.3,1.7,3,1,Hipotecada,Mejoras del Hogar,Preparatoria,0
+CR-00971,64,81769.0,83006.0,17.4,13.6,19.3,2,3,Rentada,Gastos Personales,Licenciatura,0
+CR-00972,35,165253.0,32462.0,82.5,39.2,9.3,8,1,Propia,Gastos Personales,Posgrado,0
+CR-00973,63,230786.0,162620.0,51.3,61.2,10.2,2,2,Hipotecada,Consolidación de Deuda,Posgrado,1
+CR-00974,69,256570.0,53669.0,8.1,27.1,9.2,3,3,Hipotecada,Gastos Personales,Posgrado,0
+CR-00975,45,138611.0,36569.0,95.7,63.1,10.0,3,1,Hipotecada,Gastos Personales,Licenciatura,1
+CR-00976,54,60000.0,139548.0,70.0,24.4,4.5,3,3,Propia,Consolidación de Deuda,Posgrado,0
+CR-00977,61,299266.0,40725.0,22.8,82.6,4.2,4,2,Propia,Automotriz,Posgrado,0
+CR-00978,51,74578.0,27329.0,43.9,52.2,4.8,4,2,Hipotecada,Consolidación de Deuda,Preparatoria,1
+CR-00979,66,475041.0,117030.0,25.3,19.5,8.5,3,2,Propia,Gastos Personales,Licenciatura,0
+CR-00980,66,206591.0,15000.0,25.7,60.8,5.1,5,1,Propia,Gastos Personales,Preparatoria,0
+CR-00981,29,98127.0,60765.0,50.2,38.2,7.0,1,3,Propia,Mejoras del Hogar,Licenciatura,0
+CR-00982,42,129034.0,26952.0,29.5,18.8,5.0,6,1,Hipotecada,Consolidación de Deuda,Preparatoria,0
+CR-00983,60,136557.0,57095.0,42.0,29.4,18.7,2,2,Hipotecada,Mejoras del Hogar,Posgrado,0
+CR-00984,69,75039.0,47861.0,15.7,35.8,20.9,1,0,Rentada,Gastos Personales,Preparatoria,0
+CR-00985,65,157618.0,81503.0,47.3,12.7,14.5,3,1,Rentada,Consolidación de Deuda,Licenciatura,0
+CR-00986,25,261363.0,51698.0,23.1,22.2,5.9,3,0,Propia,Gastos Personales,Posgrado,0
+CR-00987,61,100569.0,106043.0,9.7,37.4,6.3,4,0,Hipotecada,Automotriz,Preparatoria,0
+CR-00988,69,108997.0,70997.0,19.0,35.7,7.6,2,2,Propia,Mejoras del Hogar,Posgrado,0
+CR-00989,26,120358.0,146549.0,43.9,9.7,6.8,1,0,Propia,Consolidación de Deuda,Posgrado,1
+CR-00990,56,60000.0,53146.0,52.2,11.1,13.5,2,1,Rentada,Automotriz,Licenciatura,0
+CR-00991,43,157945.0,56419.0,24.3,35.5,7.1,4,1,Rentada,Mejoras del Hogar,Licenciatura,0
+CR-00992,49,208702.0,131645.0,21.7,44.7,13.8,5,0,Propia,Consolidación de Deuda,Posgrado,0
+CR-00993,68,306404.0,15000.0,34.6,14.7,4.7,6,0,Rentada,Consolidación de Deuda,Posgrado,0
+CR-00994,38,174011.0,15000.0,58.2,30.0,10.2,5,0,Rentada,Mejoras del Hogar,Preparatoria,0
+CR-00995,34,116482.0,51112.0,39.2,57.1,18.5,3,4,Hipotecada,Consolidación de Deuda,Licenciatura,1
+CR-00996,30,200230.0,15000.0,37.1,19.5,4.5,4,1,Hipotecada,Gastos Personales,Preparatoria,0
+CR-00997,30,164051.0,79829.0,53.1,50.8,10.4,6,1,Hipotecada,Gastos Personales,Posgrado,0
+CR-00998,69,146847.0,48739.0,63.4,23.5,8.5,2,1,Hipotecada,Automotriz,Posgrado,0
+CR-00999,33,442424.0,59859.0,24.9,40.8,2.4,4,1,Propia,Automotriz,Posgrado,0
+CR-01000,32,115013.0,81757.0,22.7,14.7,8.8,3,5,Propia,Consolidación de Deuda,Posgrado,0
+CR-01001,45,172981.0,23740.0,28.0,23.6,6.8,3,1,Hipotecada,Consolidación de Deuda,Licenciatura,0
+CR-01002,64,78639.0,65833.0,19.6,29.3,4.5,3,2,Propia,Consolidación de Deuda,Preparatoria,0
+CR-01003,61,212976.0,67272.0,32.7,13.6,7.3,4,6,Propia,Automotriz,Licenciatura,1
+CR-01004,23,300317.0,26380.0,39.5,27.9,6.2,2,0,Propia,Mejoras del Hogar,Posgrado,1
+CR-01005,26,114769.0,63410.0,6.5,16.2,7.2,2,1,Hipotecada,Consolidación de Deuda,Licenciatura,0
+CR-01006,60,327516.0,170884.0,31.5,22.0,4.7,3,3,Hipotecada,Gastos Personales,Licenciatura,0
+CR-01007,57,286430.0,80080.0,61.3,46.7,15.3,1,5,Hipotecada,Gastos Personales,Posgrado,1
+CR-01008,63,144722.0,50082.0,35.3,24.9,10.6,6,1,Hipotecada,Automotriz,Licenciatura,0
+CR-01009,29,161111.0,45173.0,35.8,10.5,1.1,3,2,Hipotecada,Gastos Personales,Licenciatura,1
+CR-01010,33,146525.0,145733.0,23.0,18.4,3.2,4,0,Rentada,Automotriz,Posgrado,1
+CR-01011,69,157633.0,63698.0,10.3,3.9,1.9,7,0,Rentada,Gastos Personales,Posgrado,0
+CR-01012,68,203760.0,87368.0,49.4,26.8,17.1,3,2,Propia,Consolidación de Deuda,Licenciatura,0
+CR-01013,53,63360.0,71994.0,8.2,8.0,11.0,5,1,Propia,Consolidación de Deuda,Licenciatura,0
+CR-01014,39,78828.0,52995.0,18.1,18.3,2.5,5,1,Rentada,Gastos Personales,Licenciatura,0
+CR-01015,58,102217.0,69417.0,57.3,14.2,2.6,6,3,Rentada,Automotriz,Preparatoria,1
+CR-01016,28,283770.0,91932.0,11.7,9.7,1.7,7,4,Propia,Gastos Personales,Posgrado,0
+CR-01017,52,128515.0,83649.0,37.3,40.0,4.5,5,2,Propia,Consolidación de Deuda,Licenciatura,0
+CR-01018,41,60000.0,75266.0,41.7,28.1,14.4,4,4,Propia,Consolidación de Deuda,Posgrado,0
+CR-01019,62,138439.0,30841.0,22.5,12.7,3.3,4,1,Propia,Automotriz,Licenciatura,0
+CR-01020,68,227766.0,68582.0,60.9,21.3,11.1,4,0,Propia,Consolidación de Deuda,Licenciatura,0
+CR-01021,42,265247.0,85997.0,62.9,54.6,6.2,8,0,Propia,Consolidación de Deuda,Preparatoria,1
+CR-01022,26,63621.0,81501.0,50.5,49.0,2.5,3,1,Propia,Automotriz,Licenciatura,0
+CR-01023,69,193701.0,149931.0,39.3,14.1,4.2,6,1,Propia,Consolidación de Deuda,Licenciatura,1
+CR-01024,54,60000.0,66586.0,15.9,67.2,1.1,4,0,Rentada,Automotriz,Licenciatura,0
+CR-01025,33,309094.0,37187.0,4.8,32.0,5.9,3,2,Propia,Consolidación de Deuda,Preparatoria,0
+CR-01026,27,127677.0,72205.0,16.6,27.0,4.0,5,0,Rentada,Consolidación de Deuda,Posgrado,0
+CR-01027,39,104451.0,27574.0,31.5,34.9,7.0,5,0,Propia,Mejoras del Hogar,Posgrado,0
+CR-01028,54,212374.0,47690.0,27.2,14.0,2.5,4,2,Propia,Consolidación de Deuda,Licenciatura,0
+CR-01029,36,235624.0,35639.0,24.6,75.9,10.3,3,2,Propia,Mejoras del Hogar,Licenciatura,0
+CR-01030,28,141816.0,84330.0,63.0,5.4,7.9,1,1,Propia,Automotriz,Licenciatura,0
+CR-01031,39,109619.0,68947.0,58.9,27.2,3.3,6,1,Rentada,Consolidación de Deuda,Posgrado,0
+CR-01032,67,320152.0,192789.0,26.1,28.5,11.9,6,1,Rentada,Automotriz,Posgrado,0
+CR-01033,36,199205.0,174282.0,21.5,6.2,7.2,4,1,Hipotecada,Automotriz,Preparatoria,0
+CR-01034,65,152099.0,57186.0,57.4,55.3,0.5,6,2,Rentada,Consolidación de Deuda,Licenciatura,1
+CR-01035,41,165347.0,29680.0,20.8,15.8,4.8,7,1,Propia,Automotriz,Posgrado,0
+CR-01036,69,65657.0,93151.0,69.5,56.7,5.6,4,0,Rentada,Mejoras del Hogar,Licenciatura,1
+CR-01037,67,138862.0,198732.0,55.9,26.9,17.7,2,1,Hipotecada,Consolidación de Deuda,Preparatoria,0
+CR-01038,64,267273.0,34245.0,28.1,3.8,9.6,6,2,Propia,Gastos Personales,Licenciatura,0
+CR-01039,23,157417.0,85662.0,21.7,12.5,14.0,5,0,Hipotecada,Mejoras del Hogar,Licenciatura,0
+CR-01040,39,256424.0,107910.0,48.0,67.2,10.7,1,2,Rentada,Automotriz,Licenciatura,1
+CR-01041,60,185813.0,122520.0,21.5,40.7,16.2,6,1,Hipotecada,Consolidación de Deuda,Preparatoria,0
+CR-01042,43,157843.0,82907.0,24.4,24.3,6.4,3,5,Hipotecada,Consolidación de Deuda,Posgrado,1
+CR-01043,50,60973.0,114555.0,41.4,18.6,3.1,6,1,Propia,Automotriz,Licenciatura,1
+CR-01044,36,202992.0,43865.0,40.5,4.4,14.9,2,0,Rentada,Gastos Personales,Licenciatura,0
+CR-01045,52,110902.0,54443.0,9.9,33.4,24.6,3,0,Propia,Consolidación de Deuda,Licenciatura,0
+CR-01046,45,236662.0,122423.0,26.5,0.6,19.9,7,3,Rentada,Gastos Personales,Preparatoria,1
+CR-01047,62,140884.0,103832.0,58.4,28.6,6.2,5,2,Hipotecada,Consolidación de Deuda,Preparatoria,1
+CR-01048,32,345801.0,143913.0,28.3,23.2,19.4,4,2,Hipotecada,Gastos Personales,Preparatoria,0
+CR-01049,30,124299.0,90488.0,56.3,23.2,1.1,3,0,Propia,Gastos Personales,Posgrado,1
+CR-01050,68,252221.0,21514.0,50.6,36.2,2.9,5,0,Hipotecada,Mejoras del Hogar,Preparatoria,0
+CR-01051,45,246592.0,96056.0,12.5,22.2,24.7,6,1,Hipotecada,Gastos Personales,Preparatoria,0
+CR-01052,41,287974.0,36721.0,20.5,34.1,16.8,5,0,Propia,Consolidación de Deuda,Preparatoria,0
+CR-01053,27,95903.0,128701.0,51.2,7.0,18.5,2,1,Rentada,Automotriz,Preparatoria,0
+CR-01054,37,180935.0,96791.0,47.5,40.8,8.3,2,0,Hipotecada,Automotriz,Licenciatura,1
+CR-01055,60,300459.0,15585.0,12.0,24.0,7.7,4,0,Hipotecada,Mejoras del Hogar,Licenciatura,0
+CR-01056,66,219603.0,29559.0,53.6,18.7,6.8,4,0,Hipotecada,Gastos Personales,Preparatoria,0
+CR-01057,24,121778.0,87440.0,19.3,12.3,14.2,5,1,Rentada,Consolidación de Deuda,Licenciatura,0
+CR-01058,38,151393.0,121136.0,76.8,39.7,10.3,2,2,Hipotecada,Consolidación de Deuda,Licenciatura,1
+CR-01059,26,129511.0,93484.0,57.6,18.6,8.0,1,1,Rentada,Mejoras del Hogar,Preparatoria,1
+CR-01060,41,562810.0,45992.0,46.7,8.7,4.2,5,1,Propia,Gastos Personales,Preparatoria,0
+CR-01061,23,117287.0,15000.0,44.3,30.1,2.9,1,1,Rentada,Mejoras del Hogar,Preparatoria,0
+CR-01062,51,214063.0,15423.0,4.7,40.5,2.8,2,2,Propia,Gastos Personales,Preparatoria,0
+CR-01063,43,71582.0,31520.0,46.4,34.5,10.3,3,2,Hipotecada,Consolidación de Deuda,Posgrado,1
+CR-01064,56,198619.0,86647.0,64.4,16.7,5.0,3,1,Rentada,Gastos Personales,Posgrado,0
+CR-01065,26,243129.0,64017.0,45.1,27.8,19.1,1,1,Hipotecada,Gastos Personales,Posgrado,0
+CR-01066,41,260707.0,28252.0,36.6,37.0,17.5,3,1,Hipotecada,Gastos Personales,Preparatoria,0
+CR-01067,58,205928.0,38786.0,40.1,38.5,3.6,3,1,Propia,Mejoras del Hogar,Preparatoria,0
+CR-01068,31,70369.0,65180.0,46.9,54.4,5.7,2,3,Hipotecada,Automotriz,Licenciatura,1
+CR-01069,34,101307.0,121499.0,49.1,10.5,11.1,1,2,Hipotecada,Consolidación de Deuda,Posgrado,0
+CR-01070,51,144837.0,68316.0,35.9,12.3,11.4,3,1,Rentada,Gastos Personales,Preparatoria,0
+CR-01071,59,305742.0,139475.0,46.9,12.8,11.8,6,1,Rentada,Automotriz,Posgrado,0
+CR-01072,29,178258.0,37866.0,66.2,18.4,4.6,8,1,Propia,Mejoras del Hogar,Posgrado,0
+CR-01073,40,140035.0,38049.0,62.7,24.4,6.3,5,0,Rentada,Consolidación de Deuda,Preparatoria,0
+CR-01074,51,184907.0,46393.0,24.9,21.1,6.0,1,2,Rentada,Mejoras del Hogar,Licenciatura,0
+CR-01075,66,167250.0,24247.0,64.6,26.9,4.5,2,1,Rentada,Automotriz,Posgrado,1
+CR-01076,52,190823.0,15000.0,45.5,39.1,6.8,1,1,Hipotecada,Mejoras del Hogar,Posgrado,0
+CR-01077,46,96830.0,157932.0,28.5,21.7,8.0,7,1,Rentada,Gastos Personales,Preparatoria,1
+CR-01078,52,60000.0,47060.0,12.2,34.9,2.9,2,0,Rentada,Consolidación de Deuda,Licenciatura,0
+CR-01079,26,60000.0,111220.0,24.1,43.7,10.0,4,3,Hipotecada,Gastos Personales,Licenciatura,0
+CR-01080,38,236661.0,114944.0,16.2,43.7,10.4,3,1,Propia,Gastos Personales,Preparatoria,0
+CR-01081,48,176610.0,81138.0,67.2,26.1,2.6,1,1,Rentada,Gastos Personales,Preparatoria,1
+CR-01082,40,141664.0,38963.0,31.0,25.2,3.4,4,3,Propia,Consolidación de Deuda,Licenciatura,0
+CR-01083,25,77075.0,30610.0,15.8,26.4,2.3,3,2,Propia,Gastos Personales,Licenciatura,0
+CR-01084,33,197428.0,19975.0,16.7,27.3,14.9,4,0,Rentada,Mejoras del Hogar,Posgrado,0
+CR-01085,22,89897.0,40824.0,42.9,6.0,8.8,6,0,Rentada,Automotriz,Licenciatura,0
+CR-01086,59,130722.0,47216.0,27.8,32.8,5.3,5,0,Hipotecada,Automotriz,Licenciatura,0
+CR-01087,49,113363.0,176317.0,54.7,9.3,3.1,5,3,Propia,Automotriz,Posgrado,0
+CR-01088,56,129981.0,49781.0,38.5,15.0,6.1,5,0,Rentada,Automotriz,Licenciatura,1
+CR-01089,47,120445.0,88188.0,32.0,42.8,5.2,6,1,Propia,Automotriz,Posgrado,1
+CR-01090,54,85099.0,116192.0,38.3,53.4,3.7,4,1,Hipotecada,Automotriz,Preparatoria,0
+CR-01091,49,92885.0,80874.0,37.3,28.7,8.9,3,1,Propia,Automotriz,Preparatoria,0
+CR-01092,68,60000.0,41458.0,45.3,34.3,8.4,5,1,Propia,Consolidación de Deuda,Posgrado,0
+CR-01093,37,136097.0,28462.0,21.3,26.7,2.2,4,3,Propia,Mejoras del Hogar,Licenciatura,0
+CR-01094,64,60000.0,78599.0,12.6,22.7,7.6,4,2,Propia,Consolidación de Deuda,Licenciatura,0
+CR-01095,25,62213.0,79528.0,21.3,56.5,6.9,2,0,Propia,Gastos Personales,Preparatoria,0
+CR-01096,42,301220.0,62199.0,35.0,55.3,9.5,4,1,Rentada,Automotriz,Licenciatura,0
+CR-01097,68,159255.0,17134.0,24.9,35.9,9.1,6,2,Propia,Gastos Personales,Posgrado,0
+CR-01098,58,369602.0,110801.0,50.0,28.8,7.9,4,1,Propia,Mejoras del Hogar,Licenciatura,0
+CR-01099,46,370914.0,34299.0,27.8,54.8,6.3,3,1,Propia,Consolidación de Deuda,Posgrado,0
+CR-01100,52,195452.0,62653.0,35.0,10.1,13.3,6,2,Propia,Consolidación de Deuda,Preparatoria,0
+CR-01101,57,98018.0,53490.0,42.3,15.4,12.0,2,0,Propia,Mejoras del Hogar,Preparatoria,0
+CR-01102,47,168721.0,15000.0,29.5,37.7,3.5,1,0,Rentada,Consolidación de Deuda,Licenciatura,0
+CR-01103,60,189484.0,118778.0,39.9,24.1,2.1,2,0,Propia,Automotriz,Preparatoria,0
+CR-01104,27,378230.0,131941.0,6.1,41.5,8.3,5,1,Rentada,Automotriz,Preparatoria,0
+CR-01105,55,209154.0,31544.0,5.4,20.6,2.8,6,0,Rentada,Gastos Personales,Posgrado,1
+CR-01106,45,177457.0,130366.0,18.7,13.7,11.9,1,1,Hipotecada,Gastos Personales,Licenciatura,0
+CR-01107,55,113446.0,63805.0,17.9,6.3,1.7,5,4,Rentada,Consolidación de Deuda,Licenciatura,0
+CR-01108,31,153040.0,40484.0,19.0,26.7,11.6,2,2,Hipotecada,Automotriz,Licenciatura,0
+CR-01109,22,125773.0,219265.0,17.9,32.4,2.3,6,1,Rentada,Consolidación de Deuda,Preparatoria,1
+CR-01110,60,137761.0,30041.0,6.1,12.2,2.2,2,2,Propia,Automotriz,Licenciatura,0
+CR-01111,23,147577.0,25950.0,15.1,46.7,7.7,4,2,Hipotecada,Automotriz,Posgrado,0
+CR-01112,57,86823.0,55847.0,46.9,7.7,13.9,5,0,Propia,Automotriz,Preparatoria,0
+CR-01113,36,179917.0,60231.0,14.3,43.4,12.1,2,0,Rentada,Mejoras del Hogar,Posgrado,0
+CR-01114,29,79597.0,101639.0,54.2,26.6,7.5,4,1,Rentada,Automotriz,Licenciatura,1
+CR-01115,44,202351.0,77923.0,34.3,35.9,5.1,2,5,Propia,Gastos Personales,Preparatoria,0
+CR-01116,25,60000.0,181926.0,22.1,28.7,8.7,7,2,Rentada,Gastos Personales,Licenciatura,0
+CR-01117,57,60000.0,112709.0,9.5,11.4,6.4,5,1,Rentada,Automotriz,Posgrado,0
+CR-01118,26,251084.0,31547.0,13.7,22.1,8.2,3,2,Propia,Consolidación de Deuda,Preparatoria,0
+CR-01119,58,256495.0,81102.0,85.5,28.6,7.9,2,0,Rentada,Automotriz,Licenciatura,1
+CR-01120,59,386547.0,49677.0,50.4,44.6,10.7,2,4,Rentada,Automotriz,Licenciatura,1
+CR-01121,41,200225.0,106068.0,45.3,43.1,10.3,4,0,Propia,Gastos Personales,Preparatoria,1
+CR-01122,67,303175.0,20640.0,37.0,30.0,6.3,5,2,Propia,Automotriz,Preparatoria,0
+CR-01123,62,240708.0,15208.0,19.3,26.3,0.8,5,1,Rentada,Automotriz,Licenciatura,0
+CR-01124,35,190835.0,18914.0,77.0,3.4,12.7,8,1,Propia,Consolidación de Deuda,Licenciatura,1
+CR-01125,66,257937.0,69311.0,30.7,57.5,10.0,3,1,Propia,Automotriz,Preparatoria,0
+CR-01126,26,323233.0,73625.0,13.0,0.8,11.5,4,1,Hipotecada,Automotriz,Posgrado,0
+CR-01127,64,176419.0,15000.0,20.3,38.1,5.0,6,2,Propia,Mejoras del Hogar,Preparatoria,0
+CR-01128,55,204025.0,111894.0,37.9,25.7,4.7,8,1,Propia,Gastos Personales,Licenciatura,0
+CR-01129,37,265322.0,71326.0,25.4,35.0,10.7,2,1,Propia,Automotriz,Licenciatura,0
+CR-01130,46,236929.0,68901.0,48.9,8.1,18.7,5,0,Rentada,Gastos Personales,Preparatoria,0
+CR-01131,32,191849.0,167962.0,32.6,25.0,8.4,6,0,Propia,Consolidación de Deuda,Preparatoria,0
+CR-01132,50,164782.0,55352.0,43.2,32.6,7.6,4,2,Propia,Automotriz,Licenciatura,0
+CR-01133,24,306665.0,126334.0,19.6,58.4,6.4,3,1,Rentada,Gastos Personales,Preparatoria,1
+CR-01134,45,174315.0,33821.0,12.4,36.2,7.6,2,0,Propia,Gastos Personales,Licenciatura,0
+CR-01135,55,231129.0,56077.0,13.8,34.9,1.9,2,0,Propia,Mejoras del Hogar,Preparatoria,0
+CR-01136,60,196946.0,64481.0,40.2,30.8,1.1,5,0,Propia,Automotriz,Posgrado,0
+CR-01137,22,130846.0,44114.0,12.9,37.8,8.5,3,0,Hipotecada,Gastos Personales,Preparatoria,0
+CR-01138,49,77974.0,181709.0,30.4,47.2,16.3,3,0,Propia,Mejoras del Hogar,Preparatoria,0
+CR-01139,61,194932.0,86730.0,35.4,15.3,15.5,5,5,Hipotecada,Gastos Personales,Licenciatura,1
+CR-01140,60,207055.0,67350.0,7.6,23.9,4.8,5,1,Propia,Consolidación de Deuda,Licenciatura,0
+CR-01141,66,415904.0,126882.0,35.2,49.1,4.9,2,1,Hipotecada,Consolidación de Deuda,Posgrado,0
+CR-01142,53,231424.0,111583.0,37.8,12.3,7.2,2,2,Propia,Consolidación de Deuda,Licenciatura,0
+CR-01143,38,123307.0,95458.0,21.5,14.5,9.9,3,1,Hipotecada,Consolidación de Deuda,Preparatoria,0
+CR-01144,54,60000.0,84160.0,62.3,58.5,5.7,4,0,Rentada,Mejoras del Hogar,Licenciatura,1
+CR-01145,32,112157.0,116588.0,26.2,7.8,7.2,2,1,Rentada,Mejoras del Hogar,Posgrado,0
+CR-01146,57,123806.0,58874.0,7.0,7.2,5.3,6,0,Hipotecada,Consolidación de Deuda,Licenciatura,0
+CR-01147,32,113302.0,60853.0,13.9,18.4,3.7,5,1,Propia,Automotriz,Preparatoria,0
+CR-01148,49,167982.0,41167.0,23.2,42.7,5.5,6,1,Propia,Gastos Personales,Preparatoria,0
+CR-01149,42,93733.0,149071.0,5.9,16.4,8.0,7,0,Rentada,Mejoras del Hogar,Preparatoria,0
+CR-01150,38,107922.0,90495.0,66.8,8.8,5.2,4,0,Rentada,Gastos Personales,Licenciatura,0
+CR-01151,63,93267.0,62068.0,8.7,27.9,14.3,2,1,Hipotecada,Mejoras del Hogar,Licenciatura,0
+CR-01152,40,177537.0,29863.0,19.5,25.6,2.7,3,1,Rentada,Gastos Personales,Licenciatura,0
+CR-01153,52,247871.0,129746.0,11.5,41.5,12.8,2,0,Propia,Consolidación de Deuda,Preparatoria,0
+CR-01154,22,279229.0,77151.0,80.2,25.4,0.5,1,1,Propia,Automotriz,Posgrado,0
+CR-01155,55,103052.0,75920.0,31.0,18.0,18.7,5,0,Propia,Gastos Personales,Licenciatura,0
+CR-01156,22,181749.0,60475.0,77.7,18.1,12.7,4,0,Rentada,Consolidación de Deuda,Licenciatura,0
+CR-01157,48,335424.0,51626.0,53.3,53.5,21.4,5,2,Propia,Automotriz,Licenciatura,1
+CR-01158,43,227736.0,64881.0,53.6,13.5,0.9,4,1,Propia,Gastos Personales,Licenciatura,0
+CR-01159,60,120565.0,110964.0,39.4,55.1,8.7,5,1,Rentada,Consolidación de Deuda,Posgrado,1
+CR-01160,60,377249.0,60516.0,50.8,61.2,4.7,5,1,Rentada,Automotriz,Licenciatura,1
+CR-01161,46,329311.0,100813.0,61.2,48.2,6.7,5,2,Rentada,Mejoras del Hogar,Preparatoria,0
+CR-01162,55,223650.0,74423.0,28.4,37.2,5.2,3,0,Propia,Consolidación de Deuda,Licenciatura,0
+CR-01163,26,116901.0,64312.0,31.3,21.7,9.0,5,1,Rentada,Automotriz,Licenciatura,1
+CR-01164,39,186217.0,51414.0,10.6,22.5,3.4,6,2,Rentada,Mejoras del Hogar,Licenciatura,0
+CR-01165,49,91466.0,161199.0,31.2,36.4,15.0,1,3,Propia,Gastos Personales,Licenciatura,0
+CR-01166,44,238481.0,15000.0,23.2,41.4,5.7,5,3,Propia,Consolidación de Deuda,Licenciatura,1
+CR-01167,36,217071.0,48676.0,12.8,42.0,14.1,4,1,Hipotecada,Gastos Personales,Preparatoria,0
+CR-01168,62,381653.0,135583.0,62.3,20.6,14.1,2,0,Rentada,Consolidación de Deuda,Preparatoria,0
+CR-01169,28,147233.0,92834.0,28.6,54.5,5.8,2,1,Rentada,Gastos Personales,Preparatoria,0
+CR-01170,59,60000.0,34527.0,56.2,69.7,18.8,7,2,Hipotecada,Gastos Personales,Posgrado,1
+CR-01171,31,265468.0,64489.0,11.1,34.4,7.5,7,0,Rentada,Gastos Personales,Licenciatura,0
+CR-01172,50,200989.0,63897.0,15.7,40.0,3.1,5,2,Rentada,Mejoras del Hogar,Preparatoria,0
+CR-01173,47,285967.0,54762.0,52.8,38.0,6.4,2,1,Rentada,Consolidación de Deuda,Preparatoria,1
+CR-01174,62,95776.0,80731.0,11.9,17.6,6.7,2,0,Hipotecada,Automotriz,Preparatoria,0
+CR-01175,41,105223.0,27862.0,7.6,48.3,3.7,6,1,Propia,Automotriz,Licenciatura,1
+CR-01176,68,285743.0,164251.0,67.3,14.7,3.2,5,0,Propia,Automotriz,Licenciatura,0
+CR-01177,25,293352.0,20674.0,15.3,31.9,14.6,3,1,Hipotecada,Consolidación de Deuda,Preparatoria,0
+CR-01178,51,159963.0,107073.0,46.3,39.8,29.8,3,1,Rentada,Gastos Personales,Posgrado,0
+CR-01179,28,196318.0,28952.0,52.3,40.8,4.1,3,2,Rentada,Automotriz,Licenciatura,0
+CR-01180,68,137651.0,67334.0,12.9,18.7,8.1,3,1,Rentada,Automotriz,Preparatoria,0
+CR-01181,57,130509.0,17919.0,18.5,61.5,8.8,1,1,Rentada,Gastos Personales,Posgrado,0
+CR-01182,24,86346.0,31703.0,44.7,45.5,5.9,4,1,Hipotecada,Automotriz,Preparatoria,0
+CR-01183,61,204376.0,68346.0,41.0,30.0,4.3,5,1,Hipotecada,Gastos Personales,Preparatoria,1
+CR-01184,59,233771.0,56122.0,14.2,4.3,16.3,3,3,Rentada,Gastos Personales,Preparatoria,0
+CR-01185,32,257215.0,15151.0,28.9,9.6,4.7,4,2,Hipotecada,Consolidación de Deuda,Preparatoria,0
+CR-01186,25,118555.0,72328.0,34.0,43.9,9.8,4,2,Propia,Mejoras del Hogar,Preparatoria,0
+CR-01187,25,64677.0,114476.0,62.0,52.7,7.7,4,1,Propia,Consolidación de Deuda,Licenciatura,1
+CR-01188,31,425149.0,120330.0,48.4,39.5,5.5,8,0,Rentada,Mejoras del Hogar,Posgrado,0
+CR-01189,26,161061.0,50468.0,52.0,31.2,4.9,5,3,Propia,Automotriz,Preparatoria,1
+CR-01190,37,110411.0,32806.0,28.2,28.0,6.1,4,1,Rentada,Gastos Personales,Preparatoria,1
+CR-01191,50,279700.0,38299.0,67.8,15.0,7.8,6,2,Hipotecada,Consolidación de Deuda,Posgrado,1
+CR-01192,26,297452.0,49630.0,24.7,67.5,1.9,6,0,Hipotecada,Gastos Personales,Licenciatura,1
+CR-01193,48,130702.0,93725.0,41.3,58.6,10.3,1,1,Hipotecada,Automotriz,Licenciatura,0
+CR-01194,56,107293.0,98589.0,27.9,38.0,18.7,6,0,Propia,Consolidación de Deuda,Licenciatura,0
+CR-01195,29,157654.0,223300.0,18.6,56.8,5.4,3,6,Propia,Gastos Personales,Licenciatura,1
+CR-01196,38,146876.0,89043.0,12.3,34.7,5.4,5,3,Rentada,Automotriz,Licenciatura,0
+CR-01197,64,191629.0,95959.0,2.3,41.4,8.7,4,1,Propia,Mejoras del Hogar,Preparatoria,0
+CR-01198,29,278327.0,74980.0,8.2,43.1,5.1,2,0,Propia,Automotriz,Licenciatura,0
+CR-01199,21,152851.0,84713.0,4.5,7.1,14.0,3,0,Rentada,Gastos Personales,Licenciatura,0
+CR-01200,31,65307.0,37002.0,8.9,37.8,8.2,3,1,Propia,Automotriz,Licenciatura,1

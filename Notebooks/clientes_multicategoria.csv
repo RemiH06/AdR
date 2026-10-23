@@ -1,0 +1,1001 @@
+id_cliente,ingreso_mensual,edad_cliente,score_buro,estado_civil,tipo_producto,historial_pagos
+CL-0001,8.0,53,756,Casado,Mortgage,Bueno
+CL-0002,20.5,52,619,Divorciado,Personal loan,Malo
+CL-0003,8.0,39,721,Casado,Personal loan,Regular
+CL-0004,18.0,21,714,Divorciado,Personal loan,Regular
+CL-0005,38.9,58,638,Soltero,Card,Regular
+CL-0006,24.8,47,665,Casado,Personal loan,Bueno
+CL-0007,35.7,42,659,Casado,Card,Bueno
+CL-0008,9.9,40,741,Divorciado,Personal loan,Bueno
+CL-0009,18.9,25,687,Casado,Personal loan,Bueno
+CL-0010,19.0,34,676,Casado,Card,Bueno
+CL-0011,9.7,46,727,Soltero,Personal loan,Regular
+CL-0012,11.6,49,710,Casado,Card,Malo
+CL-0013,62.6,29,730,Casado,Mortgage,Bueno
+CL-0014,40.5,46,646,Divorciado,Mortgage,Bueno
+CL-0015,37.8,42,694,Casado,Mortgage,Bueno
+CL-0016,25.3,62,629,Soltero,Card,Regular
+CL-0017,30.6,48,824,Divorciado,Mortgage,Bueno
+CL-0018,40.3,54,748,Divorciado,Card,Bueno
+CL-0019,36.1,41,775,Casado,Mortgage,Bueno
+CL-0020,14.3,47,586,Soltero,Personal loan,Malo
+CL-0021,36.5,38,621,Casado,Personal loan,Bueno
+CL-0022,46.2,53,726,Casado,Card,Bueno
+CL-0023,37.3,65,729,Casado,Mortgage,Regular
+CL-0024,26.7,45,643,Casado,Card,Regular
+CL-0025,51.8,26,661,Soltero,Personal loan,Bueno
+CL-0026,72.0,60,615,Divorciado,Mortgage,Bueno
+CL-0027,41.5,43,719,Divorciado,Mortgage,Bueno
+CL-0028,62.2,22,735,Soltero,Mortgage,Regular
+CL-0029,14.1,26,697,Casado,Personal loan,Malo
+CL-0030,16.3,65,696,Divorciado,Personal loan,Bueno
+CL-0031,32.8,22,450,Casado,Personal loan,Malo
+CL-0032,29.8,30,686,Casado,Mortgage,Bueno
+CL-0033,9.1,53,537,Casado,Personal loan,Regular
+CL-0034,45.0,22,736,Casado,Personal loan,Bueno
+CL-0035,45.3,39,677,Soltero,Personal loan,Regular
+CL-0036,19.9,44,676,Casado,Personal loan,Bueno
+CL-0037,30.1,58,598,Divorciado,Card,Bueno
+CL-0038,55.6,32,671,Casado,Personal loan,Regular
+CL-0039,48.5,26,723,Soltero,Card,Bueno
+CL-0040,24.7,45,646,Soltero,Personal loan,Malo
+CL-0041,63.5,46,626,Soltero,Mortgage,Bueno
+CL-0042,42.4,65,722,Casado,Mortgage,Bueno
+CL-0043,37.2,57,605,Soltero,Card,Bueno
+CL-0044,63.8,37,636,Divorciado,Mortgage,Bueno
+CL-0045,31.1,23,739,Casado,Card,Bueno
+CL-0046,19.1,61,683,Casado,Card,Bueno
+CL-0047,8.0,27,614,Casado,Personal loan,Malo
+CL-0048,10.3,58,640,Casado,Personal loan,Bueno
+CL-0049,23.3,60,711,Soltero,Mortgage,Bueno
+CL-0050,27.5,42,673,Soltero,Personal loan,Regular
+CL-0051,14.7,53,650,Soltero,Card,Bueno
+CL-0052,27.5,35,641,Soltero,Personal loan,Malo
+CL-0053,39.1,60,668,Casado,Card,Regular
+CL-0054,40.4,40,697,Casado,Mortgage,Bueno
+CL-0055,65.0,58,584,Soltero,Mortgage,Bueno
+CL-0056,32.8,52,774,Casado,Mortgage,Bueno
+CL-0057,16.0,28,738,Soltero,Personal loan,Bueno
+CL-0058,17.0,48,699,Casado,Personal loan,Bueno
+CL-0059,9.3,64,716,Casado,Mortgage,Malo
+CL-0060,41.7,51,575,Soltero,Personal loan,Regular
+CL-0061,22.3,32,674,Casado,Personal loan,Bueno
+CL-0062,61.9,59,707,Casado,Mortgage,Bueno
+CL-0063,56.6,51,676,Casado,Mortgage,Bueno
+CL-0064,20.3,25,739,Casado,Card,Regular
+CL-0065,55.2,55,670,Casado,Mortgage,Bueno
+CL-0066,14.0,48,718,Soltero,Personal loan,Bueno
+CL-0067,8.0,24,702,Casado,Card,Malo
+CL-0068,40.2,24,720,Soltero,Mortgage,Regular
+CL-0069,14.2,26,722,Casado,Card,Bueno
+CL-0070,30.7,37,687,Casado,Personal loan,Bueno
+CL-0071,48.1,30,662,Soltero,Mortgage,Bueno
+CL-0072,9.2,47,673,Casado,Personal loan,Regular
+CL-0073,16.5,54,764,Casado,Personal loan,Bueno
+CL-0074,47.8,53,617,Soltero,Card,Regular
+CL-0075,42.6,62,624,Divorciado,Personal loan,Regular
+CL-0076,33.3,29,608,Casado,Personal loan,Regular
+CL-0077,38.3,54,654,Soltero,Card,Regular
+CL-0078,39.2,44,710,Soltero,Card,Regular
+CL-0079,8.0,25,630,Soltero,Personal loan,Malo
+CL-0080,36.7,21,742,Casado,Card,Bueno
+CL-0081,31.4,39,717,Casado,Card,Bueno
+CL-0082,15.2,62,776,Soltero,Card,Regular
+CL-0083,15.0,45,660,Soltero,Card,Malo
+CL-0084,30.8,59,702,Divorciado,Mortgage,Malo
+CL-0085,11.1,35,685,Soltero,Card,Regular
+CL-0086,35.9,56,733,Casado,Mortgage,Bueno
+CL-0087,15.4,41,577,Casado,Card,Malo
+CL-0088,49.9,64,659,Casado,Mortgage,Regular
+CL-0089,32.8,42,645,Casado,Card,Bueno
+CL-0090,22.6,49,682,Casado,Personal loan,Bueno
+CL-0091,22.3,62,719,Casado,Mortgage,Malo
+CL-0092,26.5,53,643,Soltero,Card,Bueno
+CL-0093,36.5,51,647,Casado,Personal loan,Bueno
+CL-0094,11.9,47,684,Divorciado,Personal loan,Malo
+CL-0095,32.3,21,704,Casado,Card,Bueno
+CL-0096,37.6,28,635,Casado,Card,Regular
+CL-0097,11.7,47,820,Casado,Mortgage,Bueno
+CL-0098,63.2,51,605,Soltero,Card,Bueno
+CL-0099,28.7,21,687,Casado,Mortgage,Regular
+CL-0100,32.1,32,614,Soltero,Personal loan,Bueno
+CL-0101,39.2,65,599,Soltero,Personal loan,Bueno
+CL-0102,45.3,48,729,Casado,Card,Regular
+CL-0103,41.2,34,675,Soltero,Personal loan,Bueno
+CL-0104,20.8,41,638,Soltero,Personal loan,Regular
+CL-0105,12.8,41,687,Casado,Card,Regular
+CL-0106,27.4,28,815,Casado,Personal loan,Bueno
+CL-0107,8.0,48,723,Soltero,Card,Bueno
+CL-0108,19.3,36,742,Casado,Card,Regular
+CL-0109,12.9,34,769,Soltero,Card,Malo
+CL-0110,12.2,41,760,Casado,Card,Bueno
+CL-0111,48.1,29,636,Soltero,Personal loan,Regular
+CL-0112,22.2,43,701,Divorciado,Personal loan,Regular
+CL-0113,19.8,26,590,Casado,Card,Regular
+CL-0114,17.1,62,699,Soltero,Card,Bueno
+CL-0115,36.4,62,670,Soltero,Card,Bueno
+CL-0116,18.0,30,662,Soltero,Personal loan,Malo
+CL-0117,15.1,64,710,Divorciado,Card,Bueno
+CL-0118,24.9,46,623,Casado,Personal loan,Bueno
+CL-0119,24.4,37,650,Soltero,Card,Malo
+CL-0120,30.2,44,688,Casado,Card,Bueno
+CL-0121,43.0,33,667,Soltero,Card,Bueno
+CL-0122,23.2,26,616,Soltero,Personal loan,Malo
+CL-0123,58.7,41,606,Casado,Card,Bueno
+CL-0124,14.2,56,655,Soltero,Personal loan,Malo
+CL-0125,11.1,54,663,Divorciado,Personal loan,Regular
+CL-0126,17.3,64,699,Divorciado,Card,Malo
+CL-0127,29.8,23,607,Casado,Personal loan,Malo
+CL-0128,34.7,42,707,Casado,Mortgage,Regular
+CL-0129,8.0,38,539,Casado,Personal loan,Malo
+CL-0130,8.0,43,643,Divorciado,Card,Malo
+CL-0131,26.2,54,626,Casado,Mortgage,Regular
+CL-0132,25.6,26,612,Casado,Personal loan,Regular
+CL-0133,41.2,63,746,Casado,Card,Bueno
+CL-0134,36.6,54,569,Soltero,Card,Regular
+CL-0135,26.8,53,717,Casado,Personal loan,Bueno
+CL-0136,53.2,55,717,Casado,Mortgage,Bueno
+CL-0137,38.7,60,646,Casado,Card,Bueno
+CL-0138,12.3,46,634,Casado,Mortgage,Regular
+CL-0139,35.7,29,727,Soltero,Card,Bueno
+CL-0140,8.0,38,722,Soltero,Card,Regular
+CL-0141,50.6,21,745,Divorciado,Personal loan,Bueno
+CL-0142,39.6,56,731,Soltero,Card,Bueno
+CL-0143,28.9,47,719,Casado,Card,Bueno
+CL-0144,50.5,28,550,Divorciado,Mortgage,Bueno
+CL-0145,50.6,33,746,Casado,Personal loan,Bueno
+CL-0146,14.7,52,627,Casado,Personal loan,Regular
+CL-0147,35.5,46,677,Soltero,Mortgage,Malo
+CL-0148,19.3,49,621,Divorciado,Personal loan,Regular
+CL-0149,15.0,34,689,Casado,Mortgage,Bueno
+CL-0150,16.6,21,711,Soltero,Card,Regular
+CL-0151,30.1,30,662,Soltero,Personal loan,Bueno
+CL-0152,35.4,61,766,Casado,Mortgage,Bueno
+CL-0153,29.4,21,749,Soltero,Card,Regular
+CL-0154,40.1,25,695,Divorciado,Card,Bueno
+CL-0155,43.4,57,629,Casado,Personal loan,Bueno
+CL-0156,39.2,48,761,Casado,Mortgage,Bueno
+CL-0157,22.6,32,670,Casado,Mortgage,Regular
+CL-0158,32.4,31,655,Casado,Card,Malo
+CL-0159,15.4,29,692,Casado,Personal loan,Regular
+CL-0160,18.0,48,556,Soltero,Personal loan,Malo
+CL-0161,31.7,57,699,Casado,Mortgage,Bueno
+CL-0162,26.9,55,706,Casado,Mortgage,Bueno
+CL-0163,21.7,33,666,Soltero,Personal loan,Bueno
+CL-0164,24.8,24,658,Casado,Personal loan,Bueno
+CL-0165,28.1,52,689,Casado,Card,Malo
+CL-0166,43.9,53,694,Soltero,Mortgage,Regular
+CL-0167,58.4,44,727,Divorciado,Mortgage,Bueno
+CL-0168,32.2,27,662,Casado,Card,Regular
+CL-0169,18.9,33,615,Soltero,Card,Bueno
+CL-0170,16.7,49,713,Casado,Card,Regular
+CL-0171,20.1,29,772,Soltero,Personal loan,Regular
+CL-0172,21.2,31,720,Casado,Personal loan,Bueno
+CL-0173,33.5,61,665,Divorciado,Card,Bueno
+CL-0174,45.9,49,618,Casado,Mortgage,Regular
+CL-0175,31.2,37,661,Casado,Card,Bueno
+CL-0176,29.8,61,706,Soltero,Card,Bueno
+CL-0177,21.3,43,666,Soltero,Personal loan,Malo
+CL-0178,55.4,21,683,Soltero,Card,Regular
+CL-0179,31.8,40,702,Casado,Card,Bueno
+CL-0180,39.0,31,680,Casado,Card,Bueno
+CL-0181,32.2,61,738,Soltero,Card,Bueno
+CL-0182,47.6,57,657,Soltero,Mortgage,Bueno
+CL-0183,18.9,60,721,Casado,Personal loan,Bueno
+CL-0184,8.0,48,695,Casado,Mortgage,Regular
+CL-0185,39.3,51,697,Casado,Mortgage,Bueno
+CL-0186,25.7,65,656,Casado,Personal loan,Bueno
+CL-0187,27.7,60,638,Casado,Card,Bueno
+CL-0188,39.4,40,514,Casado,Card,Regular
+CL-0189,42.4,48,696,Casado,Mortgage,Bueno
+CL-0190,39.6,61,779,Divorciado,Mortgage,Bueno
+CL-0191,13.2,44,637,Soltero,Card,Regular
+CL-0192,98.1,33,665,Soltero,Mortgage,Bueno
+CL-0193,71.6,45,608,Soltero,Mortgage,Regular
+CL-0194,51.5,34,702,Casado,Card,Bueno
+CL-0195,35.0,49,766,Casado,Mortgage,Bueno
+CL-0196,20.5,43,720,Soltero,Mortgage,Bueno
+CL-0197,27.7,41,711,Soltero,Mortgage,Regular
+CL-0198,34.4,47,774,Casado,Card,Bueno
+CL-0199,33.2,57,684,Soltero,Personal loan,Regular
+CL-0200,9.2,28,685,Casado,Personal loan,Bueno
+CL-0201,33.2,64,760,Casado,Mortgage,Bueno
+CL-0202,39.3,30,688,Casado,Card,Malo
+CL-0203,30.4,32,750,Soltero,Personal loan,Bueno
+CL-0204,17.4,59,783,Casado,Card,Bueno
+CL-0205,21.5,60,696,Casado,Card,Bueno
+CL-0206,18.7,30,645,Casado,Personal loan,Bueno
+CL-0207,10.9,38,655,Casado,Mortgage,Regular
+CL-0208,26.9,49,687,Soltero,Personal loan,Malo
+CL-0209,41.5,43,741,Casado,Mortgage,Bueno
+CL-0210,38.7,51,603,Casado,Card,Bueno
+CL-0211,68.9,64,709,Casado,Mortgage,Bueno
+CL-0212,26.6,60,804,Casado,Mortgage,Malo
+CL-0213,42.6,40,655,Soltero,Card,Malo
+CL-0214,11.3,47,691,Casado,Mortgage,Regular
+CL-0215,21.3,59,554,Casado,Card,Regular
+CL-0216,25.6,29,655,Divorciado,Card,Regular
+CL-0217,15.5,60,647,Soltero,Card,Bueno
+CL-0218,18.0,40,708,Divorciado,Personal loan,Regular
+CL-0219,28.1,57,641,Soltero,Personal loan,Malo
+CL-0220,22.0,52,690,Soltero,Card,Bueno
+CL-0221,12.6,46,685,Casado,Personal loan,Regular
+CL-0222,24.8,51,669,Casado,Mortgage,Bueno
+CL-0223,28.3,43,703,Soltero,Personal loan,Bueno
+CL-0224,72.9,29,632,Casado,Mortgage,Bueno
+CL-0225,45.7,21,768,Casado,Mortgage,Malo
+CL-0226,10.2,41,580,Soltero,Personal loan,Malo
+CL-0227,42.0,49,701,Casado,Card,Bueno
+CL-0228,34.5,57,687,Casado,Mortgage,Bueno
+CL-0229,33.2,63,850,Soltero,Mortgage,Bueno
+CL-0230,22.1,28,695,Soltero,Card,Regular
+CL-0231,18.7,42,747,Casado,Card,Regular
+CL-0232,10.9,44,577,Casado,Personal loan,Malo
+CL-0233,22.6,37,658,Casado,Card,Regular
+CL-0234,32.7,55,699,Casado,Mortgage,Bueno
+CL-0235,23.3,30,688,Casado,Card,Regular
+CL-0236,55.9,57,711,Soltero,Mortgage,Bueno
+CL-0237,24.8,28,713,Casado,Card,Bueno
+CL-0238,14.2,64,639,Soltero,Mortgage,Malo
+CL-0239,27.8,25,703,Casado,Card,Regular
+CL-0240,16.9,31,725,Casado,Card,Bueno
+CL-0241,28.1,46,744,Soltero,Card,Bueno
+CL-0242,20.3,46,719,Casado,Personal loan,Regular
+CL-0243,34.2,24,752,Casado,Mortgage,Regular
+CL-0244,26.3,65,751,Casado,Personal loan,Bueno
+CL-0245,11.0,33,627,Casado,Personal loan,Malo
+CL-0246,36.4,45,807,Casado,Mortgage,Regular
+CL-0247,30.7,34,713,Casado,Card,Bueno
+CL-0248,24.7,28,659,Soltero,Personal loan,Regular
+CL-0249,35.5,38,610,Soltero,Personal loan,Bueno
+CL-0250,60.2,24,697,Soltero,Card,Bueno
+CL-0251,19.1,43,629,Casado,Mortgage,Malo
+CL-0252,10.7,42,645,Soltero,Card,Regular
+CL-0253,33.6,44,624,Soltero,Card,Malo
+CL-0254,28.2,60,691,Divorciado,Card,Malo
+CL-0255,23.4,30,773,Casado,Card,Bueno
+CL-0256,23.6,45,635,Soltero,Card,Malo
+CL-0257,32.5,40,756,Casado,Mortgage,Bueno
+CL-0258,29.8,23,763,Soltero,Card,Bueno
+CL-0259,14.8,55,665,Soltero,Personal loan,Malo
+CL-0260,13.0,27,712,Soltero,Card,Regular
+CL-0261,22.2,22,785,Soltero,Personal loan,Bueno
+CL-0262,31.5,52,650,Casado,Card,Malo
+CL-0263,15.4,21,622,Casado,Personal loan,Malo
+CL-0264,25.9,41,598,Soltero,Personal loan,Bueno
+CL-0265,66.0,62,741,Soltero,Card,Bueno
+CL-0266,51.2,44,724,Soltero,Card,Bueno
+CL-0267,37.5,40,691,Soltero,Personal loan,Bueno
+CL-0268,74.1,21,630,Divorciado,Card,Regular
+CL-0269,22.3,34,662,Soltero,Personal loan,Malo
+CL-0270,44.4,36,610,Divorciado,Personal loan,Bueno
+CL-0271,20.3,49,637,Casado,Card,Bueno
+CL-0272,50.9,39,657,Casado,Mortgage,Bueno
+CL-0273,8.0,25,614,Casado,Card,Malo
+CL-0274,33.6,40,692,Soltero,Card,Bueno
+CL-0275,27.2,23,708,Soltero,Personal loan,Malo
+CL-0276,18.2,43,753,Soltero,Personal loan,Bueno
+CL-0277,43.7,64,698,Soltero,Mortgage,Bueno
+CL-0278,20.5,61,836,Casado,Mortgage,Bueno
+CL-0279,42.6,31,617,Divorciado,Personal loan,Regular
+CL-0280,68.8,23,725,Divorciado,Mortgage,Bueno
+CL-0281,19.2,54,671,Casado,Card,Malo
+CL-0282,17.9,28,672,Casado,Card,Bueno
+CL-0283,32.2,21,635,Casado,Personal loan,Bueno
+CL-0284,30.1,63,621,Soltero,Personal loan,Malo
+CL-0285,14.9,56,650,Divorciado,Card,Regular
+CL-0286,21.0,53,680,Soltero,Card,Malo
+CL-0287,13.6,27,607,Casado,Personal loan,Regular
+CL-0288,23.0,61,672,Soltero,Personal loan,Bueno
+CL-0289,41.9,37,751,Soltero,Card,Bueno
+CL-0290,49.1,48,629,Casado,Mortgage,Bueno
+CL-0291,42.2,30,707,Casado,Mortgage,Bueno
+CL-0292,55.1,38,616,Soltero,Card,Regular
+CL-0293,44.8,51,626,Casado,Mortgage,Bueno
+CL-0294,55.8,27,628,Casado,Personal loan,Bueno
+CL-0295,16.8,34,742,Casado,Personal loan,Regular
+CL-0296,40.6,57,667,Soltero,Mortgage,Regular
+CL-0297,23.8,22,654,Soltero,Card,Malo
+CL-0298,41.9,42,721,Casado,Card,Bueno
+CL-0299,30.6,45,603,Casado,Personal loan,Malo
+CL-0300,19.2,28,676,Soltero,Personal loan,Regular
+CL-0301,8.0,64,645,Divorciado,Mortgage,Malo
+CL-0302,8.0,45,653,Divorciado,Personal loan,Regular
+CL-0303,50.1,36,680,Casado,Card,Regular
+CL-0304,21.0,50,600,Soltero,Personal loan,Malo
+CL-0305,34.4,42,717,Soltero,Personal loan,Malo
+CL-0306,20.0,36,628,Divorciado,Personal loan,Regular
+CL-0307,20.1,29,728,Casado,Card,Bueno
+CL-0308,29.4,55,635,Soltero,Card,Regular
+CL-0309,42.4,64,688,Casado,Card,Bueno
+CL-0310,12.2,49,730,Divorciado,Personal loan,Bueno
+CL-0311,38.9,62,681,Divorciado,Mortgage,Bueno
+CL-0312,15.8,45,612,Casado,Personal loan,Regular
+CL-0313,28.6,49,688,Casado,Card,Regular
+CL-0314,11.5,30,636,Soltero,Card,Malo
+CL-0315,19.5,26,661,Casado,Card,Bueno
+CL-0316,31.0,24,709,Divorciado,Personal loan,Regular
+CL-0317,18.9,57,616,Soltero,Card,Malo
+CL-0318,20.8,55,777,Soltero,Card,Bueno
+CL-0319,55.9,49,729,Casado,Mortgage,Bueno
+CL-0320,26.7,61,675,Casado,Card,Bueno
+CL-0321,52.2,23,850,Soltero,Mortgage,Bueno
+CL-0322,17.4,25,680,Soltero,Card,Regular
+CL-0323,30.0,60,696,Divorciado,Card,Malo
+CL-0324,27.8,65,676,Casado,Card,Bueno
+CL-0325,44.9,65,704,Divorciado,Mortgage,Bueno
+CL-0326,11.8,25,733,Soltero,Personal loan,Regular
+CL-0327,30.5,41,749,Soltero,Personal loan,Bueno
+CL-0328,46.1,49,751,Casado,Mortgage,Bueno
+CL-0329,17.2,50,699,Soltero,Personal loan,Regular
+CL-0330,15.3,21,717,Soltero,Personal loan,Malo
+CL-0331,65.2,28,709,Soltero,Mortgage,Bueno
+CL-0332,39.4,30,646,Casado,Personal loan,Regular
+CL-0333,18.9,61,753,Casado,Card,Bueno
+CL-0334,22.6,44,698,Soltero,Personal loan,Regular
+CL-0335,51.8,47,640,Divorciado,Card,Bueno
+CL-0336,8.0,47,662,Casado,Personal loan,Regular
+CL-0337,18.9,43,652,Soltero,Personal loan,Regular
+CL-0338,38.4,30,635,Soltero,Personal loan,Malo
+CL-0339,24.4,47,599,Soltero,Personal loan,Malo
+CL-0340,16.0,55,575,Casado,Personal loan,Malo
+CL-0341,24.1,28,690,Soltero,Personal loan,Regular
+CL-0342,8.5,26,678,Soltero,Personal loan,Malo
+CL-0343,43.7,39,581,Casado,Card,Regular
+CL-0344,58.0,53,654,Soltero,Card,Bueno
+CL-0345,30.2,53,628,Divorciado,Card,Bueno
+CL-0346,45.1,58,638,Soltero,Card,Bueno
+CL-0347,28.2,32,648,Soltero,Card,Bueno
+CL-0348,18.6,49,708,Soltero,Card,Regular
+CL-0349,20.5,46,743,Casado,Mortgage,Malo
+CL-0350,28.5,50,731,Soltero,Card,Bueno
+CL-0351,41.3,51,591,Divorciado,Mortgage,Regular
+CL-0352,31.3,61,693,Casado,Mortgage,Bueno
+CL-0353,18.7,53,623,Casado,Personal loan,Regular
+CL-0354,70.1,46,619,Soltero,Card,Malo
+CL-0355,28.9,28,719,Soltero,Card,Bueno
+CL-0356,56.4,62,717,Soltero,Mortgage,Regular
+CL-0357,69.0,59,650,Soltero,Card,Bueno
+CL-0358,18.5,42,685,Casado,Personal loan,Bueno
+CL-0359,35.9,41,802,Casado,Mortgage,Bueno
+CL-0360,13.0,30,698,Casado,Card,Bueno
+CL-0361,46.4,61,630,Casado,Personal loan,Regular
+CL-0362,39.3,33,613,Soltero,Personal loan,Regular
+CL-0363,41.8,58,675,Soltero,Card,Bueno
+CL-0364,15.7,22,684,Casado,Personal loan,Regular
+CL-0365,19.6,26,652,Casado,Personal loan,Bueno
+CL-0366,26.3,44,723,Soltero,Mortgage,Bueno
+CL-0367,25.2,55,714,Casado,Mortgage,Bueno
+CL-0368,18.2,64,662,Casado,Personal loan,Regular
+CL-0369,14.0,26,711,Soltero,Card,Regular
+CL-0370,19.3,48,660,Casado,Personal loan,Malo
+CL-0371,69.5,25,754,Casado,Mortgage,Bueno
+CL-0372,17.3,38,709,Soltero,Card,Regular
+CL-0373,38.8,57,684,Soltero,Personal loan,Regular
+CL-0374,32.2,61,572,Soltero,Personal loan,Regular
+CL-0375,20.4,35,731,Divorciado,Card,Regular
+CL-0376,35.7,65,683,Casado,Mortgage,Regular
+CL-0377,14.2,22,735,Soltero,Personal loan,Bueno
+CL-0378,22.6,33,683,Casado,Personal loan,Malo
+CL-0379,28.6,25,749,Casado,Card,Bueno
+CL-0380,26.3,42,691,Casado,Mortgage,Bueno
+CL-0381,47.2,57,690,Soltero,Personal loan,Bueno
+CL-0382,34.0,54,589,Casado,Card,Malo
+CL-0383,30.5,52,696,Soltero,Personal loan,Bueno
+CL-0384,9.6,43,734,Casado,Mortgage,Bueno
+CL-0385,27.7,35,729,Soltero,Card,Bueno
+CL-0386,19.5,59,762,Casado,Mortgage,Bueno
+CL-0387,19.8,61,630,Divorciado,Mortgage,Regular
+CL-0388,11.9,24,660,Casado,Personal loan,Regular
+CL-0389,20.0,63,701,Casado,Card,Bueno
+CL-0390,38.9,48,667,Casado,Mortgage,Bueno
+CL-0391,15.7,59,634,Soltero,Personal loan,Regular
+CL-0392,29.7,26,600,Soltero,Personal loan,Regular
+CL-0393,31.6,33,632,Casado,Personal loan,Bueno
+CL-0394,25.5,48,732,Soltero,Card,Regular
+CL-0395,19.5,65,750,Casado,Mortgage,Bueno
+CL-0396,21.0,22,662,Soltero,Personal loan,Regular
+CL-0397,26.1,39,708,Casado,Card,Bueno
+CL-0398,14.5,35,570,Soltero,Personal loan,Malo
+CL-0399,25.9,36,706,Casado,Card,Regular
+CL-0400,32.7,57,712,Casado,Mortgage,Regular
+CL-0401,37.7,46,640,Soltero,Mortgage,Regular
+CL-0402,28.6,35,718,Soltero,Card,Bueno
+CL-0403,50.0,46,733,Casado,Mortgage,Bueno
+CL-0404,56.3,45,774,Casado,Mortgage,Bueno
+CL-0405,26.5,54,708,Divorciado,Mortgage,Bueno
+CL-0406,24.8,62,644,Casado,Personal loan,Bueno
+CL-0407,29.0,48,754,Casado,Card,Regular
+CL-0408,38.8,41,791,Casado,Card,Bueno
+CL-0409,24.1,32,520,Soltero,Personal loan,Malo
+CL-0410,40.0,55,742,Divorciado,Mortgage,Regular
+CL-0411,29.2,49,646,Divorciado,Card,Bueno
+CL-0412,24.2,32,708,Divorciado,Card,Regular
+CL-0413,47.6,22,756,Casado,Card,Bueno
+CL-0414,40.6,32,673,Soltero,Card,Bueno
+CL-0415,46.3,50,638,Soltero,Card,Regular
+CL-0416,49.1,63,657,Casado,Mortgage,Bueno
+CL-0417,38.0,61,691,Casado,Card,Bueno
+CL-0418,35.6,36,735,Casado,Mortgage,Bueno
+CL-0419,22.2,23,729,Casado,Card,Bueno
+CL-0420,20.5,59,705,Casado,Mortgage,Bueno
+CL-0421,22.1,36,745,Soltero,Card,Bueno
+CL-0422,27.3,45,590,Casado,Card,Bueno
+CL-0423,17.0,38,618,Soltero,Personal loan,Regular
+CL-0424,43.7,31,657,Soltero,Personal loan,Malo
+CL-0425,20.8,28,680,Casado,Personal loan,Bueno
+CL-0426,32.0,28,729,Casado,Card,Bueno
+CL-0427,16.0,46,647,Divorciado,Card,Regular
+CL-0428,31.3,46,765,Divorciado,Mortgage,Regular
+CL-0429,36.3,54,708,Casado,Mortgage,Bueno
+CL-0430,27.9,38,573,Casado,Card,Malo
+CL-0431,44.5,51,684,Casado,Mortgage,Bueno
+CL-0432,13.8,43,670,Divorciado,Mortgage,Bueno
+CL-0433,25.0,24,705,Casado,Card,Regular
+CL-0434,40.7,31,644,Casado,Card,Bueno
+CL-0435,68.9,57,760,Divorciado,Mortgage,Bueno
+CL-0436,17.9,31,670,Soltero,Personal loan,Malo
+CL-0437,33.2,35,645,Soltero,Card,Malo
+CL-0438,20.3,62,702,Casado,Card,Bueno
+CL-0439,33.5,56,620,Divorciado,Mortgage,Malo
+CL-0440,19.7,30,725,Casado,Personal loan,Malo
+CL-0441,19.9,33,700,Casado,Personal loan,Bueno
+CL-0442,18.1,39,732,Divorciado,Personal loan,Bueno
+CL-0443,47.4,50,743,Soltero,Mortgage,Bueno
+CL-0444,23.9,56,727,Casado,Personal loan,Bueno
+CL-0445,27.4,23,631,Casado,Card,Regular
+CL-0446,38.5,39,694,Casado,Mortgage,Bueno
+CL-0447,20.6,39,769,Casado,Card,Bueno
+CL-0448,29.9,37,801,Casado,Card,Bueno
+CL-0449,17.7,62,811,Casado,Mortgage,Bueno
+CL-0450,24.1,57,660,Soltero,Card,Bueno
+CL-0451,55.9,64,740,Casado,Mortgage,Bueno
+CL-0452,10.6,37,713,Casado,Mortgage,Regular
+CL-0453,20.4,37,802,Soltero,Card,Bueno
+CL-0454,51.9,49,684,Casado,Mortgage,Bueno
+CL-0455,13.1,59,561,Casado,Personal loan,Malo
+CL-0456,33.5,63,753,Casado,Card,Bueno
+CL-0457,9.7,50,746,Casado,Card,Malo
+CL-0458,53.9,23,558,Casado,Card,Regular
+CL-0459,21.8,59,656,Casado,Card,Malo
+CL-0460,39.8,38,743,Casado,Card,Bueno
+CL-0461,16.1,24,725,Casado,Card,Bueno
+CL-0462,8.7,63,627,Soltero,Personal loan,Malo
+CL-0463,33.4,50,694,Divorciado,Mortgage,Bueno
+CL-0464,18.5,35,672,Casado,Personal loan,Bueno
+CL-0465,23.6,38,614,Casado,Personal loan,Regular
+CL-0466,42.5,50,664,Casado,Mortgage,Bueno
+CL-0467,24.4,37,733,Casado,Card,Bueno
+CL-0468,10.0,54,625,Soltero,Personal loan,Malo
+CL-0469,18.3,37,685,Casado,Personal loan,Bueno
+CL-0470,30.6,23,591,Soltero,Personal loan,Malo
+CL-0471,36.6,65,662,Soltero,Mortgage,Bueno
+CL-0472,40.5,62,704,Divorciado,Mortgage,Malo
+CL-0473,14.7,63,690,Divorciado,Mortgage,Malo
+CL-0474,14.5,21,641,Soltero,Personal loan,Regular
+CL-0475,8.0,35,635,Divorciado,Personal loan,Regular
+CL-0476,29.0,39,684,Casado,Card,Regular
+CL-0477,41.0,40,638,Casado,Personal loan,Regular
+CL-0478,27.0,51,711,Soltero,Mortgage,Bueno
+CL-0479,30.2,32,737,Casado,Card,Regular
+CL-0480,55.4,23,694,Casado,Card,Bueno
+CL-0481,65.3,46,756,Casado,Card,Bueno
+CL-0482,46.2,46,643,Casado,Card,Bueno
+CL-0483,32.3,45,632,Casado,Mortgage,Bueno
+CL-0484,18.9,38,610,Soltero,Personal loan,Malo
+CL-0485,29.9,41,579,Casado,Card,Regular
+CL-0486,19.4,30,664,Casado,Personal loan,Bueno
+CL-0487,35.1,33,776,Soltero,Mortgage,Regular
+CL-0488,44.2,48,686,Casado,Personal loan,Bueno
+CL-0489,29.6,35,661,Casado,Card,Regular
+CL-0490,21.3,41,639,Casado,Personal loan,Bueno
+CL-0491,31.2,41,719,Casado,Mortgage,Bueno
+CL-0492,35.0,41,661,Soltero,Card,Regular
+CL-0493,35.9,46,639,Divorciado,Card,Regular
+CL-0494,52.8,57,648,Casado,Mortgage,Bueno
+CL-0495,17.0,28,652,Casado,Card,Regular
+CL-0496,22.4,65,616,Soltero,Personal loan,Malo
+CL-0497,16.3,24,768,Casado,Personal loan,Bueno
+CL-0498,18.2,34,666,Casado,Mortgage,Regular
+CL-0499,23.0,62,686,Casado,Personal loan,Bueno
+CL-0500,49.9,46,736,Soltero,Mortgage,Malo
+CL-0501,13.6,23,687,Casado,Personal loan,Malo
+CL-0502,14.6,21,652,Casado,Personal loan,Malo
+CL-0503,28.3,60,653,Soltero,Card,Bueno
+CL-0504,49.4,36,710,Casado,Mortgage,Bueno
+CL-0505,32.7,55,717,Soltero,Personal loan,Bueno
+CL-0506,21.4,27,708,Casado,Card,Regular
+CL-0507,22.5,49,668,Divorciado,Personal loan,Bueno
+CL-0508,27.9,46,739,Soltero,Mortgage,Bueno
+CL-0509,22.6,30,657,Soltero,Personal loan,Regular
+CL-0510,26.5,30,758,Soltero,Mortgage,Bueno
+CL-0511,24.3,31,740,Casado,Personal loan,Bueno
+CL-0512,22.4,54,600,Soltero,Personal loan,Regular
+CL-0513,37.6,44,690,Casado,Mortgage,Bueno
+CL-0514,31.9,64,749,Soltero,Card,Bueno
+CL-0515,44.3,32,747,Casado,Card,Regular
+CL-0516,22.3,62,645,Soltero,Card,Regular
+CL-0517,8.9,22,692,Casado,Personal loan,Bueno
+CL-0518,25.1,36,703,Divorciado,Card,Malo
+CL-0519,10.5,51,661,Casado,Personal loan,Malo
+CL-0520,38.1,45,708,Casado,Mortgage,Bueno
+CL-0521,23.3,63,699,Casado,Card,Bueno
+CL-0522,8.4,62,770,Soltero,Personal loan,Bueno
+CL-0523,17.3,48,728,Soltero,Card,Bueno
+CL-0524,17.9,29,662,Divorciado,Personal loan,Regular
+CL-0525,23.1,65,763,Soltero,Card,Regular
+CL-0526,26.6,51,815,Soltero,Card,Bueno
+CL-0527,25.6,49,722,Soltero,Card,Bueno
+CL-0528,38.6,27,733,Soltero,Mortgage,Regular
+CL-0529,15.7,58,697,Casado,Mortgage,Regular
+CL-0530,18.0,65,687,Casado,Mortgage,Regular
+CL-0531,9.6,65,705,Soltero,Mortgage,Malo
+CL-0532,41.2,52,641,Divorciado,Mortgage,Bueno
+CL-0533,49.2,37,709,Divorciado,Mortgage,Bueno
+CL-0534,29.4,56,613,Soltero,Personal loan,Regular
+CL-0535,40.7,32,670,Divorciado,Personal loan,Regular
+CL-0536,12.6,54,758,Casado,Mortgage,Bueno
+CL-0537,23.4,45,781,Casado,Mortgage,Malo
+CL-0538,22.5,53,670,Soltero,Personal loan,Bueno
+CL-0539,36.8,44,698,Divorciado,Mortgage,Regular
+CL-0540,32.3,27,617,Casado,Mortgage,Bueno
+CL-0541,48.8,63,667,Soltero,Mortgage,Bueno
+CL-0542,29.8,59,685,Casado,Card,Regular
+CL-0543,8.0,37,705,Casado,Personal loan,Regular
+CL-0544,8.0,55,676,Divorciado,Personal loan,Regular
+CL-0545,19.5,24,718,Casado,Card,Bueno
+CL-0546,26.1,55,661,Casado,Card,Bueno
+CL-0547,29.7,52,624,Divorciado,Personal loan,Malo
+CL-0548,47.4,65,690,Divorciado,Mortgage,Bueno
+CL-0549,38.2,30,718,Divorciado,Card,Regular
+CL-0550,22.4,32,659,Casado,Card,Regular
+CL-0551,27.5,63,698,Soltero,Mortgage,Regular
+CL-0552,27.8,34,738,Casado,Mortgage,Regular
+CL-0553,19.4,34,637,Casado,Personal loan,Bueno
+CL-0554,24.6,45,658,Casado,Personal loan,Malo
+CL-0555,19.9,28,696,Soltero,Personal loan,Regular
+CL-0556,42.7,43,565,Casado,Personal loan,Regular
+CL-0557,13.1,39,698,Divorciado,Personal loan,Malo
+CL-0558,45.2,24,669,Casado,Mortgage,Regular
+CL-0559,27.2,21,659,Casado,Personal loan,Regular
+CL-0560,44.1,26,764,Casado,Card,Bueno
+CL-0561,20.8,59,647,Soltero,Card,Bueno
+CL-0562,50.6,65,716,Casado,Mortgage,Bueno
+CL-0563,32.8,51,641,Casado,Card,Bueno
+CL-0564,15.9,23,741,Divorciado,Card,Malo
+CL-0565,32.8,62,656,Casado,Card,Malo
+CL-0566,12.7,62,759,Soltero,Mortgage,Bueno
+CL-0567,20.0,27,678,Divorciado,Card,Regular
+CL-0568,28.3,23,631,Casado,Card,Bueno
+CL-0569,10.9,36,697,Casado,Personal loan,Regular
+CL-0570,37.4,50,666,Casado,Mortgage,Bueno
+CL-0571,11.7,21,719,Soltero,Personal loan,Malo
+CL-0572,17.0,29,768,Casado,Card,Bueno
+CL-0573,23.3,37,792,Soltero,Personal loan,Bueno
+CL-0574,42.8,59,696,Soltero,Card,Malo
+CL-0575,55.7,30,718,Casado,Card,Bueno
+CL-0576,20.0,49,744,Soltero,Mortgage,Bueno
+CL-0577,29.4,37,664,Divorciado,Mortgage,Malo
+CL-0578,35.3,60,751,Casado,Mortgage,Bueno
+CL-0579,42.1,64,625,Casado,Mortgage,Regular
+CL-0580,19.4,25,777,Soltero,Card,Regular
+CL-0581,12.7,45,689,Casado,Card,Malo
+CL-0582,14.5,53,665,Soltero,Personal loan,Regular
+CL-0583,24.5,39,638,Soltero,Personal loan,Regular
+CL-0584,18.3,43,657,Casado,Personal loan,Regular
+CL-0585,42.9,32,581,Soltero,Mortgage,Regular
+CL-0586,39.9,57,632,Soltero,Mortgage,Regular
+CL-0587,60.6,56,662,Casado,Mortgage,Regular
+CL-0588,52.0,39,687,Casado,Mortgage,Bueno
+CL-0589,49.5,27,609,Casado,Card,Bueno
+CL-0590,18.9,39,657,Soltero,Card,Malo
+CL-0591,25.9,40,769,Divorciado,Mortgage,Bueno
+CL-0592,10.6,62,721,Soltero,Card,Bueno
+CL-0593,15.8,49,661,Soltero,Mortgage,Regular
+CL-0594,33.9,56,648,Casado,Card,Bueno
+CL-0595,24.7,26,689,Casado,Card,Regular
+CL-0596,21.5,21,720,Soltero,Card,Regular
+CL-0597,31.1,23,791,Soltero,Personal loan,Bueno
+CL-0598,35.4,48,760,Casado,Mortgage,Bueno
+CL-0599,14.8,26,651,Soltero,Personal loan,Bueno
+CL-0600,30.7,22,667,Casado,Personal loan,Regular
+CL-0601,20.6,38,802,Soltero,Card,Bueno
+CL-0602,35.1,43,707,Casado,Card,Regular
+CL-0603,19.3,45,696,Casado,Card,Regular
+CL-0604,29.2,40,584,Casado,Mortgage,Regular
+CL-0605,28.8,50,625,Casado,Mortgage,Regular
+CL-0606,10.4,27,665,Casado,Personal loan,Bueno
+CL-0607,39.5,57,620,Casado,Mortgage,Regular
+CL-0608,45.5,58,699,Casado,Personal loan,Bueno
+CL-0609,41.4,48,648,Soltero,Personal loan,Bueno
+CL-0610,22.6,41,676,Soltero,Personal loan,Regular
+CL-0611,13.3,57,687,Divorciado,Mortgage,Malo
+CL-0612,21.1,29,666,Soltero,Personal loan,Malo
+CL-0613,53.4,54,644,Casado,Card,Regular
+CL-0614,21.4,40,638,Casado,Card,Malo
+CL-0615,29.3,57,705,Casado,Card,Bueno
+CL-0616,17.8,61,749,Soltero,Card,Bueno
+CL-0617,13.9,24,658,Soltero,Personal loan,Regular
+CL-0618,43.4,51,726,Divorciado,Mortgage,Bueno
+CL-0619,14.5,45,725,Casado,Card,Bueno
+CL-0620,24.1,62,736,Casado,Mortgage,Bueno
+CL-0621,33.8,50,666,Casado,Mortgage,Bueno
+CL-0622,12.7,57,712,Soltero,Personal loan,Regular
+CL-0623,34.8,53,716,Soltero,Card,Bueno
+CL-0624,12.2,37,783,Soltero,Personal loan,Bueno
+CL-0625,19.9,27,674,Soltero,Personal loan,Malo
+CL-0626,20.6,56,745,Divorciado,Card,Malo
+CL-0627,12.9,59,769,Soltero,Card,Bueno
+CL-0628,40.2,40,676,Soltero,Personal loan,Bueno
+CL-0629,23.7,29,634,Soltero,Card,Malo
+CL-0630,12.9,32,666,Casado,Personal loan,Malo
+CL-0631,33.9,41,722,Soltero,Mortgage,Bueno
+CL-0632,22.9,42,669,Casado,Personal loan,Regular
+CL-0633,15.1,53,627,Divorciado,Personal loan,Bueno
+CL-0634,9.7,39,658,Soltero,Personal loan,Malo
+CL-0635,28.2,41,601,Casado,Personal loan,Regular
+CL-0636,26.7,37,737,Soltero,Card,Bueno
+CL-0637,54.2,24,653,Casado,Card,Regular
+CL-0638,10.4,40,637,Divorciado,Card,Regular
+CL-0639,20.0,26,664,Casado,Card,Regular
+CL-0640,13.2,40,705,Soltero,Personal loan,Malo
+CL-0641,24.2,31,743,Casado,Card,Bueno
+CL-0642,9.2,45,803,Soltero,Card,Bueno
+CL-0643,35.3,41,711,Soltero,Card,Regular
+CL-0644,48.7,50,609,Casado,Mortgage,Regular
+CL-0645,19.2,30,624,Casado,Card,Regular
+CL-0646,11.5,28,652,Casado,Card,Regular
+CL-0647,12.2,34,706,Soltero,Personal loan,Bueno
+CL-0648,17.9,50,666,Casado,Card,Bueno
+CL-0649,20.3,59,739,Casado,Mortgage,Bueno
+CL-0650,42.6,27,656,Casado,Personal loan,Malo
+CL-0651,60.6,41,497,Casado,Card,Regular
+CL-0652,43.4,45,634,Casado,Card,Bueno
+CL-0653,21.6,29,718,Casado,Personal loan,Regular
+CL-0654,39.7,45,760,Divorciado,Mortgage,Bueno
+CL-0655,25.4,61,656,Soltero,Personal loan,Regular
+CL-0656,19.8,34,749,Divorciado,Personal loan,Regular
+CL-0657,15.2,60,676,Divorciado,Mortgage,Regular
+CL-0658,29.9,55,587,Casado,Mortgage,Regular
+CL-0659,24.7,56,680,Casado,Mortgage,Bueno
+CL-0660,26.7,42,644,Divorciado,Personal loan,Malo
+CL-0661,28.7,35,666,Divorciado,Mortgage,Regular
+CL-0662,8.0,34,674,Casado,Personal loan,Bueno
+CL-0663,84.0,60,616,Casado,Mortgage,Bueno
+CL-0664,11.2,65,767,Soltero,Card,Malo
+CL-0665,20.1,25,674,Casado,Card,Regular
+CL-0666,34.7,52,619,Casado,Card,Regular
+CL-0667,17.5,63,691,Soltero,Personal loan,Malo
+CL-0668,21.2,62,757,Soltero,Mortgage,Bueno
+CL-0669,39.5,32,650,Soltero,Mortgage,Bueno
+CL-0670,35.9,40,729,Casado,Personal loan,Bueno
+CL-0671,19.1,46,732,Casado,Card,Bueno
+CL-0672,15.9,29,667,Soltero,Personal loan,Regular
+CL-0673,8.0,64,663,Casado,Card,Bueno
+CL-0674,20.8,40,744,Divorciado,Mortgage,Bueno
+CL-0675,26.9,45,710,Divorciado,Card,Regular
+CL-0676,40.1,35,722,Divorciado,Mortgage,Regular
+CL-0677,28.3,51,622,Casado,Card,Bueno
+CL-0678,17.0,47,724,Soltero,Card,Bueno
+CL-0679,29.8,42,799,Divorciado,Mortgage,Bueno
+CL-0680,20.2,41,668,Casado,Card,Bueno
+CL-0681,22.9,57,653,Casado,Card,Bueno
+CL-0682,28.3,63,584,Soltero,Card,Malo
+CL-0683,68.4,53,711,Soltero,Mortgage,Bueno
+CL-0684,66.2,60,623,Divorciado,Card,Bueno
+CL-0685,25.5,27,725,Casado,Card,Malo
+CL-0686,19.3,31,693,Casado,Card,Bueno
+CL-0687,45.6,32,631,Soltero,Personal loan,Regular
+CL-0688,29.7,59,699,Casado,Mortgage,Regular
+CL-0689,23.5,41,664,Casado,Personal loan,Regular
+CL-0690,26.9,36,650,Soltero,Card,Bueno
+CL-0691,29.8,31,704,Casado,Personal loan,Bueno
+CL-0692,33.9,41,684,Casado,Personal loan,Regular
+CL-0693,29.6,51,714,Divorciado,Personal loan,Bueno
+CL-0694,14.1,33,724,Soltero,Card,Malo
+CL-0695,32.2,49,581,Casado,Personal loan,Malo
+CL-0696,10.1,29,723,Casado,Card,Bueno
+CL-0697,13.2,24,657,Casado,Personal loan,Bueno
+CL-0698,16.9,38,716,Casado,Card,Regular
+CL-0699,37.7,47,729,Soltero,Card,Bueno
+CL-0700,27.5,59,642,Casado,Card,Malo
+CL-0701,45.3,51,786,Soltero,Mortgage,Bueno
+CL-0702,30.8,51,612,Soltero,Card,Regular
+CL-0703,13.6,65,726,Casado,Mortgage,Bueno
+CL-0704,34.8,54,656,Casado,Mortgage,Regular
+CL-0705,38.0,27,746,Casado,Card,Bueno
+CL-0706,44.0,34,628,Casado,Mortgage,Bueno
+CL-0707,24.5,65,690,Divorciado,Mortgage,Bueno
+CL-0708,35.9,54,685,Casado,Mortgage,Bueno
+CL-0709,18.2,43,699,Casado,Card,Regular
+CL-0710,32.3,52,655,Casado,Card,Bueno
+CL-0711,19.9,54,635,Casado,Personal loan,Regular
+CL-0712,11.5,62,638,Divorciado,Card,Bueno
+CL-0713,21.8,42,634,Soltero,Personal loan,Regular
+CL-0714,52.9,24,646,Divorciado,Mortgage,Bueno
+CL-0715,26.6,49,690,Casado,Personal loan,Bueno
+CL-0716,29.2,60,625,Divorciado,Mortgage,Malo
+CL-0717,41.7,26,571,Soltero,Personal loan,Malo
+CL-0718,12.5,22,574,Soltero,Personal loan,Malo
+CL-0719,50.0,59,668,Casado,Mortgage,Bueno
+CL-0720,46.9,52,699,Casado,Mortgage,Bueno
+CL-0721,25.8,40,603,Divorciado,Personal loan,Malo
+CL-0722,65.9,57,635,Casado,Mortgage,Bueno
+CL-0723,21.8,65,631,Casado,Card,Bueno
+CL-0724,16.0,61,740,Casado,Card,Bueno
+CL-0725,27.4,63,644,Casado,Card,Regular
+CL-0726,24.1,34,732,Casado,Personal loan,Bueno
+CL-0727,12.8,51,646,Soltero,Personal loan,Bueno
+CL-0728,30.5,48,666,Casado,Card,Regular
+CL-0729,30.0,44,676,Soltero,Card,Regular
+CL-0730,24.1,32,579,Casado,Card,Malo
+CL-0731,43.4,35,685,Soltero,Personal loan,Bueno
+CL-0732,21.5,55,676,Casado,Card,Bueno
+CL-0733,9.8,37,692,Soltero,Personal loan,Bueno
+CL-0734,35.1,39,651,Casado,Card,Bueno
+CL-0735,37.4,62,626,Divorciado,Mortgage,Bueno
+CL-0736,70.6,41,601,Casado,Mortgage,Bueno
+CL-0737,53.8,57,678,Casado,Mortgage,Bueno
+CL-0738,40.1,54,713,Casado,Mortgage,Bueno
+CL-0739,27.3,54,673,Soltero,Card,Bueno
+CL-0740,66.0,38,640,Casado,Card,Malo
+CL-0741,26.8,61,595,Soltero,Personal loan,Regular
+CL-0742,19.1,44,706,Casado,Mortgage,Bueno
+CL-0743,56.8,56,640,Casado,Mortgage,Regular
+CL-0744,29.8,32,643,Soltero,Personal loan,Malo
+CL-0745,20.4,57,654,Soltero,Personal loan,Malo
+CL-0746,29.2,35,665,Soltero,Personal loan,Malo
+CL-0747,33.4,33,726,Casado,Personal loan,Bueno
+CL-0748,19.8,55,681,Casado,Card,Bueno
+CL-0749,18.4,23,722,Casado,Card,Bueno
+CL-0750,36.4,61,667,Soltero,Card,Bueno
+CL-0751,11.3,49,733,Casado,Mortgage,Regular
+CL-0752,12.7,45,608,Soltero,Card,Malo
+CL-0753,27.0,38,684,Casado,Card,Bueno
+CL-0754,19.1,43,732,Casado,Card,Bueno
+CL-0755,36.2,36,708,Soltero,Mortgage,Regular
+CL-0756,26.3,38,660,Casado,Mortgage,Bueno
+CL-0757,19.0,57,641,Divorciado,Personal loan,Malo
+CL-0758,17.0,58,734,Soltero,Card,Bueno
+CL-0759,45.8,22,588,Divorciado,Card,Malo
+CL-0760,13.7,52,645,Casado,Mortgage,Bueno
+CL-0761,28.6,50,846,Casado,Mortgage,Bueno
+CL-0762,52.8,31,720,Divorciado,Card,Bueno
+CL-0763,21.4,65,691,Casado,Card,Bueno
+CL-0764,72.5,21,719,Soltero,Mortgage,Bueno
+CL-0765,31.2,27,695,Casado,Personal loan,Bueno
+CL-0766,58.0,62,678,Casado,Mortgage,Malo
+CL-0767,34.8,52,564,Casado,Card,Bueno
+CL-0768,37.4,51,711,Soltero,Mortgage,Bueno
+CL-0769,23.1,36,698,Casado,Mortgage,Bueno
+CL-0770,24.5,59,494,Soltero,Personal loan,Regular
+CL-0771,19.2,62,741,Casado,Personal loan,Bueno
+CL-0772,39.0,46,669,Soltero,Personal loan,Bueno
+CL-0773,18.7,21,674,Divorciado,Card,Bueno
+CL-0774,44.5,29,682,Casado,Mortgage,Bueno
+CL-0775,30.6,51,694,Soltero,Card,Bueno
+CL-0776,21.6,58,718,Casado,Personal loan,Bueno
+CL-0777,42.0,34,682,Casado,Personal loan,Bueno
+CL-0778,8.1,34,617,Casado,Personal loan,Regular
+CL-0779,34.7,48,797,Casado,Mortgage,Bueno
+CL-0780,8.0,47,794,Casado,Card,Regular
+CL-0781,37.7,22,674,Casado,Card,Bueno
+CL-0782,61.2,64,672,Soltero,Card,Bueno
+CL-0783,10.8,35,684,Casado,Personal loan,Regular
+CL-0784,8.6,60,720,Soltero,Card,Bueno
+CL-0785,24.1,48,715,Soltero,Card,Regular
+CL-0786,71.7,53,749,Casado,Mortgage,Bueno
+CL-0787,66.6,30,544,Casado,Mortgage,Malo
+CL-0788,8.0,48,632,Divorciado,Personal loan,Malo
+CL-0789,37.8,24,706,Divorciado,Personal loan,Bueno
+CL-0790,9.3,61,617,Casado,Personal loan,Regular
+CL-0791,33.3,44,555,Casado,Personal loan,Malo
+CL-0792,12.6,30,650,Casado,Card,Bueno
+CL-0793,19.7,58,724,Casado,Card,Bueno
+CL-0794,16.4,64,770,Soltero,Card,Bueno
+CL-0795,22.6,53,735,Soltero,Personal loan,Bueno
+CL-0796,23.2,64,644,Soltero,Personal loan,Bueno
+CL-0797,40.1,33,629,Casado,Card,Bueno
+CL-0798,27.3,27,715,Divorciado,Personal loan,Bueno
+CL-0799,46.0,40,649,Casado,Mortgage,Bueno
+CL-0800,32.5,33,664,Casado,Mortgage,Bueno
+CL-0801,38.9,26,716,Casado,Mortgage,Bueno
+CL-0802,35.3,62,724,Divorciado,Mortgage,Regular
+CL-0803,53.6,37,663,Divorciado,Card,Regular
+CL-0804,18.4,51,670,Casado,Card,Regular
+CL-0805,34.4,56,704,Soltero,Mortgage,Regular
+CL-0806,8.0,44,721,Casado,Card,Bueno
+CL-0807,28.4,51,633,Divorciado,Card,Bueno
+CL-0808,11.5,48,648,Soltero,Personal loan,Bueno
+CL-0809,31.2,35,618,Casado,Card,Bueno
+CL-0810,26.6,45,609,Casado,Mortgage,Malo
+CL-0811,18.3,33,711,Soltero,Personal loan,Bueno
+CL-0812,55.9,58,715,Soltero,Card,Bueno
+CL-0813,59.2,31,652,Divorciado,Mortgage,Bueno
+CL-0814,32.2,33,687,Casado,Personal loan,Bueno
+CL-0815,62.7,50,732,Soltero,Mortgage,Bueno
+CL-0816,15.2,38,772,Casado,Personal loan,Regular
+CL-0817,21.5,39,709,Casado,Mortgage,Bueno
+CL-0818,28.2,30,768,Soltero,Personal loan,Regular
+CL-0819,15.9,27,575,Casado,Card,Malo
+CL-0820,40.8,26,699,Casado,Card,Bueno
+CL-0821,24.8,51,747,Casado,Card,Regular
+CL-0822,19.1,26,720,Casado,Mortgage,Bueno
+CL-0823,42.3,60,737,Soltero,Mortgage,Bueno
+CL-0824,21.1,54,700,Divorciado,Mortgage,Bueno
+CL-0825,35.9,62,624,Casado,Mortgage,Malo
+CL-0826,39.6,30,679,Soltero,Personal loan,Regular
+CL-0827,17.8,61,725,Casado,Personal loan,Bueno
+CL-0828,21.1,64,701,Casado,Card,Bueno
+CL-0829,39.1,30,675,Soltero,Personal loan,Regular
+CL-0830,23.8,42,725,Casado,Card,Bueno
+CL-0831,42.2,41,683,Soltero,Mortgage,Bueno
+CL-0832,18.6,57,731,Divorciado,Card,Regular
+CL-0833,16.4,29,707,Casado,Personal loan,Bueno
+CL-0834,8.0,52,738,Soltero,Card,Bueno
+CL-0835,25.5,60,779,Casado,Mortgage,Bueno
+CL-0836,16.0,37,698,Soltero,Personal loan,Bueno
+CL-0837,14.8,36,731,Soltero,Card,Bueno
+CL-0838,26.3,22,632,Casado,Card,Malo
+CL-0839,46.9,39,657,Divorciado,Card,Bueno
+CL-0840,14.2,40,618,Soltero,Personal loan,Regular
+CL-0841,52.0,34,745,Casado,Card,Bueno
+CL-0842,23.0,32,640,Divorciado,Personal loan,Regular
+CL-0843,18.2,31,779,Casado,Mortgage,Bueno
+CL-0844,29.6,48,765,Divorciado,Personal loan,Bueno
+CL-0845,40.7,65,554,Soltero,Card,Regular
+CL-0846,19.8,28,615,Soltero,Personal loan,Malo
+CL-0847,11.8,52,719,Soltero,Mortgage,Bueno
+CL-0848,26.1,44,597,Casado,Personal loan,Regular
+CL-0849,37.9,53,648,Soltero,Card,Bueno
+CL-0850,46.1,27,734,Divorciado,Personal loan,Bueno
+CL-0851,23.5,62,770,Soltero,Card,Bueno
+CL-0852,15.0,58,643,Casado,Mortgage,Regular
+CL-0853,35.9,57,684,Casado,Mortgage,Bueno
+CL-0854,90.1,22,664,Casado,Mortgage,Bueno
+CL-0855,86.1,34,669,Casado,Mortgage,Bueno
+CL-0856,42.9,21,710,Soltero,Card,Bueno
+CL-0857,16.2,64,718,Soltero,Mortgage,Regular
+CL-0858,21.1,39,580,Soltero,Card,Regular
+CL-0859,46.8,38,607,Casado,Card,Regular
+CL-0860,21.4,51,684,Divorciado,Card,Regular
+CL-0861,21.9,61,679,Casado,Mortgage,Regular
+CL-0862,62.0,40,649,Soltero,Card,Regular
+CL-0863,21.7,29,699,Soltero,Personal loan,Bueno
+CL-0864,39.0,30,685,Soltero,Card,Bueno
+CL-0865,23.5,42,736,Casado,Mortgage,Bueno
+CL-0866,31.6,21,674,Casado,Personal loan,Regular
+CL-0867,39.8,32,683,Divorciado,Mortgage,Bueno
+CL-0868,19.1,50,684,Casado,Personal loan,Bueno
+CL-0869,34.8,65,725,Casado,Mortgage,Bueno
+CL-0870,75.3,36,705,Soltero,Mortgage,Bueno
+CL-0871,26.2,35,694,Casado,Mortgage,Bueno
+CL-0872,39.3,55,780,Casado,Mortgage,Bueno
+CL-0873,27.4,33,716,Soltero,Card,Bueno
+CL-0874,17.4,25,653,Divorciado,Personal loan,Regular
+CL-0875,40.4,48,589,Divorciado,Card,Regular
+CL-0876,28.3,46,698,Casado,Mortgage,Bueno
+CL-0877,37.4,57,676,Soltero,Card,Regular
+CL-0878,27.6,21,774,Soltero,Card,Regular
+CL-0879,22.3,22,613,Casado,Card,Regular
+CL-0880,11.7,59,722,Casado,Mortgage,Bueno
+CL-0881,14.1,35,636,Casado,Card,Bueno
+CL-0882,65.8,38,700,Soltero,Mortgage,Bueno
+CL-0883,32.5,36,678,Soltero,Card,Bueno
+CL-0884,16.0,49,739,Soltero,Personal loan,Regular
+CL-0885,36.0,43,772,Soltero,Mortgage,Bueno
+CL-0886,24.5,52,722,Soltero,Mortgage,Bueno
+CL-0887,29.2,35,639,Casado,Personal loan,Bueno
+CL-0888,25.2,55,642,Divorciado,Personal loan,Malo
+CL-0889,16.6,39,688,Soltero,Card,Malo
+CL-0890,47.0,26,637,Casado,Mortgage,Bueno
+CL-0891,16.7,29,721,Soltero,Card,Bueno
+CL-0892,28.9,56,710,Soltero,Personal loan,Regular
+CL-0893,49.4,42,765,Soltero,Mortgage,Bueno
+CL-0894,20.9,50,729,Casado,Mortgage,Bueno
+CL-0895,13.9,39,742,Casado,Personal loan,Bueno
+CL-0896,23.6,54,693,Divorciado,Card,Regular
+CL-0897,12.2,30,616,Soltero,Personal loan,Malo
+CL-0898,18.5,42,679,Soltero,Card,Bueno
+CL-0899,35.4,51,716,Soltero,Mortgage,Bueno
+CL-0900,24.9,38,668,Divorciado,Card,Regular
+CL-0901,43.3,63,696,Divorciado,Mortgage,Bueno
+CL-0902,19.3,46,751,Divorciado,Card,Regular
+CL-0903,26.6,37,741,Casado,Mortgage,Regular
+CL-0904,31.8,35,732,Casado,Card,Bueno
+CL-0905,22.5,57,656,Casado,Mortgage,Bueno
+CL-0906,53.6,28,605,Casado,Mortgage,Regular
+CL-0907,67.6,25,695,Casado,Mortgage,Bueno
+CL-0908,49.3,53,778,Casado,Mortgage,Bueno
+CL-0909,43.6,58,636,Soltero,Personal loan,Malo
+CL-0910,31.8,46,631,Soltero,Personal loan,Regular
+CL-0911,13.4,51,661,Casado,Personal loan,Bueno
+CL-0912,40.8,38,635,Casado,Card,Malo
+CL-0913,60.6,26,620,Soltero,Card,Malo
+CL-0914,22.9,22,565,Divorciado,Card,Malo
+CL-0915,21.0,22,685,Casado,Card,Bueno
+CL-0916,51.3,60,760,Casado,Mortgage,Bueno
+CL-0917,37.5,49,701,Casado,Card,Bueno
+CL-0918,44.8,32,644,Casado,Personal loan,Bueno
+CL-0919,35.6,62,654,Soltero,Mortgage,Regular
+CL-0920,51.6,44,675,Casado,Mortgage,Bueno
+CL-0921,13.7,36,637,Soltero,Personal loan,Bueno
+CL-0922,22.4,24,646,Casado,Mortgage,Malo
+CL-0923,46.6,34,623,Casado,Card,Bueno
+CL-0924,30.1,53,677,Casado,Card,Bueno
+CL-0925,40.5,26,695,Casado,Mortgage,Bueno
+CL-0926,28.4,28,801,Divorciado,Card,Bueno
+CL-0927,14.7,34,628,Casado,Personal loan,Regular
+CL-0928,36.6,49,651,Casado,Card,Bueno
+CL-0929,54.3,63,642,Soltero,Mortgage,Bueno
+CL-0930,42.6,22,692,Casado,Mortgage,Bueno
+CL-0931,48.8,42,630,Casado,Mortgage,Bueno
+CL-0932,31.7,46,605,Casado,Mortgage,Malo
+CL-0933,50.3,36,682,Casado,Card,Bueno
+CL-0934,42.2,38,700,Divorciado,Mortgage,Bueno
+CL-0935,31.6,43,728,Casado,Mortgage,Bueno
+CL-0936,26.8,31,661,Soltero,Card,Bueno
+CL-0937,47.7,56,703,Soltero,Mortgage,Bueno
+CL-0938,8.0,43,625,Casado,Personal loan,Malo
+CL-0939,36.9,63,605,Soltero,Card,Bueno
+CL-0940,60.5,44,700,Soltero,Mortgage,Bueno
+CL-0941,30.4,49,721,Casado,Card,Bueno
+CL-0942,33.2,23,670,Casado,Personal loan,Bueno
+CL-0943,23.1,63,711,Soltero,Personal loan,Bueno
+CL-0944,53.4,31,761,Casado,Mortgage,Bueno
+CL-0945,36.4,38,673,Soltero,Personal loan,Malo
+CL-0946,39.5,32,685,Casado,Personal loan,Bueno
+CL-0947,17.4,40,630,Casado,Card,Bueno
+CL-0948,30.9,46,632,Casado,Personal loan,Regular
+CL-0949,38.6,38,669,Casado,Card,Bueno
+CL-0950,50.8,60,622,Casado,Card,Regular
+CL-0951,28.4,29,702,Casado,Card,Regular
+CL-0952,11.1,32,689,Casado,Card,Bueno
+CL-0953,50.1,29,689,Casado,Mortgage,Bueno
+CL-0954,68.8,58,726,Divorciado,Card,Bueno
+CL-0955,15.8,42,659,Soltero,Mortgage,Regular
+CL-0956,44.2,65,681,Divorciado,Mortgage,Regular
+CL-0957,40.7,57,621,Casado,Personal loan,Bueno
+CL-0958,16.6,25,749,Soltero,Personal loan,Bueno
+CL-0959,25.9,24,707,Casado,Card,Bueno
+CL-0960,23.6,38,681,Soltero,Personal loan,Regular
+CL-0961,22.2,51,668,Soltero,Mortgage,Bueno
+CL-0962,26.0,63,626,Divorciado,Mortgage,Bueno
+CL-0963,49.4,21,708,Casado,Mortgage,Bueno
+CL-0964,27.8,52,713,Casado,Card,Regular
+CL-0965,74.9,44,668,Casado,Mortgage,Bueno
+CL-0966,33.8,44,679,Casado,Mortgage,Malo
+CL-0967,98.9,56,664,Casado,Mortgage,Bueno
+CL-0968,23.0,23,695,Casado,Card,Bueno
+CL-0969,14.7,40,693,Soltero,Personal loan,Bueno
+CL-0970,25.9,57,642,Divorciado,Mortgage,Regular
+CL-0971,8.7,48,648,Casado,Personal loan,Regular
+CL-0972,49.4,22,716,Soltero,Personal loan,Malo
+CL-0973,25.8,43,734,Soltero,Card,Bueno
+CL-0974,30.6,45,759,Casado,Mortgage,Bueno
+CL-0975,22.4,56,672,Casado,Card,Bueno
+CL-0976,12.5,25,661,Soltero,Personal loan,Malo
+CL-0977,53.8,63,682,Casado,Mortgage,Bueno
+CL-0978,11.6,42,674,Casado,Card,Malo
+CL-0979,29.4,49,733,Casado,Card,Regular
+CL-0980,8.9,38,730,Soltero,Personal loan,Regular
+CL-0981,40.6,29,687,Soltero,Card,Regular
+CL-0982,19.7,46,786,Soltero,Card,Bueno
+CL-0983,11.5,54,654,Divorciado,Personal loan,Malo
+CL-0984,22.5,36,664,Casado,Personal loan,Malo
+CL-0985,15.1,34,561,Casado,Personal loan,Malo
+CL-0986,17.3,58,611,Casado,Mortgage,Bueno
+CL-0987,33.0,49,651,Casado,Card,Regular
+CL-0988,15.7,40,603,Casado,Card,Bueno
+CL-0989,25.4,30,684,Casado,Card,Regular
+CL-0990,24.7,26,744,Soltero,Personal loan,Regular
+CL-0991,9.4,33,651,Casado,Card,Bueno
+CL-0992,11.7,63,767,Casado,Mortgage,Bueno
+CL-0993,33.7,29,635,Casado,Personal loan,Malo
+CL-0994,20.1,46,686,Casado,Card,Bueno
+CL-0995,19.7,44,648,Soltero,Personal loan,Regular
+CL-0996,22.6,29,676,Casado,Card,Regular
+CL-0997,55.3,64,653,Soltero,Mortgage,Bueno
+CL-0998,13.4,38,692,Divorciado,Personal loan,Bueno
+CL-0999,15.9,37,726,Casado,Card,Bueno
+CL-1000,28.9,49,738,Soltero,Mortgage,Regular
